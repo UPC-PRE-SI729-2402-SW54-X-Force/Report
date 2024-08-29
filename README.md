@@ -144,6 +144,11 @@ DriveNow es una aplicación que busca resolver el problema constante de las pers
 **Objetivo:**Lograr que DriveNow se convierta en la opción preferida para el alquiler temporal de automóviles en las principales ciudades de Perú, maximizando el uso de vehículos subutilizados y generando ingresos adicionales para los propietarios.
 
 #### 1.1.2. Perfiles de integrantes del equipo
+
+|     Nombre    |   Imagen   |
+|---------------|------------|
+|Casas Sanchez Gabriel Alexander - U202220033<br>Soy estudiante de Ingeniería de software y estoy cursando el quinto ciclo de la carrera. Me considero una persona bastante capaz y versátil en el ámbito académico. Creo que mi principal fortaleza es mi capacidad para dirigir y trabajar bien bajo presión. A pesar de no disfrutar los trabajos grupales, considero que siempre desempeñó un rol sobresaliente en ellos.||
+
 ### 1.2. Solution Profile
 #### 1.2.1 Antecedentes y problemática
 
