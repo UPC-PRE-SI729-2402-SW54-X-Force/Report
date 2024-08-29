@@ -210,6 +210,32 @@ Las reseñas y calificaciones son fundamentales para construir confianza, pero e
 * La plataforma será capaz de gestionar de manera efectiva los aspectos logísticos, como la disponibilidad de vehículos y los horarios de recogida y entrega.
 * Tanto los usuarios como los conductores proporcionarán reseñas verídicas e imparciales.
 
+**Assumption sheet**
+1. **¿Quién es el usuario?**
+El usuario principal es cualquier persona que necesite alquilar un automóvil, ya sea para viajes personales, negocios o vacaciones. También incluye a aquellos que buscan opciones de alquiler más flexibles y económicas que las ofrecidas por las empresas tradicionales de alquiler de automóviles. De la misma manera, nuestros usuarios se extienden a las personas
+2. **¿Dónde encaja nuestro producto en su trabajo o vida?**
+Nuestro producto se integra en la vida de los usuarios brindándoles acceso a una variedad de vehículos para alquilar directamente de propietarios privados. Encaja cuando los usuarios necesitan un automóvil temporal para cumplir con sus necesidades de transporte, ya sea para desplazarse por la ciudad, realizar viajes de corta duración o experimentar diferentes tipos de vehículos. Además, se les brinda una plataforma por la cual se les facilita el alquilar sus propios vehículos. De esta manera se cumplen sus necesidades de tener un flujo monetario secundario.
+3. **¿Qué problemas tiene nuestro producto y cómo se pueden resolver?**
+Los usuarios pueden preocuparse por la seguridad y el estado de los vehículos alquilados de propietarios privados.Para ello se va a implementar un proceso de verificación y evaluación riguroso para los propietarios y sus vehículos, incluyendo inspecciones de seguridad y mantenimiento antes de ser listados en la plataforma.
+4. **¿Cuándo y cómo es usado nuestro producto?**
+Nuestro producto es utilizado cuando los usuarios necesitan un vehículo temporal. Esto podría ser para viajes cortos, como recados o salidas de fin de semana, o para viajes más largos. El producto es utilizado a través de una plataforma en línea o una aplicación móvil donde los usuarios pueden buscar vehículos disponibles, hacer reservas y coordinar los detalles con los propietarios. En adición, también puede ser usado en cualquier momento para realizar el proceso de publicación para brindar el servicio de alquiler de su propio vehículo.
+5. **¿Qué características son importantes?**
+Búsqueda y Filtros: Permitir a los usuarios buscar vehículos por ubicación, tipo, características y disponibilidad. 
+Perfiles de Propietarios: Mostrar información detallada sobre los propietarios y sus vehículos, incluyendo evaluaciones y comentarios de otros usuarios. 
+Calendario de disponibilidad: Mostrar fechas y horarios disponibles para la reserva de vehículos. 
+Sistema de Reservas: Facilitar la reserva segura y conveniente de los vehículos seleccionados. 
+Mensajería: Proporcionar una forma de comunicación entre propietarios y usuarios para coordinar detalles. 
+Seguro y Verificación: Garantizar la seguridad y confianza mediante verificaciones de identidad y seguros adecuados.
+Búsqueda gráfica: Mostrar de manera gráfica toda la disponibilidad de autos a alquilar.
+6. **¿Cómo debe verse nuestro producto y cómo debe comportarse?**
+El diseño debe ser limpio, intuitivo y fácil de usar, con una interfaz de usuario centrada en la búsqueda y reserva de vehículos. La plataforma debe comportarse de manera ágil, proporcionando respuestas rápidas a las interacciones del usuario y asegurando una experiencia fluida desde la búsqueda hasta la confirmación de la reserva. La plataforma debe transmitir confianza a través de un diseño profesional y contenido informativo sobre el proceso de alquiler, seguridad y apoyo al cliente.
+
+**Business outcome: ¿Qué estamos tratando de lograr?**
+Nuestro proyecto tiene como meta, ya sea a corto o largo plazo, crear una red de alquileres que sea capaz de mantenerse por sí misma, sin necesidad de algún tipo de subsidio o publicidad. Buscamos facilitar los diferentes procesos que involucran el alquiler de automóviles, de la misma manera, buscamos mantener en uso la mayor cantidad de automóviles posibles.
+
+**User outcome: ¿Qué tipo de usuario se necesita?**
+Todos los usuarios que deseen alquilar su automóvil, así como aquellos que esten en busca de un automóvil privado para alquilar de manera momentánea. Al usar nuestro productos ambos perfiles de clientes gozarán de todas las funcionalidades que brinda DriveNow de esta manera se contribuye a la satisfacción de sus necesidades y objetivos.
+
 ##### 1.2.2.3. Lean UX Hypothesis Statements
 ##### 1.2.2.4. Lean UX Canvas
 ### 1.3. Segmentos objetivo
