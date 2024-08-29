@@ -200,6 +200,16 @@ Una interfaz complicada y abarrotada puede abrumar a los usuarios, especialmente
 Las reseñas y calificaciones son fundamentales para construir confianza, pero existe el riesgo de reseñas falsas o injustas. Para abordar este desafío, podríamos implementar sistemas de verificación de reseñas y fomentar la retroalimentación constructiva. Además, se podrían tomar medidas contra el abuso de reseñas falsas, como verificar la autenticidad de las transacciones antes de permitir reseñas.
 
 ##### 1.2.2.2. Lean UX Assumptions
+
+* Los propietarios de automóviles están dispuestos a alquilar sus vehículos a desconocidos.
+* Los usuarios están dispuestos a alquilar vehículos de propietarios individuales en lugar de utilizar servicios tradicionales de alquiler de automóviles.
+* El proceso de reserva y alquiler de vehículos será lo suficientemente intuitivo y fácil de usar para los usuarios.
+* Los precios establecidos por los propietarios serán atractivos para los usuarios.
+* Habrá suficientes propietarios y usuarios interesados en el servicio para mantener un flujo constante de alquileres y dinero.
+* Los propietarios estarán dispuestos a proporcionar información precisa y detallada sobre sus vehículos.
+* La plataforma será capaz de gestionar de manera efectiva los aspectos logísticos, como la disponibilidad de vehículos y los horarios de recogida y entrega.
+* Tanto los usuarios como los conductores proporcionarán reseñas verídicas e imparciales.
+
 ##### 1.2.2.3. Lean UX Hypothesis Statements
 ##### 1.2.2.4. Lean UX Canvas
 ### 1.3. Segmentos objetivo
