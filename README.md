@@ -246,6 +246,37 @@ Todos los usuarios que deseen alquilar su automóvil, así como aquellos que est
 ##### 1.2.2.4. Lean UX Canvas
 ### 1.3. Segmentos objetivo
 
+Los segmentos objetivo de nuestro proyecto se dividen en dos categorías principales: **los arrendatarios y los propietarios de vehículos**. La aplicación que están desarrollando tiene como objetivo ser un intermediario eficiente y seguro entre estos dos grupos para facilitar el proceso de alquiler de automóviles.
+
+**Segmento 1: Arrendatarios:**
+* **Rango de edad:** 18-65 años
+* **Sexo:** Sin distinción
+* **Ubicación:**  Principalmente en áreas urbanas y suburbanas de Perú
+Acceso a Internet: Conectados a través de banda ancha y acceso móvil.
+* **Objetivos:**
+  * Viajes de placer.
+  * Viajes de negocios.
+  * Necesidades temporales de transporte.
+  * La curiosidad de probar diferentes tipos de automóviles.
+* **Posibles Perfiles:**
+  * Viajeros ocasionales que necesitan movilidad durante sus viajes.
+  * Personas que desean probar un tipo específico de vehículo antes de comprarlo.
+  * Individuos que necesitan un vehículo por un tiempo limitado debido a una emergencia o una situación inesperada.
+  * Profesionales en viajes de trabajo que requieren un automóvil en su destino.
+  * Estudiantes que necesitan un vehículo para eventos especiales o mudanzas temporales.
+
+**Segmento 2: Propietarios de vehículos:**
+* **Rango de edad:** 22-65 años
+* **Sexo:** Sin distinción
+* **Ubicación:** Principalmente en áreas urbanas y suburbanas de Perú
+* **Acceso a Internet:** Conectados a través de banda ancha y acceso móvil.
+* **Objetivos:**
+  * Generar dinero con automóviles en propiedad con poco o nulo uso
+* **Posibles Perfiles:**
+  * Individuos que poseen automóviles adicionales que no utilizan constantemente.
+  * Propietarios de flotas pequeñas que quieren optimizar la utilización de sus vehículos.
+  * Personas que están dispuestas a rentar su automóvil mientras están de vacaciones o fuera de la ciudad.
+  * Dueños de automóviles de lujo que desean compartir la experiencia de conducir esos vehículos.
 
 ## Capítulo II: Requirements Elicitation & Analysis <a id="cap2"></a>
 
