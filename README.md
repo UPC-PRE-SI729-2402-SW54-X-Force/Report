@@ -150,8 +150,114 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 ## Capítulo II: Requirements Elicitation & Analysis <a id="cap2"></a>
 
 ### 2.1. Competidores
-DriveNow
+Los competidores son las empresas productos que ofrecen soluciones similares al proyecto planteado. Analizar estas diferentes propuestas ayuda a identificar oportunidades de diferenciación y mejora.
+
+**RentingCar Perú:** Una plataforma que permite alquilar autos directamente desde tu smartphone. Ofrece una amplia gama de vehículos y opciones de alquiler flexibles, siendo un competidor directo en términos de conveniencia y accesibilidad.
+**RappiAutos:** Parte del ecosistema de Rappi, ofrece alquiler de vehículos en su plataforma. Aprovecha la gran base de usuarios de Rappi y su integración con otros servicios.
+**Cabify:** Aunque es principalmente un servicio de transporte, también ofrece opciones de alquiler de autos, posicionándose como una alternativa flexible para movilidad temporal.
+
 #### 2.1.1. Análisis competitivo
+
+<table border="1" style="text-align: center;">
+	<tbody>
+		<tr>
+			<td colspan="6">Competitive Analysis Landscape</td>
+		</tr>
+		<tr>
+			<td colspan="2">¿Por que llevar a cabo este análisis?</td>
+			<td colspan="4">Llevar a cabo este análisis nos brindará información crítica que nos permitirá tomar decisiones más informadas y estratégicas para el desarrollo, comercialización y crecimiento de nuestra aplicación</td>
+		</tr>
+		<tr>
+			<td colspan="2"></td>
+			<td>DriveNow</td>
+			<td>Competidor1</td>
+			<td>Competidor2</td>
+			<td>Competidor3</td>
+		</tr>
+		<tr>
+			<td rowspan="2">Perfil</td>
+			<td>Overview</td>
+			<td>DriveNow</td>
+			<td>Competidor1</td>
+			<td>Competidor2</td>
+			<td>Competidor3</td>
+		</tr>
+		<tr>
+			<td>Ventaja competitiva ¿Que valor ofrece a los clientes?</td>
+			<td>DriveNow</td>
+			<td>Competidor1</td>
+			<td>Competidor2</td>
+			<td>Competidor3</td>
+		</tr>
+		<tr>
+			<td rowspan="2">Perfil de Marketing</td>
+			<td>Mercado objetivo</td>
+			<td>DriveNow</td>
+			<td>Competidor1</td>
+			<td>Competidor2</td>
+			<td>Competidor3</td>
+		</tr>
+		<tr>
+			<td>Estrategias de marketing</td>
+			<td>DriveNow</td>
+			<td>Competidor1</td>
+			<td>Competidor2</td>
+			<td>Competidor3</td>
+		</tr>
+		<tr>
+			<td rowspan="3">Perfil de Producto</td>
+			<td>Productos &amp; Servicios</td>
+			<td>DriveNow</td>
+			<td>Competidor1</td>
+			<td>Competidor2</td>
+			<td>Competidor3</td>
+		</tr>
+		<tr>
+			<td>Precios &amp; Costos</td>
+			<td>DriveNow</td>
+			<td>Competidor1</td>
+			<td>Competidor2</td>
+			<td>Competidor3</td>
+		</tr>
+		<tr>
+			<td>Canales de distribución (Web y/o Móvil)</td>
+			<td>DriveNow</td>
+			<td>Competidor1</td>
+			<td>Competidor2</td>
+			<td>Competidor3</td>
+		</tr>
+		<tr>
+			<td rowspan="4">Análisis SWOT</td>
+			<td>Fortalezas</td>
+			<td>DriveNow</td>
+			<td>Competidor1</td>
+			<td>Competidor2</td>
+			<td>Competidor3</td>
+		</tr>
+		<tr>
+			<td>Debilidades</td>
+			<td>DriveNow</td>
+			<td>Competidor1</td>
+			<td>Competidor2</td>
+			<td>Competidor3</td>
+		</tr>
+		<tr>
+			<td>Oportunidades</td>
+			<td>DriveNow</td>
+			<td>Competidor1</td>
+			<td>Competidor2</td>
+			<td>Competidor3</td>
+		</tr>
+		<tr>
+			<td>Amenazas</td>
+			<<td>DriveNow</td>
+			<td>Competidor1</td>
+			<td>Competidor2</td>
+			<td>Competidor3</td>
+		</tr>
+	</tbody>
+</table>
+
 #### 2.1.2. Estrategias y tácticas frente a competidores.
 ### 2.2. Entrevistas.
 #### 2.2.1. Diseño de entrevistas
