@@ -237,6 +237,12 @@ Nuestro proyecto tiene como meta, ya sea a corto o largo plazo, crear una red de
 Todos los usuarios que deseen alquilar su automóvil, así como aquellos que esten en busca de un automóvil privado para alquilar de manera momentánea. Al usar nuestro productos ambos perfiles de clientes gozarán de todas las funcionalidades que brinda DriveNow de esta manera se contribuye a la satisfacción de sus necesidades y objetivos.
 
 ##### 1.2.2.3. Lean UX Hypothesis Statements
+
+* Creemos que al implementar un sistema de calificaciones y reseñas para los usuarios que alquilen vehículos a través de DriveNow. Sabremos que hemos tenido éxito cuando veamos un aumento del 15% en la confianza de los usuarios al alquilar automóviles de propietarios desconocidos, demostrado por un incremento en las transacciones completadas.
+* Creemos que al incluir una función de chat en tiempo real entre los propietarios de vehículos y los arrendatarios en la plataforma DriveNow. Sabremos que hemos tenido éxito cuando haya un aumento del 30% en la resolución exitosa de consultas y problemas relacionados con las reservas, lo que indicará una mejor comunicación y experiencia del usuario.
+* Creemos que al proporcionar incentivos para que los propietarios de vehículos ofrezcan descuentos especiales durante los períodos de demanda baja a través de DriveNow. Sabremos que hemos tenido éxito cuando observemos un aumento del 20% en las reservas durante esos períodos, lo que indicará que los usuarios son sensibles a los precios y están dispuestos a aprovechar ofertas.
+* Creemos que al lanzar una función de "vehículo destacado" donde se muestren automóviles populares y altamente calificados en la página de inicio de DriveNow. Sabremos que hemos tenido éxito cuando veamos un aumento del 15% en las conversiones de navegación a reservas, demostrando que los usuarios se sienten atraídos por opciones de alta calidad y confiabilidad.
+
 ##### 1.2.2.4. Lean UX Canvas
 ### 1.3. Segmentos objetivo
 
