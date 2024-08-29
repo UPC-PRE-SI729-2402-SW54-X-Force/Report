@@ -150,6 +150,9 @@ DriveNow es una aplicación que busca resolver el problema constante de las pers
 |Casas Sanchez Gabriel Alexander - U202220033<br>Soy estudiante de Ingeniería de software y estoy cursando el quinto ciclo de la carrera. Me considero una persona bastante capaz y versátil en el ámbito académico. Creo que mi principal fortaleza es mi capacidad para dirigir y trabajar bien bajo presión. A pesar de no disfrutar los trabajos grupales, considero que siempre desempeñó un rol sobresaliente en ellos.||
 
 ### 1.2. Solution Profile
+
+DriveNow es una aplicación desarrollada por el equipo de X Force, que busca servir como puente entre las personas que buscan alquilar autos y quienes desean poner en alquiler el suyo. La plataforma permite a los propietarios rentar sus automóviles cuando no los están utilizando, generando ingresos adicionales, mientras que los conductores pueden encontrar y alquilar fácilmente un vehículo en su área, adaptado a sus necesidades. De esta manera simplificando el proceso de alquiler y el monitoreo del vehiculo alquilado.
+
 #### 1.2.1 Antecedentes y problemática
 
 En el Perú, existe una problemática relacionada con un bajo uso de vehículos particulares, así como, una considerable cantidad de dificultades en el proceso de alquiler de automóviles. Según datos del Ministerio de Transportes y Comunicaciones de Perú, se estima que aproximadamente el 50% de los vehículos particulares en Lima, la capital, pasan la mayor parte del tiempo estacionados y sin uso. Esto representa una oportunidad significativa para aprovechar esos vehículos y reducir la congestión del tráfico urbano.
