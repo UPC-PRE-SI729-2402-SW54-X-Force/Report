@@ -135,11 +135,45 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 ## Capítulo I: Introducción <a id="cap1"></a>
 
 ### 1.1. Startup Profile
-DriveNow
 #### 1.1.1. Descripción de la Startup
 #### 1.1.2. Perfiles de integrantes del equipo
 ### 1.2. Solution Profile
 #### 1.2.1 Antecedentes y problemática
+
+En el Perú, existe una problemática relacionada con un bajo uso de vehículos particulares, así como, una considerable cantidad de dificultades en el proceso de alquiler de automóviles. Según datos del Ministerio de Transportes y Comunicaciones de Perú, se estima que aproximadamente el 50% de los vehículos particulares en Lima, la capital, pasan la mayor parte del tiempo estacionados y sin uso. Esto representa una oportunidad significativa para aprovechar esos vehículos y reducir la congestión del tráfico urbano.
+
+**The 5’W’s & 2’H’s**
+
+**What (Qué)**
+**¿Cuál es el problema?/¿Cuál es la relación con la persona en cuestión?**
+El problema es el bajo uso de vehículos particulares en Perú y las complicaciones en el proceso tradicional de alquiler de automóviles. La relación que se establece entre el problema y los propietarios de vehículos. Es que sus automóviles no se utilizan eficientemente, por otro lado el problema se extiende a los diversos usuarios que buscan alquilar vehículos de manera conveniente.
+
+**When (Cuando)**
+**¿Cuándo sucede el problema?/¿Cuándo utiliza el cliente el producto?**
+
+Tanto el bajo uso de vehículos particulares, como las complicaciones en el proceso de alquiler de automóviles para usuarios que necesitan vehículos de manera temporal ocurren a diario en Perú.  Los usuarios utilizarán la plataforma de alquiler de vehículos cuando necesiten un automóvil por un período corto.
+
+**Where (Dónde)**
+**¿Dónde está el cliente cuando usa el producto?/¿A dónde se dirige?/¿Dónde surge el problema?**
+
+Los usuarios estarán en diferentes ubicaciones en Perú cuando utilicen la plataforma para buscar y alquilar vehículos. La plataforma se dirige a usuarios en todo el territorio de Perú, inicialmente enfocándose en áreas urbanas como Lima y otras ciudades importantes. Esta problemática surge en hogares y estacionamientos en todo el país, mientras que las complicaciones en el alquiler surgen en las agencias tradicionales.
+
+**Who (Quién)**
+**¿Quiénes están involucrados?/¿A quiénes le sucede el problema?/¿Quién lo utilizará?**
+
+Propietarios de vehículos particulares, usuarios en búsqueda de alquiler de vehículos. Sucede tanto a los propietarios que desean generar ingresos con sus vehículos como a los usuarios que buscan una forma más accesible de alquilar autos. Será utilizado por  propietarios de vehículos y usuarios interesados en alquilarlo.
+**Why (Por qué)**
+**¿Cuál es la causa del problema?**
+El problema surge debido a la falta de una plataforma eficiente que permita la colaboración entre propietarios y usuarios de vehículos.
+
+**How (Cómo)**
+**¿En qué condiciones los clientes usan nuestro producto?/¿Cómo nos conocieron los compradores?/¿Cómo prefieren los usuarios acceder a nuestro servicio?/¿Qué llevó a la persona a llegar a esta situación?**
+
+Los clientes utilizarán la plataforma cuando necesiten alquilar un vehículo por un período corto. Los compradores nos conocerán a través de campañas de marketing digital, recomendaciones de usuarios existentes y asociaciones con empresas relacionadas. Los usuarios prefieren acceder a nuestro servicio a través de una aplicación móvil o un sitio web fácil de usar. La necesidad de generar ingresos extra o la búsqueda de una solución más conveniente y una forma más económica para el alquiler de vehículos.
+
+**How much (Cuánto)**
+En Perú, según datos del Ministerio de Transportes y Comunicaciones, se estima que alrededor del 50% de los vehículos particulares en Lima, la capital, pasan la mayor parte del tiempo estacionados y sin uso. Esto representa un gran número de vehículos subutilizados que podrían ser aprovechados de manera más eficiente a través de un servicio de alquiler. Además, según datos del Registro de Propiedad Vehicular de la Superintendencia Nacional de los Registros Públicos (SUNARP) y la Asociación Automotriz del Perú (AAP), se estima que había alrededor de 3.5 millones de vehículos registrados en Perú hasta 2021. Este número incluye automóviles particulares, vehículos comerciales y otros tipos de vehículos.
+
 #### 1.2.2 Lean UX Process
 ##### 1.2.2.1. Lean UX Problem Statements
 ##### 1.2.2.2. Lean UX Assumptions
