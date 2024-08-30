@@ -261,6 +261,30 @@ Los competidores son las empresas productos que ofrecen soluciones similares al 
 #### 2.1.2. Estrategias y tácticas frente a competidores.
 ### 2.2. Entrevistas.
 #### 2.2.1. Diseño de entrevistas
+
+Segmento Objetivo 1: arrendatario
+1. ¿Qué factores consideras más importantes al buscar un vehículo de alquiler (precio, ubicación, tipo de vehículo, etc.)?
+2. ¿Con qué frecuencia alquilas un vehículo y en qué ocasiones lo haces?
+3. ¿Qué problemas has enfrentado al alquilar un vehículo en otras plataformas?
+4. ¿Qué tipo de vehículos prefieres alquilar y por qué?
+5. ¿Qué tan importante es para ti la flexibilidad en la duración del alquiler?
+6. ¿Cómo sueles encontrar vehículos de alquiler en tu área actualmente?
+7. ¿Qué nivel de información esperas obtener sobre el vehículo antes de decidir alquilarlo?
+8. ¿Qué métodos de pago prefieres al alquilar un vehículo?
+9. ¿Cuán importante es para ti el seguimiento y monitoreo del vehículo durante el alquiler?
+10. ¿Qué mejoras crees que podrían implementarse en las plataformas de alquiler de vehículos actuales?
+
+Segmento Objetivo 1: Dueños de vehículos
+1. ¿Qué te motiva a alquilar tu vehículo cuando no lo estás utilizando?
+2. ¿Cuáles son tus principales preocupaciones al alquilar tu vehículo a otras personas?
+3. ¿Qué tipo de información te gustaría recibir sobre los arrendatarios antes de aprobar un alquiler?
+4. ¿Cómo determinas el precio adecuado para alquilar tu vehículo?
+5. ¿Qué características consideras más importantes en una plataforma que te permita alquilar tu vehículo?
+6. ¿Qué tan a menudo pones tu vehículo en alquiler y en qué momentos prefieres hacerlo?
+7. ¿Cómo prefieres recibir los pagos por el alquiler de tu vehículo?
+8. ¿Qué tipo de seguro o protección te gustaría tener al alquilar tu vehículo?
+9. ¿Qué experiencias positivas o negativas has tenido al alquilar tu vehículo en otras plataformas?
+10. ¿Qué herramientas o funcionalidades crees que podrían facilitar el monitoreo y gestión de tu vehículo durante el alquiler?
 #### 2.2.2. Registro de entrevistas
 #### 2.2.3. Análisis de entrevistas
 ### 2.3. Needfinding
