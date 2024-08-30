@@ -285,7 +285,85 @@ Segmento Objetivo 1: Dueños de vehículos
 8. ¿Qué tipo de seguro o protección te gustaría tener al alquilar tu vehículo?
 9. ¿Qué experiencias positivas o negativas has tenido al alquilar tu vehículo en otras plataformas?
 10. ¿Qué herramientas o funcionalidades crees que podrían facilitar el monitoreo y gestión de tu vehículo durante el alquiler?
+
 #### 2.2.2. Registro de entrevistas
+
+Segmento Objetivo 1: Arrendatarios
+
+**Entrevistado 1**
+
+<table border="1" style="text-align: left;">
+	<tbody>
+		<tr>
+			<td colspan="1" rowspan="6"><img src="./resources/interviews/entrevista_1.png" alt="Entrevista Jamir 01" width="400" height="250"></td>
+            <td colspan="1" rowspan="1"><strong>Nombre del entrevistado
+            <br>
+            </strong> Camila
+            <br> Loli Ramirez
+            </td>
+		</tr>
+        <tr>
+            <td>
+            <strong>Edad<br></strong> 20 años
+            <br>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <strong>Nombre del entrevistador</strong>
+            <br>Jamir Ángel
+            <br>Marzál Pérez
+            </td>
+        </tr>
+        <tr>
+            <td>
+             <strong><a href="https://youtu.be/XRG3nDBWWqc">URL Entrevista</a></strong>
+            </td>
+        </tr>        
+	</tbody>
+</table>
+
+Resumen: 
+Camila, de 20 años, es una usuaria que alquila vehículos una o dos veces al año, principalmente para viajes en familia. En la entrevista, destacó la importancia del precio, la duración del alquiler, y la necesidad de un vehículo espacioso debido a que proviene de una familia grande. Camila mencionó problemas comunes en otras plataformas, como la incorrecta localización para recoger el vehículo y la falta de mantenimiento en los autos alquilados. Prefiere vehículos grandes y valoraría una mayor flexibilidad en la duración del alquiler. Actualmente, utiliza aplicaciones como Kayak y Pallets Card, aunque considera que no están optimizadas para el alquiler de autos. Camila espera recibir información detallada sobre el vehículo antes de alquilarlo, prefiere pagar con tarjeta para mantener un registro claro de las transacciones y considera esencial un sistema de monitoreo durante el alquiler. Además, sugiere que las plataformas se centren exclusivamente en el alquiler de autos y aseguren la calidad de los vehículos disponibles.
+
+Segmento Objetivo 2: Dueños de vehículos
+
+**Entrevistado 1**
+
+<table border="1" style="text-align: left;">
+	<tbody>
+		<tr>
+			<td colspan="1" rowspan="6"><img src="./resources/interviews/entrevista_2.png" alt="Entrevista Jamir 01" width="400" height="250"></td>
+            <td colspan="1" rowspan="1"><strong>Nombre del entrevistado
+            <br>
+            </strong> Nicolas
+            <br> Haro Dávila
+            </td>
+		</tr>
+        <tr>
+            <td>
+            <strong>Edad<br></strong> 24 años
+            <br>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <strong>Nombre del entrevistador</strong>
+            <br>Jamir Ángel
+            <br>Marzál Pérez
+            </td>
+        </tr>
+        <tr>
+            <td>
+             <strong><a href="https://www.youtube.com/watch?v=cvLH3KDQxxU">URL Entrevista</a></strong>
+            </td>
+        </tr>        
+	</tbody>
+</table>
+
+Resumen: 
+Nicolás Ávila, de 24 años, alquila su vehículo cuando no lo está utilizando para generar ingresos adicionales. Sus principales preocupaciones al alquilar son el mantenimiento del vehículo y asegurarse de que los arrendatarios lo cuiden adecuadamente. Nicolás valora recibir información sobre el historial financiero de los arrendatarios antes de aprobar un alquiler. Determina el precio de alquiler basado en la capacidad de asientos y el valor del vehículo, incluyendo la marca y el modelo. Prefiere plataformas que sean fáciles de usar, con todas las opciones necesarias en la pantalla principal. Nicolás suele alquilar su vehículo cuando está fuera del país, para evitar que el auto quede estático. Prefiere recibir los pagos en dos partes, mitad por adelantado y mitad después, a través de transferencia bancaria. En cuanto a seguros, prioriza una protección contra robos, para resolver cualquier eventualidad grave. Ha tenido experiencias negativas con otras plataformas que considera confusas y poco amigables. Para el monitoreo del vehículo, sugiere la implementación de una función GPS que permita conocer la ubicación del auto en todo momento.
+
 #### 2.2.3. Análisis de entrevistas
 ### 2.3. Needfinding
 #### 2.3.1. User Personas
