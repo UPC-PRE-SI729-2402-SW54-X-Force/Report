@@ -180,7 +180,7 @@ Los competidores son las empresas productos que ofrecen soluciones similares al 
 		</tr>
 		<tr>
 			<td>Ventaja competitiva ¿Que valor ofrece a los clientes?</td>
-			<td>DriveNow</td>
+			<td>Accesibilidad y flexibilidad al ofrecer una plataforma que conecta directamente a propietarios de vehículos con usuarios que necesitan movilidad temporal, permitiendo alquileres rápidos, personalizados y a precios competitivos.</td>
 			<td>Compara diferentes precios de diferentes plataforma para brindar el precio más económico.</td>
 			<td>Cuentan con el apoyo de seguros Rimac</td>
 			<td>Además de ofrecer renta de automóviles, ofrece la renta de camionetas para viajes más demandantes.</td>
@@ -195,7 +195,7 @@ Los competidores son las empresas productos que ofrecen soluciones similares al 
 		</tr>
 		<tr>
 			<td>Estrategias de marketing</td>
-			<td>DriveNow</td>
+			<td>Alianzas Estratégicas con Empresas Locales</td>
 			<td>Posicionamiento en el buscardor, publicidad de banners en línea</td>
 			<td>Publicidad en redes sociales (videos, colaboraciones, banners)</td>
 			<td>Publicidad en redes sociales (videos, colaboraciones, banners)</td>
@@ -203,21 +203,21 @@ Los competidores son las empresas productos que ofrecen soluciones similares al 
 		<tr>
 			<td rowspan="3">Perfil de Producto</td>
 			<td>Productos &amp; Servicios</td>
-			<td>DriveNow</td>
+			<td>Alquiler de Vehículos entre Particulares</td>
 			<td>Alquiler de habitaciones, vuelos, autos, casas, paquetes, guias de viaje</td>
 			<td>Alquiler de automóviles y camionetas</td>
 			<td>Alquiler de automóviles, camionetas, flota empresarial y choferes</td>
 		</tr>
 		<tr>
 			<td>Precios &amp; Costos</td>
-			<td>DriveNow</td>
+			<td>S/120-220/día (variable según modelo)</td>
 			<td>S/70-200/día (variable según modelo)</td>
 			<td>S/130-500/día (variable según modelo)</td>
 			<td>S/90-455/día (variable según modelo)</td>
 		</tr>
 		<tr>
 			<td>Canales de distribución (Web y/o Móvil)</td>
-			<td>DriveNow</td>
+			<td>Aplicación Web</td>
 			<td>Aplicación Móvil y Web</td>
 			<td>Aplicación Móvil y Web</td>
 			<td>Aplicación Móvil y Web</td>
@@ -225,28 +225,28 @@ Los competidores son las empresas productos que ofrecen soluciones similares al 
 		<tr>
 			<td rowspan="4">Análisis SWOT</td>
 			<td>Fortalezas</td>
-			<td>DriveNow</td>
+			<td>Interfaz fácil de usar que simplifica la búsqueda y reserva de vehículos.</td>
 			<td>Al ser una plataforma que recolecta precios de diferentes sitios web, presenta los precios más cómodos</td>
 			<td>Presentan una mayor seguridad al cliente al estar asegurados por Rimac seguros</td>
 			<td>Tienes la capacidad para poder ofrecer vehiculos las 24 hrs</td>
 		</tr>
 		<tr>
 			<td>Debilidades</td>
-			<td>DriveNow</td>
+			<td>Aumento en la demanda de alternativas de transporte flexibles y económicas.</td>
 			<td>Debido a la naturaleza de su funcionamiento, los terminos de alquiler pueden varian entre diferentes vehículos. Además la mayoría de sus precios no se encuentran disponibles en soles peruanos.</td>
 			<td>La visión pública es en su mayoria negativa, mencionando que tienen mucho inconvenientes con la aplicación móvil y problemas con las condiciones de alquiler.</td>
 			<td>No permiten el uso del servicio de aseguradoras externas a las que ellos brindan.</td>
 		</tr>
 		<tr>
 			<td>Oportunidades</td>
-			<td>DriveNow</td>
+			<td>La confianza en la seguridad y el estado de los vehículos puede ser un desafío.</td>
 			<td>Mejorar el algoritmo de busqueda para evitar recomendar servicios de alquiler con un mal servicio.</td>
 			<td>Expandir las condicienciones de alquiler que ofrecen para no ser tan abusivas del lado del cliente que alquila.</td>
 			<td>Cambiar las condiciones de seguro para poder ser más flexibles hacia los clientes que buscan alquilar un auto.</td>
 		</tr>
 		<tr>
 			<td>Amenazas</td>
-			<<td>DriveNow</td>
+			<<td>Cambios en la legislación y regulaciones relacionadas con el alquiler de vehículos y la movilidad compartida.</td>
 			<td>Cambio en las regulaciones de transito, variaciones en la moneda peruana.</td>
 			<td>Cambio en las regulaciones de transito, perdida de la aseguranza de Rimac seguros.</td>
 			<td>Cambio en las regulaciones de transito.</td>
