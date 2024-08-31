@@ -244,19 +244,28 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
       <td colspan="5">
         <strong>E01:</strong>
         <br>
-        <p><strong>Dado que</strong> estoy en la página de inicio de la aplicación,</p>
-         <p><strong>Y</strong> he habilitado la localización en mi dispositivo,</p>
-         <p><strong>Cuando</strong> realice una búsqueda de vehículos disponibles, </p>
-         <p><strong>Y</strong> mi ubicación actual se actualice en la aplicación,</p>
-         <p><strong>Entonces</strong> debería ver una lista de vehículos cercanos a mi ubicación.</p>
-	  <br>    
+        <strong>Dado que</strong> un conductor se encuentra en una ubicación específica y necesita encontrar un vehículo cercano,
+		<br>
+         <strong>Y</strong> ha ingresado su ubicación en la aplicación,
+		 <br>
+         <strong>Cuando</strong> realiza la búsqueda de vehículos cercanos,
+	      <br>
+         <strong>Y</strong> visualiza la lista de vehículos disponibles en su área,
+	      <br>
+         <strong>Entonces</strong> el conductor debe ser capaz de seleccionar el vehículo más cercano para reducir el tiempo de espera.
+	  <br>   
+	      <br>
          <strong>E02:</strong>
         <br>
-         <p><strong>Dado que</strong> he ingresado mi ubicación manualmente en la aplicación,</p>
-         <p><strong>Y</strong> he establecido un radio de búsqueda específico,</p>
-         <p><strong>Cuando</strong> realice la búsqueda de vehículos,</p>
-         <p><strong>Y</strong> los resultados se actualicen,</p>
-         <p><strong>Entonces</strong> debería ver los vehículos disponibles dentro del radio especificado.</p>
+         <strong>Dado que</strong> un conductor está buscando un vehículo en una ciudad que está visitando,
+	      <br>
+         <strong>Y</strong> ha utilizado la funcionalidad de búsqueda en la aplicación,
+	      <br>
+         <strong>Cuando</strong> el conductor visualiza los resultados de búsqueda,
+	      <br>
+         <strong>Y</strong> selecciona un vehículo cercano,
+	      <br>
+         <strong>Entonces</strong> debe recibir instrucciones claras sobre cómo llegar al vehículo seleccionado y la opción de iniciar la renta de inmediato.
       </td>
       <td colspan="1">EP001</td>
 		</tr>
