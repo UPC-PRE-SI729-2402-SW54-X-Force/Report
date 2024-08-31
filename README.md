@@ -260,6 +260,8 @@ Todos los usuarios que deseen alquilar su automóvil, así como aquellos que est
 * Creemos que al lanzar una función de "vehículo destacado" donde se muestren automóviles populares y altamente calificados en la página de inicio de DriveNow. Sabremos que hemos tenido éxito cuando veamos un aumento del 15% en las conversiones de navegación a reservas, demostrando que los usuarios se sienten atraídos por opciones de alta calidad y confiabilidad.
 
 ##### 1.2.2.4. Lean UX Canvas
+![LEAN UX CANVAS](https://github.com/user-attachments/assets/f61cd9d8-6b8e-4e37-aa53-5474d68bff43)
+
 ### 1.3. Segmentos objetivo
 
 Los segmentos objetivo de nuestro proyecto se dividen en dos categorías principales: **los arrendatarios y los propietarios de vehículos**. La aplicación que están desarrollando tiene como objetivo ser un intermediario eficiente y seguro entre estos dos grupos para facilitar el proceso de alquiler de automóviles.
