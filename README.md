@@ -905,6 +905,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
 		</tr>
   </tbody>
 </table>
+
 ### 3.3. Impact Mapping
 ### 3.4. Product Backlog
 
