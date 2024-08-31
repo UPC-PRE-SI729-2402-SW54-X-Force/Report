@@ -224,6 +224,687 @@ Para elaborar user stories estas deben pertenecer a una epic stories. A continua
 	</tbody>
 </table>
 
+A continuacion, la realizacion de los user stories con sus criterios de aceptacion con escenarios e ID de Épica:
+
+<table  style="text-align: left;">
+	<tbody>
+		<tr>
+			<td colspan="1">ID de Historia de Usuario</td>
+      <td colspan="1">Título</td>
+      <td colspan="1">Descripción</td>
+      <td colspan="5">Criterios de Aceptación con Escenarios</td>
+      <td colspan="1">ID de Épica</td>
+		</tr>
+		<tr>
+      <td colspan="1">US001</td>
+      <td colspan="1">Encontrar vehículos</td>
+      <td colspan="1">
+      <strong>Como</strong> conductor, <strong>quiero</strong> poder encontrar los vehículos más cercanos a mi ubicación <strong>para</strong> reducir el tiempo de espera y comenzar a usar el vehículo lo antes posible.
+      </td>
+      <td colspan="5">
+        <strong>E01:</strong>
+        <br>
+        <strong>Dado que</strong>
+        <br>
+        <strong>Y</strong>
+        <br>
+        <strong>Cuando</strong> 
+        <br>
+        <strong>Y</strong>
+        <br>
+        <strong>Entonces</strong>
+        <br>
+        <strong>Y</strong>
+        <br>
+      </td>
+      <td colspan="1">EP001</td>
+		</tr>
+    <tr>
+      <td colspan="1">US002</td>
+      <td colspan="1">Renta de vehículo</td>
+      <td colspan="1">
+      <strong>Como</strong> conductor, <strong>quiero</strong> poder encontrar los vehículos más cercanos a mi ubicación <strong>para</strong> reducir el tiempo de espera y comenzar a usar el vehículo lo antes posible.	
+      </td>
+      <td colspan="5">
+        <strong>E01:</strong>
+        <br>
+        <strong>Dado que</strong>
+        <br>
+        <strong>Y</strong>
+        <br>
+        <strong>Cuando</strong> 
+        <br>
+        <strong>Y</strong>
+        <br>
+        <strong>Entonces</strong>
+        <br>
+        <strong>Y</strong>
+        <br>
+      </td>
+      <td colspan="1">EP001</td>
+		</tr>
+    <tr>
+      <td colspan="1">US003</td>
+      <td colspan="1">Devolución de vehículo</td>
+      <td colspan="1">
+      <strong>Como</strong> conductor, <strong>quiero</strong> confirmar la hora de devolución y ubicación del vehículo <strong>para</strong> asegurarse de que el proceso de devolución sea rápido y conveniente para ambas partes.	
+      </td>
+      <td colspan="5">
+        <strong>E01:</strong>
+        <br>
+        <strong>Dado que</strong>
+        <br>
+        <strong>Y</strong>
+        <br>
+        <strong>Cuando</strong> 
+        <br>
+        <strong>Y</strong>
+        <br>
+        <strong>Entonces</strong>
+        <br>
+        <strong>Y</strong>
+        <br>
+      </td>
+      <td colspan="1">EP001</td>
+		</tr>
+    <tr>
+      <td colspan="1">US004</td>
+      <td colspan="1">Extensión de Renta</td>
+      <td colspan="1">
+      <strong>Como</strong> conductor, <strong>quiero</strong> poder extender la duración de mi renta de vehículo en caso de que necesite más tiempo, <strong>para</strong> evitar interrupciones en mi movilidad.
+      </td>
+      <td colspan="5">
+        <strong>E01:</strong>
+        <br>
+        <strong>Dado que</strong>
+        <br>
+        <strong>Y</strong>
+        <br>
+        <strong>Cuando</strong> 
+        <br>
+        <strong>Y</strong>
+        <br>
+        <strong>Entonces</strong>
+        <br>
+        <strong>Y</strong>
+        <br>
+      </td>
+      <td colspan="1">EP001</td>
+		</tr>
+    <tr>
+      <td colspan="1">US005</td>
+      <td colspan="1">Configuración de Preferencias del Vehículo</td>
+      <td colspan="1">
+      <strong>Como</strong> conductor, <strong>quiero</strong> poder configurar mis preferencias de vehículo (por ejemplo, tipo de transmisión, combustible, etc.), <strong>para</strong> asegurarme de que el vehículo asignado cumpla con mis necesidades.
+      </td>
+      <td colspan="5">
+        <strong>E01:</strong>
+        <br>
+        <strong>Dado que</strong>
+        <br>
+        <strong>Y</strong>
+        <br>
+        <strong>Cuando</strong> 
+        <br>
+        <strong>Y</strong>
+        <br>
+        <strong>Entonces</strong>
+        <br>
+        <strong>Y</strong>
+        <br>
+      </td>
+      <td colspan="1">EP001</td>
+		</tr>
+    <tr>
+      <td colspan="1">US006</td>
+      <td colspan="1">Pago Flexible</td>
+      <td colspan="1">
+      <strong>Como</strong> conductor, <strong>quiero</strong> poder elegir entre diferentes métodos de pago y opciones de pago (por ejemplo, pagos parciales, a plazos, etc.), <strong>para</strong>	tener mayor flexibilidad financiera al alquilar un vehículo.
+      </td>
+      <td colspan="5">
+        <strong>E01:</strong>
+        <br>
+        <strong>Dado que</strong>
+        <br>
+        <strong>Y</strong>
+        <br>
+        <strong>Cuando</strong> 
+        <br>
+        <strong>Y</strong>
+        <br>
+        <strong>Entonces</strong>
+        <br>
+        <strong>Y</strong>
+        <br>
+      </td>
+      <td colspan="1">EP001</td>
+		</tr>
+    <tr>
+      <td colspan="1">US007</td>
+      <td colspan="1">Asistencia en Carretera</td>
+      <td colspan="1">
+      <strong>Como</strong> conductor, <strong>quiero</strong> tener acceso a un servicio de asistencia en carretera, <strong>para</strong> sentirme seguro en caso de emergencias o problemas técnicos con el vehículo.	
+      </td>
+      <td colspan="5">
+        <strong>E01:</strong>
+        <br>
+        <strong>Dado que</strong>
+        <br>
+        <strong>Y</strong>
+        <br>
+        <strong>Cuando</strong> 
+        <br>
+        <strong>Y</strong>
+        <br>
+        <strong>Entonces</strong>
+        <br>
+        <strong>Y</strong>
+        <br>
+      </td>
+      <td colspan="1">EP001</td>
+		</tr>
+    <tr>
+      <td colspan="1">US008</td>
+      <td colspan="1">Validación de propiedad</td>
+      <td colspan="1">
+      <strong>Como</strong> conductor, <strong>quiero</strong> confirmar que el vehículo a alquilar sea de la propiedad de la persona que brinda el servicio, <strong>para</strong> poder asegurarme que no tendré ningún percance legal.
+      </td>
+      <td colspan="5">
+        <strong>E01:</strong>
+        <br>
+        <strong>Dado que</strong>
+        <br>
+        <strong>Y</strong>
+        <br>
+        <strong>Cuando</strong> 
+        <br>
+        <strong>Y</strong>
+        <br>
+        <strong>Entonces</strong>
+        <br>
+        <strong>Y</strong>
+        <br>
+      </td>
+      <td colspan="1">EP002</td>
+		</tr>
+    <tr>
+      <td colspan="1">US009</td>
+      <td colspan="1">Validación de documentos</td>
+      <td colspan="1">
+      <strong>Como</strong> conductor, <strong>quiero</strong> corroborar que los documentos del vehículo que voy a alquilar estén en regla, <strong>para</strong> asegurarme que no tendré ningún percance legal.	
+      </td>
+      <td colspan="5">
+        <strong>E01:</strong>
+        <br>
+        <strong>Dado que</strong>
+        <br>
+        <strong>Y</strong>
+        <br>
+        <strong>Cuando</strong> 
+        <br>
+        <strong>Y</strong>
+        <br>
+        <strong>Entonces</strong>
+        <br>
+        <strong>Y</strong>
+        <br>
+      </td>
+      <td colspan="1">EP002</td>
+		</tr>
+    <tr>
+      <td colspan="1">US010</td>
+      <td colspan="1">Inspección del Vehículo</td>
+      <td colspan="1">
+      <strong>Como</strong> conductor, <strong>quiero</strong> que el vehículo sea inspeccionado y certificado antes de cada renta, <strong>para</strong> asegurarme de que esté en condiciones óptimas de funcionamiento.	
+      </td>
+      <td colspan="5">
+        <strong>E01:</strong>
+        <br>
+        <strong>Dado que</strong>
+        <br>
+        <strong>Y</strong>
+        <br>
+        <strong>Cuando</strong> 
+        <br>
+        <strong>Y</strong>
+        <br>
+        <strong>Entonces</strong>
+        <br>
+        <strong>Y</strong>
+        <br>
+      </td>
+      <td colspan="1">EP002</td>
+		</tr>
+    <tr>
+      <td colspan="1">US011</td>
+      <td colspan="1">Reputación del Propietario</td>
+      <td colspan="1">
+      <strong>Como</strong> conductor, <strong>quiero</strong> poder revisar la reputación y reseñas del propietario del vehículo, <strong>para</strong> asegurarme de que estoy tratando con alguien confiable y con buenas referencias.	
+      </td>
+      <td colspan="5">
+        <strong>E01:</strong>
+        <br>
+        <strong>Dado que</strong>
+        <br>
+        <strong>Y</strong>
+        <br>
+        <strong>Cuando</strong> 
+        <br>
+        <strong>Y</strong>
+        <br>
+        <strong>Entonces</strong>
+        <br>
+        <strong>Y</strong>
+        <br>
+      </td>
+      <td colspan="1">EP002</td>
+		</tr>
+    <tr>
+      <td colspan="1">US012</td>
+      <td colspan="1">Atención al Cliente 24/7</td>
+      <td colspan="1">
+      <strong>Como</strong> conductor, <strong>quiero</strong> tener acceso a un servicio de atención al cliente disponible las 24 horas, <strong>para</strong> recibir ayuda inmediata en caso de cualquier problema durante mi renta.	
+      </td>
+      <td colspan="5">
+        <strong>E01:</strong>
+        <br>
+        <strong>Dado que</strong>
+        <br>
+        <strong>Y</strong>
+        <br>
+        <strong>Cuando</strong> 
+        <br>
+        <strong>Y</strong>
+        <br>
+        <strong>Entonces</strong>
+        <br>
+        <strong>Y</strong>
+        <br>
+      </td>
+      <td colspan="1">EP002</td>
+		</tr>
+    <tr>
+      <td colspan="1">US013</td>
+      <td colspan="1">Garantía de Calidad</td>
+      <td colspan="1">
+      <strong>Como</strong> conductor, <strong>quiero</strong> una garantía de que recibiré un vehículo limpio y en buenas condiciones, <strong>para</strong> tener una experiencia de alta calidad durante mi renta.	
+      </td>
+      <td colspan="5">
+        <strong>E01:</strong>
+        <br>
+        <strong>Dado que</strong>
+        <br>
+        <strong>Y</strong>
+        <br>
+        <strong>Cuando</strong> 
+        <br>
+        <strong>Y</strong>
+        <br>
+        <strong>Entonces</strong>
+        <br>
+        <strong>Y</strong>
+        <br>
+      </td>
+      <td colspan="1">EP002</td>
+		</tr>
+    <tr>
+      <td colspan="1">US014</td>
+      <td colspan="1">Publicación Fácil de Vehículo</td>
+      <td colspan="1">
+      <strong>Como</strong> dueño de auto, <strong>quiero</strong> poder publicar mi vehículo en la plataforma de manera rápida y sencilla, <strong>para</strong> empezar a generar ingresos lo antes posible.
+      </td>
+      <td colspan="5">
+        <strong>E01:</strong>
+        <br>
+        <strong>Dado que</strong>
+        <br>
+        <strong>Y</strong>
+        <br>
+        <strong>Cuando</strong> 
+        <br>
+        <strong>Y</strong>
+        <br>
+        <strong>Entonces</strong>
+        <br>
+        <strong>Y</strong>
+        <br>
+      </td>
+      <td colspan="1">EP003</td>
+		</tr>
+    <tr>
+      <td colspan="1">US015</td>
+      <td colspan="1">Control de Precios</td>
+      <td colspan="1">
+      <strong>Como</strong> dueño de auto, <strong>quiero</strong> tener control sobre el precio de renta de mi vehículo, <strong>para</strong> asegurarme de que estoy ganando una cantidad justa según la demanda.	
+      </td>
+      <td colspan="5">
+      </td>
+      <td colspan="1">EP003</td>
+		</tr>
+    <tr>
+      <td colspan="1">US016</td>
+      <td colspan="1">Protección y Seguro</td>
+      <td colspan="1">
+      <strong>Como</strong> dueño de auto, <strong>quiero</strong> que mi vehículo esté asegurado contra daños y robos durante el periodo de renta, <strong>para</strong> sentirme tranquilo al alquilarlo.	
+      </td>
+      <td colspan="5">
+      </td>
+      <td colspan="1">EP003</td>
+		</tr>
+    <tr>
+      <td colspan="1">US017</td>
+      <td colspan="1">Notificaciones de Disponibilidad</td>
+      <td colspan="1">
+      <strong>Como</strong> dueño de auto, <strong>quiero</strong> recibir notificaciones cuando alguien esté interesado en rentar mi vehículo, <strong>para</strong> estar al tanto de las oportunidades de ingreso.	
+      </td>
+      <td colspan="5">
+        <strong>E01:</strong>
+        <br>
+        <strong>Dado que</strong>
+        <br>
+        <strong>Y</strong>
+        <br>
+        <strong>Cuando</strong> 
+        <br>
+        <strong>Y</strong>
+        <br>
+        <strong>Entonces</strong>
+        <br>
+        <strong>Y</strong>
+        <br>
+      </td>
+      <td colspan="1">EP003</td>
+		</tr>
+    <tr>
+      <td colspan="1">US018</td>
+      <td colspan="1">Gestión de Reseñas</td>
+      <td colspan="1">
+      <strong>Como</strong> dueño de auto, <strong>quiero</strong> poder gestionar las reseñas que los conductores dejan sobre mi vehículo, <strong>para</strong> mantener una buena reputación en la plataforma.	
+      </td>
+      <td colspan="5">
+        <strong>E01:</strong>
+        <br>
+        <strong>Dado que</strong>
+        <br>
+        <strong>Y</strong>
+        <br>
+        <strong>Cuando</strong> 
+        <br>
+        <strong>Y</strong>
+        <br>
+        <strong>Entonces</strong>
+        <br>
+        <strong>Y</strong>
+        <br>
+      </td>
+      <td colspan="1">EP003</td>
+		</tr>
+    <tr>
+      <td colspan="1">US019</td>
+      <td colspan="1">Verificación de Conductores</td>
+      <td colspan="1">
+      <strong>Como</strong> dueño de auto, <strong>quiero</strong> que los conductores sean verificados a través de un proceso exhaustivo, <strong>para</strong> asegurarme de que son responsables y de confianza.	
+      </td>
+      <td colspan="5">
+        <strong>E01:</strong>
+        <br>
+        <strong>Dado que</strong>
+        <br>
+        <strong>Y</strong>
+        <br>
+        <strong>Cuando</strong> 
+        <br>
+        <strong>Y</strong>
+        <br>
+        <strong>Entonces</strong>
+        <br>
+        <strong>Y</strong>
+        <br>
+      </td>
+      <td colspan="1">EP004</td>
+		</tr>
+    <tr>
+      <td colspan="1">US020</td>
+      <td colspan="1">Responsabilidad por Daños</td>
+      <td colspan="1">
+      <strong>Como</strong> dueño de auto, <strong>quiero</strong> que los conductores sean responsables por cualquier daño que ocurra durante la renta, <strong>para</strong> proteger mi vehículo de posibles pérdidas.	
+      </td>
+      <td colspan="5">
+        <strong>E01:</strong>
+        <br>
+        <strong>Dado que</strong>
+        <br>
+        <strong>Y</strong>
+        <br>
+        <strong>Cuando</strong> 
+        <br>
+        <strong>Y</strong>
+        <br>
+        <strong>Entonces</strong>
+        <br>
+        <strong>Y</strong>
+        <br>
+      </td>
+      <td colspan="1">EP004</td>
+		</tr>
+    <tr>
+      <td colspan="1">US021</td>
+      <td colspan="1">Depósito de Seguridad</td>
+      <td colspan="1">
+      <strong>Como</strong> dueño de auto, <strong>quiero</strong> que se retenga un depósito de seguridad a los conductores antes de la renta, <strong>para</strong> cubrir cualquier daño potencial o incumplimiento de contrato.	
+      </td>
+      <td colspan="5">
+        <strong>E01:</strong>
+        <br>
+        <strong>Dado que</strong>
+        <br>
+        <strong>Y</strong>
+        <br>
+        <strong>Cuando</strong> 
+        <br>
+        <strong>Y</strong>
+        <br>
+        <strong>Entonces</strong>
+        <br>
+        <strong>Y</strong>
+        <br>
+      </td>
+      <td colspan="1">EP004</td>
+		</tr>
+    <tr>
+      <td colspan="1">US022</td>
+      <td colspan="1">Seguro Obligatorio</td>
+      <td colspan="1">
+      <strong>Como</strong> dueño de auto, <strong>quiero</strong> que todos los conductores estén cubiertos por un seguro obligatorio durante la renta, <strong>para</strong> protegerme de costos inesperados en caso de accidentes.
+      </td>
+      <td colspan="5">
+        <strong>E01:</strong>
+        <br>
+        <strong>Dado que</strong>
+        <br>
+        <strong>Y</strong>
+        <br>
+        <strong>Cuando</strong> 
+        <br>
+        <strong>Y</strong>
+        <br>
+        <strong>Entonces</strong>
+        <br>
+        <strong>Y</strong>
+        <br>
+      </td>
+      <td colspan="1">EP004</td>
+		</tr>
+    <tr>
+      <td colspan="1">US023</td>
+      <td colspan="1">Evaluación de Conductores</td>
+      <td colspan="1">
+      <strong>Como</strong> dueño de auto, <strong>quiero</strong> poder evaluar a los conductores después de cada renta, <strong>para</strong> contribuir a la reputación en la plataforma y ayudar a otros dueños a tomar decisiones informadas.	
+      </td>
+      <td colspan="5">
+        <strong>E01:</strong>
+        <br>
+        <strong>Dado que</strong>
+        <br>
+        <strong>Y</strong>
+        <br>
+        <strong>Cuando</strong> 
+        <br>
+        <strong>Y</strong>
+        <br>
+        <strong>Entonces</strong>
+        <br>
+        <strong>Y</strong>
+        <br>
+      </td>
+      <td colspan="1">EP004</td>
+		</tr>
+    <tr>
+      <td colspan="1">US024</td>
+      <td colspan="1">Sección Informativa de Condiciones de Alquiler</td>
+      <td colspan="1">
+      <strong>Como</strong> visitante, <strong>quiero</strong> una sección clara y accesible en la landing page que explique todas las condiciones de alquiler, <strong>para</strong> poder tomar una decisión informada sobre el uso del servicio.
+      </td>
+      <td colspan="5">
+        <strong>E01:</strong>
+        <br>
+        <strong>Dado que</strong>
+        <br>
+        <strong>Y</strong>
+        <br>
+        <strong>Cuando</strong> 
+        <br>
+        <strong>Y</strong>
+        <br>
+        <strong>Entonces</strong>
+        <br>
+        <strong>Y</strong>
+        <br>
+      </td>
+      <td colspan="1">EP005</td>
+		</tr>
+    <tr>
+      <td colspan="1">US025</td>
+      <td colspan="1">Testimonios de Usuarios Anteriores</td>
+      <td colspan="1">
+      <strong>Como</strong> visitante, <strong>quiero</strong> leer testimonios de otros usuarios que han alquilado vehículos a través de la plataforma, <strong>para</strong> sentirme más seguro sobre la calidad del servicio.	
+      </td>
+      <td colspan="5">
+        <strong>E01:</strong>
+        <br>
+        <strong>Dado que</strong>
+        <br>
+        <strong>Y</strong>
+        <br>
+        <strong>Cuando</strong> 
+        <br>
+        <strong>Y</strong>
+        <br>
+        <strong>Entonces</strong>
+        <br>
+        <strong>Y</strong>
+        <br>
+      </td>
+      <td colspan="1">EP005</td>
+		</tr>
+    <tr>
+      <td colspan="1">US026</td>
+      <td colspan="1">Consejos para Uso del Servicio</td>
+      <td colspan="1">
+      <strong>Como</strong> visitante, <strong>quiero</strong> poder ver una sección de blog en la que pueda visualizar consejos <strong>para</strong> poder tener mayor comodidad al usar el servicio.
+      </td>
+      <td colspan="5">
+        <strong>E01:</strong>
+        <br>
+        <strong>Dado que</strong>
+        <br>
+        <strong>Y</strong>
+        <br>
+        <strong>Cuando</strong> 
+        <br>
+        <strong>Y</strong>
+        <br>
+        <strong>Entonces</strong>
+        <br>
+        <strong>Y</strong>
+        <br>
+      </td>
+      <td colspan="1">EP005</td>
+		</tr>
+    <tr>
+      <td colspan="1">US027</td>
+      <td colspan="1">Descripción de Medidas de Seguridad</td>
+      <td colspan="1">
+      <strong>Como</strong> visitante, <strong>quiero</strong> una sección en la landing page que describa todas las medidas de seguridad implementadas <strong>para</strong> proteger mi vehículo, para sentirme tranquilo al alquilarlo.	
+      </td>
+      <td colspan="5">
+        <strong>E01:</strong>
+        <br>
+        <strong>Dado que</strong>
+        <br>
+        <strong>Y</strong>
+        <br>
+        <strong>Cuando</strong> 
+        <br>
+        <strong>Y</strong>
+        <br>
+        <strong>Entonces</strong>
+        <br>
+        <strong>Y</strong>
+        <br>
+      </td>
+      <td colspan="1">EP006</td>
+		</tr>
+    <tr>
+      <td colspan="1">US028</td>
+      <td colspan="1">Políticas de Seguros y Protección</td>
+      <td colspan="1">
+      <strong>Como</strong> visitante, <strong>quiero</strong> leer las políticas de seguros y protección que la plataforma ofrece, <strong>para</strong>	asegurarme de que mi vehículo estará cubierto en caso de daños.
+      </td>
+      <td colspan="5">
+        <strong>E01:</strong>
+        <br>
+        <strong>Dado que</strong>
+        <br>
+        <strong>Y</strong>
+        <br>
+        <strong>Cuando</strong> 
+        <br>
+        <strong>Y</strong>
+        <br>
+        <strong>Entonces</strong>
+        <br>
+        <strong>Y</strong>
+        <br>
+      </td>
+      <td colspan="1">EP006</td>
+		</tr>
+    <tr>
+      <td colspan="1">US029</td>
+      <td colspan="1">Información sobre Documentos Requeridos</td>
+      <td colspan="1">
+      <strong>Como</strong> visitante, <strong>quiero</strong> una sección donde me brinden la información sobre todos los documentos necesarios a presentar, <strong>para</strong> tener la seguridad de que mi auto se está alquilando de manera correcta.	
+      </td>
+      <td colspan="5">
+        <strong>E01:</strong>
+        <br>
+        <strong>Dado que</strong>
+        <br>
+        <strong>Y</strong>
+        <br>
+        <strong>Cuando</strong> 
+        <br>
+        <strong>Y</strong>
+        <br>
+        <strong>Entonces</strong>
+        <br>
+        <strong>Y</strong>
+        <br>
+      </td>
+      <td colspan="1">EP006</td>
+		</tr>
+  </tbody>
+</table>
 ### 3.3. Impact Mapping
 ### 3.4. Product Backlog
 
