@@ -255,35 +255,45 @@ Los competidores son las empresas productos que ofrecen soluciones similares al 
 </table>
 
 #### 2.1.2. Estrategias y tácticas frente a competidores.
-1.Fortalecer la Propuesta de Valor:
-Estrategia: Enfatizar la accesibilidad y flexibilidad de nuestra plataforma.
-Tácticas:
+<h3>1.Fortalecer la Propuesta de Valor:</h3>
+ <p><strong>Estrategia:</strong> Enfatizar la accesibilidad y flexibilidad de nuestra plataforma.</p>
+<p><strong>Tácticas:</p>
+<ul>
 <li>Nos aseguraremos de que nuestra interfaz sea intuitiva y fácil de usar.</li>
 <li>Implementaremos características exclusivas, como opciones de filtrado avanzadas y recomendaciones personalizadas, para mejorar la experiencia del usuario.</li>
+ </ul>
 
-2.Innovar en la Experiencia del Usuario:
-Estrategia: Mejorar la experiencia del usuario para fomentar la lealtad y atraer nuevos clientes.
-Tácticas:
-•	Incorporaremos tecnologías avanzadas de verificación y seguridad, como la verificación biométrica.
-•	Garantizamos que tengamos soporte al cliente 24/7 y un sistema de mensajería en tiempo real para resolver problemas de manera eficiente.
+<h3>2.Innovar en la Experiencia del Usuario:</h3>
+ <p><strong>Estrategia:</strong> Mejorar la experiencia del usuario para fomentar la lealtad y atraer nuevos clientes.</p>
+<p><strong>Tácticas:</p>
+<ul>
+<li>Incorporaremos tecnologías avanzadas de verificación y seguridad, como la verificación biométrica.</li>
+<li>Garantizamos que tengamos soporte al cliente 24/7 y un sistema de mensajería en tiempo real para resolver problemas de manera eficiente.</li>
+</ul>
 
-3.Optimizar la Relación con Propietarios:
-Estrategia: Aumentar el atractivo para los propietarios de vehículos.
-Tácticas:
-•	Ofreceremos incentivos y bonificaciones para los propietarios que alquilen sus vehículos con frecuencia.
-•	Simplificaremos el proceso para listar y gestionar vehículos en nuestra plataforma.
+<h3>3.Optimizar la Relación con Propietarios:</h3>
+ <p><strong>Estrategia:</strong> Aumentar el atractivo para los propietarios de vehículos.</p>
+<p><strong>Tácticas:</p>
+<ul>
+<li>Ofreceremos incentivos y bonificaciones para los propietarios que alquilen sus vehículos con frecuencia.</li>
+<li>Simplificaremos el proceso para listar y gestionar vehículos en nuestra plataforma.</li>
+</ul>
 
-4.Expansión y Alianzas Estratégicas:
-Estrategia: Crear alianzas y expandir nuestra presencia en el mercado.
-Tácticas:
-•	Se formarán asociaciones con concesionarios de automóviles, hoteles y empresas locales para promover nuestra plataforma.
-•	Exploraremos oportunidades para expandirnos a nuevas ciudades y regiones con alta demanda de alquiler de vehículos.
+<h3>4.Expansión y Alianzas Estratégicas:</h3>
+ <p><strong>Estrategia:</strong> Crear alianzas y expandir nuestra presencia en el mercado.</p>
+<p><strong>Tácticas:</p>
+<ul>
+<li>Se formarán asociaciones con concesionarios de automóviles, hoteles y empresas locales para promover nuestra plataforma.</li>
+<li>Exploraremos oportunidades para expandirnos a nuevas ciudades y regiones con alta demanda de alquiler de vehículos.</li>
+</ul>
 
-5.Estrategias de Marketing Localizadas:
-Estrategia: Adaptar nuestras campañas de marketing a los mercados locales.
-Tácticas:
-•	Se ejecutarán campañas publicitarias dirigidas en redes sociales y medios locales.
-•	Ofreceremos promociones y descuentos especiales en áreas específicas para atraer a nuevos usuarios.
+<h3>5.Estrategias de Marketing Localizadas:</h3>
+ <p><strong>Estrategia:</strong> Adaptar nuestras campañas de marketing a los mercados locales.</p>
+ <p><strong>Tácticas:</p>
+<ul>
+<li>Se ejecutarán campañas publicitarias dirigidas en redes sociales y medios locales.</li>
+<li>Ofreceremos promociones y descuentos especiales en áreas específicas para atraer a nuevos usuarios.</li>
+</ul>
 
 
 ### 2.2. Entrevistas.
