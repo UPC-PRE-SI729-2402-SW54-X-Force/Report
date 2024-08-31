@@ -152,10 +152,6 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 ### 2.1. Competidores
 Los competidores son las empresas productos que ofrecen soluciones similares al proyecto planteado. Analizar estas diferentes propuestas ayuda a identificar oportunidades de diferenciación y mejora.
 
-**RentingCar Perú:** Una plataforma que permite alquilar autos directamente desde tu smartphone. Ofrece una amplia gama de vehículos y opciones de alquiler flexibles, siendo un competidor directo en términos de conveniencia y accesibilidad.
-**RappiAutos:** Parte del ecosistema de Rappi, ofrece alquiler de vehículos en su plataforma. Aprovecha la gran base de usuarios de Rappi y su integración con otros servicios.
-**Cabify:** Aunque es principalmente un servicio de transporte, también ofrece opciones de alquiler de autos, posicionándose como una alternativa flexible para movilidad temporal.
-
 #### 2.1.1. Análisis competitivo
 
 <table border="1" style="text-align: center;">
@@ -170,90 +166,90 @@ Los competidores son las empresas productos que ofrecen soluciones similares al 
 		<tr>
 			<td colspan="2"></td>
 			<td>DriveNow</td>
-			<td>Competidor1</td>
-			<td>Competidor2</td>
-			<td>Competidor3</td>
+			<td>Kayak</td>
+			<td>Rento</td>
+			<td>Budget</td>
 		</tr>
 		<tr>
 			<td rowspan="2">Perfil</td>
 			<td>Overview</td>
-			<td>DriveNow</td>
-			<td>Competidor1</td>
-			<td>Competidor2</td>
-			<td>Competidor3</td>
+			<td>Plataforma que permite alquilar y poner en el alquiler autos.</td>
+			<td>Una plataforma que permite alquilar autos, alojamientos y vuelos.</td>
+			<td>Una plataforma exclusivamente de renta de autos, cuenta con seguros Rimac.</td>
+			<td>Plataforma de renta de autos internacional.</td>
 		</tr>
 		<tr>
 			<td>Ventaja competitiva ¿Que valor ofrece a los clientes?</td>
 			<td>DriveNow</td>
-			<td>Competidor1</td>
-			<td>Competidor2</td>
-			<td>Competidor3</td>
+			<td>Compara diferentes precios de diferentes plataforma para brindar el precio más económico.</td>
+			<td>Cuentan con el apoyo de seguros Rimac</td>
+			<td>Además de ofrecer renta de automóviles, ofrece la renta de camionetas para viajes más demandantes.</td>
 		</tr>
 		<tr>
 			<td rowspan="2">Perfil de Marketing</td>
 			<td>Mercado objetivo</td>
-			<td>DriveNow</td>
-			<td>Competidor1</td>
-			<td>Competidor2</td>
-			<td>Competidor3</td>
+			<td>Personas que buscan alquilar un auto y propietarios de autos</td>
+			<td>Turistas</td>
+			<td>Personas que buscan alquilar un auto y propietarios de autos</td>
+			<td>Empresas y personas que buscan alquilar autos</td>
 		</tr>
 		<tr>
 			<td>Estrategias de marketing</td>
 			<td>DriveNow</td>
-			<td>Competidor1</td>
-			<td>Competidor2</td>
-			<td>Competidor3</td>
+			<td>Posicionamiento en el buscardor, publicidad de banners en línea</td>
+			<td>Publicidad en redes sociales (videos, colaboraciones, banners)</td>
+			<td>Publicidad en redes sociales (videos, colaboraciones, banners)</td>
 		</tr>
 		<tr>
 			<td rowspan="3">Perfil de Producto</td>
 			<td>Productos &amp; Servicios</td>
 			<td>DriveNow</td>
-			<td>Competidor1</td>
-			<td>Competidor2</td>
-			<td>Competidor3</td>
+			<td>Alquiler de habitaciones, vuelos, autos, casas, paquetes, guias de viaje</td>
+			<td>Alquiler de automóviles y camionetas</td>
+			<td>Alquiler de automóviles, camionetas, flota empresarial y choferes</td>
 		</tr>
 		<tr>
 			<td>Precios &amp; Costos</td>
 			<td>DriveNow</td>
-			<td>Competidor1</td>
-			<td>Competidor2</td>
-			<td>Competidor3</td>
+			<td>S/70-200/día (variable según modelo)</td>
+			<td>S/130-500/día (variable según modelo)</td>
+			<td>S/90-455/día (variable según modelo)</td>
 		</tr>
 		<tr>
 			<td>Canales de distribución (Web y/o Móvil)</td>
 			<td>DriveNow</td>
-			<td>Competidor1</td>
-			<td>Competidor2</td>
-			<td>Competidor3</td>
+			<td>Aplicación Móvil y Web</td>
+			<td>Aplicación Móvil y Web</td>
+			<td>Aplicación Móvil y Web</td>
 		</tr>
 		<tr>
 			<td rowspan="4">Análisis SWOT</td>
 			<td>Fortalezas</td>
 			<td>DriveNow</td>
-			<td>Competidor1</td>
-			<td>Competidor2</td>
-			<td>Competidor3</td>
+			<td>Al ser una plataforma que recolecta precios de diferentes sitios web, presenta los precios más cómodos</td>
+			<td>Presentan una mayor seguridad al cliente al estar asegurados por Rimac seguros</td>
+			<td>Tienes la capacidad para poder ofrecer vehiculos las 24 hrs</td>
 		</tr>
 		<tr>
 			<td>Debilidades</td>
 			<td>DriveNow</td>
-			<td>Competidor1</td>
-			<td>Competidor2</td>
-			<td>Competidor3</td>
+			<td>Debido a la naturaleza de su funcionamiento, los terminos de alquiler pueden varian entre diferentes vehículos. Además la mayoría de sus precios no se encuentran disponibles en soles peruanos.</td>
+			<td>La visión pública es en su mayoria negativa, mencionando que tienen mucho inconvenientes con la aplicación móvil y problemas con las condiciones de alquiler.</td>
+			<td>No permiten el uso del servicio de aseguradoras externas a las que ellos brindan.</td>
 		</tr>
 		<tr>
 			<td>Oportunidades</td>
 			<td>DriveNow</td>
-			<td>Competidor1</td>
-			<td>Competidor2</td>
-			<td>Competidor3</td>
+			<td>Mejorar el algoritmo de busqueda para evitar recomendar servicios de alquiler con un mal servicio.</td>
+			<td>Expandir las condicienciones de alquiler que ofrecen para no ser tan abusivas del lado del cliente que alquila.</td>
+			<td>Cambiar las condiciones de seguro para poder ser más flexibles hacia los clientes que buscan alquilar un auto.</td>
 		</tr>
 		<tr>
 			<td>Amenazas</td>
 			<<td>DriveNow</td>
-			<td>Competidor1</td>
-			<td>Competidor2</td>
-			<td>Competidor3</td>
+			<td>Cambio en las regulaciones de transito, variaciones en la moneda peruana.</td>
+			<td>Cambio en las regulaciones de transito, perdida de la aseguranza de Rimac seguros.</td>
+			<td>Cambio en las regulaciones de transito.</td>
 		</tr>
 	</tbody>
 </table>
