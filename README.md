@@ -256,6 +256,9 @@ Los competidores son las empresas productos que ofrecen soluciones similares al 
 
 #### 2.1.2. Estrategias y tácticas frente a competidores.
 ### 2.2. Entrevistas.
+Las entrevistas nos permitirán recolectar los insights valiosos de los usuarios a través 
+de preguntas que serán diseñadas y analizadas por nuestro equipo, previa realización 
+de las entrevistas
 #### 2.2.1. Diseño de entrevistas
 
 Segmento Objetivo 1: arrendatario
