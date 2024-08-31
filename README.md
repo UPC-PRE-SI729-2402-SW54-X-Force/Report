@@ -170,6 +170,60 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 ### 3.1. To-Be Scenario Mapping
 DriveNow
 ### 3.2. User Stories
+Para elaborar user stories estas deben pertenecer a una epic stories. A continuación, se mostrarán las epic stories:
+
+<table border="1" style="text-align: left;">
+	<tbody>
+		<tr>
+			<td colspan="1">Código</td>
+            <td colspan="1">Título</td>
+            <td colspan="1">Epic</td>
+		</tr>
+		<tr>
+            <td colspan="1">EP001</td>
+            <td colspan="1">Acceso a Vehículos 24/7</td>
+            <td colspan="1">
+            <strong>Como</strong> conductor, <strong>quiero</strong> tener acceso a un vehículo a todas horas cuando esté visitando una ciudad, <strong>para</strong> poder movilizarme fácilmente en cualquier momento.
+            </td>
+		</tr>
+        <tr>
+            <td colspan="1">EP002</td>
+            <td colspan="1">Calidad del Servicio</td>
+            <td colspan="1">
+            <strong>Como</strong> conductor, <strong>quiero</strong> tener seguridad que el servicio que me brindan sea de calidad, <strong>para</strong> asegurarme de que tendré una experiencia positiva y sin problemas.
+            </td>
+		</tr>
+        <tr>
+            <td colspan="1">EP003</td>
+            <td colspan="1">Ingresos Adicionales</td>
+            <td colspan="1">
+            <strong>Como</strong> dueño de auto, <strong>quiero</strong> ganar dinero extra cuando no estoy utilizando mi vehículo, <strong>para</strong> aprovechar mi recurso y generar ingresos adicionales.
+            </td>
+		</tr>
+        <tr>
+            <td colspan="1">EP004</td>
+            <td colspan="1">Seguridad y Fiabilidad de Conductores</td>
+            <td colspan="1">
+            <strong>Como</strong> dueño de auto, <strong>quiero</strong> tener la seguridad que los conductores serán fiables y responsables por cualquier daño que pueda ocurrir, <strong>para</strong> sentirme tranquilo al alquilar mi vehículo.
+            </td>
+		</tr>
+        <tr>
+            <td colspan="1">EP005</td>
+            <td colspan="1">Condiciones de Alquiler Claras</td>
+            <td colspan="1">
+            <strong>Como</strong> visitante que busca alquilar, <strong>quiero</strong> ver todas las condiciones de alquiler <strong>para</strong> poder confiar en el servicio brindado.
+            </td>
+		</tr>
+        <tr>
+            <td colspan="1">EP006</td>
+            <td colspan="1">Visualización de Medidas de Seguridad</td>
+            <td colspan="1">
+            <strong>Como</strong> visitante que busca poner en alquiler, <strong>quiero</strong> visualizar las medidas de seguridad que estarán implementadas <strong>para</strong> poder verificar que se me brindará un buen servicio.
+            </td>
+		</tr>
+	</tbody>
+</table>
+
 ### 3.3. Impact Mapping
 ### 3.4. Product Backlog
 
