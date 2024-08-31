@@ -255,6 +255,47 @@ Los competidores son las empresas productos que ofrecen soluciones similares al 
 </table>
 
 #### 2.1.2. Estrategias y tácticas frente a competidores.
+<body>
+    <h1>Estrategias y Tácticas para Enfrentar a los Competidores</h1>
+
+    <h2>Estrategia General: Diferenciación a través de Valor Añadido</h2>
+
+    <h3>1. Fortalecer la Propuesta de Valor:</h3>
+    <p><strong>Estrategia:</strong> Enfatizar la accesibilidad y flexibilidad de nuestra plataforma.</p>
+    <ul>
+        <li>Me aseguraré de que nuestra interfaz sea intuitiva y fácil de usar.</li>
+        <li>Implementaré características exclusivas, como opciones de filtrado avanzadas y recomendaciones personalizadas, para mejorar la experiencia del usuario.</li>
+    </ul>
+
+    <h3>2. Innovar en la Experiencia del Usuario:</h3>
+    <p><strong>Estrategia:</strong> Mejorar la experiencia del usuario para fomentar la lealtad y atraer nuevos clientes.</p>
+    <ul>
+        <li>Incorporaré tecnologías avanzadas de verificación y seguridad, como la verificación biométrica.</li>
+        <li>Garantizaré que tengamos soporte al cliente 24/7 y un sistema de mensajería en tiempo real para resolver problemas de manera eficiente.</li>
+    </ul>
+
+    <h3>3. Optimizar la Relación con Propietarios:</h3>
+    <p><strong>Estrategia:</strong> Aumentar el atractivo para los propietarios de vehículos.</p>
+    <ul>
+        <li>Ofreceré incentivos y bonificaciones para los propietarios que alquilen sus vehículos con frecuencia.</li>
+        <li>Simplificaré el proceso para listar y gestionar vehículos en nuestra plataforma.</li>
+    </ul>
+
+    <h3>4. Expansión y Alianzas Estratégicas:</h3>
+    <p><strong>Estrategia:</strong> Crear alianzas y expandir nuestra presencia en el mercado.</p>
+    <ul>
+        <li>Formaré asociaciones con concesionarios de automóviles, hoteles y empresas locales para promover nuestra plataforma.</li>
+        <li>Exploraré oportunidades para expandirnos a nuevas ciudades y regiones con alta demanda de alquiler de vehículos.</li>
+    </ul>
+
+    <h3>5. Estrategias de Marketing Localizadas:</h3>
+    <p><strong>Estrategia:</strong> Adaptar nuestras campañas de marketing a los mercados locales.</p>
+    <ul>
+        <li>Ejecutaré campañas publicitarias dirigidas en redes sociales y medios locales.</li>
+        <li>Ofreceré promociones y descuentos especiales en áreas específicas para atraer a nuevos usuarios.</li>
+    </ul>
+</body>
+
 ### 2.2. Entrevistas.
 Las entrevistas nos permitirán recolectar los insights valiosos de los usuarios a través 
 de preguntas que serán diseñadas y analizadas por nuestro equipo, previa realización 
