@@ -258,8 +258,8 @@ Los competidores son las empresas productos que ofrecen soluciones similares al 
 1.Fortalecer la Propuesta de Valor:
 Estrategia: Enfatizar la accesibilidad y flexibilidad de nuestra plataforma.
 Tácticas:
-•	Nos aseguraremos de que nuestra interfaz sea intuitiva y fácil de usar.
-•	Implementaremos características exclusivas, como opciones de filtrado avanzadas y recomendaciones personalizadas, para mejorar la experiencia del usuario.
+<li>Nos aseguraremos de que nuestra interfaz sea intuitiva y fácil de usar.</li>
+<li>Implementaremos características exclusivas, como opciones de filtrado avanzadas y recomendaciones personalizadas, para mejorar la experiencia del usuario.</li>
 
 2.Innovar en la Experiencia del Usuario:
 Estrategia: Mejorar la experiencia del usuario para fomentar la lealtad y atraer nuevos clientes.
