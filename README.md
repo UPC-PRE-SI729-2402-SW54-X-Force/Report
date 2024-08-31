@@ -244,26 +244,19 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
       <td colspan="5">
         <strong>E01:</strong>
         <br>
-        <p><strong>Dado que</strong>estoy en la página de inicio de la aplicación,</p>
-        <br>
-         <p><strong>Y</strong>he habilitado la localización en mi dispositivo,</p>
-        <br>
-         <p><strong>Cuando</strong>realice una búsqueda de vehículos disponibles, </p>
-        <br>
-         <p><strong>Y</strong>mi ubicación actual se actualice en la aplicación,</p>
-        <br>
-         <p><strong>Entonces</strong>debería ver una lista de vehículos cercanos a mi ubicación.</p>
+        <p><strong>Dado que</strong> estoy en la página de inicio de la aplicación,</p>
+         <p><strong>Y</strong> he habilitado la localización en mi dispositivo,</p>
+         <p><strong>Cuando</strong> realice una búsqueda de vehículos disponibles, </p>
+         <p><strong>Y</strong> mi ubicación actual se actualice en la aplicación,</p>
+         <p><strong>Entonces</strong> debería ver una lista de vehículos cercanos a mi ubicación.</p>
+	  <br>    
          <strong>E02:</strong>
         <br>
-         <p><strong>Dado que</strong>he ingresado mi ubicación manualmente en la aplicación,</p>
-        <br>
-         <p><strong>Y</strong>he establecido un radio de búsqueda específico,</p>
-        <br>
+         <p><strong>Dado que</strong> he ingresado mi ubicación manualmente en la aplicación,</p>
+         <p><strong>Y</strong> he establecido un radio de búsqueda específico,</p>
          <p><strong>Cuando</strong> realice la búsqueda de vehículos,</p>
-        <br>
-         <p><strong>Y</strong>los resultados se actualicen,</p>
-        <br>
-         <p><strong>Entonces</strong>debería ver los vehículos disponibles dentro del radio especificado.</p>
+         <p><strong>Y</strong> los resultados se actualicen,</p>
+         <p><strong>Entonces</strong> debería ver los vehículos disponibles dentro del radio especificado.</p>
       </td>
       <td colspan="1">EP001</td>
 		</tr>
