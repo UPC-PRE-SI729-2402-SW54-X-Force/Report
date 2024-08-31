@@ -244,18 +244,26 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
       <td colspan="5">
         <strong>E01:</strong>
         <br>
-        <strong>Dado que</strong>
+        <p><strong>Dado que</strong>estoy en la página de inicio de la aplicación,</p>
         <br>
-        <strong>Y</strong>
+         <p><strong>Y</strong>he habilitado la localización en mi dispositivo,</p>
         <br>
-        <strong>Cuando</strong> 
+         <p><strong>Cuando</strong>realice una búsqueda de vehículos disponibles, </p>
         <br>
-        <strong>Y</strong>
+         <p><strong>Y</strong>mi ubicación actual se actualice en la aplicación,</p>
         <br>
-        <strong>Entonces</strong>
+         <p><strong>Entonces</strong>debería ver una lista de vehículos cercanos a mi ubicación.</p>
+         <strong>E02:</strong>
         <br>
-        <strong>Y</strong>
+         <p><strong>Dado que</strong>he ingresado mi ubicación manualmente en la aplicación,</p>
         <br>
+         <p><strong>Y</strong>he establecido un radio de búsqueda específico,</p>
+        <br>
+         <p><strong>Cuando</strong> realice la búsqueda de vehículos,</p>
+        <br>
+         <p><strong>Y</strong>los resultados se actualicen,</p>
+        <br>
+         <p><strong>Entonces</strong>debería ver los vehículos disponibles dentro del radio especificado.</p>
       </td>
       <td colspan="1">EP001</td>
 		</tr>
