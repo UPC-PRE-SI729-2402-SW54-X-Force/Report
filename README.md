@@ -848,20 +848,21 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
       <strong>Como</strong> visitante, <strong>quiero</strong> una sección clara y accesible en la landing page que explique todas las condiciones de alquiler, <strong>para</strong> poder tomar una decisión informada sobre el uso del servicio.
       </td>
       <td colspan="1">
-        <strong>E01:</strong>
+        <strong>E01: Acceso a la sección de condiciones</strong>
         <br>
-        <strong>Dado que</strong>
+        <strong>Dado que</strong> un visitante ingresa a la landing page,
         <br>
-        <strong>Y</strong>
+        <strong>Cuando</strong> desea conocer las condiciones de alquiler, 
         <br>
-        <strong>Cuando</strong> 
+        <strong>Entonces</strong> debe poder acceder fácilmente a una sección dedicada a condiciones de alquiler desde la página principal.
+        <br><br>
+        <strong>E02: Contenido claro y completo</strong>
         <br>
-        <strong>Y</strong>
+        <strong>Dado que</strong> un visitante está en la sección de condiciones de alquiler,
         <br>
-        <strong>Entonces</strong>
+        <strong>Cuando</strong> revisa la información,
         <br>
-        <strong>Y</strong>
-        <br>
+        <strong>Entonces</strong> debe poder ver explicaciones claras y detalladas sobre las condiciones de alquiler, incluyendo precios, seguros, y responsabilidades de los usuarios.
       </td>
       <td colspan="1">EP005</td>
 		</tr>
@@ -872,20 +873,21 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
       <strong>Como</strong> visitante, <strong>quiero</strong> leer testimonios de otros usuarios que han alquilado vehículos a través de la plataforma, <strong>para</strong> sentirme más seguro sobre la calidad del servicio.	
       </td>
       <td colspan="1">
-        <strong>E01:</strong>
+        <strong>E01: Visualización de testimonios en la landing page</strong>
         <br>
-        <strong>Dado que</strong>
+        <strong>Dado que</strong> un visitante está explorando la landing page,
         <br>
-        <strong>Y</strong>
+        <strong>Cuando</strong> busca información sobre la calidad del servicio, 
         <br>
-        <strong>Cuando</strong> 
+        <strong>Entonces</strong> debe poder ver una sección destacada con testimonios de usuarios anteriores que han alquilado vehículos a través de la plataforma.
+        <br><br>
+        <strong>E02: Testimonios verificables</strong>
         <br>
-        <strong>Y</strong>
+        <strong>Dado que</strong> un visitante está leyendo testimonios,
         <br>
-        <strong>Entonces</strong>
+        <strong>Cuando</strong> desea saber la autenticidad de los testimonios, 
         <br>
-        <strong>Y</strong>
-        <br>
+        <strong>Entonces</strong> cada testimonio debe estar vinculado a un usuario verificado de la plataforma, indicando la fecha y tipo de renta realizada.
       </td>
       <td colspan="1">EP005</td>
 		</tr>
@@ -896,20 +898,21 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
       <strong>Como</strong> visitante, <strong>quiero</strong> poder ver una sección de blog en la que pueda visualizar consejos <strong>para</strong> poder tener mayor comodidad al usar el servicio.
       </td>
       <td colspan="1">
-        <strong>E01:</strong>
+        <strong>E01: Acceso a la sección de blog en la landing page</strong>
         <br>
-        <strong>Dado que</strong>
+        <strong>Dado que</strong> un visitante está explorando la landing page,
         <br>
-        <strong>Y</strong>
+        <strong>Cuando</strong> desea obtener información adicional sobre cómo usar el servicio, 
         <br>
-        <strong>Cuando</strong> 
+        <strong>Entonces</strong> debe poder acceder fácilmente a una sección de blog dedicada que contenga consejos prácticos para mejorar su experiencia al utilizar la plataforma.
+        <br><br>
+        <strong>E02: Consejos relevantes y actualizados</strong>
         <br>
-        <strong>Y</strong>
+        <strong>Dado que</strong> un visitante está leyendo el blog,
         <br>
-        <strong>Entonces</strong>
+        <strong>Cuando</strong> busca consejos para usar el servicio,
         <br>
-        <strong>Y</strong>
-        <br>
+        <strong>Entonces</strong> debe encontrar artículos relevantes y actualizados que cubran temas como la optimización del tiempo de renta, cuidado del vehículo, y opciones de pago.
       </td>
       <td colspan="1">EP005</td>
 		</tr>
@@ -920,20 +923,21 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
       <strong>Como</strong> visitante, <strong>quiero</strong> una sección en la landing page que describa todas las medidas de seguridad implementadas <strong>para</strong> proteger mi vehículo, para sentirme tranquilo al alquilarlo.	
       </td>
       <td colspan="1">
-        <strong>E01:</strong>
+        <strong>E01: Visibilidad en la Landing Page:</strong>
         <br>
-        <strong>Dado que</strong>
+        <strong>Dado que</strong> un visitante está en la landing page de la plataforma,
         <br>
-        <strong>Y</strong>
+        <strong>Cuando</strong> navega por la página,
         <br>
-        <strong>Cuando</strong> 
+        <strong>Entonces</strong> debe poder ver una sección claramente destacada que describa las medidas de seguridad implementadas.
+        <br><br>
+        <strong>E02: Claridad y Comprensibilidad:</strong>
         <br>
-        <strong>Y</strong>
+        <strong>Dado que</strong> el visitante lee la descripción de las medidas de seguridad,
         <br>
-        <strong>Entonces</strong>
+        <strong>Cuando</strong> revisa el contenido,
         <br>
-        <strong>Y</strong>
-        <br>
+        <strong>Entonces</strong> debe ser capaz de comprender claramente las políticas y procedimientos sin necesidad de buscar información adicional.
       </td>
       <td colspan="1">EP006</td>
 		</tr>
@@ -944,20 +948,21 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
       <strong>Como</strong> visitante, <strong>quiero</strong> leer las políticas de seguros y protección que la plataforma ofrece, <strong>para</strong>	asegurarme de que mi vehículo estará cubierto en caso de daños.
       </td>
       <td colspan="1">
-        <strong>E01:</strong>
+        <strong>E01: Visibilidad en la Landing Page:</strong>
         <br>
-        <strong>Dado que</strong>
+        <strong>Dado que</strong> un visitante está en la landing page de la plataforma,
         <br>
-        <strong>Y</strong>
+        <strong>Cuando</strong> navega por la página,
         <br>
-        <strong>Cuando</strong> 
+        <strong>Entonces</strong> debe poder ver una sección claramente destacada que describa las medidas de seguridad implementadas.
+        <br><br>
+        <strong>E02: Claridad y Comprensibilidad:</strong>
         <br>
-        <strong>Y</strong>
+        <strong>Dado que</strong> el visitante lee la descripción de las medidas de seguridad,
         <br>
-        <strong>Entonces</strong>
+        <strong>Cuando</strong> revisa el contenido,
         <br>
-        <strong>Y</strong>
-        <br>
+        <strong>Entonces</strong> debe ser capaz de comprender claramente las políticas y procedimientos sin necesidad de buscar información adicional.
       </td>
       <td colspan="1">EP006</td>
 		</tr>
@@ -968,20 +973,21 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
       <strong>Como</strong> visitante, <strong>quiero</strong> una sección donde me brinden la información sobre todos los documentos necesarios a presentar, <strong>para</strong> tener la seguridad de que mi auto se está alquilando de manera correcta.	
       </td>
       <td colspan="1">
-        <strong>E01:</strong>
+        <strong>E01: Visibilidad en la Landing Page:</strong>
         <br>
-        <strong>Dado que</strong>
+        <strong>Dado que</strong> un visitante está en la landing page de la plataforma,
         <br>
-        <strong>Y</strong>
+        <strong>Cuando</strong> navega por la página,
         <br>
-        <strong>Cuando</strong> 
+        <strong>Entonces</strong> debe poder ver una sección claramente destacada que describa las medidas de seguridad implementadas.
+        <br><br>
+        <strong>E02: Contenido Detallado:</strong>
         <br>
-        <strong>Y</strong>
+        <strong>Dado que</strong> el visitante accede a la sección de documentos requeridos,
         <br>
-        <strong>Entonces</strong>
+        <strong>Cuando</strong> revisa el contenido,
         <br>
-        <strong>Y</strong>
-        <br>
+        <strong>Entonces</strong> debe encontrar una lista completa y detallada de todos los documentos necesarios para alquilar un vehículo.
       </td>
       <td colspan="1">EP006</td>
 		</tr>
