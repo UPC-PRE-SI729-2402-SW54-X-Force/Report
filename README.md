@@ -366,6 +366,39 @@ Segmento Objetivo 1: Arrendatarios
 Resumen: 
 Camila, de 20 años, es una usuaria que alquila vehículos una o dos veces al año, principalmente para viajes en familia. En la entrevista, destacó la importancia del precio, la duración del alquiler, y la necesidad de un vehículo espacioso debido a que proviene de una familia grande. Camila mencionó problemas comunes en otras plataformas, como la incorrecta localización para recoger el vehículo y la falta de mantenimiento en los autos alquilados. Prefiere vehículos grandes y valoraría una mayor flexibilidad en la duración del alquiler. Actualmente, utiliza aplicaciones como Kayak y Pallets Card, aunque considera que no están optimizadas para el alquiler de autos. Camila espera recibir información detallada sobre el vehículo antes de alquilarlo, prefiere pagar con tarjeta para mantener un registro claro de las transacciones y considera esencial un sistema de monitoreo durante el alquiler. Además, sugiere que las plataformas se centren exclusivamente en el alquiler de autos y aseguren la calidad de los vehículos disponibles.
 
+**Entrevistado 2**
+
+<table border="1" style="text-align: left;">
+	<tbody>
+		<tr>
+			<td colspan="1" rowspan="6"><img src="https://github.com/user-attachments/assets/3cc25cc6-74a6-4951-bb02-af76d9386116" alt="Entrevista Edery 02" width="400" height="250"></td>
+            <td colspan="1" rowspan="1"><strong>Nombre del entrevistado
+            <br>
+            </strong> Edery
+            <br> Abanto Quizpe
+            </td>
+		</tr>
+        <tr>
+            <td>
+            <strong>Edad<br></strong> 25 años
+            <br>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <strong>Nombre del entrevistador</strong>
+            <br>Aarón Alexander
+            <br>Avila Palacios
+            </td>
+        </tr>
+        <tr>
+            <td>
+             <strong><a href="https://youtu.be/XRG3nDBWWqc](https://www.youtube.com/watch?v=Z1mXH-eT7UQ">URL Entrevista</a></strong>
+            </td>
+        </tr>        
+	</tbody>
+</table>
+
 Segmento Objetivo 2: Dueños de vehículos
 
 **Entrevistado 1**
