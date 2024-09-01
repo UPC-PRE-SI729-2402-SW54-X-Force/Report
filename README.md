@@ -580,7 +580,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
         <strong>Entonces</strong> debe recibir una confirmación inmediata de que su vehículo ha sido publicado con éxito y está disponible para renta.
       </td>
       <td colspan="1">EP003</td>
-		</tr>
+	</tr>
     <tr>
       <td colspan="1">US014</td>
       <td colspan="1">Control de Precios</td>
@@ -606,7 +606,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
         <br>
       </td>
       <td colspan="1">EP003</td>
-		</tr>
+	</tr>
     <tr>
       <td colspan="1">US015</td>
       <td colspan="1">Protección y Seguro</td>
@@ -639,31 +639,32 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
         <strong>Entonces</strong> debe recibir una notificación inmediata con instrucciones para iniciar el proceso de reclamación del seguro.
       </td>
       <td colspan="1">EP003</td>
-		</tr>
+	</tr>
     <tr>
       <td colspan="1">US016</td>
       <td colspan="1">Notificaciones de Disponibilidad</td>
       <td colspan="1">
-      <strong>Como</strong> dueño de auto, <strong>quiero</strong> recibir notificaciones cuando alguien esté interesado en rentar mi vehículo, <strong>para</strong> estar al tanto de las oportunidades de ingreso.	
+      <strong>Como</strong> dueño de auto, <strong>quiero</strong> recibir notificaciones cuando alguien esté interesado en rentar mi vehículo, <strong>para</strong> estar al tanto de las oportunidades de ingreso.
       </td>
       <td colspan="1">
-        <strong>E01:</strong>
+        <strong>E01: Notificación automática de interés</strong>
         <br>
-        <strong>Dado que</strong>
+        <strong>Dado que</strong> un dueño de auto desea estar al tanto de las oportunidades de ingreso,
         <br>
-        <strong>Y</strong>
+        <strong>Cuando</strong> un conductor muestra interés en rentar su vehículo, 
         <br>
-        <strong>Cuando</strong> 
+        <strong>Entonces</strong> el sistema debe enviar una notificación automática al dueño, informando sobre el posible alquiler.
+        <br><br>
+        <strong>E02: Opciones de personalización de notificaciones</strong>
         <br>
-        <strong>Y</strong>
+        <strong>Dado que</strong> un dueño de auto tiene diferentes preferencias para recibir alertas,
         <br>
-        <strong>Entonces</strong>
+        <strong>Cuando</strong> accede a la configuración de notificaciones, 
         <br>
-        <strong>Y</strong>
-        <br> 
+        <strong>Entonces</strong> debe poder personalizar cómo y cuándo recibir estas notificaciones (por ejemplo, por correo electrónico, SMS, o notificaciones push).
       </td>
       <td colspan="1">EP003</td>
-		</tr>
+	</tr>
     <tr>
       <td colspan="1">US017</td>
       <td colspan="1">Gestión de Reseñas</td>
@@ -671,23 +672,25 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
       <strong>Como</strong> dueño de auto, <strong>quiero</strong> poder gestionar las reseñas que los conductores dejan sobre mi vehículo, <strong>para</strong> mantener una buena reputación en la plataforma.	
       </td>
       <td colspan="1">
-        <strong>E01:</strong>
+        <strong>E01: Visualización de reseñas</strong>
         <br>
-        <strong>Dado que</strong>
+        <strong>Dado que</strong> un dueño de auto desea revisar las opiniones sobre su vehículo,
         <br>
-        <strong>Y</strong>
+        <strong>Cuando</strong> un conductor deja una reseña, 
         <br>
-        <strong>Cuando</strong> 
+        <strong>Entonces</strong> el dueño debe poder visualizar todas las reseñas en su perfil de propietario.
+        <br><br>
+        <strong>E02: Solicitud de revisión de reseña inapropiada</strong>
         <br>
-        <strong>Y</strong>
+        <strong>Dado que</strong> un dueño de auto encuentra una reseña inapropiada o falsa,
         <br>
-        <strong>Entonces</strong>
+        <strong>Cuando</strong> solicita una revisión de la reseña al soporte de la plataforma, 
         <br>
-        <strong>Y</strong>
-        <br>
+        <strong>Entonces</strong> debe poder enviar una solicitud de revisión para que la reseña sea evaluada y, si es necesario, eliminada.
+        <br><br>
       </td>
       <td colspan="1">EP003</td>
-		</tr>
+	</tr>
     <tr>
       <td colspan="1">US018</td>
       <td colspan="1">Verificación de Conductores</td>
@@ -695,23 +698,32 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
       <strong>Como</strong> dueño de auto, <strong>quiero</strong> que los conductores sean verificados a través de un proceso exhaustivo, <strong>para</strong> asegurarme de que son responsables y de confianza.	
       </td>
       <td colspan="1">
-        <strong>E01:</strong>
+        <strong>E01: Proceso de verificación de identidad</strong>
         <br>
-        <strong>Dado que</strong>
+        <strong>Dado que</strong> un conductor desea registrarse en la plataforma,
         <br>
-        <strong>Y</strong>
+        <strong>Cuando</strong> completa el formulario de registro,
         <br>
-        <strong>Cuando</strong> 
+        <strong>Entonces</strong> debe ser requerido subir un documento de identidad válido y pasar por una verificación de identidad.
+        <br><br>
+        <strong>E02: Revisión de historial de manejo</strong>
         <br>
-        <strong>Y</strong>
+        <strong>Dado que</strong> un conductor desea registrarse en la plataforma,
         <br>
-        <strong>Entonces</strong>
+        <strong>Cuando</strong> completa el formulario de registro,
         <br>
-        <strong>Y</strong>
+        <strong>Entonces</strong> debe validar que el conductor no tenga infracciones graves y cumpla con los estándares de seguridad.
+        <br><br>
+        <strong>E03: Verificación de datos personales</strong>
         <br>
+        <strong>Dado que</strong> un conductor ha proporcionado su información personal,
+        <br>
+        <strong>Cuando</strong> la plataforma procesa estos datos,
+        <br>
+        <strong>Entonces</strong> debe verificar la autenticidad de la información antes de aprobar su cuenta.
       </td>
       <td colspan="1">EP004</td>
-		</tr>
+	</tr>
     <tr>
       <td colspan="1">US019</td>
       <td colspan="1">Responsabilidad por Daños</td>
@@ -719,23 +731,32 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
       <strong>Como</strong> dueño de auto, <strong>quiero</strong> que los conductores sean responsables por cualquier daño que ocurra durante la renta, <strong>para</strong> proteger mi vehículo de posibles pérdidas.	
       </td>
       <td colspan="1">
-        <strong>E01:</strong>
+        <strong>E01: Acuerdo de responsabilidad antes de la renta</strong>
         <br>
-        <strong>Dado que</strong>
+        <strong>Dado que</strong> un conductor está a punto de confirmar una renta,
         <br>
-        <strong>Y</strong>
+        <strong>Cuando</strong> procede al pago,
         <br>
-        <strong>Cuando</strong> 
+        <strong>Entonces</strong> debe aceptar los términos que lo hacen responsable por cualquier daño ocurrido durante el periodo de renta.
+        <br><br>
+        <strong>E02: Reporte de daños</strong>
         <br>
-        <strong>Y</strong>
+        <strong>Dado que</strong> un daño ha ocurrido durante la renta,
         <br>
-        <strong>Entonces</strong>
+        <strong>Cuando</strong> el conductor entrega el vehículo,
         <br>
-        <strong>Y</strong>
+        <strong>Entonces</strong> debe reportar cualquier daño y la plataforma debe registrar el incidente para su resolución.
+        <br><br>
+        <strong>E03: Evaluación y compensación</strong>
         <br>
+        <strong>Dado que</strong> se ha reportado un daño al vehículo,
+        <br>
+        <strong>Cuando</strong> el dueño recibe el reporte,
+        <br>
+        <strong>Entonces</strong> el sistema debe evaluar el daño y calcular la compensación adecuada que el conductor debe pagar.
       </td>
       <td colspan="1">EP004</td>
-		</tr>
+	</tr>
     <tr>
       <td colspan="1">US020</td>
       <td colspan="1">Depósito de Seguridad</td>
@@ -743,23 +764,33 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
       <strong>Como</strong> dueño de auto, <strong>quiero</strong> que se retenga un depósito de seguridad a los conductores antes de la renta, <strong>para</strong> cubrir cualquier daño potencial o incumplimiento de contrato.	
       </td>
       <td colspan="1">
-        <strong>E01:</strong>
+        <strong>E01: Retención del depósito al confirmar la renta</strong>
         <br>
-        <strong>Dado que</strong>
+        <strong>Dado que</strong> que un conductor ha seleccionado un vehículo para rentar,
         <br>
-        <strong>Y</strong>
+        <strong>Cuando</strong> procede al pago de la renta, 
         <br>
-        <strong>Cuando</strong> 
+        <strong>Entonces</strong> se debe retener automáticamente un depósito de seguridad, y el conductor debe ser notificado de este cargo.
+        <br><br>
+        <strong>E02: Devolución del depósito tras la renta</strong>
         <br>
-        <strong>Y</strong>
+        <strong>Dado que</strong> el periodo de renta ha finalizado sin incidentes,
         <br>
-        <strong>Entonces</strong>
+        <strong>Cuando</strong> el dueño confirma que no hay daños ni incumplimientos, 
         <br>
-        <strong>Y</strong>
+        <strong>Entonces</strong> el sistema debe devolver el depósito de seguridad al conductor.
+        <br><br>
+        <strong>E03: Uso del depósito en caso de daños</strong>
         <br>
+        <strong>Dado que</strong> se ha registrado un daño o incumplimiento,
+        <br>
+        <strong>Cuando</strong> el dueño lo reporta
+        <br>
+        <strong>Entonces</strong> el sistema debe deducir el costo del depósito para cubrir los daños, notificando al conductor del monto deducido.
+        <br><br>
       </td>
       <td colspan="1">EP004</td>
-		</tr>
+	</tr>
     <tr>
       <td colspan="1">US021</td>
       <td colspan="1">Seguro Obligatorio</td>
@@ -767,23 +798,24 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
       <strong>Como</strong> dueño de auto, <strong>quiero</strong> que todos los conductores estén cubiertos por un seguro obligatorio durante la renta, <strong>para</strong> protegerme de costos inesperados en caso de accidentes.
       </td>
       <td colspan="1">
-        <strong>E01:</strong>
+        <strong>E01: Confirmación de seguro antes de la renta</strong>
         <br>
-        <strong>Dado que</strong>
+        <strong>Dado que</strong> un conductor ha seleccionado un vehículo para rentar,
         <br>
-        <strong>Y</strong>
+        <strong>Cuando</strong> procede a confirmar la reserva, 
         <br>
-        <strong>Cuando</strong> 
+        <strong>Entonces</strong> el sistema debe verificar automáticamente que el conductor cuenta con el seguro obligatorio activo, antes de permitir que la renta se complete.
+        <br><br>
+        <strong>E02: Notificación de seguro obligatorio</strong>
         <br>
-        <strong>Y</strong>
+        <strong>Dado que</strong> un conductor no tiene el seguro obligatorio,
         <br>
-        <strong>Entonces</strong>
+        <strong>Cuando</strong> intenta confirmar la renta,
         <br>
-        <strong>Y</strong>
-        <br>
+        <strong>Entonces</strong> el sistema debe notificar al conductor sobre la necesidad de adquirir el seguro antes de continuar con la transacción.
       </td>
       <td colspan="1">EP004</td>
-		</tr>
+	</tr>
     <tr>
       <td colspan="1">US022</td>
       <td colspan="1">Evaluación de Conductores</td>
@@ -791,23 +823,24 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
       <strong>Como</strong> dueño de auto, <strong>quiero</strong> poder evaluar a los conductores después de cada renta, <strong>para</strong> contribuir a la reputación en la plataforma y ayudar a otros dueños a tomar decisiones informadas.	
       </td>
       <td colspan="1">
-        <strong>E01:</strong>
+        <strong>E01: Evaluación al finalizar la renta</strong>
         <br>
-        <strong>Dado que</strong>
+        <strong>Dado que</strong> un conductor ha completado una renta,
         <br>
-        <strong>Y</strong>
+        <strong>Cuando</strong> el dueño del auto finaliza el proceso de devolución,
         <br>
-        <strong>Cuando</strong> 
+        <strong>Entonces</strong> el sistema debe permitirle calificar y dejar una reseña sobre el conductor.
+        <br><br>
+        <strong>E02: Confirmación de reseña</strong>
         <br>
-        <strong>Y</strong>
+        <strong>Dado que</strong> un dueño ha enviado una evaluación del conductor,
         <br>
-        <strong>Entonces</strong>
+        <strong>Cuando</strong> la reseña es enviada,
         <br>
-        <strong>Y</strong>
-        <br>
+        <strong>Entonces</strong> el sistema debe confirmar la recepción de la evaluación y mostrarla en el perfil del conductor.
       </td>
       <td colspan="1">EP004</td>
-		</tr>
+	</tr>
     <tr>
       <td colspan="1">US023</td>
       <td colspan="1">Sección Informativa de Condiciones de Alquiler</td>
