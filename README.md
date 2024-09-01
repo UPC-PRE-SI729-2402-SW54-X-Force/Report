@@ -242,30 +242,29 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
       <strong>Como</strong> conductor, <strong>quiero</strong> poder encontrar los vehículos más cercanos a mi ubicación <strong>para</strong> reducir el tiempo de espera y comenzar a usar el vehículo lo antes posible.
       </td>
       <td colspan="5">
-        <strong>E01:</strong>
+        <strong>E01: Selección de vehículo más cercano</strong>
         <br>
         <strong>Dado que</strong> un conductor se encuentra en una ubicación específica y necesita encontrar un vehículo cercano,
 		<br>
-         <strong>Y</strong> ha ingresado su ubicación en la aplicación,
-		 <br>
-         <strong>Cuando</strong> realiza la búsqueda de vehículos cercanos,
-	      <br>
-         <strong>Y</strong> visualiza la lista de vehículos disponibles en su área,
-	      <br>
-         <strong>Entonces</strong> el conductor debe ser capaz de seleccionar el vehículo más cercano para reducir el tiempo de espera.
-	  <br>   
-	      <br>
-         <strong>E02:</strong>
+        <strong>Y</strong> ha ingresado su ubicación en la aplicación,
+		<br>
+        <strong>Cuando</strong> realiza la búsqueda de vehículos cercanos,
+	    <br>
+        <strong>Y</strong> visualiza la lista de vehículos disponibles en su área,
+	    <br>
+        <strong>Entonces</strong> el conductor debe ser capaz de seleccionar el vehículo más cercano para reducir el tiempo de espera.
+	    <br><br>
+        <strong>E02: Instrucciones claras para acceder</strong>
         <br>
-         <strong>Dado que</strong> un conductor está buscando un vehículo en una ciudad que está visitando,
-	      <br>
-         <strong>Y</strong> ha utilizado la funcionalidad de búsqueda en la aplicación,
-	      <br>
-         <strong>Cuando</strong> el conductor visualiza los resultados de búsqueda,
-	      <br>
-         <strong>Y</strong> selecciona un vehículo cercano,
-	      <br>
-         <strong>Entonces</strong> debe recibir instrucciones claras sobre cómo llegar al vehículo seleccionado y la opción de iniciar la renta de inmediato.
+        <strong>Dado que</strong> un conductor está buscando un vehículo en una ciudad que está visitando,
+	    <br>
+        <strong>Y</strong> ha utilizado la funcionalidad de búsqueda en la aplicación,
+	    <br>
+        <strong>Cuando</strong> el conductor visualiza los resultados de búsqueda,
+	    <br>
+        <strong>Y</strong> selecciona un vehículo cercano,
+	    <br>
+        <strong>Entonces</strong> debe recibir instrucciones claras sobre cómo llegar al vehículo seleccionado y la opción de iniciar la renta de inmediato.
       </td>
       <td colspan="1">EP001</td>
 		</tr>
@@ -273,23 +272,28 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
       <td colspan="1">US002</td>
       <td colspan="1">Renta de vehículo</td>
       <td colspan="1">
-      <strong>Como</strong> conductor, <strong>quiero</strong> poder encontrar los vehículos más cercanos a mi ubicación <strong>para</strong> reducir el tiempo de espera y comenzar a usar el vehículo lo antes posible.	
+      <strong>Como</strong> conductor, <strong>quiero</strong> confirmar la hora de entrega y ubicación a mi conveniencia del vehículo <strong>para</strong> asegurarse de que el vehículo esté disponible cuando y donde lo necesite.	
       </td>
       <td colspan="5">
-        <strong>E01:</strong>
+        <strong>E01: Coordinación de entrega al alquilar</strong>
         <br>
-        <strong>Dado que</strong>
+        <strong>Dado que</strong> un conductor esta coordinando el alquiler
         <br>
-        <strong>Y</strong>
+        <strong>Cuando</strong> selecciona el vehiculo a alquilar
         <br>
-        <strong>Cuando</strong> 
+        <strong>Entonces</strong> automáticamente se le selecciona el punto de entrega más cercano disponible.
+        <br><br>
+        <strong>E02: Coordinación de entrega personalizada</strong>
         <br>
-        <strong>Y</strong>
+        <strong>Dado que</strong> un conductor esta coordinando el alquiler
         <br>
-        <strong>Entonces</strong>
+        <strong>Y</strong> el lugar de entrega no se acomoda a sus necesidades
         <br>
-        <strong>Y</strong>
+        <strong>Cuando</strong> propone un lugar personalizado para la entrega
         <br>
+        <strong>Y</strong> el dueño esta deacuerdo
+        <br>
+        <strong>Entonces</strong> el sistema permite establecer un nuevo punto de entrega.
       </td>
       <td colspan="1">EP001</td>
 		</tr>
@@ -300,20 +304,23 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
       <strong>Como</strong> conductor, <strong>quiero</strong> confirmar la hora de devolución y ubicación del vehículo <strong>para</strong> asegurarse de que el proceso de devolución sea rápido y conveniente para ambas partes.	
       </td>
       <td colspan="5">
-        <strong>E01:</strong>
+        <strong>E01: Coordinación de devolución al alquilar</strong>
         <br>
-        <strong>Dado que</strong>
+        <strong>Dado que</strong> un conductor esta coordinando el alquiler
         <br>
-        <strong>Y</strong>
+        <strong>Cuando</strong> selecciona el vehiculo a alquilar
         <br>
-        <strong>Cuando</strong> 
+        <strong>Entonces</strong> automáticamente se le selecciona el punto de devolución a la misma hora y en el mismo lugar que donde lo recoge.
+        <br><br>
+        <strong>E02: Coordinación de devolución después de alquilar</strong>
         <br>
-        <strong>Y</strong>
+        <strong>Dado que</strong> un conductor ha alquilado un auto
         <br>
-        <strong>Entonces</strong>
+        <strong>Y</strong> se encuentra dentro del plazo de entrega
         <br>
-        <strong>Y</strong>
+        <strong>Cuando</strong> desea devolver el auto antes de tiempo
         <br>
+        <strong>Entonces</strong> puede comunicarse con el dueño para coordinar un horario de nrega previo al ya establecido
       </td>
       <td colspan="1">EP001</td>
 		</tr>
@@ -324,19 +331,29 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
       <strong>Como</strong> conductor, <strong>quiero</strong> poder extender la duración de mi renta de vehículo en caso de que necesite más tiempo, <strong>para</strong> evitar interrupciones en mi movilidad.
       </td>
       <td colspan="5">
-        <strong>E01:</strong>
+        <strong>E01: Extensión antes de alquiler</strong>
         <br>
-        <strong>Dado que</strong>
+        <strong>Dado que</strong> todavía existe un tiempo prudente antes de que se active la reserva
         <br>
-        <strong>Y</strong>
+        <strong>Y</strong> el conductor desea extender el tiempo de alquiler
         <br>
-        <strong>Cuando</strong> 
+        <strong>Cuando</strong> se comunica con el dueño
         <br>
-        <strong>Y</strong>
+        <strong>Y</strong> la extensión es coordinada
         <br>
-        <strong>Entonces</strong>
+        <strong>Entonces</strong> el sistema permite la extensión del alquiler
+        <br><br>
+        <strong>E02: Extensión durante alquiler</strong>
         <br>
-        <strong>Y</strong>
+        <strong>Dado que</strong> el tiempo de alquiler se encuentre vigente
+        <br>
+        <strong>Y</strong> el conductor desea extender el tiempo de alquiler
+        <br>
+        <strong>Cuando</strong> se comunica con el dueño
+        <br>
+        <strong>Y</strong> el dueño acepta la extensión
+        <br>
+        <strong>Entonces</strong> el sistema permite la extensión del alquiler
         <br>
       </td>
       <td colspan="1">EP001</td>
@@ -348,20 +365,21 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
       <strong>Como</strong> conductor, <strong>quiero</strong> poder configurar mis preferencias de vehículo (por ejemplo, tipo de transmisión, combustible, etc.), <strong>para</strong> asegurarme de que el vehículo asignado cumpla con mis necesidades.
       </td>
       <td colspan="5">
-        <strong>E01:</strong>
+        <strong>E01: Elegir preferencias</strong>
         <br>
-        <strong>Dado que</strong>
+        <strong>Dado que</strong> el conductor se encuentra en la barra de busqueda
         <br>
-        <strong>Y</strong>
+        <strong>Cuando</strong> establece un filtro de busqueda
         <br>
-        <strong>Cuando</strong> 
+        <strong>Entonces</strong> se visualizan solo vehiculos con las características seleccionadas
+        <br><br>
+        <strong>E02: Mostrar características</strong>
         <br>
-        <strong>Y</strong>
+        <strong>Dado que</strong> el conductor se encuentra visualizando las pociones a alquilar
         <br>
-        <strong>Entonces</strong>
+        <strong>Cuando</strong> visualiza un auto en especifico
         <br>
-        <strong>Y</strong>
-        <br>
+        <strong>Entonces</strong> se visualizan las características del vehículo
       </td>
       <td colspan="1">EP001</td>
 		</tr>
@@ -369,23 +387,26 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
       <td colspan="1">US006</td>
       <td colspan="1">Pago Flexible</td>
       <td colspan="1">
-      <strong>Como</strong> conductor, <strong>quiero</strong> poder elegir entre diferentes métodos de pago y opciones de pago (por ejemplo, pagos parciales, a plazos, etc.), <strong>para</strong>	tener mayor flexibilidad financiera al alquilar un vehículo.
+      <strong>Como</strong> conductor, <strong>quiero</strong> poder elegir entre diferentes métodos de pago y opciones de pago (por ejemplo, pagos parciales, a plazos, etc.), <strong>para</strong> tener mayor flexibilidad financiera al alquilar un vehículo.
       </td>
       <td colspan="5">
-        <strong>E01:</strong>
+        <strong>E01: Pago digital</strong>
         <br>
-        <strong>Dado que</strong>
+        <strong>Dado que</strong> se ha elegido la opción de pago digital
         <br>
-        <strong>Y</strong>
+        <strong>Cuando</strong> el conductor escoge la opción de pagar
         <br>
-        <strong>Cuando</strong> 
+        <strong>Entonces</strong> se desplieganlos métodos de pago online
         <br>
-        <strong>Y</strong>
+        <strong>Y</strong> el conductor es capaz de pagar.
+        <br><br>
+        <strong>E02: Pago en efectivo</strong>
         <br>
-        <strong>Entonces</strong>
+        <strong>Dado que</strong> se ha elegido la opción de pago en efectivo
         <br>
-        <strong>Y</strong>
+        <strong>Cuando</strong> el conductor escoge la opción de pagar 
         <br>
+        <strong>Entonces</strong> se le notifica al conductor que el pago al completo se realizará al recoger el auto.
       </td>
       <td colspan="1">EP001</td>
 		</tr>
