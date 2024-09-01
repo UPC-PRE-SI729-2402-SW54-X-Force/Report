@@ -357,7 +357,7 @@ Segmento Objetivo 1: Arrendatarios
         </tr>
         <tr>
             <td>
-             <strong><a href="https://youtu.be/XRG3nDBWWqc">URL Entrevista</a></strong>
+             <strong><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u201824409_upc_edu_pe/ERHRxTGCN1FPlTQLZIMBjoIB3FBD3YjtoWLtrjNNNvhxOA?e=O28m0F&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">URL Entrevista</a></strong>
             </td>
         </tr>        
 	</tbody>
@@ -428,7 +428,7 @@ Segmento Objetivo 2: Dueños de vehículos
         </tr>
         <tr>
             <td>
-             <strong><a href="https://www.youtube.com/watch?v=cvLH3KDQxxU">URL Entrevista</a></strong>
+             <strong><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u201824409_upc_edu_pe/EbAkPmdyg4hImYoSgge82doBar4QyF2af49nfJwCpS0wew?e=RY7ucq&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">URL Entrevista</a></strong>
             </td>
         </tr>        
 	</tbody>
