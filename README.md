@@ -399,6 +399,47 @@ Camila, de 20 años, es una usuaria que alquila vehículos una o dos veces al a�
 	</tbody>
 </table>
 
+
+**Entrevistado 3**
+
+<table border="1" style="text-align: left;">
+	<tbody>
+		<tr>
+			<td colspan="1" rowspan="6"><img src="./resources/interviews/Entrevista_4.png" alt="Entrevista George 02" width="400" height="250"></td>
+            <td colspan="1" rowspan="1"><strong>Nombre del entrevistado
+            <br>
+            </strong> Carla 
+            <br> Taipe
+            </td>
+		</tr>
+        <tr>
+            <td>
+            <strong>Edad<br></strong> 26 años
+            <br>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <strong>Nombre del entrevistador</strong>
+            <br>George Aldo
+            <br>Galván Cerrón
+            </td>
+        </tr>
+        <tr>
+            <td>
+             <strong><a href="">URL Entrevista</a></strong>
+            </td>
+        </tr>        
+	</tbody>
+</table>
+
+Carla Taype de 26 años es una arrendataria que destaca la importancia de la seguridad en el proceso de alquiler de vehículos. Para ella, es fundamental que tanto el propietario como el arrendatario tengan todos los papeles en orden, lo que incluye documentos de identidad y comprobantes de propiedad y seguro del vehículo. Carla menciona que sentirse segura y respaldada es clave para tener una buena experiencia.
+
+Otro aspecto que Carla valora enormemente es la calificación de los usuarios en la plataforma. Confía en el sistema de valoraciones para seleccionar los vehículos y los propietarios más confiables, y cree que es una herramienta esencial para mantener la calidad del servicio. Además, sugiere que la plataforma podría ofrecer garantías adicionales, como la verificación de antecedentes de los usuarios, para elevar aún más el nivel de seguridad.
+
+Finalmente, Carla señala que un buen servicio al cliente por parte de la plataforma es crucial, especialmente si surge algún inconveniente durante el alquiler. Para ella, la posibilidad de recibir asistencia rápida y eficiente genera confianza y asegura que repetiría la experiencia en el futuro.
+
+
 Segmento Objetivo 2: Dueños de vehículos
 
 **Entrevistado 1**
@@ -436,6 +477,43 @@ Segmento Objetivo 2: Dueños de vehículos
 
 Resumen: 
 Nicolás Ávila, de 24 años, alquila su vehículo cuando no lo está utilizando para generar ingresos adicionales. Sus principales preocupaciones al alquilar son el mantenimiento del vehículo y asegurarse de que los arrendatarios lo cuiden adecuadamente. Nicolás valora recibir información sobre el historial financiero de los arrendatarios antes de aprobar un alquiler. Determina el precio de alquiler basado en la capacidad de asientos y el valor del vehículo, incluyendo la marca y el modelo. Prefiere plataformas que sean fáciles de usar, con todas las opciones necesarias en la pantalla principal. Nicolás suele alquilar su vehículo cuando está fuera del país, para evitar que el auto quede estático. Prefiere recibir los pagos en dos partes, mitad por adelantado y mitad después, a través de transferencia bancaria. En cuanto a seguros, prioriza una protección contra robos, para resolver cualquier eventualidad grave. Ha tenido experiencias negativas con otras plataformas que considera confusas y poco amigables. Para el monitoreo del vehículo, sugiere la implementación de una función GPS que permita conocer la ubicación del auto en todo momento.
+
+
+**Entrevistado 2**
+
+<table border="1" style="text-align: left;">
+	<tbody>
+		<tr>
+			<td colspan="1" rowspan="6"><img src="./resources/interviews/Entrevista_3.png" alt="Entrevista George 01" width="400" height="250"></td>
+            <td colspan="1" rowspan="1"><strong>Nombre del entrevistado
+            <br>
+            </strong> Sebastian 
+            <br> Ramirez
+            </td>
+		</tr>
+        <tr>
+            <td>
+            <strong>Edad<br></strong> 23 años
+            <br>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <strong>Nombre del entrevistador</strong>
+            <br>George Aldo
+            <br>Galván Cerrón
+            </td>
+        </tr>
+        <tr>
+            <td>
+             <strong><a href="">URL Entrevista</a></strong>
+            </td>
+        </tr>        
+	</tbody>
+</table>
+
+Sebastián Ramírez es un joven emprendedor que alquila su vehículo cuando, por falta de tiempo, no puede usarlo o para generar ingresos adicionales. Sebastián nos comenta que la característica principal que busca al confiar su vehículo a otra persona es la confiabilidad, y que esta persona pueda demostrarlo presentando documentos personales que acrediten su identidad. No pretende alquilar el vehículo a un precio excesivo, ya que su objetivo es hacerlo accesible para una mayor cantidad de personas, y asegura que siempre lo mantiene en condiciones óptimas, con revisiones regulares y limpieza constante.
+Además, nos menciona que valora mucho que la plataforma ofrezca un "plus" a los dueños de vehículos como él, que se esfuerzan en mantener sus autos en perfectas condiciones para la comodidad de los usuarios que decidan alquilarlos. Sebastián también sugiere que la plataforma podría implementar un sistema de calificación y recompensas para aquellos propietarios que reciben buenas valoraciones, lo cual incentivaría a más dueños a cuidar sus vehículos y a brindar un mejor servicio. Finalmente, destaca que una buena experiencia para ambas partes no solo depende del estado del vehículo, sino también de la transparencia y seguridad en todo el proceso de alquiler, asegurando que tanto el propietario como el arrendatario se sientan tranquilos y satisfechos con la transacción.
 
 #### 2.2.3. Análisis de entrevistas
 ### 2.3. Needfinding
