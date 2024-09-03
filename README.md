@@ -537,6 +537,15 @@ Además, nos menciona que valora mucho que la plataforma ofrezca un "plus" a los
   <img src="./resources/user_journey/UJM%20Dueño%20de%20Vehículo.png" alt="Anderson Díaz"/>
 
 #### 2.3.4. Empathy Mapping
+
+- Arrendatario:
+
+  <img src="./resources/emphaty_mapping/Empathy%20map%20arrendatario.png" alt="Gabriela Flores"/>
+
+- Dueño de Vehículo:
+
+  <img src="./resources/emphaty_mapping/Empathy%20map%20dueño%20de%20vehículo.png" alt="Anderson Díaz"/>
+
 #### 2.3.5. As-is Scenario Mapping
 ### 2.4. Ubiquitous Language
 
