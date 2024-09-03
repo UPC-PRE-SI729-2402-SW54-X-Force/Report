@@ -999,6 +999,216 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
 <strong><a href="https://miro.com/welcomeonboard/RzVrSHczejYxM2tSNGY3U2NNWlVsM0Rnc3NHMVVhOEt6SENoR2JUS3BXV3hkTGI0TFNLaDJRN3NOcTBtUkF3QXwzNDU4NzY0NTk4ODUwMjE1OTE5fDI=?share_link_id=251034716191">Link del Impact Mapping</a></strong>
 
 ### 3.4. Product Backlog
+<table>
+  <thead>
+    <tr>
+      <th># Orden</th>
+      <th>User Story Id</th>
+      <th>Título</th>
+      <th>Descripción</th>
+      <th>Story Points (1 / 2 / 3 / 5 / 8)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>US008</td>
+      <td>Validación de propiedad</td>
+      <td>Como conductor, quiero confirmar que el vehículo a alquilar sea de la propiedad de la persona que brinda el servicio, para poder asegurarme que no tendré ningún percance legal.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>US009</td>
+      <td>Validación de documentos</td>
+      <td>Como conductor, quiero corroborar que los documentos del vehículo que voy a alquilar estén en regla, para asegurarme que no tendré ningún percance legal.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>US010</td>
+      <td>Inspección del Vehículo</td>
+      <td>Como conductor, quiero que el vehículo sea inspeccionado y certificado antes de cada renta, para asegurarme de que esté en condiciones óptimas de funcionamiento.</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>US011</td>
+      <td>Reputación del Propietario</td>
+      <td>Como conductor, quiero poder revisar la reputación y reseñas del propietario del vehículo, para asegurarme de que estoy tratando con alguien confiable y con buenas referencias.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>US012</td>
+      <td>Atención al Cliente 24/7</td>
+      <td>Como conductor, quiero tener acceso a un servicio de atención al cliente disponible las 24 horas, para recibir ayuda inmediata en caso de cualquier problema durante mi renta.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>US013</td>
+      <td>Garantía de Calidad</td>
+      <td>Como conductor, quiero una garantía de que recibiré un vehículo limpio y en buenas condiciones, para tener una experiencia de alta calidad durante mi renta.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>US016</td>
+      <td>Protección y Seguro</td>
+      <td>Como dueño de auto, quiero que mi vehículo esté asegurado contra daños y robos durante el periodo de renta, para sentirme tranquilo al alquilarlo.</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>US019</td>
+      <td>Verificación de Conductores</td>
+      <td>Como dueño de auto, quiero que los conductores sean verificados a través de un proceso exhaustivo, para asegurarme de que son responsables y de confianza.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>US020</td>
+      <td>Responsabilidad por Daños</td>
+      <td>Como dueño de auto, quiero que los conductores sean responsables por cualquier daño que ocurra durante la renta, para proteger mi vehículo de posibles pérdidas.</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>US021</td>
+      <td>Depósito de Seguridad</td>
+      <td>Como dueño de auto, quiero que se retenga un depósito de seguridad a los conductores antes de la renta, para cubrir cualquier daño potencial o incumplimiento de contrato.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>US022</td>
+      <td>Seguro Obligatorio</td>
+      <td>Como dueño de auto, quiero que todos los conductores estén cubiertos por un seguro obligatorio durante la renta, para protegerme de costos inesperados en caso de accidentes.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>US027</td>
+      <td>Descripción de Medidas de Seguridad</td>
+      <td>Como visitante, quiero una sección en la landing page que describa todas las medidas de seguridad implementadas para proteger mi vehículo, para sentirme tranquilo al alquilarlo.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>US028</td>
+      <td>Políticas de Seguros y Protección</td>
+      <td>Como visitante, quiero leer las políticas de seguros y protección que la plataforma ofrece, para asegurarme de que mi vehículo estará cubierto en caso de daños.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>US001</td>
+      <td>Encontrar vehículos</td>
+      <td>Como conductor, quiero poder encontrar los vehículos más cercanos a mi ubicación para reducir el tiempo de espera y comenzar a usar el vehículo lo antes posible.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>US002</td>
+      <td>Renta de vehículo</td>
+      <td>Como conductor, quiero poder encontrar los vehículos más cercanos a mi ubicación para reducir el tiempo de espera y comenzar a usar el vehículo lo antes posible.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>US003</td>
+      <td>Devolución de vehículo</td>
+      <td>Como conductor, quiero confirmar la hora de devolución y ubicación del vehículo para asegurarse de que el proceso de devolución sea rápido y conveniente para ambas partes.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>US004</td>
+      <td>Extensión de Renta</td>
+      <td>Como conductor, quiero poder extender la duración de mi renta de vehículo en caso de que necesite más tiempo, para evitar interrupciones en mi movilidad.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>US005</td>
+      <td>Configuración de Preferencias del Vehículo</td>
+      <td>Como conductor, quiero poder configurar mis preferencias de vehículo (por ejemplo, tipo de transmisión, combustible, etc.), para asegurarme de que el vehículo asignado cumpla con mis necesidades.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>US006</td>
+      <td>Pago Flexible</td>
+      <td>Como conductor, quiero poder elegir entre diferentes métodos de pago y opciones de pago (por ejemplo, pagos parciales, a plazos, etc.), para tener mayor flexibilidad financiera al alquilar un vehículo.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>US007</td>
+      <td>Asistencia en Carretera</td>
+      <td>Como conductor, quiero tener acceso a un servicio de asistencia en carretera, para sentirme seguro en caso de emergencias o problemas técnicos con el vehículo.</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>US014</td>
+      <td>Publicación Fácil de Vehículo</td>
+      <td>Como dueño de auto, quiero poder publicar mi vehículo en la plataforma de manera rápida y sencilla, para empezar a generar ingresos lo antes posible.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>US015</td>
+      <td>Control de Precios</td>
+      <td>Como dueño de auto, quiero tener control sobre el precio de renta de mi vehículo, para asegurarme de que estoy ganando una cantidad justa según la demanda.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>US017</td>
+      <td>Notificaciones de Disponibilidad</td>
+      <td>Como dueño de auto, quiero recibir notificaciones cuando alguien esté interesado en rentar mi vehículo, para estar al tanto de las oportunidades de ingreso.</td>
+      <td>3</td>
+    </tr>
+	<tr>
+      <td>24</td>
+      <td>US018</td>
+      <td>Gestión de Reseñas</td>
+      <td>Como dueño de auto, quiero poder gestionar las reseñas que los conductores dejan sobre mi vehículo, para mantener una buena reputación en la plataforma.</td>
+      <td>3</td>
+    </tr>  
+	<tr>
+      <td>25</td>
+      <td>US023</td>
+      <td>Evaluación de Conductores</td>
+      <td>Como dueño de auto, quiero poder evaluar a los conductores después de cada renta, para contribuir a la reputación en la plataforma y ayudar a otros dueños a tomar decisiones informadas.</td>
+      <td>3</td>
+    </tr>  
+	  <tr>
+      <td>26</td>
+      <td>US024</td>
+      <td>Sección Informativa de Condiciones de Alquiler</td>
+      <td>Como visitante, quiero una sección clara y accesible en la landing page que explique todas las condiciones de alquiler, para poder tomar una decisión informada sobre el uso del servicio.</td>
+      <td>3</td>
+    </tr>  
+	    <tr>
+      <td>27</td>
+      <td>US025</td>
+      <td>Testimonios de Usuarios Anteriores</td>
+      <td>Como visitante, quiero leer testimonios de otros usuarios que han alquilado vehículos a través de la plataforma, para sentirme más seguro sobre la calidad del servicio.</td>
+      <td>3</td>
+    </tr> 
+	      <tr>
+      <td>28</td>
+      <td>US026</td>
+      <td>Consejos para Uso del Servicio</td>
+      <td>Como visitante, quiero poder ver una sección de blog en la que pueda visualizar consejos para poder tener mayor comodidad al usar el servicio.</td>
+      <td>3</td>
+    </tr>  
+     </tbody>
+</table>
+
 
 ## Capítulo IV: Product Design <a id="cap4"></a>
 
