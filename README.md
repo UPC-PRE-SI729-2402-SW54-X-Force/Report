@@ -526,6 +526,112 @@ Además, nos menciona que valora mucho que la plataforma ofrezca un "plus" a los
   <img src="./resources/user_personas/Anderson%20Díaz.png" alt="Anderson Díaz"/>
 
 #### 2.3.2. User Task Matrix
+
+- Arrendatario:
+
+<table border="1" style="text-align: center;">
+	<tbody>
+		<tr>
+			<td colspan="1" rowspan="2">User Tax Matrix</td>
+            <td colspan="2" rowspan="1">Segmento Objetivo 1</td>            
+		</tr>
+		<tr>
+			<td colspan="1">Frecuencia</td>
+            <td colspan="1">Importancia</td>            
+		</tr>
+        <tr>
+			<td colspan="1">Buscar y comparar vehículos</td>
+			<td colspan="1">Mensual</td>
+            <td colspan="1">Alta</td>            
+		</tr>
+        <tr>
+			<td colspan="1">Revisar calificaciones de usuarios</td>
+			<td colspan="1">Mensual</td>
+            <td colspan="1">Alta</td>            
+		</tr>
+        <tr>
+			<td colspan="1">Verificar documentos del propietario</td>
+			<td colspan="1">Mensual</td>
+            <td colspan="1">Alta</td>            
+		</tr>
+        <tr>
+			<td colspan="1">Confirmar la reserva</td>
+			<td colspan="1">Mensual</td>
+            <td colspan="1">Alta</td>            
+		</tr>
+        <tr>
+			<td colspan="1">Recoger el vehículo</td>
+			<td colspan="1">Mensual</td>
+            <td colspan="1">Alta</td>            
+		</tr>
+        <tr>
+			<td colspan="1">Utilizar el vehículo</td>
+			<td colspan="1">Mensual</td>
+            <td colspan="1">Alta</td>            
+		</tr>
+        <tr>
+			<td colspan="1">Devolver el vehículo</td>
+			<td colspan="1">Mensual</td>
+            <td colspan="1">Alta</td>            
+		</tr>
+        <tr>
+			<td colspan="1">Contactar servicio al cliente en caso de problemas</td>
+			<td colspan="1">Rara vez</td>
+            <td colspan="1">Media</td>            
+		</tr>        
+	</tbody>
+</table>
+
+- Dueño de Vehículo:
+
+<table border="1" style="text-align: center;">
+	<tbody>
+		<tr>
+			<td colspan="1" rowspan="2">User Tax Matrix</td>
+            <td colspan="2" rowspan="1">Segmento Objetivo 2</td>            
+		</tr>
+		<tr>
+			<td colspan="1">Frecuencia</td>
+            <td colspan="1">Importancia</td>            
+		</tr>
+        <tr>
+			<td colspan="1">Publicar el vehículo en la plataforma</td>
+			<td colspan="1">Mensual</td>
+            <td colspan="1">Alta</td>            
+		</tr>
+        <tr>
+			<td colspan="1">Revisar solicitudes de arrendamiento</td>
+			<td colspan="1">Mensual</td>
+            <td colspan="1">Alta</td>            
+		</tr>
+        <tr>
+			<td colspan="1">Verificar documentos de los arrendatarios</td>
+			<td colspan="1">Mensual</td>
+            <td colspan="1">Alta</td>            
+		</tr>
+        <tr>
+			<td colspan="1">Aprobar o rechazar solicitudes</td>
+			<td colspan="1">Mensual</td>
+            <td colspan="1">Alta</td>            
+		</tr>
+        <tr>
+			<td colspan="1">Monitorear el estado del vehículo durante el alquiler</td>
+			<td colspan="1">Mensual</td>
+            <td colspan="1">Alta</td>            
+		</tr>
+        <tr>
+			<td colspan="1">Recibir el vehículo de vuelta</td>
+			<td colspan="1">Mensual</td>
+            <td colspan="1">Alta</td>            
+		</tr>
+        <tr>
+			<td colspan="1">Inspeccionar el vehículo después del alquiler</td>
+			<td colspan="1">Mensual</td>
+            <td colspan="1">Alta</td>            
+		</tr>              
+	</tbody>
+</table>
+
 #### 2.3.3. User Journey Mapping
 
 - Arrendatario:
