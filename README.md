@@ -995,6 +995,9 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
 </table>
 
 ### 3.3. Impact Mapping
+![Impact map11](https://github.com/user-attachments/assets/99e0c235-a7d3-4c4b-8de3-f5383131762b)
+<strong><a href="https://miro.com/welcomeonboard/RzVrSHczejYxM2tSNGY3U2NNWlVsM0Rnc3NHMVVhOEt6SENoR2JUS3BXV3hkTGI0TFNLaDJRN3NOcTBtUkF3QXwzNDU4NzY0NTk4ODUwMjE1OTE5fDI=?share_link_id=251034716191">Link del Impact Mapping</a></strong>
+
 ### 3.4. Product Backlog
 
 ## Capítulo IV: Product Design <a id="cap4"></a>
