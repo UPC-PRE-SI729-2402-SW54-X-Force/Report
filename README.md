@@ -523,10 +523,19 @@ Además, nos menciona que valora mucho que la plataforma ofrezca un "plus" a los
 
 - Dueño de Vehículo:
 
-  <img src="./resources/user_personas/Anderson%20Díaz.png" alt="Ana Pérez"/>
+  <img src="./resources/user_personas/Anderson%20Díaz.png" alt="Anderson Díaz"/>
 
 #### 2.3.2. User Task Matrix
 #### 2.3.3. User Journey Mapping
+
+- Arrendatario:
+
+  <img src="./resources/user_journey/User%20journey%20map%20arrendatario.png" alt="Gabriela Flores"/>
+
+- Dueño de Vehículo:
+
+  <img src="./resources/user_journey/UJM%20Dueño%20de%20Vehículo.png" alt="Anderson Díaz"/>
+
 #### 2.3.4. Empathy Mapping
 #### 2.3.5. As-is Scenario Mapping
 ### 2.4. Ubiquitous Language
