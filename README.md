@@ -653,6 +653,15 @@ Además, nos menciona que valora mucho que la plataforma ofrezca un "plus" a los
   <img src="./resources/emphaty_mapping/Empathy%20map%20dueño%20de%20vehículo.png" alt="Anderson Díaz"/>
 
 #### 2.3.5. As-is Scenario Mapping
+
+- Arrendatario:
+
+  <img src="./resources/as_is/as_is_arendatario.png" alt="Gabriela Flores"/>
+
+- Dueño de Vehículo:
+
+  <img src="./resources/as_is/as_is_dueño_vehículo.png" alt="Anderson Díaz"/>
+
 ### 2.4. Ubiquitous Language
 
 
