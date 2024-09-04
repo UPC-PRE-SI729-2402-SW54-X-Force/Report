@@ -183,14 +183,23 @@ DriveNow
 La tipografía seleccionada es Open Sans, que será utilizada en todos los textos de la aplicación. Este estilo tipográfico ofrece una excelente legibilidad y una apariencia moderna. El tamaño de fuente debe ajustarse automáticamente según el dispositivo, para asegurar que tanto en dispositivos móviles como en escritorio, la lectura sea óptima.
 </p>
 
-<td colspan="1" rowspan="6"><img src="" alt="typography" width="400" height="250"></td>
+<div align="center">
+  <td colspan="1" rowspan="6">
+    <img src="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report/blob/feature/chapter_4/resources/Items/Typography.png?raw=true" alt="typography" width="400" height="250">
+  </td>
+</div>
 
 <p align="justify">
-<strong>Colores</strong><br>
-El esquema de colores de la aplicación está basado en tres tonos principales, cuidadosamente seleccionados para dar una apariencia limpia y profesional.
+  <strong>Colores</strong><br>
+  El esquema de colores de la aplicación está basado en tres tonos principales, cuidadosamente seleccionados para dar una apariencia limpia y profesional.
 </p>
 
-<td colspan="1" rowspan="6"><img src="" alt="colors" width="400" height="250"></td>
+<div align="center">
+  <td colspan="1" rowspan="6">
+    <img src="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report/blob/feature/chapter_4/resources/Items/Colors.png?raw=true" alt="colors" width="400" height="200">
+  </td>
+</div>
+
 
 <p align="justify">
 <strong>Color Primario:</strong><br>
@@ -240,6 +249,50 @@ En cuanto a los márgenes y el espaciado entre elementos, seguiremos un sistema 
 </p>
 
 #### 4.1.2. Web Style Guidelines
+
+<p align="justify">
+1. **Diseño:**  
+El diseño debe ser limpio, moderno y responsivo, adaptándose a todos los dispositivos.
+</p>
+
+<div align="center">
+  <td colspan="1" rowspan="6">
+    <img src="" alt="design" width="400" height="200">
+  </td>
+</div>
+
+<p align="justify">
+2. **Botones:**  
+Los botones principales y secundarios deben destacar claramente con colores consistentes.
+</p>
+
+<div align="center">
+  <td colspan="1" rowspan="6">
+    <img src="" alt="Buttons" width="400" height="200">
+  </td>
+</div>
+
+<p align="justify">
+3. **Tema:**  
+El tema visual debe ser coherente con la identidad de la aplicación, utilizando los colores establecidos.
+</p>
+
+<div align="center">
+  <td colspan="1" rowspan="6">
+    <img src="" alt="theme" width="400" height="200">
+  </td>
+</div>
+
+<p align="justify">
+4. **Logo:**  
+El logo debe ser simple y visible en todo el sitio, manteniendo siempre su proporción correcta.
+</p>
+
+<div align="center">
+  <td colspan="1" rowspan="6">
+    <img src="" alt="logo" width="400" height="200">
+  </td>
+</div>
 
 
 ### 4.2. Information Architecture
