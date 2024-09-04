@@ -257,7 +257,7 @@ El diseño debe ser limpio, moderno y responsivo, adaptándose a todos los dispo
 
 <div align="center">
   <td colspan="1" rowspan="6">
-    <img src="" alt="design" width="400" height="200">
+    <img src="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report/blob/feature/chapter_4/resources/Items/Designs.png?raw=true" alt="design" width="350" height="220">
   </td>
 </div>
 
@@ -268,7 +268,7 @@ Los botones principales y secundarios deben destacar claramente con colores cons
 
 <div align="center">
   <td colspan="1" rowspan="6">
-    <img src="" alt="Buttons" width="400" height="200">
+    <img src="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report/blob/feature/chapter_4/resources/Items/Buttons.png?raw=true" alt="Buttons" width="280" height="200">
   </td>
 </div>
 
@@ -279,7 +279,13 @@ El tema visual debe ser coherente con la identidad de la aplicación, utilizando
 
 <div align="center">
   <td colspan="1" rowspan="6">
-    <img src="" alt="theme" width="400" height="200">
+    <img src="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report/blob/feature/chapter_4/resources/Items/Mode-light.png?raw=true" alt="light-mode" width="400" height="250">
+  </td>
+</div>
+
+<div align="center">
+  <td colspan="1" rowspan="6">
+    <img src="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report/blob/feature/chapter_4/resources/Items/Dark-Mode.png?raw=true" alt="dark-mode" width="400" height="250">
   </td>
 </div>
 
@@ -290,7 +296,7 @@ El logo debe ser simple y visible en todo el sitio, manteniendo siempre su propo
 
 <div align="center">
   <td colspan="1" rowspan="6">
-    <img src="" alt="logo" width="400" height="200">
+    <img src="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report/blob/feature/chapter_4/resources/Logo/DriveNow_Logo.png?raw=true" alt="logo" width="400" height="350">
   </td>
 </div>
 
