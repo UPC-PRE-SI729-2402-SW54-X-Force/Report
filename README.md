@@ -177,7 +177,71 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 ### 4.1. Style Guidelines
 DriveNow
 #### 4.1.1. General Style Guidelines
+
+<p align="justify">
+<strong>Tipografía</strong><br>
+La tipografía seleccionada es Open Sans, que será utilizada en todos los textos de la aplicación. Este estilo tipográfico ofrece una excelente legibilidad y una apariencia moderna. El tamaño de fuente debe ajustarse automáticamente según el dispositivo, para asegurar que tanto en dispositivos móviles como en escritorio, la lectura sea óptima.
+</p>
+
+<td colspan="1" rowspan="6"><img src="" alt="typography" width="400" height="250"></td>
+
+<p align="justify">
+<strong>Colores</strong><br>
+El esquema de colores de la aplicación está basado en tres tonos principales, cuidadosamente seleccionados para dar una apariencia limpia y profesional.
+</p>
+
+<td colspan="1" rowspan="6"><img src="" alt="colors" width="400" height="250"></td>
+
+<p align="justify">
+<strong>Color Primario:</strong><br>
+Azul Marino (#2C3E50): Este color será el más predominante en el diseño, utilizado en los fondos principales, encabezados, pies de página y en la navegación. Aporta una base sólida que refuerza el diseño visual general.
+</p>
+
+<p align="justify">
+<strong>Colores Secundarios:</strong><br>
+Verde Esmeralda (#2ECC71): Utilizado principalmente en botones de acción positiva, indicaciones de éxito (como formularios enviados correctamente) o resaltados. Este verde se empleará estratégicamente para transmitir sensaciones de éxito o confirmación.<br>
+Naranja Vibrante (#E67E22): Este color se utilizará en botones importantes, llamadas a la acción (CTAs), y elementos que requieren destacar visualmente. El naranja será clave en momentos que requieran captar la atención del usuario.
+</p>
+
+<p align="justify">
+<strong>Texto</strong><br>
+Todos los textos de la aplicación serán de color negro, para asegurar un alto contraste y mejorar la legibilidad en cualquier tipo de fondo.
+</p>
+
+
+<p align="justify">
+<strong>Botones</strong><br>
+Los botones seguirán un esquema de colores definido para diferenciarlos claramente según su función:
+</p>
+
+<p align="justify">
+<strong>Botones de Acción Principal:</strong><br>
+Fondo: Naranja Vibrante (#E67E22), con texto en blanco. El hover en estos botones hará que el fondo sea de un tono ligeramente más oscuro para resaltar la interacción del usuario.
+</p>
+
+<p align="justify">
+<strong>Botones de Acción Secundaria:</strong><br>
+Fondo: Verde Esmeralda (#2ECC71), con texto en blanco. El hover también oscurecerá el tono del verde para destacar la interacción.
+</p>
+
+<p align="justify">
+<strong>Formularios</strong><br>
+Para los campos de texto en formularios, el borde por defecto será azul marino (#2C3E50). Cuando un usuario interactúe con un campo, el borde cambiará a verde esmeralda (#2ECC71) para indicar que el campo está activo o enfocado.
+</p>
+
+<p align="justify">
+<strong>Estados de Hover</strong><br>
+Cuando el usuario pase el cursor sobre los botones o enlaces interactivos, se activarán estados de hover que ajustarán el color a tonos más oscuros de naranja o verde, lo que mejorará la retroalimentación visual y facilitará la interacción.
+</p>
+
+<p align="justify">
+<strong>Espaciado y Distribución</strong><br>
+En cuanto a los márgenes y el espaciado entre elementos, seguiremos un sistema basado en múltiplos de 8px, asegurando así una alineación consistente y un diseño equilibrado en toda la aplicación.
+</p>
+
 #### 4.1.2. Web Style Guidelines
+
+
 ### 4.2. Information Architecture
 #### 4.2.1. Organization Systems
 #### 4.2.2. Labeling Systems
