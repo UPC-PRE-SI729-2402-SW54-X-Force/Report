@@ -325,7 +325,7 @@ El logo debe ser simple y visible en todo el sitio, manteniendo siempre su propo
 #### 4.6.1. Software Architecture Context Diagram
 ![structurizr-74190-SystemContext-001](https://github.com/user-attachments/assets/007e7e12-97f6-46da-9f2e-3b69f1617d16)
 
-#### 4.6.2. Software Architecture Container Diagrams
+#### 4.6.2. Software Architecture Container Diagrams 
 ![structurizr-Container-001](https://github.com/user-attachments/assets/01e3fda3-ed1a-4102-b41a-af71846d34ee)
 
 #### 4.6.3. Software Architecture Components Diagrams
