@@ -518,6 +518,47 @@ Sebastián Ramírez es un joven emprendedor que alquila su vehículo cuando, por
 Además, nos menciona que valora mucho que la plataforma ofrezca un "plus" a los dueños de vehículos como él, que se esfuerzan en mantener sus autos en perfectas condiciones para la comodidad de los usuarios que decidan alquilarlos. Sebastián también sugiere que la plataforma podría implementar un sistema de calificación y recompensas para aquellos propietarios que reciben buenas valoraciones, lo cual incentivaría a más dueños a cuidar sus vehículos y a brindar un mejor servicio. Finalmente, destaca que una buena experiencia para ambas partes no solo depende del estado del vehículo, sino también de la transparencia y seguridad en todo el proceso de alquiler, asegurando que tanto el propietario como el arrendatario se sientan tranquilos y satisfechos con la transacción.
 
 #### 2.2.3. Análisis de entrevistas
+<body>
+    <h1>Análisis de Entrevistas por Segmento Objetivo</h1>
+    <h2>Segmento Objetivo 1: Arrendatarios</h2>
+    <h3>1. Edery (25 años)</h3>
+    <p>
+        Edery prioriza el <strong>precio del servicio</strong> y la <strong>cercanía del vehículo</strong>. Alquila vehículos para transportar materiales o cuando su propio auto está malogrado. Valora la <strong>transparencia</strong> y la <strong>fiabilidad</strong> de la información en la plataforma, y considera esencial contar con un <strong>chat de asistencia en tiempo real</strong> para resolver dudas o problemas. Además, busca vehículos con <strong>seguro</strong> y se enfoca en la información de seguridad del auto alquilado.
+    </p>
+    <h3>2. Camila (20 años)</h3>
+    <p>
+        Camila alquila vehículos una o dos veces al año, especialmente para viajes familiares. Le da importancia al <strong>precio</strong>, la <strong>duración del alquiler</strong>, y prefiere vehículos espaciosos debido a que proviene de una familia numerosa. Señala problemas con la localización incorrecta de los vehículos y falta de mantenimiento en plataformas competidoras. Camila valora recibir <strong>información detallada</strong> antes del alquiler, así como el uso de <strong>tarjeta de crédito</strong> para llevar un registro de las transacciones.
+    </p>
+    <h3>3. Carla Taype (26 años)</h3>
+    <p>
+        Para Carla, la <strong>seguridad</strong> es un aspecto crucial. Busca verificar que todos los documentos estén en orden, tanto los del propietario como los del vehículo. Carla confía en las <strong>calificaciones</strong> de los usuarios y cree que son fundamentales para seleccionar vehículos y propietarios confiables. Sugiere además que la plataforma ofrezca <strong>verificaciones de antecedentes</strong> para aumentar la seguridad. También considera esencial un <strong>servicio al cliente eficiente</strong> en caso de surgir problemas durante el alquiler.
+    </p>
+    <h2>Segmento Objetivo 2: Dueños de Vehículos</h2>
+    <h3>1. Nicolás Ávila (24 años)</h3>
+    <p>
+        Nicolás alquila su vehículo cuando no lo está utilizando, y sus preocupaciones principales son el <strong>mantenimiento</strong> y el cuidado del vehículo por parte de los arrendatarios. Prefiere plataformas fáciles de usar con opciones visibles en la pantalla principal. Valora recibir <strong>información del historial financiero</strong> de los arrendatarios y prefiere recibir los pagos en dos partes: mitad al inicio y mitad al finalizar. Considera importante una función de <strong>monitoreo por GPS</strong> para conocer la ubicación del vehículo durante el alquiler.
+    </p>
+    <h3>2. Sebastián Ramírez</h3>
+    <p>
+        Sebastián alquila su vehículo para generar ingresos adicionales y valora la <strong>confiabilidad</strong> de los arrendatarios, quienes deben demostrarlo presentando documentos personales. No busca un alquiler a precio excesivo y mantiene su vehículo en perfectas condiciones con revisiones regulares. Sugiere la implementación de un sistema de <strong>recompensas y calificaciones</strong> para propietarios que reciban buenas valoraciones. También destaca la importancia de la <strong>transparencia</strong> y la <strong>seguridad</strong> en todo el proceso de alquiler.
+    </p>
+    </body>
+    <body>
+	<h1>Resumen Estadístico</h1> 
+	    <h2>Segmento Objetivo 1: Arrendatarios</h2>
+	    <li>100% de los arrendatarios mencionan el precio como factor importante.</li>
+           <li>66% mencionan problemas relacionados con la ubicación del vehículo y la transparencia de la información.</li>
+           <li>100% valoran la seguridad (políticas de seguro, documentos) como esencial.</li>
+           <li>66% consideran importante el mantenimiento del vehículo.</li> 
+	    <h2>Segmento Objetivo 2: Dueños de Vehículos:</h2>
+	    <li>100% mencionan la importancia de mantenimiento del vehículo para asegurar una buena experiencia.</li>
+           <li>50% sugieren un sistema de calificación para incentivar mejores prácticas.</li>
+           <li>100% desean tener protección contra robos y monitoreo del vehículo.</li>
+     </body>
+     <p>
+     Este análisis destaca que tanto arrendatarios como propietarios buscan seguridad, transparencia y facilidad de uso, lo que es crucial para la construcción de arquetipos y el diseño de soluciones dentro de la plataforma.
+     </p>
+     
 ### 2.3. Needfinding
 #### 2.3.1. User Personas
 
