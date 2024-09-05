@@ -177,7 +177,12 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 ### 4.1. Style Guidelines
 En esta sección, presentaremos nuestro plan para el diseño, estilo y apariencia de nuestra página web y las páginas de nuestra aplicación. Nuestro objetivo es garantizar que los usuarios disfruten de una interfaz intuitiva y amigable. Para lograrlo, hemos optado por utilizar elementos visuales que sean claros y estéticamente agradables, y hemos establecido restricciones para evitar la inclusión de gráficos poco atractivos.
 #### 4.1.1. General Style Guidelines
-
+ <strong>Branding: </strong>Creamos un logotipo distintivo y memorable que representa la identidad de nuestra plataforma de alquiler de autos entre particulares. Incorporamos elementos visuales relacionados con el mundo automotriz, como coches, llaves y colores asociados con la confianza y la movilidad, para reflejar el tema del alquiler de vehículos.<br>
+ <div align="center">
+  <td colspan="1" rowspan="6">
+  <img src="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report/blob/feature/chapter_4/resources/Logo/DriveNow_Logo.png?raw=true" alt="logo" width="300" height="250">
+     </td>
+</div>
 <p align="justify">
 <strong>Tipografía</strong><br>
 La tipografía seleccionada es Open Sans, que será utilizada en todos los textos de la aplicación. Este estilo tipográfico ofrece una excelente legibilidad y una apariencia moderna. El tamaño de fuente debe ajustarse automáticamente según el dispositivo, para asegurar que tanto en dispositivos móviles como en escritorio, la lectura sea óptima.
