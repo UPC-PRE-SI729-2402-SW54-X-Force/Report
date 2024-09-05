@@ -362,7 +362,30 @@ Sufijos asignados a las versiones:
 * <strong>-rc:</strong> versión apta para la publicación y uso de los usuarios, es candidata para publicar, ejemplo versión 1.0.0 -rc.
 
 #### 5.1.3. Source Code Style Guide & Conventions
+**Landing Page**
 
+**Lenguaje de estilos:** CSS
+
+**Lenguaje Fuente:** HTML 5
+
+* Cada etiqueta, id, nombre y clase será nombrada usando camelCase.
+* Utilizar UTF-8.
+* Redacción en inglés.
+* En cada referencia a un archivo, colocar el tipo de archivo (.css, .js).
+* Terminar cada etiqueta con />.
+
+**Etiquetas de HTML usadas:**
+Se uso diferentes etiquetas para conformar la estructura del Landing Page del producto:
+* **header**: Esta etiqueta define todo el contenido introductorio de la página web, como por ejemplo la barra de búsquedas.
+* **nav**: Define las secciones de la página que estarán dedicadas a la navegación en la página
+* **div**: Esta etiqueta permite la separación de diferentes objetos dentro de nuestra página, esto nos permitió poder aplicar hojas de estilo específicas para cada parte de los objetos.
+* **img**: Esta etiqueta permite la inserción de imágenes en la página web, se uso en diversas ocasiones dentro de la página.
+* **ul**: Esta etiqueta sirve para definir una lista desordenada, mayor mente se uso para la elaboración del menú interactivo de la página.
+* **li**: Sirve para definir los elementos de las listas que se implementaron en la página, más especifico en la barra de búsqueda y el blog.
+* **a**: También llamado “Anchor”, se usó para definir hipervínculos para mover a los usuarios a través de las diferentes secciones de la página.
+* **p**: Definen los párrafos de texto, separándolos del resto de contenido.
+* **button**: Declaran un botón interactivo modificable que permite a los usuarios realizar una acción en específico.
+* **h1 - h4**: Definen los diferentes títulos y subtítulos de la página siendo h1 el mayor nivel y h4 el más bajo.
 
 #### 5.1.4. Software Deployment Configuration
 ### 5.2. Landing Page, Services & Applications Implementation
