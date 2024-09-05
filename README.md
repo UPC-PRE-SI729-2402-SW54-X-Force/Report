@@ -206,7 +206,130 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 ## Capítulo V: Product Implementation, Validation & Deployment <a id="cap5"></a>
 
 ### 5.1. Software Configuration Management
-DriveNow
+**Project Management**
+
+Para la organizacion del proyecto requerimos de un sistema de de asignación de tareas, palataformas y puntos de reunión y un repositorio dónde trabajaremos en conjunto cada avance del proyecto. A continuación se menciona los nombres de los productos y el propósito de uso en el proyecto:
+<ul>
+  <li>Centro de organización de trabajo: Github</li>
+  <li>Planificación de tareas: Trello</li>
+  <li>Reuniones con el equipo: Google Meet</li>
+  <li>Coordinación grupal: WhatsApp</li>
+</ul>
+
+**Requirements Management**
+<table>
+  <tr>
+    <td>Herramienta</td>
+    <td>Descripción</td>
+    <td>Enlace</td>
+  </tr>
+  <tr>
+    <td>Trello</td>
+    <td>Para designar las tareas y actividades de cada integrante del grupo en caso de revisión o cambios.</td>
+    <td><a href="https://trello.com" target="_blank">https://trello.com</a></td>
+  </tr>
+</table>
+
+**Product UX/UI Design**
+<table>
+  <tr>
+    <td>Herramienta</td>
+    <td>Descripción</td>
+    <td>Enlace</td>
+  </tr>
+  <tr>
+    <td>Figma</td>
+    <td>Para el diseño de los wireframe y mockups, además de la realización del prototipo de Web App</td>
+    <td><a href="https://www.figma.com/" target="_blank">https://www.figma.com/</a></td>
+  </tr>
+</table>
+
+**Software Development**
+<table>
+  <tr>
+    <td>Herramienta</td>
+    <td>Descripción</td>
+    <td>Enlace</td>
+  </tr>
+  <tr>
+    <td>TypeScript</td>
+    <td>Lenguaje de programación usado para el desarrollo del proyecto.</td>
+    <td><a href="https://www.typescriptlang.org/" target="_blank">https://www.typescriptlang.org/</a></td>
+  </tr>
+  <tr>
+    <td>AngularJS</td>
+    <td>Para el desarrollo Frontend de nuestra aplicación.</td>
+    <td><a href="https://angular.io/" target="_blank">https://angular.io/</a></td>
+  </tr>
+  <tr>
+    <td>HTML</td>
+    <td>El lenguaje base de etiquetado para aplicaciones web sera empleado en este proyecto.</td>
+    <td><a href="https://www.w3schools.com/html/default.asp" target="_blank">https://www.w3schools.com/html/default.asp</a></td>
+  </tr>
+  <tr>
+    <td>CSS</td>
+    <td>Cascade Styles Sheet maneja el diseño visual de la landing page.</td>
+    <td><a href="https://www.w3schools.com/css/default.asp" target="_blank">https://www.w3schools.com/css/default.asp</a></td>
+  </tr>
+  <tr>
+    <td>IntelliJ IDEA</td>
+    <td>	Entorno de desarrollo integrado (IDE) para la codificación de nuestro proyecto.</td>
+    <td><a href="https://www.jetbrains.com/idea/" target="_blank">https://www.jetbrains.com/idea/</a></td>
+  </tr>
+</table>
+
+**Software Deployment**
+<table>
+  <tr>
+    <td>Herramienta</td>
+    <td>Descripción</td>
+    <td>Enlace</td>
+  </tr>
+  <tr>
+    <td>Github Pages</td>
+    <td>Para realizar el despliegue de nuestra landing page.</td>
+    <td><a href="https://pages.github.com/" target="_blank">https://pages.github.com/</a></td>
+  </tr>
+</table>
+
+**Software Documentation**7
+<table>
+  <tr>
+    <td>Herramienta</td>
+    <td>Descripción</td>
+    <td>Enlace</td>
+  </tr>
+  <tr>
+    <td>Github</td>
+    <td>Para gestionar la documentación del proyecto</td>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report" target="_blank">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report</a></td>
+  </tr>
+  <tr>
+    <td>MarkDown</td>
+    <td>Para documentar el proyecto.</td>
+    <td><a href="https://markdown.es/" target="_blank">https://markdown.es/</a></td>
+  </tr>
+</table>
+
+**Flujo de trabajo GitFlow**
+Usamos el flujo de trabajo planteado por Vincent Driessen en "A successful Git branching model" con los siguientes parámetros:
+ * Una rama de producción.
+ * Una rama de pruebas.
+ * Una rama en la que se solucionen los bugs rapidamente y vuelvan a producción.
+ * Ramas de features a implementar.
+ * Cada cambio en producción debe establecerse como una nueva versión.
+ * Para este proyecto en concreto consideramos que los cambios en la rama de producción y de pruebas deben tener autorización de un compa­ñero de equipo.
+   
+Teniendo en cuenta la información anterior nos inclinamos por este tipo de organización en los branches:
+
+* **Main branch:** Esta rama esta destinada a la producción de la aplicación, cada cambio deberá tener autorización de un compañero de equipo para evitar cambios sin verificar.
+* **Hotfix branch:** En esta rama se incluirán todas las versiones que poseen errores identificados y que con cada arreglo de este se despliegue otra vez a Main Branch además de implementarla en lo que será Develop Branch.
+* **Release branch:** Esta rama se utilizará para una previa a lo que será el Main Branch, aquí se seguirá de cerca a la aplicación en otros ambientes en busca de bugs.
+* **Develop branch:** Esta rama está destinada a las constantes implementaciones en caliente de los features, 
+* **Features branch:** Cada feature poseerá su respectiva rama, una vez que se encuentre correctamente implementada será fusionada con Develop branch.
+
+Con cada deployment de la aplicación debe establecerse como una nueva versión.
+
 #### 5.1.1. Software Development Environment Configuration
 #### 5.1.2. Source Code Management
 #### 5.1.3. Source Code Style Guide & Conventions
