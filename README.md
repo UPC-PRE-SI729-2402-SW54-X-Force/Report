@@ -316,6 +316,21 @@ Para la organizacion del proyecto requerimos de un sistema de de asignación de 
   </tr>
 </table>
 
+#### 5.1.2. Source Code Management
+
+<table>
+  <tr>
+    <td>Herramienta</td>
+    <td>Repositorio</td>
+    <td>Enlace</td>
+  </tr>
+  <tr>
+    <td>Landing Page</td>
+    <td>Landing_Page</td>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing_Page" target="_blank">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing_Page</a></td>
+  </tr>
+</table>
+
 **Flujo de trabajo GitFlow**
 Usamos el flujo de trabajo planteado por Vincent Driessen en "A successful Git branching model" con los siguientes parámetros:
  * Una rama de producción.
@@ -346,9 +361,9 @@ Sufijos asignados a las versiones:
 * <strong>-beta:</strong> versión no apta para la publicación, aún así ya presenta características funcionales en el estado base, ejemplo versión 1.0.0 –beta.
 * <strong>-rc:</strong> versión apta para la publicación y uso de los usuarios, es candidata para publicar, ejemplo versión 1.0.0 -rc.
 
-#### 5.1.2. Source Code Management
-
 #### 5.1.3. Source Code Style Guide & Conventions
+
+
 #### 5.1.4. Software Deployment Configuration
 ### 5.2. Landing Page, Services & Applications Implementation
 #### 5.2.1. Sprint 1
