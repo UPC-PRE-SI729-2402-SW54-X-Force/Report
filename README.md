@@ -398,6 +398,10 @@ Camila, de 20 años, es una usuaria que alquila vehículos una o dos veces al a�
         </tr>        
 	</tbody>
 </table>
+<p><strong>Resumen: </strong>Edery, de 25 años, su factor mas importante es el precio del servicio y tambien que el vehículo no se encuntre lejos. Alquila vehículos para trasmportar sus materiales o cuando su vehículo este malogrado. Recalca la falta de información
+y fuiabilidad que brindan las otras aplicaciones, la aplicacion tendria que ser flexible. Solo usa en su mayoria aplicaciones conocidas, al alquilar el vehíco siempre busca la información del vihículo y los datos de seguridad como la polisa de seguros.
+El busca trasmparencia en las aplicaiones aparte de un chat asisistecia a tiempo real para poder resolver todas sus dudas o problemas que puedan surgir.</p>
+
 
 **Entrevistado 3**
 
