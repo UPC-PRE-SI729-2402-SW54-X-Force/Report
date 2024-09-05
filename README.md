@@ -1208,6 +1208,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
     </tr>  
      </tbody>
 </table>
+<strong><a href="https://trello.com/invite/b/66d9fa46770816a161ec67a6/ATTId66fe5c9461643e44155a869843602dc82E4A0B1/product-backlog">Link del Product Backlog en Trello </a></strong>
 
 
 ## Capítulo IV: Product Design <a id="cap4"></a>
