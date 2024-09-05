@@ -175,7 +175,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 ## Capítulo IV: Product Design <a id="cap4"></a>
 
 ### 4.1. Style Guidelines
-DriveNow
+En esta sección, presentaremos nuestro plan para el diseño, estilo y apariencia de nuestra página web y las páginas de nuestra aplicación. Nuestro objetivo es garantizar que los usuarios disfruten de una interfaz intuitiva y amigable. Para lograrlo, hemos optado por utilizar elementos visuales que sean claros y estéticamente agradables, y hemos establecido restricciones para evitar la inclusión de gráficos poco atractivos.
 #### 4.1.1. General Style Guidelines
 
 <p align="justify">
