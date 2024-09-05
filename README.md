@@ -206,6 +206,10 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 ## Capítulo V: Product Implementation, Validation & Deployment <a id="cap5"></a>
 
 ### 5.1. Software Configuration Management
+
+
+#### 5.1.1. Software Development Environment Configuration
+
 **Project Management**
 
 Para la organizacion del proyecto requerimos de un sistema de de asignación de tareas, palataformas y puntos de reunión y un repositorio dónde trabajaremos en conjunto cada avance del proyecto. A continuación se menciona los nombres de los productos y el propósito de uso en el proyecto:
@@ -330,8 +334,8 @@ Teniendo en cuenta la información anterior nos inclinamos por este tipo de orga
 
 Con cada deployment de la aplicación debe establecerse como una nueva versión.
 
-#### 5.1.1. Software Development Environment Configuration
 #### 5.1.2. Source Code Management
+
 #### 5.1.3. Source Code Style Guide & Conventions
 #### 5.1.4. Software Deployment Configuration
 ### 5.2. Landing Page, Services & Applications Implementation
