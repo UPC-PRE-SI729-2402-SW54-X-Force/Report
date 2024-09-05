@@ -207,6 +207,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 
 ### 5.1. Software Configuration Management
 
+En este ítem se definirán todas las reglas y procesos que hemos seguido en el proyecto al momento de crear y “deployear” la página web de la aplicación DriveNow. El objetivo de estas reglas y procesos es garantizar la integridad y consistencia del software, desde el inicio hasta el despliegue y mantenimiento.
 
 #### 5.1.1. Software Development Environment Configuration
 
