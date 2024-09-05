@@ -663,6 +663,81 @@ Además, nos menciona que valora mucho que la plataforma ofrezca un "plus" a los
   <img src="./resources/as_is/as_is_dueño_vehículo.png" alt="Anderson Díaz"/>
 
 ### 2.4. Ubiquitous Language
+<p> Según Domain Driven Design (2019), The ubiquitous language es la descripción de conceptos y términos dentro del negocio para construir un lenguaje en común entre todos los implicados dentro del contexto del negocio.
+ A continuación, se han identificado los siguientes conceptos que ayudarán a crear un nexo entre los usuarios y los
+ desarrolladores:</p>
+
+<ul>
+  <li><strong>Driver (Conductor)</strong>  
+    <p>Persona que alquila un vehículo temporalmente a través de la plataforma DriveNow.</p>
+  </li>
+  <li><strong>Vehicle Owner (Propietario del Vehículo)</strong>  
+    <p>Persona que posee un vehículo y lo pone a disposición en la plataforma para su alquiler.</p>
+  </li>
+  <li><strong>Vehicle Rental (Renta de Vehículo)</strong>  
+    <p>Proceso en el que un conductor alquila un vehículo por un periodo específico de tiempo.</p>
+  </li>
+  <li><strong>Vehicle Return (Devolución de Vehículo)</strong>  
+    <p>Proceso mediante el cual el conductor regresa el vehículo al propietario en el lugar y la hora acordados.</p>
+  </li>
+  <li><strong>Rental Extension (Extensión de Renta)</strong>  
+    <p>Opción que permite al conductor prolongar el tiempo de alquiler si necesita el vehículo por más tiempo.</p>
+  </li>
+  <li><strong>Vehicle Preferences (Preferencias del Vehículo)</strong>  
+    <p>Configuraciones que permiten al conductor elegir características del vehículo, como el tipo de transmisión o combustible.</p>
+  </li>
+  <li><strong>Payment Method (Método de Pago)</strong>  
+    <p>Opciones disponibles para que el conductor pague el alquiler del vehículo, que pueden incluir pagos a plazos o completos.</p>
+  </li>
+  <li><strong>Roadside Assistance (Asistencia en Carretera)</strong>  
+    <p>Servicio que proporciona ayuda al conductor en caso de avería o emergencia durante el alquiler.</p>
+  </li>
+  <li><strong>Property Validation (Validación de Propiedad)</strong>  
+    <p>Confirmación de que el vehículo pertenece al propietario registrado en la plataforma.</p>
+  </li>
+  <li><strong>Document Validation (Validación de Documentos)</strong>  
+    <p>Verificación de que los documentos del vehículo, como el seguro y la propiedad, estén vigentes y en regla.</p>
+  </li>
+  <li><strong>Vehicle Inspection (Inspección de Vehículo)</strong>  
+    <p>Revisión del estado del vehículo antes de cada alquiler para garantizar su buen funcionamiento.</p>
+  </li>
+  <li><strong>Reviews and Reputation (Reseñas y Reputación)</strong>  
+    <p>Sistema que permite a los conductores y propietarios calificar y comentar sobre su experiencia mutua.</p>
+  </li>
+  <li><strong>Vehicle Listing (Publicación del Vehículo)</strong>  
+    <p>Proceso por el cual el propietario registra su vehículo en la plataforma para su alquiler.</p>
+  </li>
+  <li><strong>Pricing Control (Control de Precios)</strong>  
+    <p>Funcionalidad que permite al propietario ajustar el precio del alquiler según la demanda o sus preferencias.</p>
+  </li>
+  <li><strong>Insurance and Protection (Seguro y Protección)</strong>  
+    <p>Póliza que cubre daños o robos del vehículo durante el periodo de alquiler.</p>
+  </li>
+  <li><strong>Availability Notifications (Notificaciones de Disponibilidad)</strong>  
+    <p>Alertas que el propietario recibe cuando un conductor está interesado en alquilar su vehículo.</p>
+  </li>
+  <li><strong>Security Deposit (Depósito de Seguridad)</strong>  
+    <p>Cantidad retenida al conductor antes del alquiler para cubrir posibles daños al vehículo.</p>
+  </li>
+  <li><strong>Insurance Policy (Política de Seguros)</strong>  
+    <p>Conjunto de reglas que definen la cobertura del seguro para el vehículo durante el alquiler.</p>
+  </li>
+  <li><strong>Landing Page (Página de Inicio)</strong>  
+    <p>Página principal del sitio web de DriveNow que proporciona información general sobre los servicios y beneficios de la plataforma.</p>
+  </li>
+  <li><strong>Rental Terms (Condiciones de Alquiler)</strong>  
+    <p>Sección en el sitio web que explica las políticas y términos relacionados con el uso del servicio.</p>
+  </li>
+  <li><strong>User Testimonials (Testimonios de Usuarios)</strong>  
+    <p>Reseñas de usuarios anteriores que han alquilado vehículos en la plataforma.</p>
+  </li>
+  <li><strong>Safety Measures (Medidas de Seguridad)</strong>  
+    <p>Políticas implementadas para proteger a los conductores y propietarios durante el proceso de alquiler.</p>
+  </li>
+  <li><strong>Required Documents (Documentos Requeridos)</strong>  
+    <p>Información y documentos necesarios para realizar el alquiler de un vehículo.</p>
+  </li>
+</ul>
 
 
 ## Capítulo III: Requirements Specification <a id="cap3"></a>
