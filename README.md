@@ -520,7 +520,7 @@ Además, nos menciona que valora mucho que la plataforma ofrezca un "plus" a los
 #### 2.2.3. Análisis de entrevistas
 <body>
     <h1>Análisis de Entrevistas por Segmento Objetivo</h1>
-    <h2>Segmento Objetivo 1: Arrendatarios</h2>
+    <h2>Segmento Objetivo 1: Conductores</h2>
     <h3>1. Edery (25 años)</h3>
     <p>
         Edery prioriza el <strong>precio del servicio</strong> y la <strong>cercanía del vehículo</strong>. Alquila vehículos para transportar materiales o cuando su propio auto está malogrado. Valora la <strong>transparencia</strong> y la <strong>fiabilidad</strong> de la información en la plataforma, y considera esencial contar con un <strong>chat de asistencia en tiempo real</strong> para resolver dudas o problemas. Además, busca vehículos con <strong>seguro</strong> y se enfoca en la información de seguridad del auto alquilado.
@@ -545,7 +545,7 @@ Además, nos menciona que valora mucho que la plataforma ofrezca un "plus" a los
     </body>
     <body>
 	<h1>Resumen Estadístico</h1> 
-	    <h2>Segmento Objetivo 1: Arrendatarios</h2>
+	    <h2>Segmento Objetivo 1: Conductores</h2>
 	    <li>100% de los arrendatarios mencionan el precio como factor importante.</li>
            <li>66% mencionan problemas relacionados con la ubicación del vehículo y la transparencia de la información.</li>
            <li>100% valoran la seguridad (políticas de seguro, documentos) como esencial.</li>
