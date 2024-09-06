@@ -393,40 +393,53 @@ Nuestro enfoque prioriza la facilidad de navegación, para que el usuario pueda 
 Utilizamos los wireframes como punto de partida para la planificación de la arquitectura de la aplicación. A continuación presentaremos los wireframes para la aplicación web y mobile:
 
 **Homepage**
-![Homepage desktop](/resources/items/AppWires-Desktop-Homepage.png)
+![Homepage desktop](/resources/Items/AppWires-Desktop-Homepage.png)
 <br>
-![Mobile homepage](/resources/items/AppWires-Mobile-Homepage.png)
+![Mobile homepage](/resources/Items/AppWires-Mobile-Homepage.png)
 Los primeros wireframes realizados fueron para el Homepage, cuando el usuario aún no está registrado, o no ha iniciado sesión. Utilizamos esta página como vínculo entre el landing page y las funcionalidades de la aplicación en sí.
 
 **Registro e inicio de sesión**
-![Login on desktop](/resources/items/AppWires-Desktop-Login.png)
+![Login on desktop](/resources/Items/AppWires-Desktop-Login.png)
 <br>
-![Login on mobile](resources/items/AppWires-Mobile-Login.png)
+![Login on mobile](/resources/Items/AppWires-Mobile-Login.png)
 La página de inicio de sesión muestra las credenciales necesarias para ingresar a la aplicación, cuenta con validación de las mismas y redirige a la página de registro.
 <br><br>
-![Register on desktop](resources/items/AppWires-Desktop-Register.png)
+![Register on desktop](/resources/Items/AppWires-Desktop-Register.png)
 <br>
-![Register on mobile](resources/items/AppWires-Mobile-Register.png)
+![Register on mobile](/resources/Items/AppWires-Mobile-Register.png)
 La página de registro es otro punto de entrada a la aplicación para los usuarios que acceden desde la landing page. Nuevamente se indican las credenciales necesarias para ingresar a la aplicación. 
 
 **Vista principal para Arrendatarios**
-![Default view for car renters](resources/items/AppWires-Desktop-RenterDefault.png)
+![Default view for car renters](/resources/Items/AppWires-Desktop-RenterDefault.png)
 <br>
-![Default view for car renters on mobile](resources/items/AppWires-Mobile-RenterDefault.png)
+![Default view for car renters on mobile](/resources/Items/AppWires-Mobile-RenterDefault.png)
 La vista Default le permite a los usuarios ver algunas opciones disponibles cercanas a ellos, así como acceder directamente a la página de búsqueda en móvil. En Desktop, se pueden hacer búsquedas desde esta página.
 
 **Vista principal para dueños**
-![Default view for car owners](resources/items/AppWires-Desktop-OwnerDefault.png)
+![Default view for car owners](/resources/Items/AppWires-Desktop-OwnerDefault.png)
 La vista Default para dueños de autos, permite ver el carro o carros que están alquilando actualmente. También se visualiza la misma vista principal que está disponible para los arrendatarios, a fin de que vean las ofertas actuales.
 
 **Búsquedas**
-![Search results on desktop](resources/items/AppWires-Desktop-Search.png)
+![Search results on desktop](/resources/Items/AppWires-Desktop-Search.png)
 En desktop, se pueden realizar las búsquedas desde la primera pantalla. Aquí se muestran los resultados con algunos filtros adicionales.
-![Advanced filters on mobile](resources/items/AppWires-Mobile-Filters.png)
-![Search results on mobile](resources/items/AppWires-Mobile-Search.png)
+![Advanced filters on mobile](/resources/Items/AppWires-Mobile-Filters.png)
+![Search results on mobile](/resources/Items/AppWires-Mobile-Search.png)
 En móvil, la pantalla de búsqueda es una página distinta, y muestra todos los filtro sdisponibles para el usuario. La siguiente pantalla muestra los resultados en forma de listado de esa búsqueda.
 
+**Página de usuario**
+![User page on desktop](/resources/Items/AppWires-Desktop-User.png)
+La página de usuario en desktop incluye la información de usuario, de suscripción y sus licencias o tarjetas de propiedad.  
+![User page on mobile](/resources/Items/AppWires-Mobile-User.png)
+![User's license page on mobile](/resources/Items/AppWires-Mobile-UserLicense.png)
+En móvil, las páginas de Usuario y sus tarjetas de identificación están separadas, sólo se puede acceder a la página de Licencia de conducir a través de la página de usuario.
+
+**Vista de mapa**
+![Map view on searches](/resources/Items/AppWires-Desktop-Map.png)
+![Map view on mobile](/resources/Items/AppWires-Mobile-Map.png)
+
 #### 4.4.2. Web Applications Wireflow Diagrams
+
+
 #### 4.4.3. Web Applications Mock-ups
 #### 4.4.4. Web Applications User Flow Diagrams
 ### 4.5. Web Applications Prototyping
