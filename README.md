@@ -155,7 +155,7 @@ DriveNow es una aplicación que busca resolver el problema constante de las pers
   </tr>
   <tr>
     <td>Aarón Alexander Avila Palacios - U201823654<br>Soy estudiante de Ingeniería de software y estoy cursando el quinto ciclo de la carrera. Tengo 23 años. Tengo conocimientos en programación orientada a objetos en lenguaje de programación C++, también en diseño de prototipos de aplicaciones, diseño gráfico, diseño e implementación de páginas web. Todas estas habilidades ayudan al desarrollo del proyecto, dado que son de vital importancia en este curso y en nuestra carrera. Soy capaz de desarrollar de manera eficaz cualquier tarea que se me asigne.</td>
-    <td></td>
+    <td><img src="resources/perfil.png" style="width: 500px"></td>
   </tr>
   <tr>
     <td>Marzál Pérez Jamir Ángel - U201824409<br>Soy estudiante de Ingeniería de Software. . Mis principales cualidades son el trabajo en equipo, la escucha activa, ética, creatividad, eficacia y responsabilidad. Tengo conocimientos en lenguajes de  programación C++, C# y Python.</td>
