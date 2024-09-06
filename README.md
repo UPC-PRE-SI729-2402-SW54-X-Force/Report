@@ -187,7 +187,7 @@ En esta sección, presentaremos nuestro plan para el diseño, estilo y aparienci
 <strong>Tipografía</strong><br>
 La tipografía seleccionada es Open Sans, que será utilizada en todos los textos de la aplicación. Este estilo tipográfico ofrece una excelente legibilidad y una apariencia moderna. El tamaño de fuente debe ajustarse automáticamente según el dispositivo, para asegurar que tanto en dispositivos móviles como en escritorio, la lectura sea óptima.
 </p>
-
+.
 <div align="center">
   <td colspan="1" rowspan="6">
     <img src="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report/blob/feature/chapter_4/resources/Items/Typography.png?raw=true" alt="typography" width="400" height="250">
