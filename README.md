@@ -31,7 +31,20 @@ A continuación, se presenta un cuadro que detalla las acciones realizadas por e
 
 |     Criterio Específico     | Acciones Realizadas              | Conclusiones                | 
 |-----------------------------|----------------------------------|-----------------------------|
-| **Comunica oralmente con efectividad a diferentes rangos de audiencia.** | Avila Palacios Aaron Alexander<br>TB1<br>Casas Sanchez Gabriel Alexander<br>TB1<br>Duran Santander Emilia Mercedes<br>TB1<br>Galvan Cerron George Aldo<br>TB1<br>Marzal Perez Jamir Angel<br>TB1 |  |
+| **Comunica oralmente con efectividad a diferentes rangos de audiencia.** | Avila Palacios Aaron Alexander<br>TB1<br>
+<li>Lean UX Canvas</li>
+<li>Entrevista a publico objetivo</li>
+<li>Estrategias y Tácticas para Enfrentar a los Competidores</li>
+<li>Ubiquitous Language</li>
+<li>Análisis de las entrevistas</li>
+<li>Agregue 2 acceptance criteria to user story US001</li>
+<li>impact mapping</li>
+<li>Product Backlog</li>
+<li>Style Guidelines</li>
+<li>Branding in the General Style Guidelines</li>
+<li>Context Diagram, Container Diagram, Components Diagrams y Database Diagram</li>
+
+Casas Sanchez Gabriel Alexander<br>TB1<br>Duran Santander Emilia Mercedes<br>TB1<br>Galvan Cerron George Aldo<br>TB1<br>Marzal Perez Jamir Angel<br>TB1 |  |
 | **Comunica por escrito con efectividad a diferentes rangos de audiencia** | Avila Palacios Aaron Alexander<br>TB1<br>Casas Sanchez Gabriel Alexander<br>TB1<br>Duran Santander Emilia Mercedes<br>TB1<br>Galvan Cerron George Aldo<br>TB1<br>Marzal Perez Jamir Angel<br>TB1 |  |
 
 ## Project Report Collaboration Insights
