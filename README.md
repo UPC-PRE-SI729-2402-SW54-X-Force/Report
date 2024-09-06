@@ -31,8 +31,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 
 |     Criterio Específico     | Acciones Realizadas              | Conclusiones                | 
 |-----------------------------|----------------------------------|-----------------------------|
-| **Comunica oralmente con efectividad a diferentes rangos de audiencia.** | Avila Palacios Aaron Alexander<br>TB1<br>Casas Sanchez Gabriel Alexander<br>TB1<br>Duran Santander Emilia Mercedes<br>TB1<br>Galvan Cerron George Aldo<br>TB1<br>Marzal Perez Jamir Angel<br>TB1 |  |
-| **Comunica por escrito con efectividad a diferentes rangos de audiencia** | Avila Palacios Aaron Alexander<br>TB1<br>Casas Sanchez Gabriel Alexander<br>TB1<br>Duran Santander Emilia Mercedes<br>TB1<br>Galvan Cerron George Aldo<br>TB1<br>Marzal Perez Jamir Angel<br>TB1 |  |
+| **Comunica oralmente con efectividad a diferentes rangos de audiencia.** | Avila Palacios Aaron Alexander<br>TB1<br>Casas Sanchez Gabriel Alexander<br>TB1<br>Duran Santander Emilia Mercedes<br>TB1<br>Galvan Cerron George Aldo<br>TB1<br>Marzal Perez Jamir Angel<br>TB1 |  El equipo ha demostrado habilidades sólidas para comunicar de manera clara y efectiva sus ideas y resultados a diferentes tipos de audiencia, garantizando una comprensión completa del proyecto. |
+| **Comunica por escrito con efectividad a diferentes rangos de audiencia** | Avila Palacios Aaron Alexander<br>TB1<br>Casas Sanchez Gabriel Alexander<br>TB1<br>Duran Santander Emilia Mercedes<br>TB1<br>Galvan Cerron George Aldo<br>TB1<br>Marzal Perez Jamir Angel<br>TB1 | Cada integrante ha logrado transmitir de manera precisa y coherente la información clave del proyecto a través de documentos escritos, adaptándose exitosamente a diversos contextos comunicativos. |
 ## Project Report Collaboration Insights
 
 ## Registro de Versiones del Informe
