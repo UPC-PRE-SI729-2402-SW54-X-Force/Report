@@ -136,6 +136,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 
 ### 1.1. Startup Profile
 #### 1.1.1. Descripción de la Startup
+
 Somos X Force, una startup creada por estudiantes de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas del Perú y hemos desarrollado una aplicación llamada DriveNow.
 DriveNow es una aplicación que busca resolver el problema constante de las personas sobre la dificultad de encontrar una movilidad privada temporal, así mismo asegurar el uso de la mayor cantidad de automóviles. Creemos que estos problemas afectan en la calidad de vida de nuestros usuarios de manera negativa.
 
