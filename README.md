@@ -307,65 +307,49 @@ El logo debe ser simple y visible en todo el sitio, manteniendo siempre su propo
 
 
 ### 4.2. Information Architecture
-<div style="text-align: justify;">
-    <h2>4.2.1. Organization Systems</h2>
-    <p>
-        Los sistemas de organización se refieren a cómo se estructura la información en la página web, lo cual es clave para la usabilidad y la experiencia del usuario. En la landing page de <strong>DriveNow</strong>, la organización sigue un enfoque jerárquico, presentando la información en secciones claras y bien definidas, con un flujo lógico:
-    </p>
-    <ul>
-        <li><strong>Sección hero</strong>: Presenta la propuesta de valor principal de la app. Esta sección ocupa un lugar destacado para captar la atención del usuario inmediatamente.</li>
-        <li><strong>Secciones de características clave</strong>: Después de la introducción principal, se destacan las ventajas de usar la app (e.g. <em>Why Choose Us</em>, <em>Safety Measures</em>), seguidas de los <strong>testimonios de usuarios</strong>, lo que da confianza al usuario potencial.</li>
-        <li><strong>Sección de planes premium</strong>: Aquí, los usuarios pueden ver los distintos tipos de membresías y sus beneficios.</li>
-        <li><strong>Sección de contacto</strong>: Para cerrar la página, se incluye un formulario para contactar al equipo, reforzando el objetivo de conversión.</li>
-    </ul>
-    <p>
-        Cada sección está claramente diferenciada y organizada para guiar al usuario desde el conocimiento del servicio hasta la toma de acción (registro o contacto).
-    </p>
+#### 4.2.1. Organization Systems
+Los sistemas de organización se refieren a cómo se estructura la información en la página web, lo cual es clave para la usabilidad y la experiencia del usuario. En la landing page de **DriveNow**, la organización sigue un enfoque jerárquico, presentando la información en secciones claras y bien definidas, con un flujo lógico:
+<ul>
+    <li><strong>Sección hero</strong>: Presenta la propuesta de valor principal de la app. Esta sección ocupa un lugar destacado para captar la atención del usuario inmediatamente.</li>
+    <li><strong>Secciones de características clave</strong>: Después de la introducción principal, se destacan las ventajas de usar la app (e.g. <em>Why Choose Us</em>, <em>Safety Measures</em>), seguidas de los <strong>testimonios de usuarios</strong>, lo que da confianza al usuario potencial.</li>
+    <li><strong>Sección de planes premium</strong>: Aquí, los usuarios pueden ver los distintos tipos de membresías y sus beneficios.</li>
+    <li><strong>Sección de contacto</strong>: Para cerrar la página, se incluye un formulario para contactar al equipo, reforzando el objetivo de conversión.</li>
+</ul>
+Cada sección está claramente diferenciada y organizada para guiar al usuario desde el conocimiento del servicio hasta la toma de acción (registro o contacto).
 
-   <h2>4.2.2. Labeling Systems</h2>
-    <p>
-        El sistema de etiquetado en la landing page es consistente y fácil de entender, con títulos claros y descriptivos que ayudan a los usuarios a identificar rápidamente las secciones y su contenido. Ejemplos de etiquetado incluyen:
-    </p>
-    <ul>
-        <li><strong>“What is DriveNow?”</strong>: La sección principal que introduce el servicio.</li>
-        <li><strong>“Why Choose Us”</strong>: Una sección que responde a las preguntas clave que los usuarios podrían tener.</li>
-        <li><strong>“Safety Measures”</strong>: Etiqueta clara para la sección que aborda las garantías de seguridad para los usuarios y propietarios.</li>
-        <li><strong>“Premium Plans”</strong>: Descripción clara de las opciones de suscripción premium.</li>
-    </ul>
-    <p>
-        El etiquetado es conciso y ayuda a los usuarios a entender la estructura del contenido sin abrumarlos con información técnica.
-    </p>
+#### 4.2.2. Labeling Systems
+El sistema de etiquetado en la landing page es consistente y fácil de entender, con títulos claros y descriptivos que ayudan a los usuarios a identificar rápidamente las secciones y su contenido. Ejemplos de etiquetado incluyen:
+<ul>
+    <li><strong>“What is DriveNow?”</strong>: La sección principal que introduce el servicio.</li>
+    <li><strong>“Why Choose Us”</strong>: Una sección que responde a las preguntas clave que los usuarios podrían tener.</li>
+    <li><strong>“Safety Measures”</strong>: Etiqueta clara para la sección que aborda las garantías de seguridad para los usuarios y propietarios.</li>
+    <li><strong>“Premium Plans”</strong>: Descripción clara de las opciones de suscripción premium.</li>
+</ul>
+El etiquetado es conciso y ayuda a los usuarios a entender la estructura del contenido sin abrumarlos con información técnica.
 
-  <h2>4.2.3. SEO Tags and Meta Tags</h2>
-    <p>
-        Para optimizar la landing page en términos de SEO (Search Engine Optimization), se han utilizado etiquetas clave (meta tags) que mejoran la visibilidad del sitio web en los motores de búsqueda. Estos incluyen:
-    </p>
-    <ul>
-        <li><strong>Meta title</strong>: "DriveNow - Rent a Car or Rent Out Yours". Un título que refleja tanto el propósito como el servicio principal de la página.</li>
-        <li><strong>Meta description</strong>: "Discover the freedom of mobility with DriveNow. Rent a car or rent out your vehicle. Premium plans and safe transactions for users and owners." Esta descripción ayuda a atraer a los usuarios en los resultados de búsqueda.</li>
-        <li><strong>Keywords</strong>: Se han incorporado palabras clave como "rent a car", "car sharing", "safe car rental", "premium car plans", lo cual facilita el posicionamiento en motores de búsqueda.</li>
-        <li><strong>Alt text en imágenes</strong>: Todas las imágenes relevantes incluyen etiquetas <code>alt</code> que describen su contenido para mejorar el SEO y accesibilidad. Por ejemplo, en el logo y las imágenes de los vehículos.</li>
-    </ul>
+#### 4.2.3. SEO Tags and Meta Tags</h2>
 
-  <h2>4.2.4. Searching Systems</h2>
-    <p>
-        La landing page actual no incluye un sistema de búsqueda interna (dado que es una página estática enfocada en conversión), por otro lado la aplicación web si dispone de iteraciones: una barra de búsqueda para que los usuarios puedan acceder rápidamente a información específica, como el tipo de vehículos disponibles o servicios adicionales.
-    </p>
-    <p>
-        Para garantizar que los usuarios encuentren lo que necesitan de manera rápida y eficiente, las secciones están diseñadas para ser escaneables con títulos y subtítulos claros. La navegación es sencilla, lo que reduce la necesidad de una barra de búsqueda avanzada en esta primera etapa.
-    </p>
+Para optimizar la landing page en términos de SEO (Search Engine Optimization), se han utilizado etiquetas clave (meta tags) que mejoran la visibilidad del sitio web en los motores de búsqueda. Estos incluyen:
+<ul>
+    <li><strong>Meta title</strong>: "DriveNow - Rent a Car or Rent Out Yours". Un título que refleja tanto el propósito como el servicio principal de la página.</li>
+    <li><strong>Meta description</strong>: "Discover the freedom of mobility with DriveNow. Rent a car or rent out your vehicle. Premium plans and safe transactions for users and owners." Esta descripción ayuda a atraer a los usuarios en los resultados de búsqueda.</li>
+    <li><strong>Keywords</strong>: Se han incorporado palabras clave como "rent a car", "car sharing", "safe car rental", "premium car plans", lo cual facilita el posicionamiento en motores de búsqueda.</li>
+    <li><strong>Alt text en imágenes</strong>: Todas las imágenes relevantes incluyen etiquetas <code>alt</code> que describen su contenido para mejorar el SEO y accesibilidad. Por ejemplo, en el logo y las imágenes de los vehículos.</li>
+</ul>
 
-  <h2>4.2.5. Navigation Systems</h2>
-    <p>
-        El sistema de navegación implementado en la página es intuitivo y responsivo. Las opciones principales están ubicadas en una barra de navegación fija en la parte superior, que incluye enlaces a las secciones más importantes: <strong>Home</strong>, <strong>Benefits</strong><strong>About</strong>, <strong>Contact</strong>, y <strong>Premium</strong>.
-    </p>
-    <ul>
-        <li><strong>Menú de hamburguesa en dispositivos móviles</strong>: En pantallas pequeñas, se activa un menú de hamburguesa que muestra las mismas opciones de navegación en un formato vertical. Esto garantiza que la navegación sea eficiente en dispositivos móviles.</li>
-        <li><strong>Enlaces ancla</strong>: Algunos enlaces en la navegación llevan a secciones específicas dentro de la misma página, como <strong>Contact</strong> o <strong>Premium</strong>, permitiendo una navegación fluida sin necesidad de recargar la página.</li>
-        <li><strong>Call to Action Buttons</strong>: Los botones de llamada a la acción (como “Find out more” o “Subscribe”) están ubicados estratégicamente para dirigir a los usuarios a los próximos pasos.</li>
-    </ul>
+#### 4.2.4. Searching Systems</h2>
 
-</div>
+La landing page actual no incluye un sistema de búsqueda interna (dado que es una página estática enfocada en conversión), por otro lado la aplicación web si dispone de iteraciones: una barra de búsqueda para que los usuarios puedan acceder rápidamente a información específica, como el tipo de vehículos disponibles o servicios adicionales.
+Para garantizar que los usuarios encuentren lo que necesitan de manera rápida y eficiente, las secciones están diseñadas para ser escaneables con títulos y subtítulos claros. La navegación es sencilla, lo que reduce la necesidad de una barra de búsqueda avanzada en esta primera etapa.
+
+#### 4.2.5. Navigation Systems</h2>
+
+El sistema de navegación implementado en la página es intuitivo y responsivo. Las opciones principales están ubicadas en una barra de navegación fija en la parte superior, que incluye enlaces a las secciones más importantes: <strong>Home</strong>, <strong>Benefits</strong><strong>About</strong>, <strong>Contact</strong>, y <strong>Premium</strong>.
+<ul>
+    <li><strong>Menú de hamburguesa en dispositivos móviles</strong>: En pantallas pequeñas, se activa un menú de hamburguesa que muestra las mismas opciones de navegación en un formato vertical. Esto garantiza que la navegación sea eficiente en dispositivos móviles.</li>
+    <li><strong>Enlaces ancla</strong>: Algunos enlaces en la navegación llevan a secciones específicas dentro de la misma página, como <strong>Contact</strong> o <strong>Premium</strong>, permitiendo una navegación fluida sin necesidad de recargar la página.</li>
+    <li><strong>Call to Action Buttons</strong>: Los botones de llamada a la acción (como “Find out more” o “Subscribe”) están ubicados estratégicamente para dirigir a los usuarios a los próximos pasos.</li>
+</ul>
 
 ### 4.3. Landing Page UI Design
 #### 4.3.1. Landing Page Wireframe
