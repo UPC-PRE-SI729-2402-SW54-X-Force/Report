@@ -543,6 +543,26 @@ Con cada actualización e implementación del repositorio se harán pruebas que 
 </table>
 
 ##### 5.2.1.3. Development Evidence for Sprint Review
+**Tabla de commits de la landing-page**
+<table>
+  <tr>
+    <td colspan="1">Repository</td>
+    <td colspan="1">Branch</td>
+    <td colspan="1">Commit Id</td>
+    <td colspan="1">Commit Message</td>
+    <td colspan="1">Commit Message Body</td>
+    <td colspan="1">Commited on (Date)</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing_Page">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing_Page</a></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
 ##### 5.2.1.4. Testing Suite Evidence for Sprint Review
 ##### 5.2.1.5. Execution Evidence for Sprint Review
 ##### 5.2.1.6. Services Documentation Evidence for Sprint Review
