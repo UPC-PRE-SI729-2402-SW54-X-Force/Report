@@ -33,7 +33,23 @@ A continuación, se presenta un cuadro que detalla las acciones realizadas por e
 |-----------------------------|----------------------------------|-----------------------------|
 | **Comunica oralmente con efectividad a diferentes rangos de audiencia.** | Avila Palacios Aaron Alexander<br>TB1<br>Casas Sanchez Gabriel Alexander<br>TB1<br>Duran Santander Emilia Mercedes<br>TB1<br>Galvan Cerron George Aldo<br>TB1<br>Marzal Perez Jamir Angel<br>TB1 |  |
 | **Comunica por escrito con efectividad a diferentes rangos de audiencia** | Avila Palacios Aaron Alexander<br>TB1<br>Casas Sanchez Gabriel Alexander<br>TB1<br>Duran Santander Emilia Mercedes<br>TB1<br>Galvan Cerron George Aldo<br>TB1<br>Marzal Perez Jamir Angel<br>TB1 |  |
+
 ## Project Report Collaboration Insights
+Se han realizado todas las tareas asignadas para la entrega de la TB1, las cuales se encuentran registradas en el repositorio de Github de la organización del equipo bajo el enlace https://github.com/UPC-PRE-SI729-2402-SW54-X-Force. Para elaborar el informe, cada miembro ha redactado y creado gráficos en formato Markdown según los puntos asignados, realizando commits para registrar el avance en el repositorio.
+
+Vista de commits:
+
+<img src="resources/insights-commits-1.png">
+
+**Lista de commits:**
+<ul style="list-style: none; padding: 0;">
+      <li>Avila Palacios Aaron Alexander: 26</li>
+      <li>Casas Sanchez Gabriel Alexander: 49</li>
+      <li>Duran Santander Emilia Mercedes: 2</li>
+      <li>Galvan Cerron George Aldo: 10</li>
+      <li>Marzal Perez Jamir Angel: 15</li>
+  </ul>
+
 
 ## Registro de Versiones del Informe
 
