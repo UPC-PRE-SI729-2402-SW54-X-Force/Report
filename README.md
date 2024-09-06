@@ -555,12 +555,77 @@ Con cada actualización e implementación del repositorio se harán pruebas que 
   </tr>
   <tr>
     <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing_Page">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing_Page</a></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>develop</td>
+    <td>d110c23</td>
+    <td>feat: LandingPage</td>
+    <td>feat: LandingPage</td>
+    <td>06/09/2024</td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing_Page">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing_Page</a></td>
+    <td>develop</td>
+    <td>598b032</td>
+    <td>feat: Added css landing page</td>
+    <td>feat: Added css landing page</td>
+    <td>06/09/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing_Page">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing_Page</a></td>
+    <td>develop</td>
+    <td>62da8b3</td>
+    <td>Revert "feat: Added css landing page"</td>
+    <td>Revert "feat: Added css landing page"</td>
+    <td>06/09/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing_Page">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing_Page</a></td>
+    <td>develop</td>
+    <td>dae9401</td>
+    <td>feat: Added Landing Page</td>
+    <td>feat: Added Landing Page</td>
+    <td>06/09/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing_Page">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing_Page</a></td>
+    <td>develop</td>
+    <td>0a8a4b1</td>
+    <td>feat: Added 'js' Landing Page</td>
+    <td>feat: Added 'js' Landing Page</td>
+    <td>06/09/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing_Page">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing_Page</a></td>
+    <td>develop</td>
+    <td>7ad0370</td>
+    <td>feat: Added Html Landing Page</td>
+    <td>feat: Added Html Landing Page</td>
+    <td>06/09/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing_Page">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing_Page</a></td>
+    <td>develop</td>
+    <td>ef04fbc</td>
+    <td>feat: Added resources</td>
+    <td>feat: Added resources</td>
+    <td>06/09/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing_Page">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing_Page</a></td>
+    <td>develop</td>
+    <td>6f05363</td>
+    <td>feat: Update folders</td>
+    <td>feat: Update folders</td>
+    <td>06/09/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing_Page">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing_Page</a></td>
+    <td>main</td>
+    <td>db53398</td>
+    <td>Merge pull request #1 from UPC-PRE-SI729-2402-SW54-X-Force/Develop</td>
+    <td>Merge pull request #1 from UPC-PRE-SI729-2402-SW54-X-Force/Develop</td>
+    <td>06/09/2024</td>
+  </tr>
+  
 </table>
 
 ##### 5.2.1.4. Testing Suite Evidence for Sprint Review
