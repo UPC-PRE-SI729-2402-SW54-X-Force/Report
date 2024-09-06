@@ -389,6 +389,59 @@ El logo debe ser simple y visible en todo el sitio, manteniendo siempre su propo
 ### 4.7. Software Object-Oriented Design
 #### 4.7.1. Class Diagrams
 #### 4.7.2. Class Dictionary
+| **Class**       | **Attribute**         | **Type**    | **Description**                              | **Methods**                         |
+|-----------------|-----------------------|-------------|----------------------------------------------|-------------------------------------|
+| **Driver**      | id                    | Integer     | Identificador único para cada conductor       | + registerDriver()<br>+ viewRentals()<br>+ submitReview() |
+|                 | name                  | String      | Nombre completo del conductor                |                                     |
+|                 | age                   | Integer     | Edad del conductor                           |                                     |
+|                 | dni                   | String      | Número de identificación del conductor (DNI) |                                     |
+|                 | email                 | String      | Correo electrónico del conductor             |                                     |
+|                 | registrationDate      | Date        | Fecha en que el conductor se registró        |                                     |
+| **Owner**       | id                    | Integer     | Identificador único para cada propietario     | + addVehicle()<br>+ manageVehicles()<br>+ viewRentals() |
+|                 | name                  | String      | Nombre completo del propietario              |                                     |
+|                 | dni                   | String      | Número de identificación del propietario (DNI) |                                   |
+|                 | age                   | Integer     | Edad del propietario                         |                                     |
+|                 | email                 | String      | Correo electrónico del propietario           |                                     |
+|                 | registrationDate      | Date        | Fecha en que el propietario se registró      |                                     |
+| **Vehicle**     | id                    | Integer     | Identificador único para cada vehículo       | + publishVehicle()<br>+ updateVehicleInfo() |
+|                 | brand                 | String      | Marca del vehículo (e.g., Toyota, BMW)       |                                     |
+|                 | model                 | String      | Modelo del vehículo (e.g., Corolla, X5)      |                                     |
+|                 | year                  | Integer     | Año de fabricación del vehículo              |                                     |
+|                 | type                  | String      | Tipo de vehículo (e.g., SUV, Sedán)          |                                     |
+|                 | status                | String      | Estado actual del vehículo (disponible/no disponible) |                                  |
+|                 | location              | String      | Ubicación donde se encuentra el vehículo     |                                     |
+|                 | dailyPrice            | Decimal     | Precio diario de alquiler del vehículo       |                                     |
+| **Rental**      | id                    | Integer     | Identificador único para cada alquiler       | + calculateTotal()<br>+ createRental() |
+|                 | vehicle               | Vehicle     | Vehículo alquilado                           |                                     |
+|                 | driver                | Driver      | Conductor que alquila el vehículo            |                                     |
+|                 | startDate             | Date        | Fecha de inicio del alquiler                 |                                     |
+|                 | endDate               | Date        | Fecha de fin del alquiler                    |                                     |
+|                 | totalAmount           | Decimal     | Monto total del alquiler                     |                                     |
+|                 | status                | String      | Estado del alquiler (activo/completado)      |                                     |
+| **Payment**     | id                    | Integer     | Identificador único para cada pago           | + processPayment()<br>+ verifyPayment() |
+|                 | rental                | Rental      | Alquiler asociado al pago                    |                                     |
+|                 | amount                | Decimal     | Monto total del pago                         |                                     |
+|                 | paymentDate           | Date        | Fecha en que se realizó el pago              |                                     |
+|                 | paymentMethod         | String      | Método de pago utilizado                     |                                     |
+| **Review**      | id                    | Integer     | Identificador único para cada reseña         | + submitReview()<br>+ viewReviews() |
+|                 | driver                | Driver      | Conductor que dejó la reseña                 |                                     |
+|                 | rental                | Rental      | Alquiler asociado a la reseña                |                                     |
+|                 | rating                | Integer     | Calificación otorgada                        |                                     |
+|                 | comment               | String      | Comentario del conductor                     |                                     |
+| **SupportTicket** | id                   | Integer     | Identificador único para cada ticket         | + createTicket()<br>+ closeTicket() |
+|                 | owner                 | Owner       | Propietario que levantó el ticket            |                                     |
+|                 | driver                | Driver      | Conductor afectado                          |                                     |
+|                 | issueType             | String      | Tipo de problema reportado                   |                                     |
+|                 | description           | String      | Descripción del problema                     |                                     |
+|                 | status                | String      | Estado del ticket (abierto/cerrado)          |                                     |
+|                 | createdDate           | Date        | Fecha de creación del ticket                 |                                     |
+|                 | closedDate            | Date        | Fecha de cierre del ticket (si aplica)       |                                     |
+| **Insurance**   | id                    | Integer     | Identificador único para cada póliza         | + validateInsurance()               |
+|                 | vehicle               | Vehicle     | Vehículo cubierto por la póliza              |                                     |
+|                 | provider              | String      | Proveedor del seguro                         |                                     |
+|                 | coverageType          | String      | Tipo de cobertura (básica, completa, etc.)   |                                     |
+|                 | expirationDate        | Date        | Fecha de expiración de la póliza             |                                     |
+
 ### 4.8. Database Design
 #### 4.8.1. Database Diagram
 ![DriveNow-2024-09-06_03-40](https://github.com/user-attachments/assets/132b1fe2-ae45-4d17-932c-fbef49b4b7db)
