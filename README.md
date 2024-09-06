@@ -370,18 +370,11 @@ El logo debe ser simple y visible en todo el sitio, manteniendo siempre su propo
 ### 4.3. Landing Page UI Design
 #### 4.3.1. Landing Page Wireframe
 #### Home Landing Page
-![home-landing-page-1](https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report/blob/feature/chapter_4/resources/Items/home_wireframe.png?raw=true)
 #### Why DriveNow
-![home-landing-page-2](https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report/blob/feature/chapter_4/resources/Items/why_drivenow_wireframe.png?raw=true)
 #### Testimonies
-![home-landing-page-3](https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report/blob/feature/chapter_4/resources/Items/testimonies_wireframe.png?raw=true)
 #### Safety
-![home-landing-page-4](https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report/blob/feature/chapter_4/resources/Items/safety_wireframe.png?raw=true)
 #### Premium Planes
-![home-landing-page-5](https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report/blob/feature/chapter_4/resources/Items/premium_wireframe.png?raw=true)
 #### Contant
-![home-landing-page-6](https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report/blob/feature/chapter_4/resources/Items/contact_wireframe.png?raw=true)
-
 #### 4.3.2. Landing Page Mock-up
 #### Home Landing Page
 ![home-landing-page-01](https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report/blob/feature/chapter_4/resources/Items/home.png?raw=true)
@@ -391,9 +384,7 @@ El logo debe ser simple y visible en todo el sitio, manteniendo siempre su propo
 ![home-landing-page-03](https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report/blob/feature/chapter_4/resources/Items/testimonies.png?raw=true)
 #### Safety
 ![home-landing-page-04](https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report/blob/feature/chapter_4/resources/Items/safety.png?raw=true)
-
 #### Premium Planes
-
 ![home-landing-page-05](https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report/blob/feature/chapter_4/resources/Items/premium%20pass.png?raw=true)
 #### Team
 ![home-landing-page-06](https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report/blob/feature/chapter_4/resources/Items/team.png?raw=true)
