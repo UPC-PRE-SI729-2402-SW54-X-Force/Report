@@ -470,6 +470,78 @@ Con cada actualización e implementación del repositorio se harán pruebas que 
 </table>
 
 ##### 5.2.1.2. Sprint Backlog 1
+
+<table>
+  <tr>
+    <td colspan="1"><strong>Sprint #</strong></td>
+    <td colspan="6"><strong>Sprint 1</strong></td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>User Story</strong></td>
+    <td colspan="6"><strong>Work-Item/task</strong></td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Id</strong></td>
+    <td colspan="1"><strong>Title</strong></td>
+    <td colspan="1"><strong>Id</strong></td>
+    <td colspan="1"><strong>Title</strong></td>
+    <td colspan="1"><strong>Description</strong></td>
+    <td colspan="1"><strong>Estimation(Hours)</strong></td>
+    <td colspan="1"><strong>Assigned To</strong></td>
+    <td colspan="1"><strong>Status</strong></td>
+  </tr>
+  <tr>
+    <td colspan="1">US027</td>
+    <td colspan="1">Descripción de Medidas de Seguridad</td>
+    <td colspan="1">T01</td>
+    <td colspan="1">Agregar la sección de seguridad</td>
+    <td colspan="1">Se debe argegar una sección relacionada con la seguridad del servico, esto compone las condiciones bajo las que se someten ambos tipos de usuario y además como se aplicarán los eguros.</td>
+    <td colspan="1">0.5</td>
+    <td colspan="1">Avila Palacios Aaron Alexander</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">US028</td>
+    <td colspan="1">Políticas de Seguros y Protección</td>
+    <td colspan="1">T02</td>
+    <td colspan="1">Agregar la sección de seguridad</td>
+    <td colspan="1">Se debe argegar una sección relacionada con la seguridad del servico, esto compone las condiciones bajo las que se someten ambos tipos de usuario y además como se aplicarán los eguros.</td>
+    <td colspan="1">0.5</td>
+    <td colspan="1">Casas Sanchez Gabriel Alexander</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">US024</td>
+    <td colspan="1">Sección Informativa de Condiciones de Alquiler</td>
+    <td colspan="1">T03</td>
+    <td colspan="1">Agregar la sección de ¿Cómo funciona?</td>
+    <td colspan="1">Una sección donde de manera breve se explican los  pasos generales para empezar a usar el servicio.</td>
+    <td colspan="1">0.5</td>
+    <td colspan="1">Galvan Cerron George Aldo</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">US025</td>
+    <td colspan="1">Testimonios de Usuarios Anteriores</td>
+    <td colspan="1">T04</td>
+    <td colspan="1">Agregar la sección de testimonios</td>
+    <td colspan="1">Agregar una sección donde se muestren testimonios de distintos clientes, que ya hayan usado el servicio.</td>
+    <td colspan="1">1</td>
+    <td colspan="1">Marzal Perez Jamir Angel</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">US026</td>
+    <td colspan="1">Consejos para Uso del Servicio</td>
+    <td colspan="1">T05</td>
+    <td colspan="1">Agregar la sección de blog</td>
+    <td colspan="1">Agregar una sección de blog donde se muestren diferentes consejos para un buen uso del servicio, además de blogs informativos sobre la conducción y renta de vehiculos personales.</td>
+    <td colspan="1">0.5</td>
+    <td colspan="1">Duran Santander Emilia Mercedes</td>
+    <td colspan="1">To-do</td>
+  </tr>
+</table>
+
 ##### 5.2.1.3. Development Evidence for Sprint Review
 ##### 5.2.1.4. Testing Suite Evidence for Sprint Review
 ##### 5.2.1.5. Execution Evidence for Sprint Review
