@@ -329,6 +329,8 @@ El logo debe ser simple y visible en todo el sitio, manteniendo siempre su propo
 ![structurizr-Container-001](https://github.com/user-attachments/assets/01e3fda3-ed1a-4102-b41a-af71846d34ee)
 
 #### 4.6.3. Software Architecture Components Diagrams
+![Component Diagram](https://github.com/user-attachments/assets/014a4376-9448-49ed-a1ab-f49c1e793266)
+
 ### 4.7. Software Object-Oriented Design
 #### 4.7.1. Class Diagrams
 #### 4.7.2. Class Dictionary
