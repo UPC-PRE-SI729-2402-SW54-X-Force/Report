@@ -159,7 +159,7 @@ DriveNow es una aplicación que busca resolver el problema constante de las pers
   </tr>
   <tr>
     <td>Marzál Pérez Jamir Ángel - U201824409<br>Soy estudiante de Ingeniería de Software. . Mis principales cualidades son el trabajo en equipo, la escucha activa, ética, creatividad, eficacia y responsabilidad. Tengo conocimientos en lenguajes de  programación C++, C# y Python.</td>
-    <td></td>
+    <td><img src="resources/Jamir.jpg" style="width: 500px"></td>
   </tr>
   <tr>
     <td></td>
