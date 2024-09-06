@@ -453,6 +453,31 @@ En desktop y móvil existe la funcionalidad para buscar por mapa, que se visuali
 
 
 #### 4.4.3. Web Applications Mock-ups
+Los Web Mockups fueron creados a partir de los Wireframes, y tomando en cuenta la arquitectura planteada en ellos. Estos utilizan las guías de estilo planteadas, así como un diseño cohesivo, para darle al usuario la imagen de la aplicación que hemos creado.
+
+**For Desktop** <br>
+![image](/resources/Items/Mockup-Desktop-Homepage.png)
+<br>Homepage
+<br>
+![image](/resources/Items/Mockup-Desktop-Login.png)
+<br>Login
+<br>
+![image](/resources/Items/Mockup-Desktop-Register.png)
+<br>Register
+<br>
+![image](/resources/Items/Mockup-Desktop-Renter.png)
+<br>Renter Default
+<br>
+![image](/resources/Items/Mockup-Desktop-Map.png)
+<br>Map View
+<br>
+![image](/resources/Items/Mockup-Desktop-Search.png)
+<br>Search Results
+<br>
+![image](/resources/Items/Mockup-Desktop-Community.png)
+<br>Community
+<br>
+
 #### 4.4.4. Web Applications User Flow Diagrams
 ### 4.5. Web Applications Prototyping
 ### 4.6. Domain-Driven Software Architecture
