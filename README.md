@@ -369,7 +369,27 @@ El logo debe ser simple y visible en todo el sitio, manteniendo siempre su propo
 
 ### 4.3. Landing Page UI Design
 #### 4.3.1. Landing Page Wireframe
+#### Home Landing Page
+#### Why DriveNow
+#### Testimonies
+#### Safety
+#### Premium Planes
+#### Contant
 #### 4.3.2. Landing Page Mock-up
+#### Home Landing Page
+![home-landing-page-01](https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report/blob/feature/chapter_4/resources/Items/home.png?raw=true)
+#### Why DriveNow
+![home-landing-page-02](https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report/blob/feature/chapter_4/resources/Items/ehy_drivenow.png?raw=true)
+#### Testimonies
+![home-landing-page-03](https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report/blob/feature/chapter_4/resources/Items/testimonies.png?raw=true)
+#### Safety
+![home-landing-page-04](https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report/blob/feature/chapter_4/resources/Items/safety.png?raw=true)
+#### Premium Planes
+![home-landing-page-05](https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report/blob/feature/chapter_4/resources/Items/premium%20pass.png?raw=true)
+#### Team
+![home-landing-page-06](https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report/blob/feature/chapter_4/resources/Items/team.png?raw=true)
+#### Contant
+![home-landing-page-07](https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report/blob/feature/chapter_4/resources/Items/contact.png?raw=true)
 ### 4.4. Web Applications UX/UI Design
 #### 4.4.1. Web Applications Wireframes
 #### 4.4.2. Web Applications Wireflow Diagrams
