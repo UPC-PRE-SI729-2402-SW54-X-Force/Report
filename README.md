@@ -566,6 +566,14 @@ Con cada actualización e implementación del repositorio se harán pruebas que 
 ##### 5.2.1.4. Testing Suite Evidence for Sprint Review
 Para este sprint no se realizaron pruebas debido a que solo corresponde al desarrollo de la landing page.
 ##### 5.2.1.5. Execution Evidence for Sprint Review
+En este apartado se hace presenta el despliegue de la landing page del producto solución DriveNow:
+Enlace de la landing page: https://upc-pre-si729-2402-sw54-x-force.github.io/Landing_Page/
+<img src="resources/landing-page-1.png">
+<img src="resources/landing-page-2.png">
+<img src="resources/landing-page-3.png">
+<img src="resources/landing-page-4.png">
+<img src="resources/landing-page-5.png">
+
 ##### 5.2.1.6. Services Documentation Evidence for Sprint Review
 No se emplearon servicios adicionales, ya que este primer sprint se centró exclusivamente en la implementación del landing page.
 ##### 5.2.1.7. Software Deployment Evidence for Sprint Review
