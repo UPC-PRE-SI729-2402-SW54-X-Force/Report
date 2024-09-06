@@ -567,6 +567,7 @@ Con cada actualización e implementación del repositorio se harán pruebas que 
 Para este sprint no se realizaron pruebas debido a que solo corresponde al desarrollo de la landing page.
 ##### 5.2.1.5. Execution Evidence for Sprint Review
 ##### 5.2.1.6. Services Documentation Evidence for Sprint Review
+No se emplearon servicios adicionales, ya que este primer sprint se centró exclusivamente en la implementación del landing page.
 ##### 5.2.1.7. Software Deployment Evidence for Sprint Review
 ##### 5.2.1.8. Team Collaboration Insights during Sprint
 ### 5.3. Validation Interviews
