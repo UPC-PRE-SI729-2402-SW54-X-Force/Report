@@ -166,8 +166,8 @@ DriveNow es una aplicación que busca resolver el problema constante de las pers
     <td></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
+    <td>Galván Cerrón, George Aldo  -  U202116055<br>Soy estudiante de la carrera de Ingenieria de Software, actualmente estoy cursando el 5to semestre en la Universidad Peruana de Ciencias Aplicadas. Cuento con conocimientos en desarrollo bakcend con los lenguajes de programación, tales como python, c++ y java.</td>
+    <td><img src="resources/George_foto.png" style= "width: 500px"></td>
   </tr>
 </table>
 
