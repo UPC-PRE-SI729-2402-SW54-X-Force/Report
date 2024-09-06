@@ -401,6 +401,7 @@ El sistema de navegación implementado en la página es intuitivo y responsivo. 
 
 ### 4.7. Software Object-Oriented Design
 #### 4.7.1. Class Diagrams
+![home-landing-page-07](https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report/blob/feature/chapter_4/resources/Items/diagram_class.png?raw=true)
 #### 4.7.2. Class Dictionary
 | **Class**       | **Attribute**         | **Type**    | **Description**                              | **Methods**                         |
 |-----------------|-----------------------|-------------|----------------------------------------------|-------------------------------------|
