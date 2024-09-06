@@ -24,10 +24,10 @@
 </div>
 
 ## Student Outcome
-El curso contribuye al cumplimiento del Student Outcome ABET: ABET – EAC - Student Outcome 3
-Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias.
 
-En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 3.
+El presente curso contribuye al cumplimiento del Student Outcome 3 establecido por la ABET – EAC, que se centra en la capacidad de los estudiantes para comunicarse de manera efectiva con una amplia variedad de audiencias. Este resultado de aprendizaje es esencial para garantizar que los futuros profesionales puedan transmitir ideas, conceptos y resultados técnicos de forma clara y comprensible, tanto a especialistas como a personas ajenas al ámbito técnico.
+
+A continuación, se presenta un cuadro que detalla las acciones realizadas por el grupo, junto con los enunciados de las conclusiones alcanzadas. Estas acciones y resultados demuestran de manera concreta el logro del Student Outcome 3 de la ABET – EAC, evidenciando la habilidad de los estudiantes para adaptarse a diferentes contextos comunicativos y transmitir información relevante de manera eficaz.
 
 |     Criterio Específico     | Acciones Realizadas              | Conclusiones                | 
 |-----------------------------|----------------------------------|-----------------------------|
