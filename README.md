@@ -624,6 +624,9 @@ Para poder realizar todos los procesos realizados en este sprint relacionados co
   * Backend: Este repositorio se usará para contener el código de la parte backend del projecto.
 
 ##### 5.2.1.8. Team Collaboration Insights during Sprint
+Para este sprint se realizo una reunión exclusiva para el despliegue de la landing page, donde se compartio el código y se subio a través de uno de los integrantes.
+<img src= "resources/sprint-1-evidence.png">
+
 ### 5.3. Validation Interviews
 #### 5.3.1. Diseño de Entrevistas
 #### 5.3.2. Registro de Entrevistas
