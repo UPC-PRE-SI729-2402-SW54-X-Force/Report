@@ -1006,7 +1006,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
 
 ### 3.3. Impact Mapping
 ![Impact map11](https://github.com/user-attachments/assets/99e0c235-a7d3-4c4b-8de3-f5383131762b)
-<strong><a href="https://miro.com/welcomeonboard/RzVrSHczejYxM2tSNGY3U2NNWlVsM0Rnc3NHMVVhOEt6SENoR2JUS3BXV3hkTGI0TFNLaDJRN3NOcTBtUkF3QXwzNDU4NzY0NTk4ODUwMjE1OTE5fDI=?share_link_id=251034716191">Link del Impact Mapping</a></strong>
+<strong>Link del impact mapping: <a href="https://miro.com/app/board/uXjVKjTUnSM=/?share_link_id=910359412154">https://miro.com/app/board/uXjVKjTUnSM=/?share_link_id=910359412154</a></strong>
 
 ### 3.4. Product Backlog
 <table>
@@ -1218,7 +1218,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
     </tr>  
      </tbody>
 </table>
-<strong><a href="https://trello.com/invite/b/66d9fa46770816a161ec67a6/ATTId66fe5c9461643e44155a869843602dc82E4A0B1/product-backlog">Link del Product Backlog en Trello </a></strong>
+<strong>Link del Product Backlog en Trello:<a href="https://trello.com/invite/b/66d9fa46770816a161ec67a6/ATTI757f1d6ef821c1f9032190bc07796c75528B1939/product-backlog">https://trello.com/invite/b/66d9fa46770816a161ec67a6/ATTI757f1d6ef821c1f9032190bc07796c75528B1939/product-backlog</a></strong>
 
 
 ## Capítulo IV: Product Design <a id="cap4"></a>
