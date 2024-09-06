@@ -170,9 +170,1058 @@ DriveNow
 ## Capítulo III: Requirements Specification <a id="cap3"></a>
 
 ### 3.1. To-Be Scenario Mapping
+
+El mapa To-Be crea una representación visual que muestra exactamente cómo debería funcionar el proceso, qué decisiones se deben tomar y qué resultados se pueden lograr.
+
+- Arrendatario:
+
+<img src="./resources/to_be/to_be_arrendatario.png"/>
+
+- Dueño de vehículo:
+
+<img src="./resources/to_be/to_be_dueño_de_vehiculo.png"/>
+
 ### 3.2. User Stories
+Para elaborar user stories estas deben pertenecer a una epic stories. A continuación, se mostrarán las epic stories:
+
+<table border="1" style="text-align: left;">
+	<tbody>
+		<tr>
+			<td colspan="1">Código</td>
+            <td colspan="1">Título</td>
+            <td colspan="1">Epic</td>
+		</tr>
+		<tr>
+            <td colspan="1">EP001</td>
+            <td colspan="1">Acceso a Vehículos 24/7</td>
+            <td colspan="1">
+            <strong>Como</strong> conductor, <strong>quiero</strong> tener acceso a un vehículo a todas horas cuando esté visitando una ciudad, <strong>para</strong> poder movilizarme fácilmente en cualquier momento.
+            </td>
+		</tr>
+        <tr>
+            <td colspan="1">EP002</td>
+            <td colspan="1">Calidad del Servicio</td>
+            <td colspan="1">
+            <strong>Como</strong> conductor, <strong>quiero</strong> tener seguridad que el servicio que me brindan sea de calidad, <strong>para</strong> asegurarme de que tendré una experiencia positiva y sin problemas.
+            </td>
+		</tr>
+        <tr>
+            <td colspan="1">EP003</td>
+            <td colspan="1">Ingresos Adicionales</td>
+            <td colspan="1">
+            <strong>Como</strong> dueño de auto, <strong>quiero</strong> ganar dinero extra cuando no estoy utilizando mi vehículo, <strong>para</strong> aprovechar mi recurso y generar ingresos adicionales.
+            </td>
+		</tr>
+        <tr>
+            <td colspan="1">EP004</td>
+            <td colspan="1">Seguridad y Fiabilidad de Conductores</td>
+            <td colspan="1">
+            <strong>Como</strong> dueño de auto, <strong>quiero</strong> tener la seguridad que los conductores serán fiables y responsables por cualquier daño que pueda ocurrir, <strong>para</strong> sentirme tranquilo al alquilar mi vehículo.
+            </td>
+		</tr>
+        <tr>
+            <td colspan="1">EP005</td>
+            <td colspan="1">Condiciones de Alquiler Claras</td>
+            <td colspan="1">
+            <strong>Como</strong> visitante que busca alquilar, <strong>quiero</strong> ver todas las condiciones de alquiler <strong>para</strong> poder confiar en el servicio brindado.
+            </td>
+		</tr>
+        <tr>
+            <td colspan="1">EP006</td>
+            <td colspan="1">Visualización de Medidas de Seguridad</td>
+            <td colspan="1">
+            <strong>Como</strong> visitante que busca poner en alquiler, <strong>quiero</strong> visualizar las medidas de seguridad que estarán implementadas <strong>para</strong> poder verificar que se me brindará un buen servicio.
+            </td>
+		</tr>
+	</tbody>
+</table>
+
+A continuacion, la realizacion de los user stories con sus criterios de aceptacion con escenarios e ID de Épica:
+
+<table  style="text-align: left;">
+	<tbody>
+		<tr>
+			<td colspan="1">ID de Historia de Usuario</td>
+      <td colspan="1">Título</td>
+      <td colspan="1">Descripción</td>
+      <td colspan="1">Criterios de Aceptación con Escenarios</td>
+      <td colspan="1">ID de Épica</td>
+		</tr>
+		<tr>
+      <td colspan="1">US001</td>
+      <td colspan="1">Encontrar vehículos</td>
+      <td colspan="1">
+      <strong>Como</strong> conductor, <strong>quiero</strong> poder encontrar los vehículos más cercanos a mi ubicación <strong>para</strong> reducir el tiempo de espera y comenzar a usar el vehículo lo antes posible.
+      </td>
+      <td colspan="1">
+        <strong>E01: Selección de vehículo más cercano</strong>
+        <br>
+        <strong>Dado que</strong> un conductor se encuentra en una ubicación específica y necesita encontrar un vehículo cercano,
+		<br>
+        <strong>Y</strong> ha ingresado su ubicación en la aplicación,
+		<br>
+        <strong>Cuando</strong> realiza la búsqueda de vehículos cercanos,
+	    <br>
+        <strong>Y</strong> visualiza la lista de vehículos disponibles en su área,
+	    <br>
+        <strong>Entonces</strong> el conductor debe ser capaz de seleccionar el vehículo más cercano para reducir el tiempo de espera.
+	    <br><br>
+        <strong>E02: Instrucciones claras para acceder</strong>
+        <br>
+        <strong>Dado que</strong> un conductor está buscando un vehículo en una ciudad que está visitando,
+	    <br>
+        <strong>Y</strong> ha utilizado la funcionalidad de búsqueda en la aplicación,
+	    <br>
+        <strong>Cuando</strong> el conductor visualiza los resultados de búsqueda,
+	    <br>
+        <strong>Y</strong> selecciona un vehículo cercano,
+	    <br>
+        <strong>Entonces</strong> debe recibir instrucciones claras sobre cómo llegar al vehículo seleccionado y la opción de iniciar la renta de inmediato.
+      </td>
+      <td colspan="1">EP001</td>
+		</tr>
+    <tr>
+      <td colspan="1">US002</td>
+      <td colspan="1">Renta de vehículo</td>
+      <td colspan="1">
+      <strong>Como</strong> conductor, <strong>quiero</strong> confirmar la hora de entrega y ubicación a mi conveniencia del vehículo <strong>para</strong> asegurarse de que el vehículo esté disponible cuando y donde lo necesite.	
+      </td>
+      <td colspan="1">
+        <strong>E01: Coordinación de entrega al alquilar</strong>
+        <br>
+        <strong>Dado que</strong> un conductor esta coordinando el alquiler
+        <br>
+        <strong>Cuando</strong> selecciona el vehiculo a alquilar
+        <br>
+        <strong>Entonces</strong> automáticamente se le selecciona el punto de entrega más cercano disponible.
+        <br><br>
+        <strong>E02: Coordinación de entrega personalizada</strong>
+        <br>
+        <strong>Dado que</strong> un conductor esta coordinando el alquiler
+        <br>
+        <strong>Y</strong> el lugar de entrega no se acomoda a sus necesidades
+        <br>
+        <strong>Cuando</strong> propone un lugar personalizado para la entrega
+        <br>
+        <strong>Y</strong> el dueño esta deacuerdo
+        <br>
+        <strong>Entonces</strong> el sistema permite establecer un nuevo punto de entrega.
+      </td>
+      <td colspan="1">EP001</td>
+		</tr>
+    <tr>
+      <td colspan="1">US003</td>
+      <td colspan="1">Devolución de vehículo</td>
+      <td colspan="1">
+      <strong>Como</strong> conductor, <strong>quiero</strong> confirmar la hora de devolución y ubicación del vehículo <strong>para</strong> asegurarse de que el proceso de devolución sea rápido y conveniente para ambas partes.	
+      </td>
+      <td colspan="1">
+        <strong>E01: Coordinación de devolución al alquilar</strong>
+        <br>
+        <strong>Dado que</strong> un conductor esta coordinando el alquiler
+        <br>
+        <strong>Cuando</strong> selecciona el vehiculo a alquilar
+        <br>
+        <strong>Entonces</strong> automáticamente se le selecciona el punto de devolución a la misma hora y en el mismo lugar que donde lo recoge.
+        <br><br>
+        <strong>E02: Coordinación de devolución después de alquilar</strong>
+        <br>
+        <strong>Dado que</strong> un conductor ha alquilado un auto
+        <br>
+        <strong>Y</strong> se encuentra dentro del plazo de entrega
+        <br>
+        <strong>Cuando</strong> desea devolver el auto antes de tiempo
+        <br>
+        <strong>Entonces</strong> puede comunicarse con el dueño para coordinar un horario de nrega previo al ya establecido
+      </td>
+      <td colspan="1">EP001</td>
+		</tr>
+    <tr>
+      <td colspan="1">US004</td>
+      <td colspan="1">Extensión de Renta</td>
+      <td colspan="1">
+      <strong>Como</strong> conductor, <strong>quiero</strong> poder extender la duración de mi renta de vehículo en caso de que necesite más tiempo, <strong>para</strong> evitar interrupciones en mi movilidad.
+      </td>
+      <td colspan="1">
+        <strong>E01: Extensión antes de alquiler</strong>
+        <br>
+        <strong>Dado que</strong> todavía existe un tiempo prudente antes de que se active la reserva
+        <br>
+        <strong>Y</strong> el conductor desea extender el tiempo de alquiler
+        <br>
+        <strong>Cuando</strong> se comunica con el dueño
+        <br>
+        <strong>Y</strong> la extensión es coordinada
+        <br>
+        <strong>Entonces</strong> el sistema permite la extensión del alquiler
+        <br><br>
+        <strong>E02: Extensión durante alquiler</strong>
+        <br>
+        <strong>Dado que</strong> el tiempo de alquiler se encuentre vigente
+        <br>
+        <strong>Y</strong> el conductor desea extender el tiempo de alquiler
+        <br>
+        <strong>Cuando</strong> se comunica con el dueño
+        <br>
+        <strong>Y</strong> el dueño acepta la extensión
+        <br>
+        <strong>Entonces</strong> el sistema permite la extensión del alquiler
+        <br>
+      </td>
+      <td colspan="1">EP001</td>
+		</tr>
+    <tr>
+      <td colspan="1">US005</td>
+      <td colspan="1">Configuración de Preferencias del Vehículo</td>
+      <td colspan="1">
+      <strong>Como</strong> conductor, <strong>quiero</strong> poder configurar mis preferencias de vehículo (por ejemplo, tipo de transmisión, combustible, etc.), <strong>para</strong> asegurarme de que el vehículo asignado cumpla con mis necesidades.
+      </td>
+      <td colspan="1">
+        <strong>E01: Elegir preferencias</strong>
+        <br>
+        <strong>Dado que</strong> el conductor se encuentra en la barra de busqueda
+        <br>
+        <strong>Cuando</strong> establece un filtro de busqueda
+        <br>
+        <strong>Entonces</strong> se visualizan solo vehiculos con las características seleccionadas
+        <br><br>
+        <strong>E02: Mostrar características</strong>
+        <br>
+        <strong>Dado que</strong> el conductor se encuentra visualizando las pociones a alquilar
+        <br>
+        <strong>Cuando</strong> visualiza un auto en especifico
+        <br>
+        <strong>Entonces</strong> se visualizan las características del vehículo
+      </td>
+      <td colspan="1">EP001</td>
+		</tr>
+    <tr>
+      <td colspan="1">US006</td>
+      <td colspan="1">Pago Flexible</td>
+      <td colspan="1">
+      <strong>Como</strong> conductor, <strong>quiero</strong> poder elegir entre diferentes métodos de pago y opciones de pago (por ejemplo, pagos parciales, a plazos, etc.), <strong>para</strong> tener mayor flexibilidad financiera al alquilar un vehículo.
+      </td>
+      <td colspan="1">
+        <strong>E01: Pago digital</strong>
+        <br>
+        <strong>Dado que</strong> se ha elegido la opción de pago digital
+        <br>
+        <strong>Cuando</strong> el conductor escoge la opción de pagar
+        <br>
+        <strong>Entonces</strong> se desplieganlos métodos de pago online
+        <br>
+        <strong>Y</strong> el conductor es capaz de pagar.
+        <br><br>
+        <strong>E02: Pago en efectivo</strong>
+        <br>
+        <strong>Dado que</strong> se ha elegido la opción de pago en efectivo
+        <br>
+        <strong>Cuando</strong> el conductor escoge la opción de pagar 
+        <br>
+        <strong>Entonces</strong> se le notifica al conductor que el pago al completo se realizará al recoger el auto.
+      </td>
+      <td colspan="1">EP001</td>
+		</tr>
+    <tr>
+      <td colspan="1">US007</td>
+      <td colspan="1">Asistencia en Carretera</td>
+      <td colspan="1">
+      <strong>Como</strong> conductor, <strong>quiero</strong> tener acceso a un servicio de asistencia en carretera, <strong>para</strong> sentirme seguro en caso de emergencias o problemas técnicos con el vehículo.	
+      </td>
+      <td colspan="1">
+        <strong>E01: Percanse en autopista</strong>
+        <br>
+        <strong>Dado que</strong> un conductor tuvo algún percanse en autopista
+        <br>
+        <strong>Cuando</strong> contacta con los contactos de emergencia de la empresa
+        <br>
+        <strong>Entonces</strong> se envia el tipo de servicio de emergencia a su situación.
+        <br><br>
+        <strong>E02: Percanse en ciudad</strong>
+        <br>
+        <strong>Dado que</strong> un conductor tuvo algún percanse en ciudad
+        <br>
+        <strong>Cuando</strong> contacta con los contactos de emergencia de la empresa
+        <br>
+        <strong>Entonces</strong> se envia el tipo de servicio de emergencia a su situación.
+      </td>
+      <td colspan="1">EP001</td>
+		</tr>
+    <tr>
+      <td colspan="1">US008</td>
+      <td colspan="1">Validación de propiedad</td>
+      <td colspan="1">
+      <strong>Como</strong> conductor, <strong>quiero</strong> confirmar que el vehículo a alquilar sea de la propiedad de la persona que brinda el servicio, <strong>para</strong> poder asegurarme que no tendré ningún percance legal.
+      </td>
+      <td colspan="1">
+        <strong>E01: Consulta de documentos</strong>
+        <br>
+        <strong>Dado que</strong> un coductor desea ver la documentación legal del auto a alquilar
+        <br>
+        <strong>Cuando</strong> solicita esta información 
+        <br>
+        <strong>Entonces</strong> se muestran los documentos asociados con el perfil del dueño.
+        <br>
+      </td>
+      <td colspan="1">EP002</td>
+		</tr>
+    <tr>
+      <td colspan="1">US009</td>
+      <td colspan="1">Validación de documentos</td>
+      <td colspan="1">
+      <strong>Como</strong> conductor, <strong>quiero</strong> corroborar que el estado del vehiculo este en regla, <strong>para</strong> asegurarme que no tendré ningún percance.	
+      </td>
+      <td colspan="1">
+        <strong>E01: Verificación técnica</strong>
+        <br>
+        <strong>Dado que</strong> un conductor que desea ver el certificado técnico del auto
+        <br>
+        <strong>Cuando</strong> solicita esta información al sistema
+        <br>
+        <strong>Entonces</strong> se muestra el documento avalado por el gobierno.
+      </td>
+      <td colspan="1">EP002</td>
+		</tr>
+    <tr>
+      <td colspan="1">US010</td>
+      <td colspan="1">Inspección del Vehículo</td>
+      <td colspan="1">
+      <strong>Como</strong> conductor, <strong>quiero</strong> que el vehículo sea inspeccionado y certificado antes de cada renta, <strong>para</strong> asegurarme de que esté en condiciones óptimas de funcionamiento.	
+      </td>
+      <td colspan="1">
+        <strong>E01: Revisión preliminar</strong>
+        <br>
+        <strong>Dado que</strong> un conductor esta por recoger el vehiculo
+        <br>
+        <strong>Cuando</strong> realiza una inspección de como se encuentra el vehículo
+        <br>
+        <strong>Entonces</strong> debe poder verificar que el vehículo se encuentra en condiciones óptimas, incluyendo el funcionamiento mecánico y el estado exterior e interior.
+        <br>
+        <strong>Y</strong> enviar un reporte.
+        <br><br>
+        <strong>E02: Fallo de revisión</strong>
+        <br>
+        <strong>Dado que</strong> un conductor no esta conforme con el estado del vehiculo
+        <br>
+        <strong>Cuando</strong> decide rechazar el vehículo por falta de limpieza o malas condiciones,
+        <br>
+        <strong>Entonces</strong> debe poder enviar un reporte y recibir una respuesta inmediata del servicio de atención al cliente para resolver el problema.
+      </td>
+      <td colspan="1">EP002</td>
+		</tr>
+    <tr>
+      <td colspan="1">US011</td>
+      <td colspan="1">Reputación del Propietario</td>
+      <td colspan="1">
+      <strong>Como</strong> conductor, <strong>quiero</strong> poder revisar la reputación y reseñas del propietario del vehículo, <strong>para</strong> asegurarme de que estoy tratando con alguien confiable y con buenas referencias.	
+      </td>
+      <td colspan="1">
+        <strong>E01: Revisiónn de calificación</strong>
+        <br>
+        <strong>Dado que</strong> un conductor desea revisar la calificación de un dueño
+        <br>
+        <strong>Cuando</strong> ingresa a su perfil
+        <br>
+        <strong>Entonces</strong> se mostrará la calificación promedio del dueño.
+        <br><br>
+        <strong>E02: Emisión de calificación</strong>
+        <br>
+        <strong>Dado que</strong> un conductor ya ha alquilado con un dueño
+        <br>
+        <strong>Cuando</strong> realiza una calificación
+        <br>
+        <strong>Entonces</strong> esta calificación será válida.
+        <br><br>
+      </td>
+      <td colspan="1">EP002</td>
+		</tr>
+    <tr>
+      <td colspan="1">US012</td>
+      <td colspan="1">Atención al Cliente 24/7</td>
+      <td colspan="1">
+      <strong>Como</strong> conductor, <strong>quiero</strong> tener acceso a un servicio de atención al cliente disponible las 24 horas, <strong>para</strong> recibir ayuda inmediata en caso de cualquier problema durante mi renta.	
+      </td>
+      <td colspan="1">
+        <strong>E01:Acceso a soporte en tiempo real</strong>
+        <br>
+        <strong>Dado que</strong> un conductor experimenta un problema durante su renta,
+        <br>
+        <strong>Cuando</strong> selecciona la opción de "Soporte 24/7" en la aplicación,
+        <br>
+        <strong>Entonces</strong> se conectará con un agente de atención al cliente disponible.
+        <br><br>
+        <strong>E02:Confirmación de solicitud de soporte</strong>
+        <br>
+        <strong>Dado que</strong> un conductor ha enviado una solicitud de ayuda,
+        <br>
+        <strong>Cuando</strong> la solicitud es recibida,
+        <br>
+        <strong>Entonces</strong> el sistema debe enviar una confirmación automática de que su problema será atendido lo antes posible.
+        <br><br>
+        <strong>E03:Registro de interacciones</strong>
+        <br>
+        <strong>Dado que</strong> un conductor ha interactuado con el servicio de atención al cliente,
+        <br>
+        <strong>Cuando</strong> finaliza la interacción,
+        <br>
+        <strong>Entonces</strong> la conversación debe registrarse en el sistema para futuras referencias y seguimiento.
+      </td>
+      <td colspan="1">EP002</td>
+	</tr>
+    <tr>
+      <td colspan="1">US013</td>
+      <td colspan="1">Publicación Fácil de Vehículo</td>
+      <td colspan="1">
+      <strong>Como</strong> dueño de auto, <strong>quiero</strong> poder publicar mi vehículo en la plataforma de manera rápida y sencilla, <strong>para</strong> empezar a generar ingresos lo antes posible.
+      </td>
+      <td colspan="1">
+        <strong>E01: Proceso de publicación rápido</strong>
+        <br>
+        <strong>Dado que</strong> un dueño de auto quiere publicar su vehículo en la plataforma,
+        <br>
+        <strong>Cuando</strong> inicia el proceso de publicación, 
+        <br>
+        <strong>Entonces</strong> debe poder completar el formulario de publicación con los detalles básicos del vehículo en menos de 5 minutos.
+        <br><br>
+        <strong>E02: Confirmación de publicación</strong>
+        <br>
+        <strong>Dado que</strong> un dueño ha completado el proceso de publicación,
+        <br>
+        <strong>Cuando</strong> envía los datos, 
+        <br>
+        <strong>Entonces</strong> debe recibir una confirmación inmediata de que su vehículo ha sido publicado con éxito y está disponible para renta.
+      </td>
+      <td colspan="1">EP003</td>
+	</tr>
+    <tr>
+      <td colspan="1">US014</td>
+      <td colspan="1">Control de Precios</td>
+      <td colspan="1">
+      <strong>Como</strong> dueño de auto, <strong>quiero</strong> tener control sobre el precio de renta de mi vehículo, <strong>para</strong> asegurarme de que estoy ganando una cantidad justa según la demanda.	
+      </td>
+      <td colspan="1">
+        <strong>E01: Ajuste de precios manual</strong>
+        <br>
+        <strong>Dado que</strong> un dueño de auto desea controlar el precio de renta,
+        <br>
+        <strong>Cuando</strong> accede a la configuración de su vehículo, 
+        <br>
+        <strong>Entonces</strong> poder ajustar manualmente el precio de renta por día según sus preferencias.
+        <br><br>
+        <strong>E02: Sugerencias basadas en demanda</strong>
+        <br>
+        <strong>Dado que</strong> un dueño de auto desea maximizar sus ingresos,
+        <br>
+        <strong>Cuando</strong> revisa la información de demanda en su área,
+        <br>
+        <strong>Entonces</strong> debe recibir sugerencias automáticas de precios basadas en la demanda actual del mercado.
+        <br>
+      </td>
+      <td colspan="1">EP003</td>
+	</tr>
+    <tr>
+      <td colspan="1">US015</td>
+      <td colspan="1">Protección y Seguro</td>
+      <td colspan="1">
+      <strong>Como</strong> dueño de auto, <strong>quiero</strong> que mi vehículo esté asegurado contra daños y robos durante el periodo de renta, <strong>para</strong> sentirme tranquilo al alquilarlo.	
+      </td>
+      <td colspan="1">
+        <strong>E01: Cobertura de seguro activada</strong>
+        <br>
+        <strong>Dado que</strong> un dueño de auto desea proteger su vehículo,
+        <br>
+        <strong>Cuando</strong> el vehículo es alquilado a través de la plataforma, 
+        <br>
+        <strong>Entonces</strong> el seguro contra daños y robos debe activarse automáticamente durante todo el periodo de renta.
+        <br><br>
+        <strong>E02: Visualización de detalles del seguro</strong>
+        <br>
+        <strong>Dado que</strong> un dueño de auto quiere conocer la cobertura del seguro,
+        <br>
+        <strong>Cuando</strong> accede a la sección de seguros en su cuenta, 
+        <br>
+        <strong>Entonces</strong> debe poder visualizar los detalles del seguro, incluyendo las coberturas y exclusiones aplicables.
+        <br><br>
+        <strong>E03: Notificación en caso de siniestro</strong>
+        <br>
+        <strong>Dado que</strong> un dueño de auto está preocupado por posibles incidentes,
+        <br>
+        <strong>Cuando</strong> ocurre un siniestro durante la renta, 
+        <br>
+        <strong>Entonces</strong> debe recibir una notificación inmediata con instrucciones para iniciar el proceso de reclamación del seguro.
+      </td>
+      <td colspan="1">EP003</td>
+	</tr>
+    <tr>
+      <td colspan="1">US016</td>
+      <td colspan="1">Notificaciones de Disponibilidad</td>
+      <td colspan="1">
+      <strong>Como</strong> dueño de auto, <strong>quiero</strong> recibir notificaciones cuando alguien esté interesado en rentar mi vehículo, <strong>para</strong> estar al tanto de las oportunidades de ingreso.
+      </td>
+      <td colspan="1">
+        <strong>E01: Notificación automática de interés</strong>
+        <br>
+        <strong>Dado que</strong> un dueño de auto desea estar al tanto de las oportunidades de ingreso,
+        <br>
+        <strong>Cuando</strong> un conductor muestra interés en rentar su vehículo, 
+        <br>
+        <strong>Entonces</strong> el sistema debe enviar una notificación automática al dueño, informando sobre el posible alquiler.
+        <br><br>
+        <strong>E02: Opciones de personalización de notificaciones</strong>
+        <br>
+        <strong>Dado que</strong> un dueño de auto tiene diferentes preferencias para recibir alertas,
+        <br>
+        <strong>Cuando</strong> accede a la configuración de notificaciones, 
+        <br>
+        <strong>Entonces</strong> debe poder personalizar cómo y cuándo recibir estas notificaciones (por ejemplo, por correo electrónico, SMS, o notificaciones push).
+      </td>
+      <td colspan="1">EP003</td>
+	</tr>
+    <tr>
+      <td colspan="1">US017</td>
+      <td colspan="1">Gestión de Reseñas</td>
+      <td colspan="1">
+      <strong>Como</strong> dueño de auto, <strong>quiero</strong> poder gestionar las reseñas que los conductores dejan sobre mi vehículo, <strong>para</strong> mantener una buena reputación en la plataforma.	
+      </td>
+      <td colspan="1">
+        <strong>E01: Visualización de reseñas</strong>
+        <br>
+        <strong>Dado que</strong> un dueño de auto desea revisar las opiniones sobre su vehículo,
+        <br>
+        <strong>Cuando</strong> un conductor deja una reseña, 
+        <br>
+        <strong>Entonces</strong> el dueño debe poder visualizar todas las reseñas en su perfil de propietario.
+        <br><br>
+        <strong>E02: Solicitud de revisión de reseña inapropiada</strong>
+        <br>
+        <strong>Dado que</strong> un dueño de auto encuentra una reseña inapropiada o falsa,
+        <br>
+        <strong>Cuando</strong> solicita una revisión de la reseña al soporte de la plataforma, 
+        <br>
+        <strong>Entonces</strong> debe poder enviar una solicitud de revisión para que la reseña sea evaluada y, si es necesario, eliminada.
+        <br><br>
+      </td>
+      <td colspan="1">EP003</td>
+	</tr>
+    <tr>
+      <td colspan="1">US018</td>
+      <td colspan="1">Verificación de Conductores</td>
+      <td colspan="1">
+      <strong>Como</strong> dueño de auto, <strong>quiero</strong> que los conductores sean verificados a través de un proceso exhaustivo, <strong>para</strong> asegurarme de que son responsables y de confianza.	
+      </td>
+      <td colspan="1">
+        <strong>E01: Proceso de verificación de identidad</strong>
+        <br>
+        <strong>Dado que</strong> un conductor desea registrarse en la plataforma,
+        <br>
+        <strong>Cuando</strong> completa el formulario de registro,
+        <br>
+        <strong>Entonces</strong> debe ser requerido subir un documento de identidad válido y pasar por una verificación de identidad.
+        <br><br>
+        <strong>E02: Revisión de historial de manejo</strong>
+        <br>
+        <strong>Dado que</strong> un conductor desea registrarse en la plataforma,
+        <br>
+        <strong>Cuando</strong> completa el formulario de registro,
+        <br>
+        <strong>Entonces</strong> debe validar que el conductor no tenga infracciones graves y cumpla con los estándares de seguridad.
+        <br><br>
+        <strong>E03: Verificación de datos personales</strong>
+        <br>
+        <strong>Dado que</strong> un conductor ha proporcionado su información personal,
+        <br>
+        <strong>Cuando</strong> la plataforma procesa estos datos,
+        <br>
+        <strong>Entonces</strong> debe verificar la autenticidad de la información antes de aprobar su cuenta.
+      </td>
+      <td colspan="1">EP004</td>
+	</tr>
+    <tr>
+      <td colspan="1">US019</td>
+      <td colspan="1">Responsabilidad por Daños</td>
+      <td colspan="1">
+      <strong>Como</strong> dueño de auto, <strong>quiero</strong> que los conductores sean responsables por cualquier daño que ocurra durante la renta, <strong>para</strong> proteger mi vehículo de posibles pérdidas.	
+      </td>
+      <td colspan="1">
+        <strong>E01: Acuerdo de responsabilidad antes de la renta</strong>
+        <br>
+        <strong>Dado que</strong> un conductor está a punto de confirmar una renta,
+        <br>
+        <strong>Cuando</strong> procede al pago,
+        <br>
+        <strong>Entonces</strong> debe aceptar los términos que lo hacen responsable por cualquier daño ocurrido durante el periodo de renta.
+        <br><br>
+        <strong>E02: Reporte de daños</strong>
+        <br>
+        <strong>Dado que</strong> un daño ha ocurrido durante la renta,
+        <br>
+        <strong>Cuando</strong> el conductor entrega el vehículo,
+        <br>
+        <strong>Entonces</strong> debe reportar cualquier daño y la plataforma debe registrar el incidente para su resolución.
+        <br><br>
+        <strong>E03: Evaluación y compensación</strong>
+        <br>
+        <strong>Dado que</strong> se ha reportado un daño al vehículo,
+        <br>
+        <strong>Cuando</strong> el dueño recibe el reporte,
+        <br>
+        <strong>Entonces</strong> el sistema debe evaluar el daño y calcular la compensación adecuada que el conductor debe pagar.
+      </td>
+      <td colspan="1">EP004</td>
+	</tr>
+    <tr>
+      <td colspan="1">US020</td>
+      <td colspan="1">Depósito de Seguridad</td>
+      <td colspan="1">
+      <strong>Como</strong> dueño de auto, <strong>quiero</strong> que se retenga un depósito de seguridad a los conductores antes de la renta, <strong>para</strong> cubrir cualquier daño potencial o incumplimiento de contrato.	
+      </td>
+      <td colspan="1">
+        <strong>E01: Retención del depósito al confirmar la renta</strong>
+        <br>
+        <strong>Dado que</strong> que un conductor ha seleccionado un vehículo para rentar,
+        <br>
+        <strong>Cuando</strong> procede al pago de la renta, 
+        <br>
+        <strong>Entonces</strong> se debe retener automáticamente un depósito de seguridad, y el conductor debe ser notificado de este cargo.
+        <br><br>
+        <strong>E02: Devolución del depósito tras la renta</strong>
+        <br>
+        <strong>Dado que</strong> el periodo de renta ha finalizado sin incidentes,
+        <br>
+        <strong>Cuando</strong> el dueño confirma que no hay daños ni incumplimientos, 
+        <br>
+        <strong>Entonces</strong> el sistema debe devolver el depósito de seguridad al conductor.
+        <br><br>
+        <strong>E03: Uso del depósito en caso de daños</strong>
+        <br>
+        <strong>Dado que</strong> se ha registrado un daño o incumplimiento,
+        <br>
+        <strong>Cuando</strong> el dueño lo reporta
+        <br>
+        <strong>Entonces</strong> el sistema debe deducir el costo del depósito para cubrir los daños, notificando al conductor del monto deducido.
+        <br><br>
+      </td>
+      <td colspan="1">EP004</td>
+	</tr>
+    <tr>
+      <td colspan="1">US021</td>
+      <td colspan="1">Seguro Obligatorio</td>
+      <td colspan="1">
+      <strong>Como</strong> dueño de auto, <strong>quiero</strong> que todos los conductores estén cubiertos por un seguro obligatorio durante la renta, <strong>para</strong> protegerme de costos inesperados en caso de accidentes.
+      </td>
+      <td colspan="1">
+        <strong>E01: Confirmación de seguro antes de la renta</strong>
+        <br>
+        <strong>Dado que</strong> un conductor ha seleccionado un vehículo para rentar,
+        <br>
+        <strong>Cuando</strong> procede a confirmar la reserva, 
+        <br>
+        <strong>Entonces</strong> el sistema debe verificar automáticamente que el conductor cuenta con el seguro obligatorio activo, antes de permitir que la renta se complete.
+        <br><br>
+        <strong>E02: Notificación de seguro obligatorio</strong>
+        <br>
+        <strong>Dado que</strong> un conductor no tiene el seguro obligatorio,
+        <br>
+        <strong>Cuando</strong> intenta confirmar la renta,
+        <br>
+        <strong>Entonces</strong> el sistema debe notificar al conductor sobre la necesidad de adquirir el seguro antes de continuar con la transacción.
+      </td>
+      <td colspan="1">EP004</td>
+	</tr>
+    <tr>
+      <td colspan="1">US022</td>
+      <td colspan="1">Evaluación de Conductores</td>
+      <td colspan="1">
+      <strong>Como</strong> dueño de auto, <strong>quiero</strong> poder evaluar a los conductores después de cada renta, <strong>para</strong> contribuir a la reputación en la plataforma y ayudar a otros dueños a tomar decisiones informadas.	
+      </td>
+      <td colspan="1">
+        <strong>E01: Evaluación al finalizar la renta</strong>
+        <br>
+        <strong>Dado que</strong> un conductor ha completado una renta,
+        <br>
+        <strong>Cuando</strong> el dueño del auto finaliza el proceso de devolución,
+        <br>
+        <strong>Entonces</strong> el sistema debe permitirle calificar y dejar una reseña sobre el conductor.
+        <br><br>
+        <strong>E02: Confirmación de reseña</strong>
+        <br>
+        <strong>Dado que</strong> un dueño ha enviado una evaluación del conductor,
+        <br>
+        <strong>Cuando</strong> la reseña es enviada,
+        <br>
+        <strong>Entonces</strong> el sistema debe confirmar la recepción de la evaluación y mostrarla en el perfil del conductor.
+      </td>
+      <td colspan="1">EP004</td>
+	</tr>
+    <tr>
+      <td colspan="1">US023</td>
+      <td colspan="1">Sección Informativa de Condiciones de Alquiler</td>
+      <td colspan="1">
+      <strong>Como</strong> visitante, <strong>quiero</strong> una sección clara y accesible en la landing page que explique todas las condiciones de alquiler, <strong>para</strong> poder tomar una decisión informada sobre el uso del servicio.
+      </td>
+      <td colspan="1">
+        <strong>E01: Acceso a la sección de condiciones</strong>
+        <br>
+        <strong>Dado que</strong> un visitante ingresa a la landing page,
+        <br>
+        <strong>Cuando</strong> desea conocer las condiciones de alquiler, 
+        <br>
+        <strong>Entonces</strong> debe poder acceder fácilmente a una sección dedicada a condiciones de alquiler desde la página principal.
+        <br><br>
+        <strong>E02: Contenido claro y completo</strong>
+        <br>
+        <strong>Dado que</strong> un visitante está en la sección de condiciones de alquiler,
+        <br>
+        <strong>Cuando</strong> revisa la información,
+        <br>
+        <strong>Entonces</strong> debe poder ver explicaciones claras y detalladas sobre las condiciones de alquiler, incluyendo precios, seguros, y responsabilidades de los usuarios.
+      </td>
+      <td colspan="1">EP005</td>
+		</tr>
+    <tr>
+      <td colspan="1">US024</td>
+      <td colspan="1">Testimonios de Usuarios Anteriores</td>
+      <td colspan="1">
+      <strong>Como</strong> visitante, <strong>quiero</strong> leer testimonios de otros usuarios que han alquilado vehículos a través de la plataforma, <strong>para</strong> sentirme más seguro sobre la calidad del servicio.	
+      </td>
+      <td colspan="1">
+        <strong>E01: Visualización de testimonios en la landing page</strong>
+        <br>
+        <strong>Dado que</strong> un visitante está explorando la landing page,
+        <br>
+        <strong>Cuando</strong> busca información sobre la calidad del servicio, 
+        <br>
+        <strong>Entonces</strong> debe poder ver una sección destacada con testimonios de usuarios anteriores que han alquilado vehículos a través de la plataforma.
+        <br><br>
+        <strong>E02: Testimonios verificables</strong>
+        <br>
+        <strong>Dado que</strong> un visitante está leyendo testimonios,
+        <br>
+        <strong>Cuando</strong> desea saber la autenticidad de los testimonios, 
+        <br>
+        <strong>Entonces</strong> cada testimonio debe estar vinculado a un usuario verificado de la plataforma, indicando la fecha y tipo de renta realizada.
+      </td>
+      <td colspan="1">EP005</td>
+		</tr>
+    <tr>
+      <td colspan="1">US025</td>
+      <td colspan="1">Consejos para Uso del Servicio</td>
+      <td colspan="1">
+      <strong>Como</strong> visitante, <strong>quiero</strong> poder ver una sección de blog en la que pueda visualizar consejos <strong>para</strong> poder tener mayor comodidad al usar el servicio.
+      </td>
+      <td colspan="1">
+        <strong>E01: Acceso a la sección de blog en la landing page</strong>
+        <br>
+        <strong>Dado que</strong> un visitante está explorando la landing page,
+        <br>
+        <strong>Cuando</strong> desea obtener información adicional sobre cómo usar el servicio, 
+        <br>
+        <strong>Entonces</strong> debe poder acceder fácilmente a una sección de blog dedicada que contenga consejos prácticos para mejorar su experiencia al utilizar la plataforma.
+        <br><br>
+        <strong>E02: Consejos relevantes y actualizados</strong>
+        <br>
+        <strong>Dado que</strong> un visitante está leyendo el blog,
+        <br>
+        <strong>Cuando</strong> busca consejos para usar el servicio,
+        <br>
+        <strong>Entonces</strong> debe encontrar artículos relevantes y actualizados que cubran temas como la optimización del tiempo de renta, cuidado del vehículo, y opciones de pago.
+      </td>
+      <td colspan="1">EP005</td>
+		</tr>
+    <tr>
+      <td colspan="1">US026</td>
+      <td colspan="1">Descripción de Medidas de Seguridad</td>
+      <td colspan="1">
+      <strong>Como</strong> visitante, <strong>quiero</strong> una sección en la landing page que describa todas las medidas de seguridad implementadas <strong>para</strong> proteger mi vehículo, para sentirme tranquilo al alquilarlo.	
+      </td>
+      <td colspan="1">
+        <strong>E01: Visibilidad en la Landing Page:</strong>
+        <br>
+        <strong>Dado que</strong> un visitante está en la landing page de la plataforma,
+        <br>
+        <strong>Cuando</strong> navega por la página,
+        <br>
+        <strong>Entonces</strong> debe poder ver una sección claramente destacada que describa las medidas de seguridad implementadas.
+        <br><br>
+        <strong>E02: Claridad y Comprensibilidad:</strong>
+        <br>
+        <strong>Dado que</strong> el visitante lee la descripción de las medidas de seguridad,
+        <br>
+        <strong>Cuando</strong> revisa el contenido,
+        <br>
+        <strong>Entonces</strong> debe ser capaz de comprender claramente las políticas y procedimientos sin necesidad de buscar información adicional.
+      </td>
+      <td colspan="1">EP006</td>
+		</tr>
+    <tr>
+      <td colspan="1">US027</td>
+      <td colspan="1">Políticas de Seguros y Protección</td>
+      <td colspan="1">
+      <strong>Como</strong> visitante, <strong>quiero</strong> leer las políticas de seguros y protección que la plataforma ofrece, <strong>para</strong>	asegurarme de que mi vehículo estará cubierto en caso de daños.
+      </td>
+      <td colspan="1">
+        <strong>E01: Visibilidad en la Landing Page:</strong>
+        <br>
+        <strong>Dado que</strong> un visitante está en la landing page de la plataforma,
+        <br>
+        <strong>Cuando</strong> navega por la página,
+        <br>
+        <strong>Entonces</strong> debe poder ver una sección claramente destacada que describa las medidas de seguridad implementadas.
+        <br><br>
+        <strong>E02: Claridad y Comprensibilidad:</strong>
+        <br>
+        <strong>Dado que</strong> el visitante lee la descripción de las medidas de seguridad,
+        <br>
+        <strong>Cuando</strong> revisa el contenido,
+        <br>
+        <strong>Entonces</strong> debe ser capaz de comprender claramente las políticas y procedimientos sin necesidad de buscar información adicional.
+      </td>
+      <td colspan="1">EP006</td>
+		</tr>
+    <tr>
+      <td colspan="1">US028</td>
+      <td colspan="1">Información sobre Documentos Requeridos</td>
+      <td colspan="1">
+      <strong>Como</strong> visitante, <strong>quiero</strong> una sección donde me brinden la información sobre todos los documentos necesarios a presentar, <strong>para</strong> tener la seguridad de que mi auto se está alquilando de manera correcta.	
+      </td>
+      <td colspan="1">
+        <strong>E01: Visibilidad en la Landing Page:</strong>
+        <br>
+        <strong>Dado que</strong> un visitante está en la landing page de la plataforma,
+        <br>
+        <strong>Cuando</strong> navega por la página,
+        <br>
+        <strong>Entonces</strong> debe poder ver una sección claramente destacada que describa las medidas de seguridad implementadas.
+        <br><br>
+        <strong>E02: Contenido Detallado:</strong>
+        <br>
+        <strong>Dado que</strong> el visitante accede a la sección de documentos requeridos,
+        <br>
+        <strong>Cuando</strong> revisa el contenido,
+        <br>
+        <strong>Entonces</strong> debe encontrar una lista completa y detallada de todos los documentos necesarios para alquilar un vehículo.
+      </td>
+      <td colspan="1">EP006</td>
+		</tr>
+  </tbody>
+</table>
+
 ### 3.3. Impact Mapping
+![Impact map11](https://github.com/user-attachments/assets/99e0c235-a7d3-4c4b-8de3-f5383131762b)
+<strong>Link del impact mapping: <a href="https://miro.com/app/board/uXjVKjTUnSM=/?share_link_id=910359412154">https://miro.com/app/board/uXjVKjTUnSM=/?share_link_id=910359412154</a></strong>
+
 ### 3.4. Product Backlog
+<table>
+  <thead>
+    <tr>
+      <th># Orden</th>
+      <th>User Story Id</th>
+      <th>Título</th>
+      <th>Descripción</th>
+      <th>Story Points (1 / 2 / 3 / 5 / 8)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>US008</td>
+      <td>Validación de propiedad</td>
+      <td>Como conductor, quiero confirmar que el vehículo a alquilar sea de la propiedad de la persona que brinda el servicio, para poder asegurarme que no tendré ningún percance legal.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>US009</td>
+      <td>Validación de documentos</td>
+      <td>Como conductor, quiero corroborar que los documentos del vehículo que voy a alquilar estén en regla, para asegurarme que no tendré ningún percance legal.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>US010</td>
+      <td>Inspección del Vehículo</td>
+      <td>Como conductor, quiero que el vehículo sea inspeccionado y certificado antes de cada renta, para asegurarme de que esté en condiciones óptimas de funcionamiento.</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>US011</td>
+      <td>Reputación del Propietario</td>
+      <td>Como conductor, quiero poder revisar la reputación y reseñas del propietario del vehículo, para asegurarme de que estoy tratando con alguien confiable y con buenas referencias.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>US012</td>
+      <td>Atención al Cliente 24/7</td>
+      <td>Como conductor, quiero tener acceso a un servicio de atención al cliente disponible las 24 horas, para recibir ayuda inmediata en caso de cualquier problema durante mi renta.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>US013</td>
+      <td>Garantía de Calidad</td>
+      <td>Como conductor, quiero una garantía de que recibiré un vehículo limpio y en buenas condiciones, para tener una experiencia de alta calidad durante mi renta.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>US016</td>
+      <td>Protección y Seguro</td>
+      <td>Como dueño de auto, quiero que mi vehículo esté asegurado contra daños y robos durante el periodo de renta, para sentirme tranquilo al alquilarlo.</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>US019</td>
+      <td>Verificación de Conductores</td>
+      <td>Como dueño de auto, quiero que los conductores sean verificados a través de un proceso exhaustivo, para asegurarme de que son responsables y de confianza.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>US020</td>
+      <td>Responsabilidad por Daños</td>
+      <td>Como dueño de auto, quiero que los conductores sean responsables por cualquier daño que ocurra durante la renta, para proteger mi vehículo de posibles pérdidas.</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>US021</td>
+      <td>Depósito de Seguridad</td>
+      <td>Como dueño de auto, quiero que se retenga un depósito de seguridad a los conductores antes de la renta, para cubrir cualquier daño potencial o incumplimiento de contrato.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>US022</td>
+      <td>Seguro Obligatorio</td>
+      <td>Como dueño de auto, quiero que todos los conductores estén cubiertos por un seguro obligatorio durante la renta, para protegerme de costos inesperados en caso de accidentes.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>US027</td>
+      <td>Descripción de Medidas de Seguridad</td>
+      <td>Como visitante, quiero una sección en la landing page que describa todas las medidas de seguridad implementadas para proteger mi vehículo, para sentirme tranquilo al alquilarlo.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>US028</td>
+      <td>Políticas de Seguros y Protección</td>
+      <td>Como visitante, quiero leer las políticas de seguros y protección que la plataforma ofrece, para asegurarme de que mi vehículo estará cubierto en caso de daños.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>US001</td>
+      <td>Encontrar vehículos</td>
+      <td>Como conductor, quiero poder encontrar los vehículos más cercanos a mi ubicación para reducir el tiempo de espera y comenzar a usar el vehículo lo antes posible.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>US002</td>
+      <td>Renta de vehículo</td>
+      <td>Como conductor, quiero poder encontrar los vehículos más cercanos a mi ubicación para reducir el tiempo de espera y comenzar a usar el vehículo lo antes posible.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>US003</td>
+      <td>Devolución de vehículo</td>
+      <td>Como conductor, quiero confirmar la hora de devolución y ubicación del vehículo para asegurarse de que el proceso de devolución sea rápido y conveniente para ambas partes.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>US004</td>
+      <td>Extensión de Renta</td>
+      <td>Como conductor, quiero poder extender la duración de mi renta de vehículo en caso de que necesite más tiempo, para evitar interrupciones en mi movilidad.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>US005</td>
+      <td>Configuración de Preferencias del Vehículo</td>
+      <td>Como conductor, quiero poder configurar mis preferencias de vehículo (por ejemplo, tipo de transmisión, combustible, etc.), para asegurarme de que el vehículo asignado cumpla con mis necesidades.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>US006</td>
+      <td>Pago Flexible</td>
+      <td>Como conductor, quiero poder elegir entre diferentes métodos de pago y opciones de pago (por ejemplo, pagos parciales, a plazos, etc.), para tener mayor flexibilidad financiera al alquilar un vehículo.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>US007</td>
+      <td>Asistencia en Carretera</td>
+      <td>Como conductor, quiero tener acceso a un servicio de asistencia en carretera, para sentirme seguro en caso de emergencias o problemas técnicos con el vehículo.</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>US014</td>
+      <td>Publicación Fácil de Vehículo</td>
+      <td>Como dueño de auto, quiero poder publicar mi vehículo en la plataforma de manera rápida y sencilla, para empezar a generar ingresos lo antes posible.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>US015</td>
+      <td>Control de Precios</td>
+      <td>Como dueño de auto, quiero tener control sobre el precio de renta de mi vehículo, para asegurarme de que estoy ganando una cantidad justa según la demanda.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>US017</td>
+      <td>Notificaciones de Disponibilidad</td>
+      <td>Como dueño de auto, quiero recibir notificaciones cuando alguien esté interesado en rentar mi vehículo, para estar al tanto de las oportunidades de ingreso.</td>
+      <td>3</td>
+    </tr>
+	<tr>
+      <td>24</td>
+      <td>US018</td>
+      <td>Gestión de Reseñas</td>
+      <td>Como dueño de auto, quiero poder gestionar las reseñas que los conductores dejan sobre mi vehículo, para mantener una buena reputación en la plataforma.</td>
+      <td>3</td>
+    </tr>  
+	<tr>
+      <td>25</td>
+      <td>US023</td>
+      <td>Evaluación de Conductores</td>
+      <td>Como dueño de auto, quiero poder evaluar a los conductores después de cada renta, para contribuir a la reputación en la plataforma y ayudar a otros dueños a tomar decisiones informadas.</td>
+      <td>3</td>
+    </tr>  
+	  <tr>
+      <td>26</td>
+      <td>US024</td>
+      <td>Sección Informativa de Condiciones de Alquiler</td>
+      <td>Como visitante, quiero una sección clara y accesible en la landing page que explique todas las condiciones de alquiler, para poder tomar una decisión informada sobre el uso del servicio.</td>
+      <td>3</td>
+    </tr>  
+	    <tr>
+      <td>27</td>
+      <td>US025</td>
+      <td>Testimonios de Usuarios Anteriores</td>
+      <td>Como visitante, quiero leer testimonios de otros usuarios que han alquilado vehículos a través de la plataforma, para sentirme más seguro sobre la calidad del servicio.</td>
+      <td>3</td>
+    </tr> 
+	      <tr>
+      <td>28</td>
+      <td>US026</td>
+      <td>Consejos para Uso del Servicio</td>
+      <td>Como visitante, quiero poder ver una sección de blog en la que pueda visualizar consejos para poder tener mayor comodidad al usar el servicio.</td>
+      <td>3</td>
+    </tr>  
+     </tbody>
+</table>
+<strong>Link del Product Backlog en Trello:<a href="https://trello.com/invite/b/66d9fa46770816a161ec67a6/ATTI757f1d6ef821c1f9032190bc07796c75528B1939/product-backlog">https://trello.com/invite/b/66d9fa46770816a161ec67a6/ATTI757f1d6ef821c1f9032190bc07796c75528B1939/product-backlog</a></strong>
+
 
 ## Capítulo IV: Product Design <a id="cap4"></a>
 
