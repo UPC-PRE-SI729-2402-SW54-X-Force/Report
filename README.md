@@ -151,7 +151,7 @@ DriveNow es una aplicación que busca resolver el problema constante de las pers
   </tr>
   <tr>
     <td>Casas Sanchez Gabriel Alexander - U202220033<br>Soy estudiante de Ingeniería de software y estoy cursando el quinto ciclo de la carrera. Me considero una persona bastante capaz y versátil en el ámbito académico. Creo que mi principal fortaleza es mi capacidad para dirigir y trabajar bien bajo presión. A pesar de no disfrutar los trabajos grupales, considero que siempre desempeñó un rol sobresaliente en ellos.</td>
-    <td></td>
+    <td><img src="resources/alex-pfp.jpg" style="width: 500px"></td>
   </tr>
   <tr>
     <td>Aarón Alexander Avila Palacios - U201823654<br>Soy estudiante de Ingeniería de software y estoy cursando el quinto ciclo de la carrera. Tengo 23 años. Tengo conocimientos en programación orientada a objetos en lenguaje de programación C++, también en diseño de prototipos de aplicaciones, diseño gráfico, diseño e implementación de páginas web. Todas estas habilidades ayudan al desarrollo del proyecto, dado que son de vital importancia en este curso y en nuestra carrera. Soy capaz de desarrollar de manera eficaz cualquier tarea que se me asigne.</td>
