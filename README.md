@@ -560,7 +560,13 @@ Además, nos menciona que valora mucho que la plataforma ofrezca un "plus" a los
      </p>
      
 ### 2.3. Needfinding
+
+En la siguiente sección de Needfinding, profundizaremos en cómo DriveNow se compromete a comprender y abordar de manera proactiva las cambiantes necesidades de nuestros usuarios, permitiéndoles realizar el proceso de alquiler de vehículos de manera más eficiente, segura y confiable que nunca.
+
 #### 2.3.1. User Personas
+
+Presentaremos los User Persona por cada segmento objetivo, en los cuales nos basamos en los usuarios
+ideales de cada segmento. A continuación, los presentamos:
 
 - Arrendatario:
 
@@ -677,6 +683,10 @@ Además, nos menciona que valora mucho que la plataforma ofrezca un "plus" a los
 	</tbody>
 </table>
 
+La User Task Matrix revela que tanto los arrendatarios como los dueños de vehículos tienen tareas clave similares, pero con diferentes prioridades. Los arrendatarios se enfocan en la búsqueda de vehículos confiables, prestando atención a factores como la seguridad, la calificación del propietario y las condiciones del vehículo. Por otro lado, los dueños de vehículos priorizan mantener sus autos en buen estado, estableciendo precios adecuados y asegurando un seguimiento claro durante el alquiler.
+
+Mientras que los arrendatarios valoran la facilidad para encontrar vehículos que se ajusten a sus necesidades y la seguridad en todo el proceso, los propietarios buscan maximizar la rentabilidad y garantizar el cuidado de sus vehículos. Estas diferencias reflejan la complementariedad de sus roles en la plataforma, siendo esenciales para una experiencia de alquiler segura, eficiente y satisfactoria para ambas partes.
+
 #### 2.3.3. User Journey Mapping
 
 - Arrendatario:
@@ -698,6 +708,9 @@ Además, nos menciona que valora mucho que la plataforma ofrezca un "plus" a los
   <img src="./resources/emphaty_mapping/Empathy%20map%20dueño%20de%20vehículo.png" alt="Anderson Díaz"/>
 
 #### 2.3.5. As-is Scenario Mapping
+
+El As-Is Scenario Mapping es una herramienta para identificar los pensamientos que tendrán los usuarios
+a la hora de utilizar la aplicación actual.
 
 - Arrendatario:
 
