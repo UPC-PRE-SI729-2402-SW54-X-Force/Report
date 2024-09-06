@@ -168,7 +168,17 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 ## Capítulo III: Requirements Specification <a id="cap3"></a>
 
 ### 3.1. To-Be Scenario Mapping
-DriveNow
+
+El mapa To-Be crea una representación visual que muestra exactamente cómo debería funcionar el proceso, qué decisiones se deben tomar y qué resultados se pueden lograr.
+
+- Arrendatario:
+
+<img src="./resources/to_be/to_be_arrendatario.png"/>
+
+- Dueño de vehículo:
+
+<img src="./resources/to_be/to_be_dueño_de_vehiculo.png"/>
+
 ### 3.2. User Stories
 Para elaborar user stories estas deben pertenecer a una epic stories. A continuación, se mostrarán las epic stories:
 
