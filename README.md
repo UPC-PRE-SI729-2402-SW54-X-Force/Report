@@ -2618,7 +2618,17 @@ Para este sprint se realizo una reunión exclusiva para el despliegue de la land
 #### 5.3.3. Evaluaciones según heurísticas
 ### 5.4. Video About-the-Product
 ## Conclusiones
+1) Resolución del Problema: DriveNow aborda eficientemente la baja utilización de vehículos particulares en Perú, aprovechando una gran cantidad de vehículos estacionados sin uso para su alquiler temporal. Esto no solo maximiza el uso de automóviles, sino que también genera ingresos adicionales para los propietarios.
 
+2) Foco en la Seguridad: Uno de los aspectos principales que se resaltan en las entrevistas y análisis es la necesidad de seguridad, tanto para los propietarios como para los arrendatarios. La implementación de seguros, verificaciones de identidad y un sistema de reseñas confiables son esenciales para generar confianza en la plataforma.
+
+3) Innovación en la Experiencia del Usuario: DriveNow se distingue por su interfaz intuitiva y fácil de usar, con funciones avanzadas como filtros personalizados, mensajería en tiempo real y un sistema de atención al cliente 24/7. Esto mejora la experiencia de usuario tanto para quienes buscan alquilar un vehículo como para los propietarios.
+
+4) Modelo de Negocio Viable: DriveNow no solo soluciona problemas logísticos y de uso de vehículos, sino que también crea una oportunidad financiera tanto para los dueños como para la propia startup, basada en una estrategia de ingresos claros a través de alquileres y servicios premium.
+
+5) Relevancia Social y Económica: Al integrar vehículos subutilizados en el mercado de alquiler temporal, DriveNow contribuye a reducir la congestión urbana, al mismo tiempo que fomenta una mayor eficiencia en el uso de recursos privados, impactando positivamente en la economía colaborativa.
 ## Bibliografía
 
 ## Anexos
+
+Video de exposición: 
