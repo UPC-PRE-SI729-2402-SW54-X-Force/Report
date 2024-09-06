@@ -357,7 +357,7 @@ Segmento Objetivo 1: Arrendatarios
         </tr>
         <tr>
             <td>
-             <strong><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u201824409_upc_edu_pe/ERHRxTGCN1FPlTQLZIMBjoIB3FBD3YjtoWLtrjNNNvhxOA?e=O28m0F&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">URL Entrevista</a></strong>
+             Inicio: 00:00, Final: 05:34 <strong><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220033_upc_edu_pe/ESAapByByehKnYPLmBJ9AD8BeVLI5wl8fKFXSoGexrYjIw?e=RAQyUM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">URL Entrevista</a></strong>
             </td>
         </tr>        
 	</tbody>
@@ -393,7 +393,7 @@ Camila, de 20 años, es una usuaria que alquila vehículos una o dos veces al a�
         </tr>
         <tr>
             <td>
-             <strong><a href="https://youtu.be/XRG3nDBWWqc](https://www.youtube.com/watch?v=Z1mXH-eT7UQ">URL Entrevista</a></strong>
+             Inicio: 05:35, Final: 11:26 <strong><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220033_upc_edu_pe/ESAapByByehKnYPLmBJ9AD8BeVLI5wl8fKFXSoGexrYjIw?e=RAQyUM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">URL Entrevista</a></strong>
             </td>
         </tr>        
 	</tbody>
@@ -430,7 +430,7 @@ El busca trasmparencia en las aplicaiones aparte de un chat asisistecia a tiempo
         </tr>
         <tr>
             <td>
-             <strong><a href="">URL Entrevista</a></strong>
+             Inicio: 11:27, Final: 16:36 <strong><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220033_upc_edu_pe/ESAapByByehKnYPLmBJ9AD8BeVLI5wl8fKFXSoGexrYjIw?e=RAQyUM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">URL Entrevista</a></strong>
             </td>
         </tr>        
 	</tbody>
@@ -470,7 +470,7 @@ Segmento Objetivo 2: Dueños de vehículos
         </tr>
         <tr>
             <td>
-             <strong><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u201824409_upc_edu_pe/EbAkPmdyg4hImYoSgge82doBar4QyF2af49nfJwCpS0wew?e=RY7ucq&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">URL Entrevista</a></strong>
+             Inicio: 16:37, Final: 19:22 <strong><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220033_upc_edu_pe/ESAapByByehKnYPLmBJ9AD8BeVLI5wl8fKFXSoGexrYjIw?e=RAQyUM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">URL Entrevista</a></strong>
             </td>
         </tr>        
 	</tbody>
@@ -507,7 +507,7 @@ Nicolás Ávila, de 24 años, alquila su vehículo cuando no lo está utilizando
         </tr>
         <tr>
             <td>
-             <strong><a href="">URL Entrevista</a></strong>
+             Inicio: 19:22, Final: 26:30 <strong><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220033_upc_edu_pe/ESAapByByehKnYPLmBJ9AD8BeVLI5wl8fKFXSoGexrYjIw?e=RAQyUM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">URL Entrevista</a></strong>
             </td>
         </tr>        
 	</tbody>
@@ -516,6 +516,8 @@ Nicolás Ávila, de 24 años, alquila su vehículo cuando no lo está utilizando
 Resumen:
 Sebastián Ramírez es un joven emprendedor que alquila su vehículo cuando, por falta de tiempo, no puede usarlo o para generar ingresos adicionales. Sebastián nos comenta que la característica principal que busca al confiar su vehículo a otra persona es la confiabilidad, y que esta persona pueda demostrarlo presentando documentos personales que acrediten su identidad. No pretende alquilar el vehículo a un precio excesivo, ya que su objetivo es hacerlo accesible para una mayor cantidad de personas, y asegura que siempre lo mantiene en condiciones óptimas, con revisiones regulares y limpieza constante.
 Además, nos menciona que valora mucho que la plataforma ofrezca un "plus" a los dueños de vehículos como él, que se esfuerzan en mantener sus autos en perfectas condiciones para la comodidad de los usuarios que decidan alquilarlos. Sebastián también sugiere que la plataforma podría implementar un sistema de calificación y recompensas para aquellos propietarios que reciben buenas valoraciones, lo cual incentivaría a más dueños a cuidar sus vehículos y a brindar un mejor servicio. Finalmente, destaca que una buena experiencia para ambas partes no solo depende del estado del vehículo, sino también de la transparencia y seguridad en todo el proceso de alquiler, asegurando que tanto el propietario como el arrendatario se sientan tranquilos y satisfechos con la transacción.
+
+**Enlace de las entrevistas:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220033_upc_edu_pe/ESAapByByehKnYPLmBJ9AD8BeVLI5wl8fKFXSoGexrYjIw?e=RAQyUM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 #### 2.2.3. Análisis de entrevistas
 <body>
