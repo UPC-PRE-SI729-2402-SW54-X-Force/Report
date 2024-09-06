@@ -162,7 +162,7 @@ DriveNow es una aplicación que busca resolver el problema constante de las pers
     <td><img src="resources/Jamir.jpg" style="width: 500px"></td>
   </tr>
   <tr>
-    <td></td>
+    <td>Durán Santander, Emilia Mercedes <br> Soy estudiante de la carrera de Ingeniería de Software, actualmente en el 6to ciclo en la Universidad Peruana de Ciencias Aplicadas. Cuento con conocimientos técnicos en C++, HTML y Javascript.</td>
     <td></td>
   </tr>
   <tr>
