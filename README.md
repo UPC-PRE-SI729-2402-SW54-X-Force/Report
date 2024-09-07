@@ -34,6 +34,7 @@ A continuación, se presenta un cuadro que detalla las acciones realizadas por e
 | **Comunica oralmente con efectividad a diferentes rangos de audiencia.** | Avila Palacios Aaron Alexander<br>TB1<br>Casas Sanchez Gabriel Alexander<br>TB1<br>Duran Santander Emilia Mercedes<br>TB1<br>Galvan Cerron George Aldo<br>TB1<br>Marzal Perez Jamir Angel<br>TB1 | El equipo ha demostrado habilidades sólidas para comunicar de manera clara y efectiva sus ideas y resultados a diferentes tipos de audiencia, garantizando una comprensión completa del proyecto. |
 | **Comunica por escrito con efectividad a diferentes rangos de audiencia** | Avila Palacios Aaron Alexander<br>TB1<br>Casas Sanchez Gabriel Alexander<br>TB1<br>Duran Santander Emilia Mercedes<br>TB1<br>Galvan Cerron George Aldo<br>TB1<br>Marzal Perez Jamir Angel<br>TB1 | Cada integrante ha logrado transmitir de manera precisa y coherente la información clave del proyecto a través de documentos escritos, adaptándose exitosamente a diversos contextos comunicativos. |
 
+
 ## Project Report Collaboration Insights
 Se han realizado todas las tareas asignadas para la entrega de la TB1, las cuales se encuentran registradas en el repositorio de Github de la organización del equipo bajo el enlace https://github.com/UPC-PRE-SI729-2402-SW54-X-Force. Para elaborar el informe, cada miembro ha redactado y creado gráficos en formato Markdown según los puntos asignados, realizando commits para registrar el avance en el repositorio.
 
@@ -2316,10 +2317,101 @@ El sistema de navegación implementado en la página es intuitivo y responsivo. 
 ![home-landing-page-06](https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report/blob/feature/chapter_4/resources/Items/team.png?raw=true)
 #### Contant
 ![home-landing-page-07](https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report/blob/feature/chapter_4/resources/Items/contact.png?raw=true)
+
 ### 4.4. Web Applications UX/UI Design
+
+Realizamos el diseño UX/UI siguiendo las convenciones planteadas anteriormente, y con el objetivo de crear una interfaz intuitiva y amigable para que los usuarios puedan utilizarlo de manera eficiente desde un inicio.
+Nuestro enfoque prioriza la facilidad de navegación, para que el usuario pueda utilizar todas las funcionalidades de la aplicación.
+
 #### 4.4.1. Web Applications Wireframes
+Utilizamos los wireframes como punto de partida para la planificación de la arquitectura de la aplicación. A continuación presentaremos los wireframes para la aplicación web y mobile:
+
+**Homepage**
+![Homepage desktop](/resources/Items/AppWires-Desktop-Homepage.png)
+<br>
+![Mobile homepage](/resources/Items/AppWires-Mobile-Homepage.png)
+<br>
+Los primeros wireframes realizados fueron para el Homepage, cuando el usuario aún no está registrado, o no ha iniciado sesión. Utilizamos esta página como vínculo entre el landing page y las funcionalidades de la aplicación en sí.
+
+**Registro e inicio de sesión**
+![Login on desktop](/resources/Items/AppWires-Desktop-Login.png)
+<br>
+![Login on mobile](/resources/Items/AppWires-Mobile-Login.png)
+<br>
+La página de inicio de sesión muestra las credenciales necesarias para ingresar a la aplicación, cuenta con validación de las mismas y redirige a la página de registro.
+<br><br>
+![Register on desktop](/resources/Items/AppWires-Desktop-Register.png)
+<br>
+![Register on mobile](/resources/Items/AppWires-Mobile-Register.png)
+<br>
+La página de registro es otro punto de entrada a la aplicación para los usuarios que acceden desde la landing page. Nuevamente se indican las credenciales necesarias para ingresar a la aplicación. 
+
+**Vista principal para Arrendatarios**
+![Default view for car renters](/resources/Items/AppWires-Desktop-RenterDefault.png)
+<br>
+![Default view for car renters on mobile](/resources/Items/AppWires-Mobile-RenterDefault.png)
+<br>
+La vista Default le permite a los usuarios ver algunas opciones disponibles cercanas a ellos, así como acceder directamente a la página de búsqueda en móvil. En Desktop, se pueden hacer búsquedas desde esta página.
+
+**Vista principal para dueños**
+![Default view for car owners](/resources/Items/AppWires-Desktop-OwnerDefault.png)
+<br>
+La vista Default para dueños de autos, permite ver el carro o carros que están alquilando actualmente. También se visualiza la misma vista principal que está disponible para los arrendatarios, a fin de que vean las ofertas actuales.
+
+**Búsquedas**
+![Search results on desktop](/resources/Items/AppWires-Desktop-Search.png)
+En desktop, se pueden realizar las búsquedas desde la primera pantalla. Aquí se muestran los resultados con algunos filtros adicionales.
+<br>
+![Advanced filters on mobile](/resources/Items/AppWires-Mobile-Filters.png)
+![Search results on mobile](/resources/Items/AppWires-Mobile-Search.png)
+<br>
+En móvil, la pantalla de búsqueda es una página distinta, y muestra todos los filtro sdisponibles para el usuario. La siguiente pantalla muestra los resultados en forma de listado de esa búsqueda.
+
+**Página de usuario**
+![User page on desktop](/resources/Items/AppWires-Desktop-User.png)
+La página de usuario en desktop incluye la información de usuario, de suscripción y sus licencias o tarjetas de propiedad.  
+<br>
+![User page on mobile](/resources/Items/AppWires-Mobile-User.png)
+![User's license page on mobile](/resources/Items/AppWires-Mobile-UserLicense.png)
+<br>
+En móvil, las páginas de Usuario y sus tarjetas de identificación están separadas, sólo se puede acceder a la página de Licencia de conducir a través de la página de usuario.
+
+**Vista de mapa**
+![Map view on desktop](/resources/Items/AppWires-Desktop-Map.png)
+![Map view on mobile](/resources/Items/AppWires-Mobile-Map.png)
+![Map selected on mobile](/resources/Items/AppWires-Mobile-MapSelected.png)
+<br>
+En desktop y móvil existe la funcionalidad para buscar por mapa, que se visualiza en 2 pantallas para móvil, con un diálogo abierto para los carros o puntos seleccionados.
+
 #### 4.4.2. Web Applications Wireflow Diagrams
+
+
 #### 4.4.3. Web Applications Mock-ups
+Los Web Mockups fueron creados a partir de los Wireframes, y tomando en cuenta la arquitectura planteada en ellos. Estos utilizan las guías de estilo planteadas, así como un diseño cohesivo, para darle al usuario la imagen de la aplicación que hemos creado.
+
+**For Desktop** <br>
+![image](/resources/Items/Mockup-Desktop-Homepage.png)
+<br>Homepage
+<br>
+![image](/resources/Items/Mockup-Desktop-Login.png)
+<br>Login
+<br>
+![image](/resources/Items/Mockup-Desktop-Register.png)
+<br>Register
+<br>
+![image](/resources/Items/Mockup-Desktop-Renter.png)
+<br>Renter Default
+<br>
+![image](/resources/Items/Mockup-Desktop-Map.png)
+<br>Map View
+<br>
+![image](/resources/Items/Mockup-Desktop-Search.png)
+<br>Search Results
+<br>
+![image](/resources/Items/Mockup-Desktop-Community.png)
+<br>Community
+<br>
+
 #### 4.4.4. Web Applications User Flow Diagrams
 ### 4.5. Web Applications Prototyping
 ### 4.6. Domain-Driven Software Architecture
@@ -2902,4 +2994,5 @@ Para este sprint se realizo una reunión exclusiva para el despliegue de la land
 ## Bibliografía
 
 ## Anexos
+
 **Enlace de exposición:**
