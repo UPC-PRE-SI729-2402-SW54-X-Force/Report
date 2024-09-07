@@ -31,6 +31,9 @@ A continuación, se presenta un cuadro que detalla las acciones realizadas por e
 
 |     Criterio Específico     | Acciones Realizadas              | Conclusiones                | 
 |-----------------------------|----------------------------------|-----------------------------|
+| **Comunica oralmente con efectividad a diferentes rangos de audiencia.** | Avila Palacios Aaron Alexander<br>TB1<br>Casas Sanchez Gabriel Alexander<br>TB1<br>Duran Santander Emilia Mercedes<br>TB1<br>Galvan Cerron George Aldo<br>TB1<br>Marzal Perez Jamir Angel<br>TB1 | El equipo ha demostrado habilidades sólidas para comunicar de manera clara y efectiva sus ideas y resultados a diferentes tipos de audiencia, garantizando una comprensión completa del proyecto. |
+| **Comunica por escrito con efectividad a diferentes rangos de audiencia** | Avila Palacios Aaron Alexander<br>TB1<br>Casas Sanchez Gabriel Alexander<br>TB1<br>Duran Santander Emilia Mercedes<br>TB1<br>Galvan Cerron George Aldo<br>TB1<br>Marzal Perez Jamir Angel<br>TB1 | Cada integrante ha logrado transmitir de manera precisa y coherente la información clave del proyecto a través de documentos escritos, adaptándose exitosamente a diversos contextos comunicativos. |
+
 
 ## Project Report Collaboration Insights
 Se han realizado todas las tareas asignadas para la entrega de la TB1, las cuales se encuentran registradas en el repositorio de Github de la organización del equipo bajo el enlace https://github.com/UPC-PRE-SI729-2402-SW54-X-Force. Para elaborar el informe, cada miembro ha redactado y creado gráficos en formato Markdown según los puntos asignados, realizando commits para registrar el avance en el repositorio.
@@ -105,7 +108,20 @@ Vista de commits:
     - [4.2.5. Navigation Systems](#425-navigation-systems)
   - [4.3. Landing Page UI Design](#43-landing-page-ui-design)
     - [4.3.1. Landing Page Wireframe](#431-landing-page-wireframe)
+    - [Home Landing Page](#home-landing-page)
+    - [Why DriveNow](#why-drivenow)
+    - [Testimonies](#testimonies)
+    - [Safety](#safety)
+    - [Premium Planes](#premium-planes)
+    - [Contant](#contant)
     - [4.3.2. Landing Page Mock-up](#432-landing-page-mock-up)
+    - [Home Landing Page](#home-landing-page-1)
+    - [Why DriveNow](#why-drivenow-1)
+    - [Testimonies](#testimonies-1)
+    - [Safety](#safety-1)
+    - [Premium Planes](#premium-planes-1)
+    - [Team](#team)
+    - [Contant](#contant-1)
   - [4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)
     - [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
     - [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
@@ -2105,7 +2121,7 @@ En esta sección, presentaremos nuestro plan para el diseño, estilo y aparienci
 <strong>Tipografía</strong><br>
 La tipografía seleccionada es Open Sans, que será utilizada en todos los textos de la aplicación. Este estilo tipográfico ofrece una excelente legibilidad y una apariencia moderna. El tamaño de fuente debe ajustarse automáticamente según el dispositivo, para asegurar que tanto en dispositivos móviles como en escritorio, la lectura sea óptima.
 </p>
-.
+
 <div align="center">
   <td colspan="1" rowspan="6">
     <img src="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report/blob/feature/chapter_4/resources/Items/Typography.png?raw=true" alt="typography" width="400" height="250">
@@ -2979,3 +2995,4 @@ Para este sprint se realizo una reunión exclusiva para el despliegue de la land
 
 ## Anexos
 
+**Enlace de exposición:**
