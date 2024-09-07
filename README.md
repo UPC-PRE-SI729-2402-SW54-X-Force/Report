@@ -2995,4 +2995,4 @@ Para este sprint se realizo una reunión exclusiva para el despliegue de la land
 
 ## Anexos
 
-**Enlace de exposición:**
+**Enlace de exposición:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220033_upc_edu_pe/EWc-B5zlZwpHsCBKV3OJauMBiRoiR4lr_Hb2mIgzjiPpsg?e=RrLgbY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
