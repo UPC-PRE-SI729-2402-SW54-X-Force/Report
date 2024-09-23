@@ -2385,6 +2385,35 @@ En desktop y móvil existe la funcionalidad para buscar por mapa, que se visuali
 
 #### 4.4.2. Web Applications Wireflow Diagrams
 
+En esta sección, se presentan los wireflows de la aplicación.
+
+#### User Persona Dueño de Vehículo
+
+___
+
+Registro e Inicio de Sesión
+
+<img src="./resources/wireflow_diagrams/inicio%20de%20sesión%20y%20registro.png"/>
+
+Añadir y mostrar vehículos
+
+<img src="./resources/wireflow_diagrams/anadir-vehiculos.png"/>
+
+#### User Persona Arendatario
+
+___
+
+Mostrar vehículos disponibles
+
+<img src="./resources/wireflow_diagrams/lista-de-vehiculos.png"/>
+
+Buscar vehículos
+
+<img src="./resources/wireflow_diagrams/busqueda-de-vehiculos.png"/>
+
+Mostrar ubicación de los vehículos
+
+<img src="./resources/wireflow_diagrams/mapa-de-vehiculos.png">
 
 #### 4.4.3. Web Applications Mock-ups
 Los Web Mockups fueron creados a partir de los Wireframes, y tomando en cuenta la arquitectura planteada en ellos. Estos utilizan las guías de estilo planteadas, así como un diseño cohesivo, para darle al usuario la imagen de la aplicación que hemos creado.
