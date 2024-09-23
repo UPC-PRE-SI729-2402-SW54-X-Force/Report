@@ -184,15 +184,15 @@ DriveNow es una aplicación que busca resolver el problema constante de las pers
   </tr>
   <tr>
     <td>Casas Sanchez Gabriel Alexander - U202220033<br>Soy estudiante de Ingeniería de software y estoy cursando el quinto ciclo de la carrera. Me considero una persona bastante capaz y versátil en el ámbito académico. Creo que mi principal fortaleza es mi capacidad para dirigir y trabajar bien bajo presión. A pesar de no disfrutar los trabajos grupales, considero que siempre desempeñó un rol sobresaliente en ellos.</td>
-    <td><img src="resources/alex-pfp.jpg" style="width: 500px"></td>
+    <td><img src="resources/chapter_1/alex-pfp.jpg" style="width: 500px"></td>
   </tr>
   <tr>
     <td>Aarón Alexander Avila Palacios - U201823654<br>Soy estudiante de Ingeniería de software y estoy cursando el quinto ciclo de la carrera. Tengo 23 años. Tengo conocimientos en programación orientada a objetos en lenguaje de programación C++, también en diseño de prototipos de aplicaciones, diseño gráfico, diseño e implementación de páginas web. Todas estas habilidades ayudan al desarrollo del proyecto, dado que son de vital importancia en este curso y en nuestra carrera. Soy capaz de desarrollar de manera eficaz cualquier tarea que se me asigne.</td>
-    <td><img src="resources/perfil.png" style="width: 500px"></td>
+    <td><img src="resources/chapter_1/perfil.png" style="width: 500px"></td>
   </tr>
   <tr>
     <td>Marzál Pérez Jamir Ángel - U201824409<br>Soy estudiante de Ingeniería de Software. . Mis principales cualidades son el trabajo en equipo, la escucha activa, ética, creatividad, eficacia y responsabilidad. Tengo conocimientos en lenguajes de  programación C++, C# y Python.</td>
-    <td><img src="resources/Jamir.jpg" style="width: 500px"></td>
+    <td><img src="resources/chapter_1/Jamir.jpg" style="width: 500px"></td>
   </tr>
   <tr>
     <td>Durán Santander, Emilia Mercedes <br> Soy estudiante de la carrera de Ingeniería de Software, actualmente en el 6to ciclo en la Universidad Peruana de Ciencias Aplicadas. Cuento con conocimientos técnicos en C++, HTML y Javascript.</td>
@@ -200,7 +200,7 @@ DriveNow es una aplicación que busca resolver el problema constante de las pers
   </tr>
   <tr>
     <td>Galván Cerrón, George Aldo  -  U202116055<br>Soy estudiante de la carrera de Ingenieria de Software, actualmente estoy cursando el 5to semestre en la Universidad Peruana de Ciencias Aplicadas. Cuento con conocimientos en desarrollo bakcend con los lenguajes de programación, tales como python, c++ y java.</td>
-    <td><img src="resources/George_foto.png" style= "width: 500px"></td>
+    <td><img src="resources/chapter_1/George_foto.png" style= "width: 500px"></td>
   </tr>
 </table>
 
@@ -538,7 +538,7 @@ Segmento Objetivo 1: Arrendatarios
 <table border="1" style="text-align: left;">
 	<tbody>
 		<tr>
-			<td colspan="1" rowspan="6"><img src="./resources/interviews/entrevista_1.png" alt="Entrevista Jamir 01" width="400" height="250"></td>
+			<td colspan="1" rowspan="6"><img src="./resources/chapter_2/interviews/entrevista_1.png" alt="Entrevista Jamir 01" width="400" height="250"></td>
             <td colspan="1" rowspan="1"><strong>Nombre del entrevistado
             <br>
             </strong> Camila
@@ -611,7 +611,7 @@ El busca trasmparencia en las aplicaiones aparte de un chat asisistecia a tiempo
 <table border="1" style="text-align: left;">
 	<tbody>
 		<tr>
-			<td colspan="1" rowspan="6"><img src="./resources/interviews/Entrevista_4.png" alt="Entrevista George 02" width="400" height="250"></td>
+			<td colspan="1" rowspan="6"><img src="./resources/chapter_2/interviews/Entrevista_4.png" alt="Entrevista George 02" width="400" height="250"></td>
             <td colspan="1" rowspan="1"><strong>Nombre del entrevistado
             <br>
             </strong> Carla 
@@ -651,7 +651,7 @@ Segmento Objetivo 2: Dueños de vehículos
 <table border="1" style="text-align: left;">
 	<tbody>
 		<tr>
-			<td colspan="1" rowspan="6"><img src="./resources/interviews/entrevista_2.png" alt="Entrevista Jamir 01" width="400" height="250"></td>
+			<td colspan="1" rowspan="6"><img src="./resources/chapter_2/interviews/entrevista_2.png" alt="Entrevista Jamir 01" width="400" height="250"></td>
             <td colspan="1" rowspan="1"><strong>Nombre del entrevistado
             <br>
             </strong> Nicolas
@@ -688,7 +688,7 @@ Nicolás Ávila, de 24 años, alquila su vehículo cuando no lo está utilizando
 <table border="1" style="text-align: left;">
 	<tbody>
 		<tr>
-			<td colspan="1" rowspan="6"><img src="./resources/interviews/Entrevista_3.png" alt="Entrevista George 01" width="400" height="250"></td>
+			<td colspan="1" rowspan="6"><img src="./resources/chapter_2/interviews/Entrevista_3.png" alt="Entrevista George 01" width="400" height="250"></td>
             <td colspan="1" rowspan="1"><strong>Nombre del entrevistado
             <br>
             </strong> Sebastian 
@@ -775,11 +775,11 @@ ideales de cada segmento. A continuación, los presentamos:
 
 - Arrendatario:
 
-  <img src="./resources/user_personas/Gabriela Flores.png" alt="Gabriela Flores"/>
+  <img src="./resources/chapter_2/user_personas/Gabriela Flores.png" alt="Gabriela Flores"/>
 
 - Dueño de Vehículo:
 
-  <img src="./resources/user_personas/Anderson%20Díaz.png" alt="Anderson Díaz"/>
+  <img src="./resources/chapter_2/user_personas/Anderson%20Díaz.png" alt="Anderson Díaz"/>
 
 #### 2.3.2. User Task Matrix
 
@@ -896,21 +896,21 @@ Mientras que los arrendatarios valoran la facilidad para encontrar vehículos qu
 
 - Arrendatario:
 
-  <img src="./resources/user_journey/User%20journey%20map%20arrendatario.png" alt="Gabriela Flores"/>
+  <img src="./resources/chapter_2/user_journey/User%20journey%20map%20arrendatario.png" alt="Gabriela Flores"/>
 
 - Dueño de Vehículo:
 
-  <img src="./resources/user_journey/UJM%20Dueño%20de%20Vehículo.png" alt="Anderson Díaz"/>
+  <img src="./resources/chapter_2/user_journey/UJM%20Dueño%20de%20Vehículo.png" alt="Anderson Díaz"/>
 
 #### 2.3.4. Empathy Mapping
 
 - Arrendatario:
 
-  <img src="./resources/emphaty_mapping/Empathy%20map%20arrendatario.png" alt="Gabriela Flores"/>
+  <img src="./resources/chapter_2/emphaty_mapping/Empathy%20map%20arrendatario.png" alt="Gabriela Flores"/>
 
 - Dueño de Vehículo:
 
-  <img src="./resources/emphaty_mapping/Empathy%20map%20dueño%20de%20vehículo.png" alt="Anderson Díaz"/>
+  <img src="./resources/chapter_2/emphaty_mapping/Empathy%20map%20dueño%20de%20vehículo.png" alt="Anderson Díaz"/>
 
 #### 2.3.5. As-is Scenario Mapping
 
@@ -919,11 +919,11 @@ a la hora de utilizar la aplicación actual.
 
 - Arrendatario:
 
-  <img src="./resources/as_is/as_is_arendatario.png" alt="Gabriela Flores"/>
+  <img src="./resources/chapter_2/as_is/as_is_arendatario.png" alt="Gabriela Flores"/>
 
 - Dueño de Vehículo:
 
-  <img src="./resources/as_is/as_is_dueño_vehículo.png" alt="Anderson Díaz"/>
+  <img src="./resources/chapter_2/as_is/as_is_dueño_vehículo.png" alt="Anderson Díaz"/>
 
 ### 2.4. Ubiquitous Language
 <p> Según Domain Driven Design (2019), The ubiquitous language es la descripción de conceptos y términos dentro del negocio para construir un lenguaje en común entre todos los implicados dentro del contexto del negocio.
@@ -1060,11 +1060,11 @@ El mapa To-Be crea una representación visual que muestra exactamente cómo debe
 
 - Arrendatario:
 
-<img src="./resources/to_be/to_be_arrendatario.png"/>
+<img src="./resources/chapter_3/to_be/to_be_arrendatario.png"/>
 
 - Dueño de vehículo:
 
-<img src="./resources/to_be/to_be_dueño_de_vehiculo.png"/>
+<img src="./resources/chapter_3/to_be/to_be_dueño_de_vehiculo.png"/>
 
 ### 3.2. User Stories
 Para elaborar user stories estas deben pertenecer a una epic stories. A continuación, se mostrarán las epic stories:
@@ -2329,37 +2329,37 @@ Nuestro enfoque prioriza la facilidad de navegación, para que el usuario pueda 
 Utilizamos los wireframes como punto de partida para la planificación de la arquitectura de la aplicación. A continuación presentaremos los wireframes para la aplicación web y mobile:
 
 **Homepage**
-![Homepage desktop](/resources/Items/AppWires-Desktop-Homepage.png)
+![Homepage desktop](/resources/chapter_4/Items/AppWires-Desktop-Homepage.png)
 Los primeros wireframes realizados fueron para el Homepage, cuando el usuario aún no está registrado, o no ha iniciado sesión. Utilizamos esta página como vínculo entre el landing page y las funcionalidades de la aplicación en sí.
 
 **Registro e inicio de sesión**
 La página de inicio de sesión muestra las credenciales necesarias para ingresar a la aplicación, cuenta con validación de las mismas y redirige a la página de registro.
 
-![Register on desktop](/resources/Items/AppWires-Desktop-Register.png)
+![Register on desktop](/resources/chapter_4/Items/AppWires-Desktop-Register.png)
 <br>
 
 <br>
 La página de registro es otro punto de entrada a la aplicación para los usuarios que acceden desde la landing page. Nuevamente se indican las credenciales necesarias para ingresar a la aplicación. 
 
 **Vista principal para Arrendatarios**
-![Default view for car renters](/resources/Items/AppWires-Desktop-RenterDefault.png)
+![Default view for car renters](/resources/chapter_4/Items/AppWires-Desktop-RenterDefault.png)
 La vista Default le permite a los usuarios ver algunas opciones disponibles cercanas a ellos, así como acceder directamente a la página de búsqueda en móvil. En Desktop, se pueden hacer búsquedas desde esta página.
 
 **Vista principal para dueños**
-![Default view for car owners](/resources/Items/AppWires-Desktop-OwnerDefault.png)
+![Default view for car owners](/resources/chapter_4/Items/AppWires-Desktop-OwnerDefault.png)
 <br>
 La vista Default para dueños de autos, permite ver el carro o carros que están alquilando actualmente. También se visualiza la misma vista principal que está disponible para los arrendatarios, a fin de que vean las ofertas actuales.
 
 **Búsquedas**
-![Search results on desktop](/resources/Items/AppWires-Desktop-Search.png)
+![Search results on desktop](/resources/chapter_4/Items/AppWires-Desktop-Search.png)
 En desktop, se pueden realizar las búsquedas desde la primera pantalla. Aquí se muestran los resultados con algunos filtros adicionales.
 
 **Página de usuario**
-![User page on desktop](/resources/Items/AppWires-Desktop-User.png)
+![User page on desktop](/resources/chapter_4/Items/AppWires-Desktop-User.png)
 La página de usuario en desktop incluye la información de usuario, de suscripción y sus licencias o tarjetas de propiedad.  
 
 **Vista de mapa**
-![Map view on desktop](/resources/Items/AppWires-Desktop-Map.png)
+![Map view on desktop](/resources/chapter_4/Items/AppWires-Desktop-Map.png)
 En desktop existe la funcionalidad para buscar por mapa, que se visualiza en 2 pantallas para móvil, con un diálogo abierto para los carros o puntos seleccionados.
 
 #### 4.4.2. Web Applications Wireflow Diagrams
@@ -2368,15 +2368,13 @@ En esta sección, se presentan los wireflows de la aplicación.
 
 #### User Persona Dueño de Vehículo
 
-___
-
 Registro e Inicio de Sesión
 
-<img src="./resources/wireflow_diagrams/inicio%20de%20sesión%20y%20registro.png"/>
+<img src="./resources/chapter_4/wireflow_diagrams/inicio%20de%20sesión%20y%20registro.png"/>
 
 Añadir y mostrar vehículos
 
-<img src="./resources/wireflow_diagrams/anadir-vehiculos.png"/>
+<img src="./resources/chapter_4/wireflow_diagrams/anadir-vehiculos.png"/>
 
 #### User Persona Arendatario
 
@@ -2384,39 +2382,39 @@ ___
 
 Mostrar vehículos disponibles
 
-<img src="./resources/wireflow_diagrams/lista-de-vehiculos.png"/>
+<img src="./resources/chapter_4/wireflow_diagrams/lista-de-vehiculos.png"/>
 
 Buscar vehículos
 
-<img src="./resources/wireflow_diagrams/busqueda-de-vehiculos.png"/>
+<img src="./resources/chapter_4/wireflow_diagrams/busqueda-de-vehiculos.png"/>
 
 Mostrar ubicación de los vehículos
 
-<img src="./resources/wireflow_diagrams/mapa-de-vehiculos.png">
+<img src="./resources/chapter_4/wireflow_diagrams/mapa-de-vehiculos.png">
 
 #### 4.4.3. Web Applications Mock-ups
 Los Web Mockups fueron creados a partir de los Wireframes, y tomando en cuenta la arquitectura planteada en ellos. Estos utilizan las guías de estilo planteadas, así como un diseño cohesivo, para darle al usuario la imagen de la aplicación que hemos creado.
 
 **For Desktop** <br>
-![image](/resources/Items/Mockup-Desktop-Homepage.png)
+![image](/resources/chapter_4/Items/Mockup-Desktop-Homepage.png)
 <br>Homepage
 <br>
-![image](/resources/Items/Mockup-Desktop-Login.png)
+![image](/resources/chapter_4/Items/Mockup-Desktop-Login.png)
 <br>Login
 <br>
-![image](/resources/Items/Mockup-Desktop-Register.png)
+![image](/resources/chapter_4/Items/Mockup-Desktop-Register.png)
 <br>Register
 <br>
-![image](/resources/Items/Mockup-Desktop-Renter.png)
+![image](/resources/chapter_4/Items/Mockup-Desktop-Renter.png)
 <br>Renter Default
 <br>
-![image](/resources/Items/Mockup-Desktop-Map.png)
+![image](/resources/chapter_4/Items/Mockup-Desktop-Map.png)
 <br>Map View
 <br>
-![image](/resources/Items/Mockup-Desktop-Search.png)
+![image](/resources/chapter_4/Items/Mockup-Desktop-Search.png)
 <br>Search Results
 <br>
-![image](/resources/Items/Mockup-Desktop-Community.png)
+![image](/resources/chapter_4/Items/Mockup-Desktop-Community.png)
 <br>Community
 <br>
 
@@ -2491,7 +2489,7 @@ Los Web Mockups fueron creados a partir de los Wireframes, y tomando en cuenta l
 
 ### 4.8. Database Design
 #### 4.8.1. Database Diagram
-![DriveNow-2024-09-06_03-40](https://github.com/user-attachments/assets/132b1fe2-ae45-4d17-932c-fbef49b4b7db)
+![DriveNow-2024-09-06_03-40](https://github.com/user-attachments/assets/chapter_4/132b1fe2-ae45-4d17-932c-fbef49b4b7db)
 
 
 
@@ -2925,11 +2923,11 @@ Para este sprint no se realizaron pruebas debido a que solo corresponde al desar
 ##### 5.2.1.5. Execution Evidence for Sprint Review
 En este apartado se hace presenta el despliegue de la landing page del producto solución DriveNow:
 Enlace de la landing page: https://upc-pre-si729-2402-sw54-x-force.github.io/Landing_Page/
-<img src="resources/landing-page-1.png">
-<img src="resources/landing-page-2.png">
-<img src="resources/landing-page-3.png">
-<img src="resources/landing-page-4.png">
-<img src="resources/landing-page-5.png">
+<img src="resources/chapter_5/landing-page-1.png">
+<img src="resources/chapter_5/landing-page-2.png">
+<img src="resources/chapter_5/landing-page-3.png">
+<img src="resources/chapter_5/landing-page-4.png">
+<img src="resources/chapter_5/landing-page-5.png">
 
 ##### 5.2.1.6. Services Documentation Evidence for Sprint Review
 No se emplearon servicios adicionales, ya que este primer sprint se centró exclusivamente en la implementación del landing page.
@@ -2938,13 +2936,13 @@ No se emplearon servicios adicionales, ya que este primer sprint se centró excl
 Para realizar este apartado del sprint se uso uso de la plataforma figma en el cual se creo un archivo colaborativo donde se realizaron los mock-ups y wireframes, de la misma manera haciendo uso de esta plataforma se creo el prototipo de la aplicación.
 * Para el uso de figma, primero es necesario crear tu propia cuenta, para esto se deberá ingresar al página oficial de figma (https://github.com/) y registrarse.
 
-<img src="resources/figma-acc-setup-1.png">
-<img src="resources/figma-acc-setup-2.png">
+<img src="resources/chapter_5/figma-acc-setup-1.png">
+<img src="resources/chapter_5/figma-acc-setup-2.png">
 
 * Una vez se tiene la cuenta, se debe crear un draft en el que se trabajan los diseños de manera colaborativa.
-<img src="resources/figma-draft-setup-1.png">
-<img src="resources/figma-draft-setup-2.png">
-<img src="resources/figma-draft-setup-3.png">
+<img src="resources/chapter_5/figma-draft-setup-1.png">
+<img src="resources/chapter_5/figma-draft-setup-2.png">
+<img src="resources/chapter_5/figma-draft-setup-3.png">
 
 **Enlace del Figma colaborativo:** https://www.figma.com/design/n859ROJNMbz1u4HhSIEVcK/DriveNow?node-id=0-1&t=aPT6wt0u9vusT4Nf-1
 
@@ -2952,27 +2950,27 @@ Para realizar este apartado del sprint se uso uso de la plataforma figma en el c
 Para poder realizar todos los procesos realizados en este sprint relacionados con la landing page, loscuales corresponden a la creción de la landing page, se necesito de crear una organización dentro de github, así como crear un repositorio el cual almacenará la landing page.
 * Para el uso de github, primero es necesario de crear tu propia cuenta, para esto se deberá ingresar al página oficial de github (https://github.com/) y registrarse.
 
-<img src="resources/github-acc-setup-1.png">
-<img src="resources/github-acc-setup-2.png">
+<img src="resources/chapter_5/github-acc-setup-1.png">
+<img src="resources/chapter_5/github-acc-setup-2.png">
 
 * Una vez se tiene la cuenta, se debe crear una organización con el nombre de la startup, en este caso NRG3. Además se debe añadir a todos los miembros de la organización.
 
-<img src="resources/github-org-setup-1.png">
-<img src="resources/github-org-setup-2.png">
-<img src="resources/github-org-setup-3.png">
-<img src="resources/github-org-setup-4.png">
-<img src="resources/github-org-setup-5.png">
-<img src="resources/github-org-setup-6.png">
-<img src="resources/github-org-setup-7.png">
-<img src="resources/github-org-setup-8.png">
-<img src="resources/github-org-setup-9.png">
+<img src="resources/chapter_5/github-org-setup-1.png">
+<img src="resources/chapter_5/github-org-setup-2.png">
+<img src="resources/chapter_5/github-org-setup-3.png">
+<img src="resources/chapter_5/github-org-setup-4.png">
+<img src="resources/chapter_5/github-org-setup-5.png">
+<img src="resources/chapter_5/github-org-setup-6.png">
+<img src="resources/chapter_5/github-org-setup-7.png">
+<img src="resources/chapter_5/github-org-setup-8.png">
+<img src="resources/chapter_5/github-org-setup-9.png">
 
 **Enlace a la organización:** https://github.com/UPC-PRE-SI729-2402-SW54-X-Force
 
 * Con la organización creada, ahora se deben crear los repositorios en los que se trabajara el proyecto.
 
-<img src="resources/github-repo-setup-1.png">
-<img src="resources/github-repo-setup-2.png">
+<img src="resources/chapter_5/github-repo-setup-1.png">
+<img src="resources/chapter_5/github-repo-setup-2.png">
 
 * Una vez se han creado todos los repositorios, el proyecto ya esta listo para ser trabajado. Para nuestro proyecto se crearon 4 repositorios los cuales son:
   * Report: Este repositorio se usa para realizar el informa del proyecto de manera continua.
@@ -2982,7 +2980,7 @@ Para poder realizar todos los procesos realizados en este sprint relacionados co
 
 ##### 5.2.1.8. Team Collaboration Insights during Sprint
 Para este sprint se realizo una reunión exclusiva para el despliegue de la landing page, donde se compartio el código y se subio a través de uno de los integrantes.
-<img src= "resources/sprint-1-evidence.png">
+<img src= "resources/chapter_5/sprint-1-evidence.png">
 
 ### 5.3. Validation Interviews
 #### 5.3.1. Diseño de Entrevistas
