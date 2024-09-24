@@ -2422,10 +2422,10 @@ Los Web Mockups fueron creados a partir de los Wireframes, y tomando en cuenta l
 ### 4.5. Web Applications Prototyping
 ### 4.6. Domain-Driven Software Architecture
 #### 4.6.1. Software Architecture Context Diagram
-![structurizr-74190-SystemContext-001](https://github.com/user-attachments/assets/007e7e12-97f6-46da-9f2e-3b69f1617d16)
+![context-diagram](resources\chapter_4\DDD\ContextDiagram.png)
 
 #### 4.6.2. Software Architecture Container Diagrams 
-![structurizr-Container-001](https://github.com/user-attachments/assets/01e3fda3-ed1a-4102-b41a-af71846d34ee)
+![structurizr-Container-001](resources\chapter_4\DDD\ContainerDiagram.png)
 
 #### 4.6.3. Software Architecture Components Diagrams
 ![Component Diagram](https://github.com/user-attachments/assets/014a4376-9448-49ed-a1ab-f49c1e793266)
