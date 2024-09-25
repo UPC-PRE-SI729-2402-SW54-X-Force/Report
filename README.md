@@ -2351,11 +2351,17 @@ En desktop existe la funcionalidad para buscar por mapa, que se visualiza en 2 p
 
 En esta sección, se presentan los wireflows de la aplicación.
 
+Registro de usuario
+
+<img src="./resources/chapter_4/wireflow_diagrams/register.png"/>
+
+Inicio de sesión
+
+<img src="./resources/chapter_4/wireflow_diagrams/login.png"/>
+
+___
+
 #### User Persona Dueño de Vehículo
-
-Registro e Inicio de Sesión
-
-<img src="./resources/chapter_4/wireflow_diagrams/inicio%20de%20sesión%20y%20registro.png"/>
 
 Añadir y mostrar vehículos
 
@@ -2404,6 +2410,83 @@ Los Web Mockups fueron creados a partir de los Wireframes, y tomando en cuenta l
 <br>
 
 #### 4.4.4. Web Applications User Flow Diagrams
+
+En esta sección, se presentaran los User Flows, donde se mostrarán las rutas Happy y Unhappy que los usuarios pueden tener al momento de usar la aplicación web.
+
+**User Flow 1:**  Inicio de sesión
+
+**User Goal:** Iniciar sesión en la aplicación de manera rápida y segura.
+
+**Task Flow:** 
+<img src="./resources/chapter_4/task-flow/login.png"/>
+
+**Wireflow:**
+<img src="./resources/chapter_4/wireflow_diagrams/login.png"/>
+
+---
+
+**User Flow 2:**  Registro de usuario
+
+**User Goal:** Completar el registro en la plataforma fácilmente.
+
+**Task Flow:** 
+<img src="./resources/chapter_4/task-flow/register.png"/>
+
+**Wireflow:**
+<img src="./resources/chapter_4/wireflow_diagrams/register.png"/>
+
+---
+
+**User Flow 3:**  Añadir y mostrar vehículos
+
+**User Goal:** Publicar y visualizar los vehículos en la plataforma.
+
+**Task Flow:** 
+<img src="./resources/chapter_4/task-flow/add-car.png"/>
+
+**Wireflow:**
+<img src="./resources/chapter_4/wireflow_diagrams/anadir-vehiculos.png"/>
+
+---
+
+**User Flow 4:**  Mostrar vehículos disponibles para arrendatarios.
+
+**User Goal:** Ver vehículos disponibles para alquilar.
+
+**Task Flow:** 
+<img src="./resources/chapter_4/task-flow/show-available-car.png"/>
+
+**Wireflow:**
+<img src="./resources/chapter_4/wireflow_diagrams/lista-de-vehiculos.png"/>
+
+---
+
+**User Flow 5:**  Buscar vehículos.
+
+**User Goal:** Encontrar vehículos específicos según sus preferencias.
+
+**Task Flow:** 
+<img src="./resources/chapter_4/task-flow/search-cars.png"/>
+
+**Wireflow:**
+<img src="./resources/chapter_4/wireflow_diagrams/busqueda-de-vehiculos.png"/>
+
+---
+
+**User Flow 6:**  Mostrar la ubicación de los vehículos.
+
+**User Goal:** Ver la ubicación exacta de los vehículos disponibles para alquilar.
+
+**Task Flow:** 
+<img src="./resources/chapter_4/task-flow/see-map.png"/>
+
+**Wireflow:**
+<img src="./resources/chapter_4/wireflow_diagrams/mapa-de-vehiculos.png"/>
+
+
+
+
+
 ### 4.5. Web Applications Prototyping
 ### 4.6. Domain-Driven Software Architecture
 #### 4.6.1. Software Architecture Context Diagram
