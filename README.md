@@ -1118,6 +1118,13 @@ Para elaborar user stories estas deben pertenecer a una epic stories. A continua
             <strong>Como</strong> visitante que busca poner en alquiler, <strong>quiero</strong> visualizar las medidas de seguridad que estarán implementadas <strong>para</strong> poder verificar que se me brindará un buen servicio.
             </td>
 		</tr>
+     <tr>
+            <td colspan="1">EP007</td>
+            <td colspan="1">Recomendaciones de Seguridad y Sitios Turísticos</td>
+            <td colspan="1">
+            <strong>Como</strong> arrendatario de vehículos, <strong>quiero</strong> acceder a recomendaciones de seguridad y sitios turísticos desde la aplicación <strong>para</strong> mejorar mi experiencia de uso y mi seguridad al conducir el vehículo alquilado.
+            </td>
+		</tr>
 	</tbody>
 </table>
 
@@ -1887,6 +1894,33 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
         <strong>Entonces</strong> debe encontrar una lista completa y detallada de todos los documentos necesarios para alquilar un vehículo.
       </td>
       <td colspan="1">EP006</td>
+		</tr>
+    <tr>
+      <td colspan="1">US029</td>
+      <td colspan="1">Acceder a Recomendaciones de Seguridad y Sitios Turísticos</td>
+      <td colspan="1">
+      <strong>Como</strong> arrendatario de vehículos, <strong>quiero</strong> acceder a recomendaciones de seguridad y sitios turísticos desde la aplicación, <strong>para</strong> estar informado y disfrutar más mi viaje.	
+      </td>
+      <td colspan="1">
+        <strong>E01: Visualización de recomendaciones de seguridad:</strong>
+        <br>
+        <strong>Dado que</strong> un arrendatario está usando la aplicación,
+        Y ha seleccionado la opción de recursos,
+        <br>
+        <strong>Cuando</strong> visualiza las recomendaciones de seguridad,
+        <br>
+        <strong>Entonces</strong> debe poder hacer clic en un botón que lo redirija a una página externa con más detalles.
+        <br><br>
+        <strong>E02: Acceso a información de sitios turísticos:</strong>
+        <br>
+        <strong>Dado que</strong> un arrendatario está explorando la aplicación,
+        Y está interesado en sitios turísticos,
+        <br>
+        <strong>Cuando</strong> selecciona la sección de recursos y hace clic en “sitios turísticos”,
+        <br>
+        <strong>Entonces</strong> debe ser redirigido a una página externa con información sobre destinos turísticos recomendados.
+      </td>
+      <td colspan="1">EP007</td>
 		</tr>
   </tbody>
 </table>
