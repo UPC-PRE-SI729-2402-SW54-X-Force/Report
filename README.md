@@ -1076,55 +1076,6 @@ Para elaborar user stories estas deben pertenecer a una epic stories. A continua
             <td colspan="1">Título</td>
             <td colspan="1">Epic</td>
 		</tr>
-		<tr>
-            <td colspan="1">EP001</td>
-            <td colspan="1">Acceso a Vehículos 24/7</td>
-            <td colspan="1">
-            <strong>Como</strong> conductor, <strong>quiero</strong> tener acceso a un vehículo a todas horas cuando esté visitando una ciudad, <strong>para</strong> poder movilizarme fácilmente en cualquier momento.
-            </td>
-		</tr>
-        <tr>
-            <td colspan="1">EP002</td>
-            <td colspan="1">Calidad del Servicio</td>
-            <td colspan="1">
-            <strong>Como</strong> conductor, <strong>quiero</strong> tener seguridad que el servicio que me brindan sea de calidad, <strong>para</strong> asegurarme de que tendré una experiencia positiva y sin problemas.
-            </td>
-		</tr>
-        <tr>
-            <td colspan="1">EP003</td>
-            <td colspan="1">Ingresos Adicionales</td>
-            <td colspan="1">
-            <strong>Como</strong> dueño de auto, <strong>quiero</strong> ganar dinero extra cuando no estoy utilizando mi vehículo, <strong>para</strong> aprovechar mi recurso y generar ingresos adicionales.
-            </td>
-		</tr>
-        <tr>
-            <td colspan="1">EP004</td>
-            <td colspan="1">Seguridad y Fiabilidad de Conductores</td>
-            <td colspan="1">
-            <strong>Como</strong> dueño de auto, <strong>quiero</strong> tener la seguridad que los conductores serán fiables y responsables por cualquier daño que pueda ocurrir, <strong>para</strong> sentirme tranquilo al alquilar mi vehículo.
-            </td>
-		</tr>
-        <tr>
-            <td colspan="1">EP005</td>
-            <td colspan="1">Condiciones de Alquiler Claras</td>
-            <td colspan="1">
-            <strong>Como</strong> visitante que busca alquilar, <strong>quiero</strong> ver todas las condiciones de alquiler <strong>para</strong> poder confiar en el servicio brindado.
-            </td>
-		</tr>
-        <tr>
-            <td colspan="1">EP006</td>
-            <td colspan="1">Visualización de Medidas de Seguridad</td>
-            <td colspan="1">
-            <strong>Como</strong> visitante que busca poner en alquiler, <strong>quiero</strong> visualizar las medidas de seguridad que estarán implementadas <strong>para</strong> poder verificar que se me brindará un buen servicio.
-            </td>
-		</tr>
-     <tr>
-            <td colspan="1">EP007</td>
-            <td colspan="1">Recomendaciones de Seguridad y Sitios Turísticos</td>
-            <td colspan="1">
-            <strong>Como</strong> arrendatario de vehículos, <strong>quiero</strong> acceder a recomendaciones de seguridad y sitios turísticos desde la aplicación <strong>para</strong> mejorar mi experiencia de uso y mi seguridad al conducir el vehículo alquilado.
-            </td>
-		</tr>
 	</tbody>
 </table>
 
@@ -1133,11 +1084,60 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
 <table  style="text-align: left;">
 	<tbody>
 		<tr>
-			<td colspan="1">ID de Historia de Usuario</td>
+			<td colspan="1">User Story ID/ Epic ID</td>
       <td colspan="1">Título</td>
       <td colspan="1">Descripción</td>
       <td colspan="1">Criterios de Aceptación con Escenarios</td>
       <td colspan="1">ID de Épica</td>
+		</tr>
+    <tr>
+            <td colspan="1">EP001</td>
+            <td colspan="1">Acceso a Vehículos 24/7</td>
+            <td colspan="3">
+            <strong>Como</strong> conductor, <strong>quiero</strong> tener acceso a un vehículo a todas horas cuando esté visitando una ciudad, <strong>para</strong> poder movilizarme fácilmente en cualquier momento.
+            </td>
+		</tr>
+        <tr>
+            <td colspan="1">EP002</td>
+            <td colspan="1">Calidad del Servicio</td>
+            <td colspan="3">
+            <strong>Como</strong> conductor, <strong>quiero</strong> tener seguridad que el servicio que me brindan sea de calidad, <strong>para</strong> asegurarme de que tendré una experiencia positiva y sin problemas.
+            </td>
+		</tr>
+        <tr>
+            <td colspan="1">EP003</td>
+            <td colspan="1">Ingresos Adicionales</td>
+            <td colspan="3">
+            <strong>Como</strong> dueño de auto, <strong>quiero</strong> ganar dinero extra cuando no estoy utilizando mi vehículo, <strong>para</strong> aprovechar mi recurso y generar ingresos adicionales.
+            </td>
+		</tr>
+        <tr>
+            <td colspan="1">EP004</td>
+            <td colspan="1">Seguridad y Fiabilidad de Conductores</td>
+            <td colspan="3">
+            <strong>Como</strong> dueño de auto, <strong>quiero</strong> tener la seguridad que los conductores serán fiables y responsables por cualquier daño que pueda ocurrir, <strong>para</strong> sentirme tranquilo al alquilar mi vehículo.
+            </td>
+		</tr>
+        <tr>
+            <td colspan="1">EP005</td>
+            <td colspan="1">Condiciones de Alquiler Claras</td>
+            <td colspan="3">
+            <strong>Como</strong> visitante que busca alquilar, <strong>quiero</strong> ver todas las condiciones de alquiler <strong>para</strong> poder confiar en el servicio brindado.
+            </td>
+		</tr>
+        <tr>
+            <td colspan="1">EP006</td>
+            <td colspan="1">Visualización de Medidas de Seguridad</td>
+            <td colspan="3">
+            <strong>Como</strong> visitante que busca poner en alquiler, <strong>quiero</strong> visualizar las medidas de seguridad que estarán implementadas <strong>para</strong> poder verificar que se me brindará un buen servicio.
+            </td>
+		</tr>
+     <tr>
+            <td colspan="1">EP007</td>
+            <td colspan="1">Recomendaciones de Seguridad y Sitios Turísticos</td>
+            <td colspan="3">
+            <strong>Como</strong> arrendatario de vehículos, <strong>quiero</strong> acceder a recomendaciones de seguridad y sitios turísticos desde la aplicación <strong>para</strong> mejorar mi experiencia de uso y mi seguridad al conducir el vehículo alquilado.
+            </td>
 		</tr>
 		<tr>
       <td colspan="1">US001</td>
@@ -1922,6 +1922,190 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
       </td>
       <td colspan="1">EP007</td>
 		</tr>
+    <tr>
+      <td>US30</td>
+      <td>Modificación de información personal</td>
+      <td><strong>Como</strong> conductor <strong>quiero</strong> modificar mi información <strong>para</strong> poder mantener mis datos actualizados.</td>
+      <td>
+        <strong>E01: Modificación exitosa de la información personal</strong>
+        <br>
+        <strong>Dado que</strong> un conductor se en encuentra su perfil
+        <br>
+        <strong>Cuando</strong> accede a las configuración de datos personales
+        <br>
+        <strong>Entonces</strong> debería poder modificar y guardar los cambios exitosamente, recibiendo una notificación de confirmación.
+        <br><br>
+        <strong>E02: Error al intentar modificar información sin campos completos</strong>
+        <br>
+        <strong>Dado que</strong> se han realizados cmabios en la información personal de un conductor
+        <br>
+        <strong>Cuando</strong> se intenta enviar los datos en un formato incorrecto
+        <br>
+        <strong>Entonces</strong> el sistema notifica que a ocurridoo un error en la modificación de datos.
+        </td> 
+      <td></td>
+    </tr>
+    <tr>
+      <td>US31</td>
+      <td>Visualización de documentos de transito</td>
+      <td><strong>Como</strong> conductor <strong>quiero</strong> poder visualizar los datos de mi licencia cargados en la aplicación<strong>para</strong> poder corroborar que mis datos son correctos.</td>
+      <td>
+        <strong>E01: Visualización correcta de los datos de la licencia</strong>
+        <br>
+        <strong>Dado que</strong> el conductor ha cargado los datos de su licencia a la aplicación
+        <br>
+        <strong>Cuando</strong> accede al apartado "Licencia"
+        <br>
+        <strong>Entonces</strong> debe visualizar la imagén que subio de su licencia y los datos correspondientes a ella
+        <br><br>
+        <strong>E02: Problema en la visualización de los datos de la licencia</strong>
+        <br>
+        <strong>Dado que</strong> el usuario intenta visualizar los datos de su licencia
+        <br>
+        <strong>Cuando</strong> los datos no se han podido cargar de manera correcta
+        <br>
+        <strong>Entonces</strong></td> el sistema solicita la reinsercción de los datos.
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>US32</td>
+      <td>Modificación de documentos de transito</td>
+      <td><strong>Como</strong> conductor <strong>quiero</strong> poder modificar los datos de mi licencia cargados en la aplicación <strong>para</strong> poder mantener mi información actualizada y válidada.</td>
+      <td>
+        <strong>E01: Modificación exitosa de los datos de la licencia</strong>
+        <br>
+        <strong>Dado que</strong> los datos de la licencia de un conductor han cambiado o no están correctos,
+        <br>
+        <strong>Cuando</strong> accede al formulario de actualización de datos
+        <br>
+        <strong>Entonces</strong> atualiza la información de su licencia y es cargada al sistema.
+        <br><br>
+        <strong>E02: Error en la modificación por datos o archivos inválidos</strong>
+        <br>
+        <strong>Dado que</strong> un conductor intento actualizar con datos incorrectos la información de su licencia
+        <br>
+        <strong>Cuando</strong> intenta c¿guardar los cmabios
+        <br>
+        <strong>Entonces</strong> el sistema emite un mensaje de error para notificar del fallo.
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>TS01</td>
+      <td>Implementar endpoint de obtención de usuarios</td>
+      <td><strong>Como</strong> desarrollador <strong>necesito</strong> implementar un endpoint RESTful <strong>para</strong> obtener la información de todos los conductores</td>
+      <td>
+        <strong>E01: Solicitud de datos</strong>
+        <br>
+        <strong>Dado que</strong> se envía una solicitud GET para obtener todos los conductores
+        <br>
+        <strong>Cuando</strong> se recibe una solicitud
+        <br>
+        <strong>Entonces</strong> se retorn un archivo json con los deatos de los conductores.
+        <br><br>
+        <strong>E02: Fallo en la solicitud de datos</strong>
+        <br>
+        <strong>Dado que</strong> se envía una solicitud GET para obtener todos los conductores de manera incorrecta
+        <br>
+        <strong>Cuando</strong> se recibe una solicitud
+        <br>
+        <strong>Entonces</strong> la consola de desarrolador muestra un mensaje con un código relacionado al error.
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>TS02</td>
+      <td>Implementar endpoint de obtención de usuarios específicos</td>
+      <td><strong>Como</strong> desarrollador <strong>necesito</strong> implementar un endpoint RESTful <strong>para</strong> obtener la infromación de un conductor específico</td>
+      <td>
+        <strong>E01: Solicitud de datos</strong>
+        <br>
+        <strong>Dado que</strong> se envía una solicitud GET para obtener los datos de un conductor
+        <br>
+        <strong>Cuando</strong> se recibe una solicitud
+        <br>
+        <strong>Entonces</strong> se retorn un archivo json con los datos del conductor.
+        <br><br>
+        <strong>E02: Fallo en la solicitud de datos</strong>
+        <br>
+        <strong>Dado que</strong> se envía una solicitud GET para obtener todos los conductores de manera incorrecta
+        <br>
+        <strong>Cuando</strong> se recibe una solicitud
+        <br>
+        <strong>Entonces</strong> la consola de desarrolador muestra un mensaje con un código relacionado al error.
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>TS03</td>
+      <td>Implementar endpoint de creación de usuarios</td>
+      <td><strong>Como</strong> desarrollador <strong>necesito</strong> implementar un endpoint RESTful <strong>para</strong> crear nuevos conductores</td>
+      <td>
+        <strong>E01: Creación de registro de usuarios</strong>
+        <br>
+        <strong>Dado que</strong> se envia una solicitud POST para la creación de un conductor
+        <br>
+        <strong>Cuando</strong> se recibe la solicitud
+        <br>
+        <strong>Entonces</strong> el nuevo conductor debe poder visualizarse en el endpoint
+        <br><br>
+        <strong>E02: Creación fallida de registro de usuarios</strong>
+        <br>
+        <strong>Dado que</strong> se envia una solicitud POST para la creación de un conductor incorrecta
+        <br>
+        <strong>Cuando</strong> se recibe la solicitud
+        <br>
+        <strong>Entonces</strong> la consola de desarrollador muestra un código de error relacionado con el error ocurrido.
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>TS04</td>
+      <td>Implementar endpoint de modificación de usuarios</td>
+      <td><strong>Como</strong> desarrollador <strong>necesito</strong> implementar un endpoint RESTful <strong>para</strong> para modificar los datos de un conductores</td>
+      <td>
+        <strong>E01: Modificación total de un registro exitosa</strong>
+        <br>
+        <strong>Dado que</strong> se envia una solicitud PUT para la actualización de un conductor
+        <br>
+        <strong>Cuando</strong> se recibe la solicitud
+        <br>
+        <strong>Entonces</strong> el cambio debe poder visualizarse en el endpoint.
+        <br><br>
+        <strong>E02: Modificación total de un registro fallida</strong>
+        <br>
+        <strong>Dado que</strong> se envia una solicitud PUT para la actualización de un conductor erronea
+        <br>
+        <strong>Cuando</strong> se recibe la solicitud
+        <br>
+        <strong>Entonces</strong> el cambio no debe visualizarse en el endpoint.
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>TS05</td>
+      <td>Implementar endpoint de modificacion parcial de usuarios</td>
+      <td><strong>Como</strong> desarrollador <strong>necesito</strong> implementar un endpoint RESTful <strong>para</strong> para modificar de manera parcial los datos de un conductor</td>
+      <td>
+        <strong>E01: Modificación parcial de un registro exitosa</strong>
+        <br>
+        <strong>Dado que</strong> se envia una solicitud PATCH para la actualización de un conductor
+        <br>
+        <strong>Cuando</strong> se recibe la solicitud
+        <br>
+        <strong>Entonces</strong> el cambio debe poder visualizarse en el endpoint.
+        <br><br>
+        <strong>E02: Modificación parcial de un registro fallida</strong>
+        <br>
+        <strong>Dado que</strong> se envia una solicitud PUT para la actualización de un conductor erronea
+        <br>
+        <strong>Cuando</strong> se recibe la solicitud
+        <br>
+        <strong>Entonces</strong> el cambio no debe visualizarse en el endpoint.
+      </td>
+      <td></td>
+    </tr>
   </tbody>
 </table>
 
