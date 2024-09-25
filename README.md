@@ -1067,18 +1067,6 @@ El mapa To-Be crea una representación visual que muestra exactamente cómo debe
 <img src="./resources/chapter_3/to_be/to_be_dueño_de_vehiculo.png"/>
 
 ### 3.2. User Stories
-Para elaborar user stories estas deben pertenecer a una epic stories. A continuación, se mostrarán las epic stories:
-
-<table border="1" style="text-align: left;">
-	<tbody>
-		<tr>
-			<td colspan="1">Código</td>
-            <td colspan="1">Título</td>
-            <td colspan="1">Epic</td>
-		</tr>
-	</tbody>
-</table>
-
 A continuacion, la realizacion de los user stories con sus criterios de aceptacion con escenarios e ID de Épica:
 
 <table  style="text-align: left;">
@@ -1091,53 +1079,60 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
       <td colspan="1">ID de Épica</td>
 		</tr>
     <tr>
-            <td colspan="1">EP001</td>
-            <td colspan="1">Acceso a Vehículos 24/7</td>
-            <td colspan="3">
-            <strong>Como</strong> conductor, <strong>quiero</strong> tener acceso a un vehículo a todas horas cuando esté visitando una ciudad, <strong>para</strong> poder movilizarme fácilmente en cualquier momento.
-            </td>
+      <td colspan="1">EP001</td>
+      <td colspan="1">Acceso a Vehículos 24/7</td>
+      <td colspan="3">
+      <strong>Como</strong> conductor, <strong>quiero</strong> tener acceso a un vehículo a todas horas cuando esté visitando una ciudad, <strong>para</strong> poder movilizarme fácilmente en cualquier momento.
+      </td>
 		</tr>
-        <tr>
-            <td colspan="1">EP002</td>
-            <td colspan="1">Calidad del Servicio</td>
-            <td colspan="3">
-            <strong>Como</strong> conductor, <strong>quiero</strong> tener seguridad que el servicio que me brindan sea de calidad, <strong>para</strong> asegurarme de que tendré una experiencia positiva y sin problemas.
-            </td>
+    <tr>
+      <td colspan="1">EP002</td>
+      <td colspan="1">Calidad del Servicio</td>
+      <td colspan="3">
+      <strong>Como</strong> conductor, <strong>quiero</strong> tener seguridad que el servicio que me brindan sea de calidad, <strong>para</strong> asegurarme de que tendré una experiencia positiva y sin problemas.
+      </td>
 		</tr>
-        <tr>
-            <td colspan="1">EP003</td>
-            <td colspan="1">Ingresos Adicionales</td>
-            <td colspan="3">
-            <strong>Como</strong> dueño de auto, <strong>quiero</strong> ganar dinero extra cuando no estoy utilizando mi vehículo, <strong>para</strong> aprovechar mi recurso y generar ingresos adicionales.
-            </td>
+    <tr>
+      <td colspan="1">EP003</td>
+      <td colspan="1">Ingresos Adicionales</td>
+      <td colspan="3">
+      <strong>Como</strong> dueño de auto, <strong>quiero</strong> ganar dinero extra cuando no estoy utilizando mi vehículo, <strong>para</strong> aprovechar mi recurso y generar ingresos adicionales.
+      </td>
 		</tr>
-        <tr>
-            <td colspan="1">EP004</td>
-            <td colspan="1">Seguridad y Fiabilidad de Conductores</td>
-            <td colspan="3">
-            <strong>Como</strong> dueño de auto, <strong>quiero</strong> tener la seguridad que los conductores serán fiables y responsables por cualquier daño que pueda ocurrir, <strong>para</strong> sentirme tranquilo al alquilar mi vehículo.
-            </td>
+    <tr>
+      <td colspan="1">EP004</td>
+      <td colspan="1">Seguridad y Fiabilidad de Conductores</td>
+      <td colspan="3">
+      <strong>Como</strong> dueño de auto, <strong>quiero</strong> tener la seguridad que los conductores serán fiables y responsables por cualquier daño que pueda ocurrir, <strong>para</strong> sentirme tranquilo al alquilar mi vehículo.
+      </td>
 		</tr>
-        <tr>
-            <td colspan="1">EP005</td>
-            <td colspan="1">Condiciones de Alquiler Claras</td>
-            <td colspan="3">
-            <strong>Como</strong> visitante que busca alquilar, <strong>quiero</strong> ver todas las condiciones de alquiler <strong>para</strong> poder confiar en el servicio brindado.
-            </td>
+    <tr>
+      <td colspan="1">EP005</td>
+      <td colspan="1">Condiciones de Alquiler Claras</td>
+      <td colspan="3">
+      <strong>Como</strong> visitante que busca alquilar, <strong>quiero</strong> ver todas las condiciones de alquiler <strong>para</strong> poder confiar en el servicio brindado.
+      </td>
 		</tr>
-        <tr>
-            <td colspan="1">EP006</td>
-            <td colspan="1">Visualización de Medidas de Seguridad</td>
-            <td colspan="3">
-            <strong>Como</strong> visitante que busca poner en alquiler, <strong>quiero</strong> visualizar las medidas de seguridad que estarán implementadas <strong>para</strong> poder verificar que se me brindará un buen servicio.
-            </td>
+    <tr>
+      <td colspan="1">EP006</td>
+      <td colspan="1">Visualización de Medidas de Seguridad</td>
+      <td colspan="3">
+      <strong>Como</strong> visitante que busca poner en alquiler, <strong>quiero</strong> visualizar las medidas de seguridad que estarán implementadas <strong>para</strong> poder verificar que se me brindará un buen servicio.
+      </td>
 		</tr>
-     <tr>
-            <td colspan="1">EP007</td>
-            <td colspan="1">Recomendaciones de Seguridad y Sitios Turísticos</td>
-            <td colspan="3">
-            <strong>Como</strong> arrendatario de vehículos, <strong>quiero</strong> acceder a recomendaciones de seguridad y sitios turísticos desde la aplicación <strong>para</strong> mejorar mi experiencia de uso y mi seguridad al conducir el vehículo alquilado.
-            </td>
+    <tr>
+      <td colspan="1">EP007</td>
+      <td colspan="1">Recomendaciones de Seguridad y Sitios Turísticos</td>
+      <td colspan="3">
+      <strong>Como</strong> arrendatario de vehículos, <strong>quiero</strong> acceder a recomendaciones de seguridad y sitios turísticos desde la aplicación <strong>para</strong> mejorar mi experiencia de uso y mi seguridad al conducir el vehículo alquilado.
+      </td>
+		</tr>
+    <tr>
+      <td colspan="1">EP008</td>
+      <td colspan="1">Acceso y modificación de datos</td>
+      <td colspan="3">
+      <strong>Como</strong> arrendatario de vehículos, <strong>quiero</strong> acceder a mis datos personales y poder modificarlos <strong>para</strong> así asegurarme que mi información es correcta en todo momento.
+      </td>
 		</tr>
 		<tr>
       <td colspan="1">US001</td>
@@ -1943,7 +1938,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
         <br>
         <strong>Entonces</strong> el sistema notifica que a ocurridoo un error en la modificación de datos.
         </td> 
-      <td></td>
+      <td>EP008</td>
     </tr>
     <tr>
       <td>US31</td>
@@ -1966,7 +1961,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
         <br>
         <strong>Entonces</strong></td> el sistema solicita la reinsercción de los datos.
       </td>
-      <td></td>
+      <td>EP008</td>
     </tr>
     <tr>
       <td>US32</td>
@@ -1989,7 +1984,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
         <br>
         <strong>Entonces</strong> el sistema emite un mensaje de error para notificar del fallo.
       </td>
-      <td></td>
+      <td>EP008</td>
     </tr>
     <tr>
       <td>TS01</td>
@@ -2012,7 +2007,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
         <br>
         <strong>Entonces</strong> la consola de desarrolador muestra un mensaje con un código relacionado al error.
       </td>
-      <td></td>
+      <td>EP008</td>
     </tr>
     <tr>
       <td>TS02</td>
@@ -2035,7 +2030,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
         <br>
         <strong>Entonces</strong> la consola de desarrolador muestra un mensaje con un código relacionado al error.
       </td>
-      <td></td>
+      <td>EP008</td>
     </tr>
     <tr>
       <td>TS03</td>
@@ -2058,7 +2053,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
         <br>
         <strong>Entonces</strong> la consola de desarrollador muestra un código de error relacionado con el error ocurrido.
       </td>
-      <td></td>
+      <td>EP008</td>
     </tr>
     <tr>
       <td>TS04</td>
@@ -2081,7 +2076,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
         <br>
         <strong>Entonces</strong> el cambio no debe visualizarse en el endpoint.
       </td>
-      <td></td>
+      <td>EP008</td>
     </tr>
     <tr>
       <td>TS05</td>
@@ -2104,7 +2099,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
         <br>
         <strong>Entonces</strong> el cambio no debe visualizarse en el endpoint.
       </td>
-      <td></td>
+      <td>EP008</td>
     </tr>
   </tbody>
 </table>
