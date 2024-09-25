@@ -2276,34 +2276,36 @@ El sistema de navegación implementado en la página es intuitivo y responsivo. 
 
 ### 4.3. Landing Page UI Design
 #### 4.3.1. Landing Page Wireframe
+
+**Desktop**<br>
 **Home Landing Page**
-![home-landing-page-1](resources\chapter_4\Items\home_wireframe.png)
+![home-landing-page-1](/resources/chapter_4/Items/home_wireframe.png)
 **Why DriveNow**
-![home-landing-page-2](resources\chapter_4\Items\why_drivenow_wireframe.png)
+![home-landing-page-2](resources/chapter_4/Items/why_drivenow_wireframe.png)
 **Testimonies**
-![home-landing-page-3](resources\chapter_4\Items\testimonies_wireframe.png)
+![home-landing-page-3](resources/chapter_4/Items/testimonies_wireframe.png)
 **Safety**
-![home-landing-page-4](resources\chapter_4\Items\safety_wireframe.png)
+![home-landing-page-4](resources/chapter_4/Items/safety_wireframe.png)
 **Premium Planes**
-![home-landing-page-5](resources\chapter_4\Items\premium_wireframe.png)
+![home-landing-page-5](resources/chapter_4/Items/premium_wireframe.png)
 **Contant**
-![home-landing-page-6](resources\chapter_4\Items\contact_wireframe.png)
+![home-landing-page-6](resources/chapter_4/Items/contact_wireframe.png)
 
 #### 4.3.2. Landing Page Mock-up
 **Home Landing Page**
-![home-landing-page-01](resources\chapter_4\Items\home.png)
+![home-landing-page-01](/resources/chapter_4/Items/home.png)
 **Why DriveNow**
-![home-landing-page-02](resources\chapter_4\Items\ehy_drivenow.png)
+![home-landing-page-02](resources/chapter_4/Items/ehy_drivenow.png)
 **Testimonies**
-![home-landing-page-03](resources\chapter_4\Items\testimonies.png)
+![home-landing-page-03](/resources/chapter_4/Items/testimonies.png)
 **Safety**
-![home-landing-page-04](resources\chapter_4\Items\safety.png)
+![home-landing-page-04](/resources/chapter_4/Items/safety.png)
 **Premium Plans**
-![home-landing-page-05](resources\chapter_4\Items\premium_pass.png)
+![home-landing-page-05](/resources/chapter_4/Items/premium_pass.png)
 **Team**
-![home-landing-page-06](resources\chapter_4\Items\team.png)
+![home-landing-page-06](/resources/chapter_4/Items/team.png)
 **Contant**
-![home-landing-page-07](resources\chapter_4\Items\contact.png)
+![home-landing-page-07](/resources/chapter_4/Items/contact.png)
 
 ### 4.4. Web Applications UX/UI Design
 
