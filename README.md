@@ -2288,10 +2288,26 @@ El sistema de navegación implementado en la página es intuitivo y responsivo. 
 ![home-landing-page-4](resources/chapter_4/Items/safety_wireframe.png)
 **Premium Planes**
 ![home-landing-page-5](resources/chapter_4/Items/premium_wireframe.png)
-**Contant**
+**Contact**
 ![home-landing-page-6](resources/chapter_4/Items/contact_wireframe.png)
 
+**Mobile**<br>
+**Mobile Landing Page**
+![mobile-landing-page-1](resources/chapter_4/Items/landing_mob_homewire.png)
+**Mobile Why DriveNow**
+![mobile-landing-page-2](resources/chapter_4/Items/landing_mob_whywire.png)
+**Mobile Testimonies**
+![mobile-landing-page-3](resources/chapter_4/Items/landing_mob_testimonieswire.png)
+**Mobile Safety**
+![mobile-landing-page-4](resources/chapter_4/Items/landing_mob_safewire.png)
+**Mobile Premium Plans**
+![mobile-landing-page-5](resources/chapter_4/Items/landing_mob_planswire.png)
+**Mobile Footer**
+![mobile-landing-page-6](resources/chapter_4/Items/landing_mob_footerwire.png)
+
 #### 4.3.2. Landing Page Mock-up
+
+**Desktop**<br>
 **Home Landing Page**
 ![home-landing-page-01](/resources/chapter_4/Items/home.png)
 **Why DriveNow**
@@ -2306,6 +2322,21 @@ El sistema de navegación implementado en la página es intuitivo y responsivo. 
 ![home-landing-page-06](/resources/chapter_4/Items/team.png)
 **Contant**
 ![home-landing-page-07](/resources/chapter_4/Items/contact.png)
+
+**Mobile**<br>
+**Mobile Landing Page**
+![mobile-landing-page-01](resources/chapter_4/Items/landing_mobile_home.png)
+**Mobile Why DriveNow**
+![mobile-landing-page-02](resources/chapter_4/Items/landing_mobile_benefits.png)
+**Mobile Testimonies**
+![mobile-landing-page-03](resources/chapter_4/Items/landing_mobile_testimonies.png)
+**Mobile Safety**
+![mobile-landing-page-04](resources/chapter_4/Items/landing_mobile_safety.png)
+**Mobile Premium Plans**
+![mobile-landing-page-05](resources/chapter_4/Items/landing_mobile_plans.png)
+**Mobile Footer**
+![mobile-landing-page-06](resources/chapter_4/Items/landing_mobile_footer.png)
+
 
 ### 4.4. Web Applications UX/UI Design
 
