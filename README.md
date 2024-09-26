@@ -108,20 +108,7 @@ Vista de commits:
     - [4.2.5. Navigation Systems](#425-navigation-systems)
   - [4.3. Landing Page UI Design](#43-landing-page-ui-design)
     - [4.3.1. Landing Page Wireframe](#431-landing-page-wireframe)
-    - [Home Landing Page](#home-landing-page)
-    - [Why DriveNow](#why-drivenow)
-    - [Testimonies](#testimonies)
-    - [Safety](#safety)
-    - [Premium Planes](#premium-planes)
-    - [Contant](#contant)
     - [4.3.2. Landing Page Mock-up](#432-landing-page-mock-up)
-    - [Home Landing Page](#home-landing-page-1)
-    - [Why DriveNow](#why-drivenow-1)
-    - [Testimonies](#testimonies-1)
-    - [Safety](#safety-1)
-    - [Premium Planes](#premium-planes-1)
-    - [Team](#team)
-    - [Contant](#contant-1)
   - [4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)
     - [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
     - [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
@@ -2570,7 +2557,7 @@ En esta sección, presentaremos nuestro plan para el diseño, estilo y aparienci
  <strong>Branding: </strong>Creamos un logotipo distintivo y memorable que representa la identidad de nuestra plataforma de alquiler de autos entre particulares. Incorporamos elementos visuales relacionados con el mundo automotriz, como coches, llaves y colores asociados con la confianza y la movilidad, para reflejar el tema del alquiler de vehículos.<br>
  <div align="center">
   <td colspan="1" rowspan="6">
-  <img src="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report/blob/feature/chapter_4/resources/Logo/DriveNow_Logo.png?raw=true" alt="logo" width="300" height="250">
+  <img src="resources\chapter_4\Logo\DriveNow_Logo.png" alt="logo" width="300" height="250">
      </td>
 </div>
 <p align="justify">
@@ -2580,7 +2567,7 @@ La tipografía seleccionada es Open Sans, que será utilizada en todos los texto
 
 <div align="center">
   <td colspan="1" rowspan="6">
-    <img src="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report/blob/feature/chapter_4/resources/Items/Typography.png?raw=true" alt="typography" width="400" height="250">
+    <img src="resources\chapter_4\Items\Typography.png" alt="typography" width="400" height="250">
   </td>
 </div>
 
@@ -2591,7 +2578,7 @@ La tipografía seleccionada es Open Sans, que será utilizada en todos los texto
 
 <div align="center">
   <td colspan="1" rowspan="6">
-    <img src="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report/blob/feature/chapter_4/resources/Items/Colors.png?raw=true" alt="colors" width="400" height="200">
+    <img src="resources\chapter_4\Items\Colors.png" alt="colors" width="400" height="200">
   </td>
 </div>
 
@@ -2652,7 +2639,7 @@ El diseño debe ser limpio, moderno y responsivo, adaptándose a todos los dispo
 
 <div align="center">
   <td colspan="1" rowspan="6">
-    <img src="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report/blob/feature/chapter_4/resources/Items/Designs.png?raw=true" alt="design" width="350" height="220">
+    <img src="resources\chapter_4\Items\Designs.png" alt="design" width="350" height="220">
   </td>
 </div>
 
@@ -2663,7 +2650,7 @@ Los botones principales y secundarios deben destacar claramente con colores cons
 
 <div align="center">
   <td colspan="1" rowspan="6">
-    <img src="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report/blob/feature/chapter_4/resources/Items/Buttons.png?raw=true" alt="Buttons" width="280" height="200">
+    <img src="resources\chapter_4\Items\Buttons.png" alt="Buttons" width="280" height="200">
   </td>
 </div>
 
@@ -2674,13 +2661,13 @@ El tema visual debe ser coherente con la identidad de la aplicación, utilizando
 
 <div align="center">
   <td colspan="1" rowspan="6">
-    <img src="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report/blob/feature/chapter_4/resources/Items/Mode-light.png?raw=true" alt="light-mode" width="400" height="250">
+    <img src="resources\chapter_4\Items\Mode-light.png" alt="light-mode" width="400" height="250">
   </td>
 </div>
 
 <div align="center">
   <td colspan="1" rowspan="6">
-    <img src="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report/blob/feature/chapter_4/resources/Items/Dark-Mode.png?raw=true" alt="dark-mode" width="400" height="250">
+    <img src="resources\chapter_4\Items\Dark-Mode.png" alt="dark-mode" width="400" height="250">
   </td>
 </div>
 
@@ -2691,7 +2678,7 @@ El logo debe ser simple y visible en todo el sitio, manteniendo siempre su propo
 
 <div align="center">
   <td colspan="1" rowspan="6">
-    <img src="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report/blob/feature/chapter_4/resources/Logo/DriveNow_Logo.png?raw=true" alt="logo" width="400" height="350">
+    <img src="resources\chapter_4\Logo\DriveNow_Logo.png" alt="logo" width="400" height="350">
   </td>
 </div>
 
@@ -2743,36 +2730,67 @@ El sistema de navegación implementado en la página es intuitivo y responsivo. 
 
 ### 4.3. Landing Page UI Design
 #### 4.3.1. Landing Page Wireframe
-#### Home Landing Page
-![home-landing-page-1](https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report/blob/feature/chapter_4/resources/Items/home_wireframe.png?raw=true)
-#### Why DriveNow
-![home-landing-page-2](https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report/blob/feature/chapter_4/resources/Items/why_drivenow_wireframe.png?raw=true)
-#### Testimonies
-![home-landing-page-3](https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report/blob/feature/chapter_4/resources/Items/testimonies_wireframe.png?raw=true)
-#### Safety
-![home-landing-page-4](https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report/blob/feature/chapter_4/resources/Items/safety_wireframe.png?raw=true)
-#### Premium Planes
-![home-landing-page-5](https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report/blob/feature/chapter_4/resources/Items/premium_wireframe.png?raw=true)
-#### Contant
-![home-landing-page-6](https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report/blob/feature/chapter_4/resources/Items/contact_wireframe.png?raw=true)
+
+**Desktop**<br>
+**Home Landing Page**
+![home-landing-page-1](/resources/chapter_4/Items/home_wireframe.png)
+**Why DriveNow**
+![home-landing-page-2](resources/chapter_4/Items/why_drivenow_wireframe.png)
+**Testimonies**
+![home-landing-page-3](resources/chapter_4/Items/testimonies_wireframe.png)
+**Safety**
+![home-landing-page-4](resources/chapter_4/Items/safety_wireframe.png)
+**Premium Planes**
+![home-landing-page-5](resources/chapter_4/Items/premium_wireframe.png)
+**Contact**
+![home-landing-page-6](resources/chapter_4/Items/contact_wireframe.png)
+
+**Mobile**<br>
+**Mobile Landing Page**
+![mobile-landing-page-1](resources/chapter_4/Items/landing_mob_homewire.png)
+**Mobile Why DriveNow**
+![mobile-landing-page-2](resources/chapter_4/Items/landing_mob_whywire.png)
+**Mobile Testimonies**
+![mobile-landing-page-3](resources/chapter_4/Items/landing_mob_testimonieswire.png)
+**Mobile Safety**
+![mobile-landing-page-4](resources/chapter_4/Items/landing_mob_safewire.png)
+**Mobile Premium Plans**
+![mobile-landing-page-5](resources/chapter_4/Items/landing_mob_planswire.png)
+**Mobile Footer**
+![mobile-landing-page-6](resources/chapter_4/Items/landing_mob_footerwire.png)
 
 #### 4.3.2. Landing Page Mock-up
-#### Home Landing Page
-![home-landing-page-01](https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report/blob/feature/chapter_4/resources/Items/home.png?raw=true)
-#### Why DriveNow
-![home-landing-page-02](https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report/blob/feature/chapter_4/resources/Items/ehy_drivenow.png?raw=true)
-#### Testimonies
-![home-landing-page-03](https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report/blob/feature/chapter_4/resources/Items/testimonies.png?raw=true)
-#### Safety
-![home-landing-page-04](https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report/blob/feature/chapter_4/resources/Items/safety.png?raw=true)
 
-#### Premium Planes
+**Desktop**<br>
+**Home Landing Page**
+![home-landing-page-01](/resources/chapter_4/Items/home.png)
+**Why DriveNow**
+![home-landing-page-02](resources/chapter_4/Items/ehy_drivenow.png)
+**Testimonies**
+![home-landing-page-03](/resources/chapter_4/Items/testimonies.png)
+**Safety**
+![home-landing-page-04](/resources/chapter_4/Items/safety.png)
+**Premium Plans**
+![home-landing-page-05](/resources/chapter_4/Items/premium_pass.png)
+**Team**
+![home-landing-page-06](/resources/chapter_4/Items/team.png)
+**Contant**
+![home-landing-page-07](/resources/chapter_4/Items/contact.png)
 
-![home-landing-page-05](https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report/blob/feature/chapter_4/resources/Items/premium%20pass.png?raw=true)
-#### Team
-![home-landing-page-06](https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report/blob/feature/chapter_4/resources/Items/team.png?raw=true)
-#### Contant
-![home-landing-page-07](https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report/blob/feature/chapter_4/resources/Items/contact.png?raw=true)
+**Mobile**<br>
+**Mobile Landing Page**
+![mobile-landing-page-01](resources/chapter_4/Items/landing_mobile_home.png)
+**Mobile Why DriveNow**
+![mobile-landing-page-02](resources/chapter_4/Items/landing_mobile_benefits.png)
+**Mobile Testimonies**
+![mobile-landing-page-03](resources/chapter_4/Items/landing_mobile_testimonies.png)
+**Mobile Safety**
+![mobile-landing-page-04](resources/chapter_4/Items/landing_mobile_safety.png)
+**Mobile Premium Plans**
+![mobile-landing-page-05](resources/chapter_4/Items/landing_mobile_plans.png)
+**Mobile Footer**
+![mobile-landing-page-06](resources/chapter_4/Items/landing_mobile_footer.png)
+
 
 ### 4.4. Web Applications UX/UI Design
 
@@ -2820,11 +2838,17 @@ En desktop existe la funcionalidad para buscar por mapa, que se visualiza en 2 p
 
 En esta sección, se presentan los wireflows de la aplicación.
 
+Registro de usuario
+
+<img src="./resources/chapter_4/wireflow_diagrams/register.png"/>
+
+Inicio de sesión
+
+<img src="./resources/chapter_4/wireflow_diagrams/login.png"/>
+
+___
+
 #### User Persona Dueño de Vehículo
-
-Registro e Inicio de Sesión
-
-<img src="./resources/chapter_4/wireflow_diagrams/inicio%20de%20sesión%20y%20registro.png"/>
 
 Añadir y mostrar vehículos
 
@@ -2873,20 +2897,97 @@ Los Web Mockups fueron creados a partir de los Wireframes, y tomando en cuenta l
 <br>
 
 #### 4.4.4. Web Applications User Flow Diagrams
+
+En esta sección, se presentaran los User Flows, donde se mostrarán las rutas Happy y Unhappy que los usuarios pueden tener al momento de usar la aplicación web.
+
+**User Flow 1:**  Inicio de sesión
+
+**User Goal:** Iniciar sesión en la aplicación de manera rápida y segura.
+
+**Task Flow:** 
+<img src="./resources/chapter_4/task-flow/login.png"/>
+
+**Wireflow:**
+<img src="./resources/chapter_4/wireflow_diagrams/login.png"/>
+
+---
+
+**User Flow 2:**  Registro de usuario
+
+**User Goal:** Completar el registro en la plataforma fácilmente.
+
+**Task Flow:** 
+<img src="./resources/chapter_4/task-flow/register.png"/>
+
+**Wireflow:**
+<img src="./resources/chapter_4/wireflow_diagrams/register.png"/>
+
+---
+
+**User Flow 3:**  Añadir y mostrar vehículos
+
+**User Goal:** Publicar y visualizar los vehículos en la plataforma.
+
+**Task Flow:** 
+<img src="./resources/chapter_4/task-flow/add-car.png"/>
+
+**Wireflow:**
+<img src="./resources/chapter_4/wireflow_diagrams/anadir-vehiculos.png"/>
+
+---
+
+**User Flow 4:**  Mostrar vehículos disponibles para arrendatarios.
+
+**User Goal:** Ver vehículos disponibles para alquilar.
+
+**Task Flow:** 
+<img src="./resources/chapter_4/task-flow/show-available-car.png"/>
+
+**Wireflow:**
+<img src="./resources/chapter_4/wireflow_diagrams/lista-de-vehiculos.png"/>
+
+---
+
+**User Flow 5:**  Buscar vehículos.
+
+**User Goal:** Encontrar vehículos específicos según sus preferencias.
+
+**Task Flow:** 
+<img src="./resources/chapter_4/task-flow/search-cars.png"/>
+
+**Wireflow:**
+<img src="./resources/chapter_4/wireflow_diagrams/busqueda-de-vehiculos.png"/>
+
+---
+
+**User Flow 6:**  Mostrar la ubicación de los vehículos.
+
+**User Goal:** Ver la ubicación exacta de los vehículos disponibles para alquilar.
+
+**Task Flow:** 
+<img src="./resources/chapter_4/task-flow/see-map.png"/>
+
+**Wireflow:**
+<img src="./resources/chapter_4/wireflow_diagrams/mapa-de-vehiculos.png"/>
+
 ### 4.5. Web Applications Prototyping
+
+El prototipo hecho en figma de nuestro proyecto se encuentra ene el siguiente enlace: https://www.figma.com/proto/n859ROJNMbz1u4HhSIEVcK/DriveNow?node-id=131-4649&node-type=canvas&t=eWxpbDgQx3BHlU7k-1&scaling=min-zoom&content-scaling=fixed&page-id=131%3A3153&starting-point-node-id=131%3A4649
+
 ### 4.6. Domain-Driven Software Architecture
 #### 4.6.1. Software Architecture Context Diagram
-![structurizr-74190-SystemContext-001](https://github.com/user-attachments/assets/007e7e12-97f6-46da-9f2e-3b69f1617d16)
+<img src="resources\chapter_4\DDD\ContextDiagram.png">
 
 #### 4.6.2. Software Architecture Container Diagrams 
-![structurizr-Container-001](https://github.com/user-attachments/assets/01e3fda3-ed1a-4102-b41a-af71846d34ee)
+<img src="resources\chapter_4\DDD\ContainerDiagram.png">
 
 #### 4.6.3. Software Architecture Components Diagrams
 ![Component Diagram](https://github.com/user-attachments/assets/014a4376-9448-49ed-a1ab-f49c1e793266)
 
 ### 4.7. Software Object-Oriented Design
 #### 4.7.1. Class Diagrams
-![home-landing-page-07](https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report/blob/feature/chapter_4/resources/Items/diagram_class.png?raw=true)
+<img src="resources\chapter_4\Items\diagram_class.png">
+
 #### 4.7.2. Class Dictionary
 | **Class**       | **Attribute**         | **Type**    | **Description**                              | **Methods**                         |
 |-----------------|-----------------------|-------------|----------------------------------------------|-------------------------------------|
