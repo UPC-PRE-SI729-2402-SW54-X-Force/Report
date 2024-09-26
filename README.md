@@ -142,11 +142,15 @@ Vista de commits:
       - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
       - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
       - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
-  - [5.3. Validation Interviews](#53-validation-interviews)
-    - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
-    - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
-    - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
-  - [5.4. Video About-the-Product](#54-video-about-the-product)
+    - [5.2.2. Sprint 2](#522-sprint-2)
+      - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
+      - [5.2.2.2. Sprint Backlog 1](#5222-sprint-backlog-1)
+      - [5.2.2.3. Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review)
+      - [5.2.2.4. Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review)
+      - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+      - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+      - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+      - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
 - [Conclusiones](#conclusiones)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
@@ -3537,11 +3541,498 @@ Para poder realizar todos los procesos realizados en este sprint relacionados co
 Para este sprint se realizo una reunión exclusiva para el despliegue de la landing page, donde se compartio el código y se subio a través de uno de los integrantes.
 <img src= "resources/chapter_5/sprint-1-evidence.png">
 
-### 5.3. Validation Interviews
-#### 5.3.1. Diseño de Entrevistas
-#### 5.3.2. Registro de Entrevistas
-#### 5.3.3. Evaluaciones según heurísticas
-### 5.4. Video About-the-Product
+#### 5.2.2. Sprint 2
+##### 5.2.2.1. Sprint Planning 2
+<table>
+  <tr>
+    <td colspan="1"><strong>Sprint #</strong></td>
+    <td colspan="1">2</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Sprint Planning Background</strong></td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Date</strong></td>
+    <td colspan="1">2024-09-25</td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Time</strong></td>
+    <td colspan="1">12:00 PM</td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Location</strong></td>
+    <td colspan="1">Virtual google meet</td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Prepared by</strong></td>
+    <td colspan="1">Gabriel Casas</td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Attendees (to planning meeting)</strong></td>
+    <td colspan="1">Gabriel Casas, Aaron Avila, Emilia Duran, George Galvan, Jamir Marzal</td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Sprint n – 2 Review Summary</strong></td>
+    <td colspan="1">Se refactorizo la landing page para habilitar el uso de angular material, además se realizó el primer avance del web application.</td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Sprint n – 2 Retrospective Summary</strong></td>
+    <td colspan="1">Mejorar la puntualidad y comunicación entre el grupo.</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Sprint Goal & User Stories</strong></td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Sprint 2 Goal</strong></td>
+    <td colspan="1">Nuestro enfoque para este sprint es implementar los primeros avances del web application. Creemos que esto brindará una correcta proyección de como se vera nuestra aplicación a nuestros futuros clientes. Esto se confirmará cuando todas las secciones de nuestra aplicación se comuniquen entre si.</td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Sprint 2 Velocity</strong></td>
+    <td colspan="1">El equipo puede aceptar story points</td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Sum of Story Points</strong></td>
+    <td colspan="1">La suma de los Story Points de los User Stories que se atendieron son </td>
+  </tr>
+</table>
+
+##### 5.2.2.2. Sprint Backlog 1
+
+<table>
+  <tr>
+    <td colspan="1"><strong>Sprint #</strong></td>
+    <td colspan="7"><strong>Sprint 2</strong></td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>User Story</strong></td>
+    <td colspan="6"><strong>Work-Item/task</strong></td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Id</strong></td>
+    <td colspan="1"><strong>Title</strong></td>
+    <td colspan="1"><strong>Id</strong></td>
+    <td colspan="1"><strong>Title</strong></td>
+    <td colspan="1"><strong>Description</strong></td>
+    <td colspan="1"><strong>Estimation(Hours)</strong></td>
+    <td colspan="1"><strong>Assigned To</strong></td>
+    <td colspan="1"><strong>Status</strong></td>
+  </tr>
+  <tr>
+    <td colspan="1">US029</td>
+    <td colspan="1">Acceder a Recomendaciones de Seguridad y Sitios Turísticos</td>
+    <td colspan="1">T01</td>
+    <td colspan="1">Agregar la page de community</td>
+    <td colspan="1">Se debe argegar la page de community la cual muestres blogs relacionados con el bounded context sobre el que tabaja drivenow</td>
+    <td colspan="1">4</td>
+    <td colspan="1">Marzal Perez Jamir Angel</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">US030</td>
+    <td colspan="1">Modificación de información personal</td>
+    <td colspan="1">T02</td>
+    <td colspan="1">Agregar la page settings dentro de las opciones de usuario</td>
+    <td colspan="1">Se debe configurar el api de usuarios para que se capaz de acaptar operaciones put y patch.</td>
+    <td colspan="1">4</td>
+    <td colspan="1">Casas Sanchez Gabriel Alexander</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">US031</td>
+    <td colspan="1">Visualización de documentos de transito</td>
+    <td colspan="1">T03</td>
+    <td colspan="1">Agregar la sección licencia dentro de las opciones de usuario</td>
+    <td colspan="1">Se debe agregar los componentes necesarios para mostrar la licencia del usuario dentro de cartas.</td>
+    <td colspan="1">4</td>
+    <td colspan="1">Casas Sanchez Gabriel Alexander</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">US032</td>
+    <td colspan="1">Modificación de documentos de transito</td>
+    <td colspan="1">T04</td>
+    <td colspan="1">Agregar el formulario de modificación de datos de licencia</td>
+    <td colspan="1">Agregar el formulario necesario para poder ingresar los nuevos datos de la licencia de un usuario y reemplace la anitgua.</td>
+    <td colspan="1">4</td>
+    <td colspan="1">Casas Sanchez Gabriel Alexander</td>
+    <td colspan="1">To-do</td>
+  </tr>
+  <tr>
+    <td colspan="1">TS001 - TS002</td>
+    <td colspan="1">Implementar endpoint de obtención de usuarios y usuarios especificos</td>
+    <td colspan="1">T05</td>
+    <td colspan="1">Creación del endpoint base</td>
+    <td colspan="1">Implementar la función CRUD GET para la obtención de registros a tráves de una solicitud de endpoint.</td>
+    <td colspan="1">4</td>
+    <td colspan="1">Casas Sanchez Gabriel Alexander</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">TS004 - TS005</td>
+    <td colspan="1">Implementar endpoint de modificación de usuarios total y parcial</td>
+    <td colspan="1">T05</td>
+    <td colspan="1">Creación del endpoint base</td>
+    <td colspan="1">Implementar las funciones CRUD Put y PATCH para la modificación de registros a tráves de una solicitud de endpoint.</td>
+    <td colspan="1">5</td>
+    <td colspan="1">Casas Sanchez Gabriel Alexander</td>
+    <td colspan="1">Done</td>
+  </tr>
+</table>
+
+##### 5.2.2.3. Development Evidence for Sprint Review
+
+Como primeras evidencias de lo que se desarrolló durante el sprint tenemos a la implmementación del Front web application, iniciando con la creación de los pages mostrados en el sprint backlog 2.
+
+**Web application**
+<table>
+  <tr>
+    <td colspan="1">Repository</td>
+    <td colspan="1">Branch</td>
+    <td colspan="1">Commit Id</td>
+    <td colspan="1">Commit Message</td>
+    <td colspan="1">Commit Message Body</td>
+    <td colspan="1">Commited on (Date)</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend</a></td>
+    <td>feat/user-management</td>
+    <td>96474ef</td>
+    <td>feat(user-management): added user entity.</td>
+    <td>feat(user-management): added user entity.</td>
+    <td>25/09/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend</a></td>
+    <td>feat/user-management</td>
+    <td>3be8e44</td>
+    <td>feat(user-management): added user api service.</td>
+    <td>feat(user-management): added user api service.</td>
+    <td>25/09/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend</a></td>
+    <td>feat/user-management</td>
+    <td>886883c</td>
+    <td>feat(user-basic-information-display): implemented the user basic information display.</td>
+    <td>feat(user-basic-information-display): implemented the user basic information display.</td>
+    <td>25/09/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend</a></td>
+    <td>feat/user-management</td>
+    <td>4cb3396</td>
+    <td>feat(user-management): added api access functions.</td>
+    <td>feat(user-management): added api access functions.</td>
+    <td>25/09/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend</a></td>
+    <td>feat/user-management</td>
+    <td>f7490ae</td>
+    <td>feat(user-management): added user options list.</td>
+    <td>feat(user-management): added user options list.</td>
+    <td>25/09/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend</a></td>
+    <td>feat/user-management</td>
+    <td>94334cc</td>
+    <td>feat(user-management): added user options list components.</td>
+    <td>feat(user-management): added user options list components.</td>
+    <td>25/09/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend</a></td>
+    <td>feat/user-management</td>
+    <td>4b14721</td>
+    <td>feat(user-management): added user edit components.</td>
+    <td>feat(user-management): added user edit components.</td>
+    <td>25/09/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend</a></td>
+    <td>feat/user-management</td>
+    <td>3562c11</td>
+    <td>feat(user-settings): added user name edit function.</td>
+    <td>feat(user-settings): added user name edit function.</td>
+    <td>25/09/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend</a></td>
+    <td>feat/user-management</td>
+    <td>6e31984</td>
+    <td>feat(user-license): added user license card component</td>
+    <td>feat(user-license): added user license card component</td>
+    <td>25/09/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend</a></td>
+    <td>feat/user-management</td>
+    <td>a0b979b</td>
+    <td>feat(user-license): Added license entity.</td>
+    <td>feat(user-license): Added license entity.</td>
+    <td>25/09/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend</a></td>
+    <td>feat/user-management</td>
+    <td>b257a16</td>
+    <td>feat(user-license): deployed user lincense component.</td>
+    <td>feat(user-license): deployed user lincense component.</td>
+    <td>25/09/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend</a></td>
+    <td>feat/resources</td>
+    <td>c56fac3</td>
+    <td>feat(resources): Added resources section</td>
+    <td>feat(resources): Added resources section</td>
+    <td>25/09/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend</a></td>
+    <td>feat/resources</td>
+    <td>9252697</td>
+    <td>feat(resource.entity.ts): Added a new attribute.</td>
+    <td>feat(resource.entity.ts): Added a new attribute.</td>
+    <td>25/09/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend</a></td>
+    <td>feat/resources</td>
+    <td>09bdc0d</td>
+    <td>feat(resources.component.html): Added the button functionality.</td>
+    <td>feat(resources.component.html): Added the button functionality.</td>
+    <td>25/09/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend</a></td>
+    <td>feat/resources</td>
+    <td>2c2ba91</td>
+    <td>feat(db.json): Added modification to the json file.</td>
+    <td>feat(db.json): Added modification to the json file.</td>
+    <td>25/09/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend</a></td>
+    <td>feat/about</td>
+    <td>96fd252</td>
+    <td>feat(about): Add the about us section.</td>
+    <td>feat(about): Add the about us section.</td>
+    <td>25/09/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend</a></td>
+    <td>feat/offers</td>
+    <td>1466ef7</td>
+    <td>feat: added frontend offers</td>
+    <td>feat: added frontend offers</td>
+    <td>25/09/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend</a></td>
+    <td>feat/offers</td>
+    <td>94be652</td>
+    <td>feat: delete duplicate info</td>
+    <td>feat: delete duplicate info</td>
+    <td>25/09/2024</td>
+  </tr>
+</table>
+
+**Landing Page**
+
+<table>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing-Page">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing-Page</a></td>
+    <td>feat/navbar</td>
+    <td>231ba35</td>
+    <td>feat: added navbar and files</td>
+    <td>feat: added navbar and files</td>
+    <td>25/09/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing-Page">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing-Page</a></td>
+    <td>feat/navbar</td>
+    <td>5ea553f</td>
+    <td>feat: added final navbar</td>
+    <td>feat: added final navbar</td>
+    <td>25/09/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing-Page">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing-Page</a></td>
+    <td>feat/hero</td>
+    <td>4bea6f3</td>
+    <td>feat: added hero</td>
+    <td>feat: added hero</td>
+    <td>25/09/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing-Page">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing-Page</a></td>
+    <td>feat/why-choose-us</td>
+    <td>e88ddad</td>
+    <td>feat: added why-choose-us</td>
+    <td>feat: added why-choose-us</td>
+    <td>25/09/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing-Page">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing-Page</a></td>
+    <td>feat/how-it-works</td>
+    <td>7d9ee73</td>
+    <td>feat: added how it works</td>
+    <td>feat: added how it works</td>
+    <td>25/09/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing-Page">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing-Page</a></td>
+    <td>feat/testimonials</td>
+    <td>e1d7a3f</td>
+    <td>feat: added testimonials</td>
+    <td>feat: added testimonials</td>
+    <td>25/09/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing-Page">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing-Page</a></td>
+    <td>feat/safety</td>
+    <td>74f3009</td>
+    <td>feat: added safety image</td>
+    <td>feat: added safety image</td>
+    <td>25/09/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing-Page">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing-Page</a></td>
+    <td>feat/premiun-plans</td>
+    <td>3bd6208</td>
+    <td>feat: added premium-plans and image</td>
+    <td>feat: added premium-plans and image</td>
+    <td>25/09/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing-Page">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing-Page</a></td>
+    <td>feat/team</td>
+    <td>6c9e781</td>
+    <td>feat: added team members</td>
+    <td>feat: added team members</td>
+    <td>25/09/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing-Page">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing-Page</a></td>
+    <td>feat/contact</td>
+    <td>d9a4644</td>
+    <td>feat: added contact and image</td>
+    <td>feat: added contact and image</td>
+    <td>25/09/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing-Page">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing-Page</a></td>
+    <td>feat/footer</td>
+    <td>bc51885</td>
+    <td>feat: added final changes footer</td>
+    <td>feat: added final changes footer</td>
+    <td>25/09/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing-Page">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing-Page</a></td>
+    <td>feat/footer</td>
+    <td>c1b3777</td>
+    <td>feat: added new format navbar</td>
+    <td>feat: added new format navbar</td>
+    <td>25/09/2024</td>
+  </tr>
+</table>
+
+##### 5.2.2.4. Testing Suite Evidence for Sprint Review
+Para este sprint no se realizaron pruebas debido a que solo se realizaron versiones preliminares.
+
+##### 5.2.2.5. Execution Evidence for Sprint Review
+
+**Web Application**
+
+**Page about**
+
+<img src="resources\chapter_5\web-application-sprint-2-page-about-1.jpg">
+<img src="resources\chapter_5\web-application-sprint-2-page-about-2.jpg">
+<img src="resources\chapter_5\web-application-sprint-2-page-about-3.jpg">
+
+**Page Offers**
+
+<img src="resources\chapter_5\web-application-sprint-2-page-offers.jpg">
+
+**Page User**
+
+<img src="resources\chapter_5\web-application-sprint-2-page-user-1.png">
+<img src="resources\chapter_5\web-application-sprint-2-page-user-2.png">
+
+**Page User/Settings**
+
+<img src="resources\chapter_5\web-application-sprint-2-page-settings.png">
+
+**Page User/License**
+
+<img src="resources\chapter_5\web-application-sprint-2-page-license.png">
+
+**Landing Page**
+
+<img src="resources\chapter_5\landing-page-sprint-2-1.jpg">
+<img src="resources\chapter_5\landing-page-sprint-2-2.jpg">
+<img src="resources\chapter_5\landing-page-sprint-2-3.jpg">
+<img src="resources\chapter_5\landing-page-sprint-2-4.jpg">
+<img src="resources\chapter_5\landing-page-sprint-2-5.jpg">
+<img src="resources\chapter_5\landing-page-sprint-2-6.jpg">
+<img src="resources\chapter_5\landing-page-sprint-2-7.jpg">
+
+##### 5.2.2.6. Services Documentation Evidence for Sprint Review
+No se emplearon servicios adicionales.
+##### 5.2.2.7. Software Deployment Evidence for Sprint Review
+**Landing Page Deployment**
+<img src="resources\chapter_5\landing-page-deployment-evidence-sprint-2-1.jpg">
+Instalamos las dependencias especificas para desplegar la landing page, los comandos son ``ng add angular-cli-ghpages``   y  ``ng deploy --base-href=https://upc-pre-si729-2402-sw54-x-force.github.io/Landing-Page/``
+
+<img src="resources\chapter_5\landing-page-deployment-evidence-sprint-2-2.jpg">
+En caso no funcione al primer intento, verificamos que nos encontremos en el directorio correcto 
+
+```
+git remote -v
+```
+en nuestro caso se tendria que ver de la siguiente manera 
+
+```
+origin  https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing-Page.git (fetch)
+
+
+origin  https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing-Page.git (push)
+```
+
+```
+"deploy": {
+  "builder": "angular-cli-ghpages:deploy",
+  "options": {
+    "repo": "https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing-Page.git",
+    "branch": "gh-pages"
+  }
+}
+```
+
+Verificamos que esté correctamente instalado nuestro deploy
+
+<img src="resources\chapter_5\landing-page-deployment-evidence-sprint-2-3.jpg">
+Intentamos desplegar con la opción 
+
+``'repo'``
+
+<img src="resources\chapter_5\landing-page-deployment-evidence-sprint-2-4.jpg">
+
+Una vez terminado el proceso verificamos que nuestra landing page este operativa en la siguiente ruta
+
+```
+https://upc-pre-si729-2402-sw54-x-force.github.io/Landing-Page/
+```
+
+##### 5.2.2.8. Team Collaboration Insights during Sprint
+
+<img src="resources\chapter_5\front-end-insight-sprint-2-1.png">
+<img src="resources\chapter_5\front-end-insight-sprint-2-2.png">
+<img src="resources\chapter_5\front-end-insight-sprint-2-3.png">
+
 ## Conclusiones
 1) Resolución del Problema: DriveNow aborda eficientemente la baja utilización de vehículos particulares en Perú, aprovechando una gran cantidad de vehículos estacionados sin uso para su alquiler temporal. Esto no solo maximiza el uso de automóviles, sino que también genera ingresos adicionales para los propietarios.
 
