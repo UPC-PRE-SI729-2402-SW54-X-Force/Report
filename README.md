@@ -29,13 +29,14 @@ El presente curso contribuye al cumplimiento del Student Outcome 3 establecido p
 
 A continuación, se presenta un cuadro que detalla las acciones realizadas por el grupo, junto con los enunciados de las conclusiones alcanzadas. Estas acciones y resultados demuestran de manera concreta el logro del Student Outcome 3 de la ABET – EAC, evidenciando la habilidad de los estudiantes para adaptarse a diferentes contextos comunicativos y transmitir información relevante de manera eficaz.
 
-|     Criterio Específico     | Acciones Realizadas              | Conclusiones                | 
-|-----------------------------|----------------------------------|-----------------------------|
-| **Comunica oralmente con efectividad a diferentes rangos de audiencia.** | Avila Palacios Aaron Alexander<br>TB1<br>Casas Sanchez Gabriel Alexander<br>TB1<br>Duran Santander Emilia Mercedes<br>TB1<br>Galvan Cerron George Aldo<br>TB1<br>Marzal Perez Jamir Angel<br>TB1 | El equipo ha demostrado habilidades sólidas para comunicar de manera clara y efectiva sus ideas y resultados a diferentes tipos de audiencia, garantizando una comprensión completa del proyecto. |
-| **Comunica por escrito con efectividad a diferentes rangos de audiencia** | Avila Palacios Aaron Alexander<br>TB1<br>Casas Sanchez Gabriel Alexander<br>TB1<br>Duran Santander Emilia Mercedes<br>TB1<br>Galvan Cerron George Aldo<br>TB1<br>Marzal Perez Jamir Angel<br>TB1 | Cada integrante ha logrado transmitir de manera precisa y coherente la información clave del proyecto a través de documentos escritos, adaptándose exitosamente a diversos contextos comunicativos. |
+|     Criterio Específico     | Acciones Realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Conclusiones                | 
+|-----------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
+| **Comunica oralmente con efectividad a diferentes rangos de audiencia.** | Avila Palacios Aaron Alexander<br>TB1<br>Se coordino con el equipo el desarrollo del informe y la asignación de las tareas. Brinde mis ideas para la generación de las Historias de usuarios, el desarrollo del lean Ux Canvas y apoye en las entrevistas al publico objetivo.<br>TP1<br>El equipo resalto las partes que se tenían que actualizar basado en la retroalimentación del proyecto, se agregaron mas historias de usuarios referente al funcionamiento de los apartados de la pagina web.<br><br>Casas Sanchez Gabriel Alexander<br>TB1<br>Busque comunicar mis ideas de manera clara para concretar una correcta comunicación entre mis compañeros y así poder lograr un mejor trabajo.<br><br>TP1<br>Para esta entrega busque comunicar de manera clara mis ideas para poder tener un mejor desempeño como equipo. Además de esto busque que todas la expresiones que use fueran de fácil entendimiento<br><br>Duran Santander Emilia Mercedes<br>TB1<br>Galvan Cerron George Aldo<br>TB1<br><br>Coordinamos con el grupo las tareas de comunicación, asegurando que cada integrante se enfocara en un área específica. Colaboramos activamente en la preparación de las presentaciones y entrevistas, asignando a cada miembro una parte del trabajo.<br>TP1<br><br>Mi contribución incluyó la implementación del bounded context de offers y la migración de la landing page a Angular, lo cual documenté de manera detallada para que fuera comprensible tanto para el equipo técnico como para los lectores menos especializados.<br><br>Marzal Perez Jamir Angel<br>TB1<br>El trabajo me ha ayudado a comprender mejor como se desarrollan landing pages, corroborando todos mis conocimientos obtenidos en anteriores cursos. También comprendí como poder desarrollar mockups. El trabajo en equipo jugo una parte fundamental para el correcto desarrollo del proyecto.<br><br>TP1<br>En esta entrega pude corregir un problemas que hubo con los wireflows que hubo en la entrega anterior. También desarrolle el componente resources de la front en app.| El equipo ha demostrado habilidades sólidas para comunicar de manera clara y efectiva sus ideas y resultados a diferentes tipos de audiencia, garantizando una comprensión completa del proyecto. |
+| **Comunica por escrito con efectividad a diferentes rangos de audiencia** | Avila Palacios Aaron Alexander<br>TB1<br><br>Presente el desarrollo de las Estrategias y Tácticas para Enfrentar a los Competidores, Ubiquitous Language, impact mapping y Product Backlog para agregarlos al informe.<br>TP1<br><br>Me encargue de el desarrollo del apartado About Us de la aplicación web. Se corrigieron los puntos resaltados en la retroalimentación, se adicionaron historias de usuarios y se actualizo el Product Backlog con dichas historias. <br><br>Casas Sanchez Gabriel Alexander<br>TB1<br>Organice a mi grupo para la repartición de actividades, además de esto busque que todos los conceptos plazmados en el reporte sean entendibles para personas externas al mundo del desarrollo de software.<br><br>TP1<br>Busque que lo implementado en el desarrollo de mi página para el web application sea intuitivo y de fácil entendimiento. Ademá estableci los primeros lineamientos para implementar i18n.<br><br>Duran Santander Emilia Mercedes<br>TB1<br>Galvan Cerron George Aldo<br>TB1<br><br>Acordamos que yo me encargaría del desarrollo del capítulo 4, lo cual incluía la redacción técnica del contenido y su adaptación a diferentes audiencias. Además, me encargué del desarrollo de la landing page.<br>TP1<br><br>En la TP1, coordinamos como equipo para asignar y desarrollar las tareas del proyecto. Durante las reuniones, colaboramos activamente para mantener una comunicación clara y efectiva, asegurando que todos estuvieran alineados con las responsabilidades asignadas.<br><br>Marzal Perez Jamir Angel<br>TB1<br>Empaty Mapping, As-is Scenario Mapping, To-be Scenario Mapping, User Stories, Organization Systems, Web Applications Wireflow Diagrams.<br><br>TP1<br>Durante el transcurso del segundo sprint, se llevó a cabo la implementación de los componentes esenciales para el frontend del proyecto. Este proceso implicó la traducción de los diseños y especificaciones en código funcional y estéticamente atractivo para el usuario final. | Cada integrante ha logrado transmitir de manera precisa y coherente la información clave del proyecto a través de documentos escritos, adaptándose exitosamente a diversos contextos comunicativos. |
 
 
 ## Project Report Collaboration Insights
+TB1:
 Se han realizado todas las tareas asignadas para la entrega de la TB1, las cuales se encuentran registradas en el repositorio de Github de la organización del equipo bajo el enlace https://github.com/UPC-PRE-SI729-2402-SW54-X-Force. Para elaborar el informe, cada miembro ha redactado y creado gráficos en formato Markdown según los puntos asignados, realizando commits para registrar el avance en el repositorio.
 
 Vista de commits:
@@ -49,14 +50,44 @@ Vista de commits:
       <li>Duran Santander Emilia Mercedes: 2</li>
       <li>Galvan Cerron George Aldo: 10</li>
       <li>Marzal Perez Jamir Angel: 15</li>
-  </ul>
+</ul>
 
+TP1:
+Se han realizado todas las tareas asignadas para la entrega del TP1, las cuales se encuentran registradas en el repositorio de Github de la organización del equipo bajo el enlace https://github.com/UPC-PRE-SI729-2402-SW54-X-Force. Para elaborar el informe cada miembro corrigio y añadio puntos que se debian mejorar de la anterior entrega en el siguiente repositorio: https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report, de la misma manera para el desarrollo de la web application se trabajo en este repositorio: https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend
+
+Vista de commits:
+Landing page:
+<img src="resources\team-collaboration-insights-landing-tp1-1.png">
+<img src="resources\team-collaboration-insights-landing-tp1-2.png">
+<img src="resources\team-collaboration-insights-landing-tp1-3.png">
+
+<ul style="list-style: none; padding: 0;">
+      <li>Avila Palacios Aaron Alexander: 3</li>
+      <li>Casas Sanchez Gabriel Alexander: 15</li>
+      <li>Duran Santander Emilia Mercedes: 2</li>
+      <li>Galvan Cerron George Aldo: 2</li>
+      <li>Marzal Perez Jamir Angel: 4</li>
+</ul>
+
+Web Application Frontend:
+<img src="resources\team-collaboration-insights-frontend-tp1-1.png">
+<img src="resources\team-collaboration-insights-frontend-tp1-2.png">
+<img src="resources\team-collaboration-insights-frontend-tp1-3.png">
+
+<ul style="list-style: none; padding: 0;">
+      <li>Avila Palacios Aaron Alexander: 1</li>
+      <li>Casas Sanchez Gabriel Alexander: 37</li>
+      <li>Duran Santander Emilia Mercedes: 0</li>
+      <li>Galvan Cerron George Aldo: 8</li>
+      <li>Marzal Perez Jamir Angel: 4</li>
+</ul>
 
 ## Registro de Versiones del Informe
 
 | Versión | Fecha     | Autor                            | Descripción de modificación |
 |---------|-----------|----------------------------------|-----------------------------|
-| TB1     | 18/8/2024 | Todos los Integrantes del Equipo |Desarrollo de la TB1         |
+| 1.0     | 18/8/2024 | Todos los Integrantes del Equipo |Desarrollo de la TB1         |
+| 2.0     | 25/9/2024 | Todos los Integrantes del Equipo |Desarrollo del TP1           |
 
 ## Contenido
 
@@ -108,20 +139,7 @@ Vista de commits:
     - [4.2.5. Navigation Systems](#425-navigation-systems)
   - [4.3. Landing Page UI Design](#43-landing-page-ui-design)
     - [4.3.1. Landing Page Wireframe](#431-landing-page-wireframe)
-    - [Home Landing Page](#home-landing-page)
-    - [Why DriveNow](#why-drivenow)
-    - [Testimonies](#testimonies)
-    - [Safety](#safety)
-    - [Premium Planes](#premium-planes)
-    - [Contant](#contant)
     - [4.3.2. Landing Page Mock-up](#432-landing-page-mock-up)
-    - [Home Landing Page](#home-landing-page-1)
-    - [Why DriveNow](#why-drivenow-1)
-    - [Testimonies](#testimonies-1)
-    - [Safety](#safety-1)
-    - [Premium Planes](#premium-planes-1)
-    - [Team](#team)
-    - [Contant](#contant-1)
   - [4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)
     - [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
     - [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
@@ -155,11 +173,15 @@ Vista de commits:
       - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
       - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
       - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
-  - [5.3. Validation Interviews](#53-validation-interviews)
-    - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
-    - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
-    - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
-  - [5.4. Video About-the-Product](#54-video-about-the-product)
+    - [5.2.2. Sprint 2](#522-sprint-2)
+      - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
+      - [5.2.2.2. Sprint Backlog 1](#5222-sprint-backlog-1)
+      - [5.2.2.3. Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review)
+      - [5.2.2.4. Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review)
+      - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+      - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+      - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+      - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
 - [Conclusiones](#conclusiones)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
@@ -172,9 +194,9 @@ Vista de commits:
 Somos X Force, una startup creada por estudiantes de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas del Perú y hemos desarrollado una aplicación llamada DriveNow.
 DriveNow es una aplicación que busca resolver el problema constante de las personas sobre la dificultad de encontrar una movilidad privada temporal, así mismo asegurar el uso de la mayor cantidad de automóviles. Creemos que estos problemas afectan en la calidad de vida de nuestros usuarios de manera negativa.
 
-**Misión:**Proporcionar una plataforma accesible y confiable que conecte a propietarios de vehículos con usuarios que necesitan movilidad temporal, mejorando la eficiencia en el uso de automóviles y ofreciendo una alternativa segura y conveniente para la movilidad en Perú.
+**Misión:** Proporcionar una plataforma accesible y confiable que conecte a propietarios de vehículos con usuarios que necesitan movilidad temporal, mejorando la eficiencia en el uso de automóviles y ofreciendo una alternativa segura y conveniente para la movilidad en Perú.
 
-**Objetivo:**Lograr que DriveNow se convierta en la opción preferida para el alquiler temporal de automóviles en las principales ciudades de Perú, maximizando el uso de vehículos subutilizados y generando ingresos adicionales para los propietarios.
+**Objetivo:** Lograr que DriveNow se convierta en la opción preferida para el alquiler temporal de automóviles en las principales ciudades de Perú, maximizando el uso de vehículos subutilizados y generando ingresos adicionales para los propietarios.
 
 #### 1.1.2. Perfiles de integrantes del equipo
 <table>
@@ -250,24 +272,11 @@ El lean UX process es un enfoque iterativo centrado en el usuario para el diseñ
 
 ##### 1.2.2.1. Lean UX Problem Statements
 
-**Problem statement 1: Falta de Confianza en el Proceso de Alquiler**
-Los propietarios pueden sentir inseguridad al entregar sus vehículos a extraños, mientras que los arrendatarios pueden preocuparse por el estado del vehículo y el cumplimiento del contrato. Esto puede llevar a una baja adopción de la plataforma. Es esencial establecer mecanismos de verificación de identidad y confiabilidad, así como implementar políticas claras de seguro y reembolso en caso de daños.
+El estado actual del mercado de alquiler de vehículos se ha centrado principalmente en conectar propietarios con arrendatarios a través de plataformas digitales. Sin embargo, tanto los propietarios como los arrendatarios enfrentan problemas críticos, como la falta de confianza en el proceso de alquiler, la dificultad para seleccionar el vehículo adecuado y la confusión en el proceso de pago.
 
-**Problem statement 2: Selección de Vehículos Apropiados**
-Los usuarios pueden encontrarse con una amplia variedad de vehículos en la plataforma, lo que dificulta encontrar el más adecuado para sus necesidades. Esto puede resultar en una experiencia frustrante y llevar a los usuarios a abandonar la búsqueda. Una solución sería permitir la aplicación de filtros específicos, como tipo de vehículo, capacidad, características y ubicación, para ayudar a los usuarios a encontrar rápidamente lo que necesitan.
+Lo que los productos y servicios existentes no logran abordar es la necesidad de establecer mecanismos claros de verificación de identidad y antecedentes, así como políticas transparentes sobre seguros y reembolsos, lo cual es esencial para generar confianza. Además, las plataformas actuales suelen carecer de filtros eficaces para facilitar la búsqueda de vehículos, y no siempre presentan tarifas de manera clara, lo que genera frustración en los usuarios.
 
-**Problem statement 3: Proceso de Pago y Tarifas Claras**
-Los usuarios pueden abandonar el proceso de alquiler si no comprenden completamente cómo se calculan las tarifas o si no son claras. Una solución es simplificar el proceso de pago y presentar las tarifas de manera transparente, mostrando cualquier cargo adicional de manera clara antes de que los usuarios confirmen su alquiler.
-
-**Problem statement 4: Verificación de Identidad y Antecedentes**
- 
-Aunque es necesario llevar a cabo verificaciones de antecedentes para construir confianza entre las partes, este proceso puede llevar mucho tiempo y desanimar a los usuarios. Para abordar este problema, se podría explorar la posibilidad de integrar tecnologías de verificación más rápidas y confiables, como la verificación biométrica y el uso de bases de datos públicas para antecedentes penales.
-
-**Problem statement 5: Interfaz Intuitiva y Fácil de Usar**
-Una interfaz complicada y abarrotada puede abrumar a los usuarios, especialmente aquellos que no están familiarizados con plataformas de alquiler en línea. La solución implica adoptar un diseño centrado en el usuario que guíe a los usuarios de manera clara y lógica a través de cada paso del proceso de alquiler, limitando la cantidad de información presentada en cada etapa. Una posible solución sería agregar elementos gráfico e interactivos.
-
-**Problem statement 6: Gestión de Reseñas y Calificaciones**
-Las reseñas y calificaciones son fundamentales para construir confianza, pero existe el riesgo de reseñas falsas o injustas. Para abordar este desafío, podríamos implementar sistemas de verificación de reseñas y fomentar la retroalimentación constructiva. Además, se podrían tomar medidas contra el abuso de reseñas falsas, como verificar la autenticidad de las transacciones antes de permitir reseñas.
+Nuestro servicio abordará esta brecha mediante la implementación de un sistema de verificación robusto, que incluye opciones rápidas y confiables para la verificación de identidad, un diseño centrado en el usuario que facilite la selección de vehículos mediante filtros avanzados, y un proceso de pago completamente transparente, que muestre las tarifas y cargos adicionales de manera clara desde el inicio.
 
 ##### 1.2.2.2. Lean UX Assumptions
 
@@ -1067,72 +1076,95 @@ El mapa To-Be crea una representación visual que muestra exactamente cómo debe
 <img src="./resources/chapter_3/to_be/to_be_dueño_de_vehiculo.png"/>
 
 ### 3.2. User Stories
-Para elaborar user stories estas deben pertenecer a una epic stories. A continuación, se mostrarán las epic stories:
-
-<table border="1" style="text-align: left;">
-	<tbody>
-		<tr>
-			<td colspan="1">Código</td>
-            <td colspan="1">Título</td>
-            <td colspan="1">Epic</td>
-		</tr>
-		<tr>
-            <td colspan="1">EP001</td>
-            <td colspan="1">Acceso a Vehículos 24/7</td>
-            <td colspan="1">
-            <strong>Como</strong> conductor, <strong>quiero</strong> tener acceso a un vehículo a todas horas cuando esté visitando una ciudad, <strong>para</strong> poder movilizarme fácilmente en cualquier momento.
-            </td>
-		</tr>
-        <tr>
-            <td colspan="1">EP002</td>
-            <td colspan="1">Calidad del Servicio</td>
-            <td colspan="1">
-            <strong>Como</strong> conductor, <strong>quiero</strong> tener seguridad que el servicio que me brindan sea de calidad, <strong>para</strong> asegurarme de que tendré una experiencia positiva y sin problemas.
-            </td>
-		</tr>
-        <tr>
-            <td colspan="1">EP003</td>
-            <td colspan="1">Ingresos Adicionales</td>
-            <td colspan="1">
-            <strong>Como</strong> dueño de auto, <strong>quiero</strong> ganar dinero extra cuando no estoy utilizando mi vehículo, <strong>para</strong> aprovechar mi recurso y generar ingresos adicionales.
-            </td>
-		</tr>
-        <tr>
-            <td colspan="1">EP004</td>
-            <td colspan="1">Seguridad y Fiabilidad de Conductores</td>
-            <td colspan="1">
-            <strong>Como</strong> dueño de auto, <strong>quiero</strong> tener la seguridad que los conductores serán fiables y responsables por cualquier daño que pueda ocurrir, <strong>para</strong> sentirme tranquilo al alquilar mi vehículo.
-            </td>
-		</tr>
-        <tr>
-            <td colspan="1">EP005</td>
-            <td colspan="1">Condiciones de Alquiler Claras</td>
-            <td colspan="1">
-            <strong>Como</strong> visitante que busca alquilar, <strong>quiero</strong> ver todas las condiciones de alquiler <strong>para</strong> poder confiar en el servicio brindado.
-            </td>
-		</tr>
-        <tr>
-            <td colspan="1">EP006</td>
-            <td colspan="1">Visualización de Medidas de Seguridad</td>
-            <td colspan="1">
-            <strong>Como</strong> visitante que busca poner en alquiler, <strong>quiero</strong> visualizar las medidas de seguridad que estarán implementadas <strong>para</strong> poder verificar que se me brindará un buen servicio.
-            </td>
-		</tr>
-	</tbody>
-</table>
-
 A continuacion, la realizacion de los user stories con sus criterios de aceptacion con escenarios e ID de Épica:
 
 <table  style="text-align: left;">
 	<tbody>
 		<tr>
-			<td colspan="1">ID de Historia de Usuario</td>
+			<td colspan="1">User Story ID/ Epic ID</td>
       <td colspan="1">Título</td>
       <td colspan="1">Descripción</td>
       <td colspan="1">Criterios de Aceptación con Escenarios</td>
       <td colspan="1">ID de Épica</td>
 		</tr>
+    <tr>
+      <td colspan="1">EP001</td>
+      <td colspan="1">Acceso a Vehículos 24/7</td>
+      <td colspan="3">
+      <strong>Como</strong> conductor, <strong>quiero</strong> tener acceso a un vehículo a todas horas cuando esté visitando una ciudad, <strong>para</strong> poder movilizarme fácilmente en cualquier momento.
+      </td>
+		</tr>
+    <tr>
+      <td colspan="1">EP002</td>
+      <td colspan="1">Calidad del Servicio</td>
+      <td colspan="3">
+      <strong>Como</strong> conductor, <strong>quiero</strong> tener seguridad que el servicio que me brindan sea de calidad, <strong>para</strong> asegurarme de que tendré una experiencia positiva y sin problemas.
+      </td>
+		</tr>
+    <tr>
+      <td colspan="1">EP003</td>
+      <td colspan="1">Ingresos Adicionales</td>
+      <td colspan="3">
+      <strong>Como</strong> dueño de auto, <strong>quiero</strong> ganar dinero extra cuando no estoy utilizando mi vehículo, <strong>para</strong> aprovechar mi recurso y generar ingresos adicionales.
+      </td>
+		</tr>
+    <tr>
+      <td colspan="1">EP004</td>
+      <td colspan="1">Seguridad y Fiabilidad de Conductores</td>
+      <td colspan="3">
+      <strong>Como</strong> dueño de auto, <strong>quiero</strong> tener la seguridad que los conductores serán fiables y responsables por cualquier daño que pueda ocurrir, <strong>para</strong> sentirme tranquilo al alquilar mi vehículo.
+      </td>
+		</tr>
+    <tr>
+      <td colspan="1">EP005</td>
+      <td colspan="1">Condiciones de Alquiler Claras</td>
+      <td colspan="3">
+      <strong>Como</strong> visitante que busca alquilar, <strong>quiero</strong> ver todas las condiciones de alquiler <strong>para</strong> poder confiar en el servicio brindado.
+      </td>
+		</tr>
+    <tr>
+      <td colspan="1">EP006</td>
+      <td colspan="1">Visualización de Medidas de Seguridad</td>
+      <td colspan="3">
+      <strong>Como</strong> visitante que busca poner en alquiler, <strong>quiero</strong> visualizar las medidas de seguridad que estarán implementadas <strong>para</strong> poder verificar que se me brindará un buen servicio.
+      </td>
+		</tr>
+    <tr>
+      <td colspan="1">EP007</td>
+      <td colspan="1">Recomendaciones de Seguridad y Sitios Turísticos</td>
+      <td colspan="3">
+      <strong>Como</strong> arrendatario de vehículos, <strong>quiero</strong> acceder a recomendaciones de seguridad y sitios turísticos desde la aplicación <strong>para</strong> mejorar mi experiencia de uso y mi seguridad al conducir el vehículo alquilado.
+      </td>
+		</tr>
+    <tr>
+      <td colspan="1">EP008</td>
+      <td colspan="1">Acceso y modificación de datos</td>
+      <td colspan="3">
+      <strong>Como</strong> arrendatario de vehículos, <strong>quiero</strong> acceder a mis datos personales y poder modificarlos <strong>para</strong> así asegurarme que mi información es correcta en todo momento.
+      </td>
+		</tr>
 		<tr>
+    <td colspan="1">EP009</td>
+    <td colspan="1">Acceso a Información de DriveNow</td>
+    <td colspan="3">
+        <strong>Como</strong> visitante, <strong>quiero</strong> obtener información clara sobre la plataforma DriveNow, <strong>para</strong> entender cómo funciona y cómo puedo usarla.
+    </td>
+    </tr>
+    <tr>
+    <td colspan="1">EP010</td>
+    <td colspan="1">Contacto con DriveNow</td>
+    <td colspan="3">
+        <strong>Como</strong> visitante, <strong>quiero</strong> poder contactar con el equipo de DriveNow, <strong>para</strong> enviarles consultas o solicitudes de información adicional.
+    </td>
+    </tr>
+    <tr>
+    <td colspan="1">EP011</td>
+    <td colspan="1">Promoción a través de redes sociales</td>
+    <td colspan="3">
+        <strong>Como</strong> visitante o potencial cliente, <strong>quiero</strong> poder seguir a DriveNow en redes sociales, <strong>para</strong> estar al tanto de sus novedades, promociones y actualizaciones.
+    </td>
+    </tr>
+    <tr>
       <td colspan="1">US001</td>
       <td colspan="1">Encontrar vehículos</td>
       <td colspan="1">
@@ -1142,29 +1174,29 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
         <strong>E01: Selección de vehículo más cercano</strong>
         <br>
         <strong>Dado que</strong> un conductor se encuentra en una ubicación específica y necesita encontrar un vehículo cercano,
-		<br>
+      <br>
         <strong>Y</strong> ha ingresado su ubicación en la aplicación,
-		<br>
+      <br>
         <strong>Cuando</strong> realiza la búsqueda de vehículos cercanos,
-	    <br>
+      <br>
         <strong>Y</strong> visualiza la lista de vehículos disponibles en su área,
-	    <br>
+      <br>
         <strong>Entonces</strong> el conductor debe ser capaz de seleccionar el vehículo más cercano para reducir el tiempo de espera.
-	    <br><br>
+      <br><br>
         <strong>E02: Instrucciones claras para acceder</strong>
         <br>
         <strong>Dado que</strong> un conductor está buscando un vehículo en una ciudad que está visitando,
-	    <br>
+      <br>
         <strong>Y</strong> ha utilizado la funcionalidad de búsqueda en la aplicación,
-	    <br>
+      <br>
         <strong>Cuando</strong> el conductor visualiza los resultados de búsqueda,
-	    <br>
+      <br>
         <strong>Y</strong> selecciona un vehículo cercano,
-	    <br>
+      <br>
         <strong>Entonces</strong> debe recibir instrucciones claras sobre cómo llegar al vehículo seleccionado y la opción de iniciar la renta de inmediato.
       </td>
       <td colspan="1">EP001</td>
-		</tr>
+    </tr>
     <tr>
       <td colspan="1">US002</td>
       <td colspan="1">Renta de vehículo</td>
@@ -1888,6 +1920,401 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
       </td>
       <td colspan="1">EP006</td>
 		</tr>
+    <tr>
+      <td colspan="1">US029</td>
+      <td colspan="1">Acceder a Recomendaciones de Seguridad y Sitios Turísticos</td>
+      <td colspan="1">
+      <strong>Como</strong> arrendatario de vehículos, <strong>quiero</strong> acceder a recomendaciones de seguridad y sitios turísticos desde la aplicación, <strong>para</strong> estar informado y disfrutar más mi viaje.	
+      </td>
+      <td colspan="1">
+        <strong>E01: Visualización de recomendaciones de seguridad:</strong>
+        <br>
+        <strong>Dado que</strong> un arrendatario está usando la aplicación,
+        Y ha seleccionado la opción de recursos,
+        <br>
+        <strong>Cuando</strong> visualiza las recomendaciones de seguridad,
+        <br>
+        <strong>Entonces</strong> debe poder hacer clic en un botón que lo redirija a una página externa con más detalles.
+        <br><br>
+        <strong>E02: Acceso a información de sitios turísticos:</strong>
+        <br>
+        <strong>Dado que</strong> un arrendatario está explorando la aplicación,
+        Y está interesado en sitios turísticos,
+        <br>
+        <strong>Cuando</strong> selecciona la sección de recursos y hace clic en “sitios turísticos”,
+        <br>
+        <strong>Entonces</strong> debe ser redirigido a una página externa con información sobre destinos turísticos recomendados.
+      </td>
+      <td colspan="1">EP007</td>
+		</tr>
+    <tr>
+      <td>US30</td>
+      <td>Modificación de información personal</td>
+      <td><strong>Como</strong> conductor <strong>quiero</strong> modificar mi información <strong>para</strong> poder mantener mis datos actualizados.</td>
+      <td>
+        <strong>E01: Modificación exitosa de la información personal</strong>
+        <br>
+        <strong>Dado que</strong> un conductor se en encuentra su perfil
+        <br>
+        <strong>Cuando</strong> accede a las configuración de datos personales
+        <br>
+        <strong>Entonces</strong> debería poder modificar y guardar los cambios exitosamente, recibiendo una notificación de confirmación.
+        <br><br>
+        <strong>E02: Error al intentar modificar información sin campos completos</strong>
+        <br>
+        <strong>Dado que</strong> se han realizados cmabios en la información personal de un conductor
+        <br>
+        <strong>Cuando</strong> se intenta enviar los datos en un formato incorrecto
+        <br>
+        <strong>Entonces</strong> el sistema notifica que a ocurridoo un error en la modificación de datos.
+        </td> 
+      <td>EP008</td>
+    </tr>
+    <tr>
+      <td>US31</td>
+      <td>Visualización de documentos de transito</td>
+      <td><strong>Como</strong> conductor <strong>quiero</strong> poder visualizar los datos de mi licencia cargados en la aplicación<strong>para</strong> poder corroborar que mis datos son correctos.</td>
+      <td>
+        <strong>E01: Visualización correcta de los datos de la licencia</strong>
+        <br>
+        <strong>Dado que</strong> el conductor ha cargado los datos de su licencia a la aplicación
+        <br>
+        <strong>Cuando</strong> accede al apartado "Licencia"
+        <br>
+        <strong>Entonces</strong> debe visualizar la imagén que subio de su licencia y los datos correspondientes a ella
+        <br><br>
+        <strong>E02: Problema en la visualización de los datos de la licencia</strong>
+        <br>
+        <strong>Dado que</strong> el usuario intenta visualizar los datos de su licencia
+        <br>
+        <strong>Cuando</strong> los datos no se han podido cargar de manera correcta
+        <br>
+        <strong>Entonces</strong></td> el sistema solicita la reinsercción de los datos.
+      </td>
+      <td>EP008</td>
+    </tr>
+    <tr>
+      <td>US32</td>
+      <td>Modificación de documentos de transito</td>
+      <td><strong>Como</strong> conductor <strong>quiero</strong> poder modificar los datos de mi licencia cargados en la aplicación <strong>para</strong> poder mantener mi información actualizada y válidada.</td>
+      <td>
+        <strong>E01: Modificación exitosa de los datos de la licencia</strong>
+        <br>
+        <strong>Dado que</strong> los datos de la licencia de un conductor han cambiado o no están correctos,
+        <br>
+        <strong>Cuando</strong> accede al formulario de actualización de datos
+        <br>
+        <strong>Entonces</strong> atualiza la información de su licencia y es cargada al sistema.
+        <br><br>
+        <strong>E02: Error en la modificación por datos o archivos inválidos</strong>
+        <br>
+        <strong>Dado que</strong> un conductor intento actualizar con datos incorrectos la información de su licencia
+        <br>
+        <strong>Cuando</strong> intenta c¿guardar los cmabios
+        <br>
+        <strong>Entonces</strong> el sistema emite un mensaje de error para notificar del fallo.
+      </td>
+      <td>EP008</td>
+    </tr>
+    <tr>
+      <td colspan="1">US033</td>
+      <td colspan="1">Navegar por las características principales</td>
+      <td colspan="1">
+          <strong>Como</strong> visitante, <strong>quiero</strong> poder ver fácilmente las características clave de DriveNow <strong>para</strong> conocer los beneficios que ofrece.
+      </td>
+      <td colspan="1">
+          <strong>E01: Visualización de características</strong>
+          <br>
+          <strong>Dado que</strong> un visitante está interesado en los servicios de DriveNow,
+          <br>
+          <strong>Y</strong> ha accedido a la página principal,
+          <br>
+          <strong>Cuando</strong> haga clic en el apartado de "Características",
+          <br>
+          <strong>Y</strong> lea la información presentada,
+          <br>
+          <strong>Entonces</strong> debería poder entender los beneficios que ofrece DriveNow.
+          <br><br>
+          <strong>E02: Comparación de beneficios</strong>
+          <br>
+          <strong>Dado que</strong> el visitante quiere comparar los beneficios de DriveNow con otras plataformas,
+          <br>
+          <strong>Y</strong> está revisando la sección de características,
+          <br>
+          <strong>Cuando</strong> analice las opciones disponibles,
+          <br>
+          <strong>Entonces</strong> debería poder hacer una comparación rápida y clara de los beneficios clave frente a otras plataformas de alquiler.
+      </td>
+      <td colspan="1">EP009</td>
+    </tr>
+    <tr>
+      <td colspan="1">US034</td>
+      <td colspan="1">Conocer al equipo de DriveNow</td>
+      <td colspan="1">
+          <strong>Como</strong> visitante, <strong>quiero</strong> poder ver quiénes son los miembros del equipo de DriveNow <strong>para</strong> conocer quiénes están detrás de la plataforma.
+      </td>
+      <td colspan="1">
+          <strong>E01: Visualización de perfiles</strong>
+          <br>
+          <strong>Dado que</strong> un visitante está interesado en saber quiénes son los creadores de la plataforma,
+          <br>
+          <strong>Y</strong> ha ingresado a la sección de "Nuestro Equipo",
+          <br>
+          <strong>Cuando</strong> vea los perfiles de los miembros,
+          <br>
+          <strong>Entonces</strong> debería poder leer la información personal y profesional de cada integrante del equipo.
+          <br><br>
+          <strong>E02: Acceso a detalles de un miembro del equipo</strong>
+          <br>
+          <strong>Dado que</strong> un visitante está revisando la página de equipo,
+          <br>
+          <strong>Y</strong> quiere conocer más sobre un miembro en particular,
+          <br>
+          <strong>Cuando</strong> haga clic en el perfil del miembro del equipo,
+          <br>
+          <strong>Entonces</strong> debería acceder a información detallada sobre su rol y experiencia.
+      </td>
+      <td colspan="1">EP009</td>
+    </tr>
+    <tr>
+      <td colspan="1">US035</td>
+      <td colspan="1">Enviar una consulta sobre los servicios de DriveNow</td>
+      <td colspan="1">
+        <strong>Como</strong> visitante, <strong>quiero</strong> poder enviar una consulta específica sobre los servicios de DriveNow <strong>para</strong> resolver dudas antes de registrarme.
+      </td>
+      <td colspan="1">
+        <strong>E01: Envío exitoso de consulta</strong>
+        <br>
+        <strong>Dado que</strong> un visitante tiene preguntas sobre los servicios,
+        <br>
+        <strong>Y</strong> está en la sección de contacto,
+        <br>
+        <strong>Cuando</strong> llene el formulario de contacto con sus dudas,
+        <br>
+        <strong>Y</strong> lo envíe,
+        <br>
+        <strong>Entonces</strong> debería recibir una confirmación de que su consulta ha sido enviada correctamente.
+        <br><br>
+        <strong>E02: Respuesta a la consulta</strong>
+        <br>
+        <strong>Dado que</strong> el visitante ha enviado una consulta,
+        <br>
+        <strong>Y</strong> espera una respuesta del equipo de DriveNow,
+        <br>
+        <strong>Cuando</strong> la consulta sea procesada,
+        <br>
+        <strong>Entonces</strong> debería recibir una respuesta en su correo dentro de un tiempo determinado.
+      </td>
+      <td colspan="1">EP010</td>
+    </tr>
+    <tr>
+        <td colspan="1">US036</td>
+        <td colspan="1">Solicitar una demostración de la plataforma</td>
+        <td colspan="1">
+            <strong>Como</strong> visitante, <strong>quiero</strong> poder solicitar una demostración de cómo funciona DriveNow <strong>para</strong> ver cómo podría utilizar la plataforma antes de registrarme.
+        </td>
+        <td colspan="1">
+            <strong>E01: Solicitud de demostración enviada</strong>
+            <br>
+            <strong>Dado que</strong> un visitante está interesado en usar DriveNow,
+            <br>
+            <strong>Y</strong> quiere ver una demostración de la plataforma,
+            <br>
+            <strong>Cuando</strong> haga clic en el botón de "Solicitar Demostración",
+            <br>
+            <strong>Y</strong> llene el formulario de solicitud,
+            <br>
+            <strong>Entonces</strong> debería recibir una confirmación de que su solicitud fue enviada.
+            <br><br>
+            <strong>E02: Programación de la demostración</strong>
+            <br>
+            <strong>Dado que</strong> el visitante ha solicitado una demostración,
+            <br>
+            <strong>Y</strong> está esperando una respuesta del equipo,
+            <br>
+            <strong>Cuando</strong> la solicitud sea procesada,
+            <br>
+            <strong>Entonces</strong> debería recibir un enlace para agendar una cita o ver una demostración pregrabada de la plataforma.
+        </td>
+        <td colspan="1">EP010</td>
+    </tr>
+    <tr>
+        <td colspan="1">US037</td>
+        <td colspan="1">Compartir promociones de DriveNow en mis redes sociales</td>
+        <td colspan="1">
+            <strong>Como</strong> visitante, <strong>quiero</strong> poder compartir promociones de DriveNow con mis amigos y seguidores en mis redes sociales <strong>para</strong> difundir las oportunidades disponibles.
+        </td>
+        <td colspan="1">
+            <strong>E01: Compartir promociones fácilmente</strong>
+            <br>
+            <strong>Dado que</strong> un visitante ha visto una promoción interesante en la página web de DriveNow,
+            <br>
+            <strong>Y</strong> desea compartirla,
+            <br>
+            <strong>Cuando</strong> haga clic en el botón de compartir,
+            <br>
+            <strong>Y</strong> seleccione la red social preferida,
+            <br>
+            <strong>Entonces</strong> debería poder compartir la promoción fácilmente.
+            <br><br>
+            <strong>E02: Redirección correcta al compartir</strong>
+            <br>
+            <strong>Dado que</strong> el visitante ha compartido una promoción,
+            <br>
+            <strong>Y</strong> sus amigos han visto la publicación,
+            <br>
+            <strong>Cuando</strong> los amigos hagan clic en el enlace de la publicación,
+            <br>
+            <strong>Entonces</strong> deberían ser redirigidos correctamente a la promoción en el sitio web de DriveNow.
+        </td>
+        <td colspan="1">EP011</td>
+    </tr>
+    <tr>
+        <td colspan="1">US038</td>
+        <td colspan="1">Recibir notificaciones de promociones en redes sociales</td>
+        <td colspan="1">
+            <strong>Como</strong> seguidor de DriveNow en redes sociales, <strong>quiero</strong> recibir notificaciones de nuevas promociones y descuentos <strong>para</strong> aprovechar oportunidades exclusivas.
+        </td>
+        <td colspan="1">
+            <strong>E01: Recibir notificaciones de promociones</strong>
+            <br>
+            <strong>Dado que</strong> un seguidor de DriveNow ha seguido sus cuentas en redes sociales,
+            <br>
+            <strong>Y</strong> desea estar al tanto de las promociones,
+            <br>
+            <strong>Cuando</strong> DriveNow publique una nueva promoción,
+            <br>
+            <strong>Y</strong> el seguidor esté en línea,
+            <br>
+            <strong>Entonces</strong> debería recibir una notificación automática de la publicación.
+            <br><br>
+            <strong>E02: Recibir alertas de promociones</strong>
+            <br>
+            <strong>Dado que</strong> un seguidor está interesado en las promociones,
+            <br>
+            <strong>Y</strong> ha activado las notificaciones de la cuenta de DriveNow,
+            <br>
+            <strong>Cuando</strong> una nueva promoción sea publicada,
+            <br>
+            <strong>Entonces</strong> debería recibir un mensaje directo o una alerta en la aplicación de la red social.
+        </td>
+        <td colspan="1">EP011</td>
+    </tr>
+    <tr>
+      <td>TS01</td>
+      <td>Implementar endpoint de obtención de usuarios</td>
+      <td><strong>Como</strong> desarrollador <strong>necesito</strong> implementar un endpoint RESTful <strong>para</strong> obtener la información de todos los conductores</td>
+      <td>
+        <strong>E01: Solicitud de datos</strong>
+        <br>
+        <strong>Dado que</strong> se envía una solicitud GET para obtener todos los conductores
+        <br>
+        <strong>Cuando</strong> se recibe una solicitud
+        <br>
+        <strong>Entonces</strong> se retorn un archivo json con los deatos de los conductores.
+        <br><br>
+        <strong>E02: Fallo en la solicitud de datos</strong>
+        <br>
+        <strong>Dado que</strong> se envía una solicitud GET para obtener todos los conductores de manera incorrecta
+        <br>
+        <strong>Cuando</strong> se recibe una solicitud
+        <br>
+        <strong>Entonces</strong> la consola de desarrolador muestra un mensaje con un código relacionado al error.
+      </td>
+      <td>EP008</td>
+    </tr>
+    <tr>
+      <td>TS02</td>
+      <td>Implementar endpoint de obtención de usuarios específicos</td>
+      <td><strong>Como</strong> desarrollador <strong>necesito</strong> implementar un endpoint RESTful <strong>para</strong> obtener la infromación de un conductor específico</td>
+      <td>
+        <strong>E01: Solicitud de datos</strong>
+        <br>
+        <strong>Dado que</strong> se envía una solicitud GET para obtener los datos de un conductor
+        <br>
+        <strong>Cuando</strong> se recibe una solicitud
+        <br>
+        <strong>Entonces</strong> se retorn un archivo json con los datos del conductor.
+        <br><br>
+        <strong>E02: Fallo en la solicitud de datos</strong>
+        <br>
+        <strong>Dado que</strong> se envía una solicitud GET para obtener todos los conductores de manera incorrecta
+        <br>
+        <strong>Cuando</strong> se recibe una solicitud
+        <br>
+        <strong>Entonces</strong> la consola de desarrolador muestra un mensaje con un código relacionado al error.
+      </td>
+      <td>EP008</td>
+    </tr>
+    <tr>
+      <td>TS03</td>
+      <td>Implementar endpoint de creación de usuarios</td>
+      <td><strong>Como</strong> desarrollador <strong>necesito</strong> implementar un endpoint RESTful <strong>para</strong> crear nuevos conductores</td>
+      <td>
+        <strong>E01: Creación de registro de usuarios</strong>
+        <br>
+        <strong>Dado que</strong> se envia una solicitud POST para la creación de un conductor
+        <br>
+        <strong>Cuando</strong> se recibe la solicitud
+        <br>
+        <strong>Entonces</strong> el nuevo conductor debe poder visualizarse en el endpoint
+        <br><br>
+        <strong>E02: Creación fallida de registro de usuarios</strong>
+        <br>
+        <strong>Dado que</strong> se envia una solicitud POST para la creación de un conductor incorrecta
+        <br>
+        <strong>Cuando</strong> se recibe la solicitud
+        <br>
+        <strong>Entonces</strong> la consola de desarrollador muestra un código de error relacionado con el error ocurrido.
+      </td>
+      <td>EP008</td>
+    </tr>
+    <tr>
+      <td>TS04</td>
+      <td>Implementar endpoint de modificación de usuarios</td>
+      <td><strong>Como</strong> desarrollador <strong>necesito</strong> implementar un endpoint RESTful <strong>para</strong> para modificar los datos de un conductores</td>
+      <td>
+        <strong>E01: Modificación total de un registro exitosa</strong>
+        <br>
+        <strong>Dado que</strong> se envia una solicitud PUT para la actualización de un conductor
+        <br>
+        <strong>Cuando</strong> se recibe la solicitud
+        <br>
+        <strong>Entonces</strong> el cambio debe poder visualizarse en el endpoint.
+        <br><br>
+        <strong>E02: Modificación total de un registro fallida</strong>
+        <br>
+        <strong>Dado que</strong> se envia una solicitud PUT para la actualización de un conductor erronea
+        <br>
+        <strong>Cuando</strong> se recibe la solicitud
+        <br>
+        <strong>Entonces</strong> el cambio no debe visualizarse en el endpoint.
+      </td>
+      <td>EP008</td>
+    </tr>
+    <tr>
+      <td>TS05</td>
+      <td>Implementar endpoint de modificacion parcial de usuarios</td>
+      <td><strong>Como</strong> desarrollador <strong>necesito</strong> implementar un endpoint RESTful <strong>para</strong> para modificar de manera parcial los datos de un conductor</td>
+      <td>
+        <strong>E01: Modificación parcial de un registro exitosa</strong>
+        <br>
+        <strong>Dado que</strong> se envia una solicitud PATCH para la actualización de un conductor
+        <br>
+        <strong>Cuando</strong> se recibe la solicitud
+        <br>
+        <strong>Entonces</strong> el cambio debe poder visualizarse en el endpoint.
+        <br><br>
+        <strong>E02: Modificación parcial de un registro fallida</strong>
+        <br>
+        <strong>Dado que</strong> se envia una solicitud PUT para la actualización de un conductor erronea
+        <br>
+        <strong>Cuando</strong> se recibe la solicitud
+        <br>
+        <strong>Entonces</strong> el cambio no debe visualizarse en el endpoint.
+      </td>
+      <td>EP008</td>
+    </tr>
   </tbody>
 </table>
 
@@ -2102,7 +2529,49 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
       <td>Consejos para Uso del Servicio</td>
       <td>Como visitante, quiero poder ver una sección de blog en la que pueda visualizar consejos para poder tener mayor comodidad al usar el servicio.</td>
       <td>3</td>
-    </tr>  
+    </tr> 
+	  <tr>
+    <td>29</td>
+    <td>US033</td>
+    <td>Navegar por las características principales</td>
+    <td>Como visitante, quiero poder ver fácilmente las características clave de DriveNow, para conocer los beneficios que ofrece.</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>30</td>
+    <td>US034</td>
+    <td>Conocer al equipo de DriveNow</td>
+    <td>Como visitante, quiero poder ver quiénes son los miembros del equipo de DriveNow, para conocer quiénes están detrás de la plataforma.</td>
+    <td>3</td>
+  </tr> 
+  <tr>
+    <td>31</td>
+    <td>US035</td>
+    <td>Enviar una consulta sobre los servicios de DriveNow</td>
+    <td>Como visitante, quiero poder enviar una consulta específica sobre los servicios de DriveNow, para resolver dudas antes de registrarme.</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>32</td>
+    <td>US036</td>
+    <td>Solicitar una demostración de la plataforma</td>
+    <td>Como visitante, quiero poder solicitar una demostración de cómo funciona DriveNow, para ver cómo podría utilizar la plataforma antes de registrarme.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>33</td>
+    <td>US037</td>
+    <td>Compartir promociones de DriveNow en mis redes sociales</td>
+    <td>Como visitante, quiero poder compartir promociones de DriveNow con mis amigos y seguidores en mis redes sociales, para difundir las oportunidades disponibles.</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>34</td>
+    <td>US038</td>
+    <td>Recibir notificaciones de promociones en redes sociales</td>
+    <td>Como seguidor de DriveNow en redes sociales, quiero recibir notificaciones de nuevas promociones y descuentos, para aprovechar oportunidades exclusivas.</td>
+    <td>2</td>
+  </tr>
      </tbody>
 </table>
 <strong>Link del Product Backlog en Trello:<a href="https://trello.com/invite/b/66d9fa46770816a161ec67a6/ATTI757f1d6ef821c1f9032190bc07796c75528B1939/product-backlog">https://trello.com/invite/b/66d9fa46770816a161ec67a6/ATTI757f1d6ef821c1f9032190bc07796c75528B1939/product-backlog</a></strong>
@@ -2116,7 +2585,7 @@ En esta sección, presentaremos nuestro plan para el diseño, estilo y aparienci
  <strong>Branding: </strong>Creamos un logotipo distintivo y memorable que representa la identidad de nuestra plataforma de alquiler de autos entre particulares. Incorporamos elementos visuales relacionados con el mundo automotriz, como coches, llaves y colores asociados con la confianza y la movilidad, para reflejar el tema del alquiler de vehículos.<br>
  <div align="center">
   <td colspan="1" rowspan="6">
-  <img src="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report/blob/feature/chapter_4/resources/Logo/DriveNow_Logo.png?raw=true" alt="logo" width="300" height="250">
+  <img src="resources\chapter_4\Logo\DriveNow_Logo.png" alt="logo" width="300" height="250">
      </td>
 </div>
 <p align="justify">
@@ -2126,7 +2595,7 @@ La tipografía seleccionada es Open Sans, que será utilizada en todos los texto
 
 <div align="center">
   <td colspan="1" rowspan="6">
-    <img src="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report/blob/feature/chapter_4/resources/Items/Typography.png?raw=true" alt="typography" width="400" height="250">
+    <img src="resources\chapter_4\Items\Typography.png" alt="typography" width="400" height="250">
   </td>
 </div>
 
@@ -2137,7 +2606,7 @@ La tipografía seleccionada es Open Sans, que será utilizada en todos los texto
 
 <div align="center">
   <td colspan="1" rowspan="6">
-    <img src="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report/blob/feature/chapter_4/resources/Items/Colors.png?raw=true" alt="colors" width="400" height="200">
+    <img src="resources\chapter_4\Items\Colors.png" alt="colors" width="400" height="200">
   </td>
 </div>
 
@@ -2198,7 +2667,7 @@ El diseño debe ser limpio, moderno y responsivo, adaptándose a todos los dispo
 
 <div align="center">
   <td colspan="1" rowspan="6">
-    <img src="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report/blob/feature/chapter_4/resources/Items/Designs.png?raw=true" alt="design" width="350" height="220">
+    <img src="resources\chapter_4\Items\Designs.png" alt="design" width="350" height="220">
   </td>
 </div>
 
@@ -2209,7 +2678,7 @@ Los botones principales y secundarios deben destacar claramente con colores cons
 
 <div align="center">
   <td colspan="1" rowspan="6">
-    <img src="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report/blob/feature/chapter_4/resources/Items/Buttons.png?raw=true" alt="Buttons" width="280" height="200">
+    <img src="resources\chapter_4\Items\Buttons.png" alt="Buttons" width="280" height="200">
   </td>
 </div>
 
@@ -2220,13 +2689,13 @@ El tema visual debe ser coherente con la identidad de la aplicación, utilizando
 
 <div align="center">
   <td colspan="1" rowspan="6">
-    <img src="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report/blob/feature/chapter_4/resources/Items/Mode-light.png?raw=true" alt="light-mode" width="400" height="250">
+    <img src="resources\chapter_4\Items\Mode-light.png" alt="light-mode" width="400" height="250">
   </td>
 </div>
 
 <div align="center">
   <td colspan="1" rowspan="6">
-    <img src="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report/blob/feature/chapter_4/resources/Items/Dark-Mode.png?raw=true" alt="dark-mode" width="400" height="250">
+    <img src="resources\chapter_4\Items\Dark-Mode.png" alt="dark-mode" width="400" height="250">
   </td>
 </div>
 
@@ -2237,7 +2706,7 @@ El logo debe ser simple y visible en todo el sitio, manteniendo siempre su propo
 
 <div align="center">
   <td colspan="1" rowspan="6">
-    <img src="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report/blob/feature/chapter_4/resources/Logo/DriveNow_Logo.png?raw=true" alt="logo" width="400" height="350">
+    <img src="resources\chapter_4\Logo\DriveNow_Logo.png" alt="logo" width="400" height="350">
   </td>
 </div>
 
@@ -2289,36 +2758,92 @@ El sistema de navegación implementado en la página es intuitivo y responsivo. 
 
 ### 4.3. Landing Page UI Design
 #### 4.3.1. Landing Page Wireframe
-#### Home Landing Page
-![home-landing-page-1](https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report/blob/feature/chapter_4/resources/Items/home_wireframe.png?raw=true)
-#### Why DriveNow
-![home-landing-page-2](https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report/blob/feature/chapter_4/resources/Items/why_drivenow_wireframe.png?raw=true)
-#### Testimonies
-![home-landing-page-3](https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report/blob/feature/chapter_4/resources/Items/testimonies_wireframe.png?raw=true)
-#### Safety
-![home-landing-page-4](https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report/blob/feature/chapter_4/resources/Items/safety_wireframe.png?raw=true)
-#### Premium Planes
-![home-landing-page-5](https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report/blob/feature/chapter_4/resources/Items/premium_wireframe.png?raw=true)
-#### Contant
-![home-landing-page-6](https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report/blob/feature/chapter_4/resources/Items/contact_wireframe.png?raw=true)
+
+**Desktop**<br>
+**Home Landing Page**
+<img src="resources\chapter_4\Items\home_wireframe.png">
+
+**Why DriveNow**
+<img src="resources\chapter_4\Items\why_drivenow_wireframe.png">
+
+**Testimonies**
+<img src="resources\chapter_4\Items\testimonies_wireframe.png">
+
+**Safety**
+<img src="resources\chapter_4\Items\safety_wireframe.png">
+
+**Premium Planes**
+<img src="resources\chapter_4\Items\premium_wireframe.png">
+
+**Contact**
+<img src="resources\chapter_4\Items\contact_wireframe.png">
+
+
+**Mobile**<br>
+**Mobile Landing Page**
+<img src="resources\chapter_4\Items\landing_mob_homewire.png">
+
+**Mobile Why DriveNow**
+<img src="resources\chapter_4\Items\landing_mob_whywire.png">
+
+**Mobile Testimonies**
+<img src="resources\chapter_4\Items\landing_mob_testimonieswire.png">
+
+**Mobile Safety**
+<img src="resources\chapter_4\Items\landing_mob_safewire.png">
+
+**Mobile Premium Plans**
+<img src="resources\chapter_4\Items\landing_mob_planswire.png">
+
+**Mobile Footer**
+<img src="resources\chapter_4\Items\landing_mob_footerwire.png">
+
 
 #### 4.3.2. Landing Page Mock-up
-#### Home Landing Page
-![home-landing-page-01](https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report/blob/feature/chapter_4/resources/Items/home.png?raw=true)
-#### Why DriveNow
-![home-landing-page-02](https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report/blob/feature/chapter_4/resources/Items/ehy_drivenow.png?raw=true)
-#### Testimonies
-![home-landing-page-03](https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report/blob/feature/chapter_4/resources/Items/testimonies.png?raw=true)
-#### Safety
-![home-landing-page-04](https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report/blob/feature/chapter_4/resources/Items/safety.png?raw=true)
 
-#### Premium Planes
+**Desktop**<br>
+**Home Landing Page**
+<img src="resources\chapter_4\Items\home.png">
 
-![home-landing-page-05](https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report/blob/feature/chapter_4/resources/Items/premium%20pass.png?raw=true)
-#### Team
-![home-landing-page-06](https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report/blob/feature/chapter_4/resources/Items/team.png?raw=true)
-#### Contant
-![home-landing-page-07](https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report/blob/feature/chapter_4/resources/Items/contact.png?raw=true)
+**Why DriveNow**
+<img src="resources\chapter_4\Items\ehy_drivenow.png">
+
+**Testimonies**
+<img src="resources\chapter_4\Items\testimonies.png">
+
+**Safety**
+<img src="resources\chapter_4\Items\safety.png">
+
+**Premium Plans**
+<img src="resources\chapter_4\Items\premium_pass.png">
+
+**Team**
+<img src="resources\chapter_4\Items\team.png">
+
+**Contant**
+<img src="resources\chapter_4\Items\contact.png">
+
+
+**Mobile**<br>
+**Mobile Landing Page**
+<img src="resources\chapter_4\Items/landing_mobile_home.png">
+
+**Mobile Why DriveNow**
+<img src="resources\chapter_4\Items\landing_mobile_benefits.png">
+
+**Mobile Testimonies**
+<img src="resources\chapter_4\Items\landing_mobile_testimonies.png">
+
+**Mobile Safety**
+<img src="resources\chapter_4\Items\landing_mobile_safety.png">
+
+**Mobile Premium Plans**
+<img src="resources\chapter_4\Items\landing_mobile_plans.png">
+
+**Mobile Footer**
+<img src="resources\chapter_4\Items\landing_mobile_footer.png">
+
+
 
 ### 4.4. Web Applications UX/UI Design
 
@@ -2329,48 +2854,54 @@ Nuestro enfoque prioriza la facilidad de navegación, para que el usuario pueda 
 Utilizamos los wireframes como punto de partida para la planificación de la arquitectura de la aplicación. A continuación presentaremos los wireframes para la aplicación web y mobile:
 
 **Homepage**
-![Homepage desktop](/resources/chapter_4/Items/AppWires-Desktop-Homepage.png)
+<img src="resources\chapter_4\Items\AppWires-Desktop-Homepage.png">
 Los primeros wireframes realizados fueron para el Homepage, cuando el usuario aún no está registrado, o no ha iniciado sesión. Utilizamos esta página como vínculo entre el landing page y las funcionalidades de la aplicación en sí.
 
 **Registro e inicio de sesión**
 La página de inicio de sesión muestra las credenciales necesarias para ingresar a la aplicación, cuenta con validación de las mismas y redirige a la página de registro.
 
-![Register on desktop](/resources/chapter_4/Items/AppWires-Desktop-Register.png)
+<img src="resources\chapter_4\Items\AppWires-Desktop-Register.png">
 <br>
 
 <br>
 La página de registro es otro punto de entrada a la aplicación para los usuarios que acceden desde la landing page. Nuevamente se indican las credenciales necesarias para ingresar a la aplicación. 
 
 **Vista principal para Arrendatarios**
-![Default view for car renters](/resources/chapter_4/Items/AppWires-Desktop-RenterDefault.png)
+<img src="resources\chapter_4\Items\AppWires-Desktop-RenterDefault.png">
 La vista Default le permite a los usuarios ver algunas opciones disponibles cercanas a ellos, así como acceder directamente a la página de búsqueda en móvil. En Desktop, se pueden hacer búsquedas desde esta página.
 
 **Vista principal para dueños**
-![Default view for car owners](/resources/chapter_4/Items/AppWires-Desktop-OwnerDefault.png)
+<img src="resources\chapter_4\Items\AppWires-Desktop-OwnerDefault.png">
 <br>
 La vista Default para dueños de autos, permite ver el carro o carros que están alquilando actualmente. También se visualiza la misma vista principal que está disponible para los arrendatarios, a fin de que vean las ofertas actuales.
 
 **Búsquedas**
-![Search results on desktop](/resources/chapter_4/Items/AppWires-Desktop-Search.png)
+<img src="resources\chapter_4\Items\AppWires-Desktop-Search.png">
 En desktop, se pueden realizar las búsquedas desde la primera pantalla. Aquí se muestran los resultados con algunos filtros adicionales.
 
 **Página de usuario**
-![User page on desktop](/resources/chapter_4/Items/AppWires-Desktop-User.png)
+<img src="resources\chapter_4\Items\AppWires-Desktop-User.png">
 La página de usuario en desktop incluye la información de usuario, de suscripción y sus licencias o tarjetas de propiedad.  
 
 **Vista de mapa**
-![Map view on desktop](/resources/chapter_4/Items/AppWires-Desktop-Map.png)
+<img src="resources\chapter_4\Items\AppWires-Desktop-Map.png">
 En desktop existe la funcionalidad para buscar por mapa, que se visualiza en 2 pantallas para móvil, con un diálogo abierto para los carros o puntos seleccionados.
 
 #### 4.4.2. Web Applications Wireflow Diagrams
 
 En esta sección, se presentan los wireflows de la aplicación.
 
+Registro de usuario
+
+<img src="./resources/chapter_4/wireflow_diagrams/register.png"/>
+
+Inicio de sesión
+
+<img src="./resources/chapter_4/wireflow_diagrams/login.png"/>
+
+___
+
 #### User Persona Dueño de Vehículo
-
-Registro e Inicio de Sesión
-
-<img src="./resources/chapter_4/wireflow_diagrams/inicio%20de%20sesión%20y%20registro.png"/>
 
 Añadir y mostrar vehículos
 
@@ -2395,44 +2926,119 @@ Mostrar ubicación de los vehículos
 #### 4.4.3. Web Applications Mock-ups
 Los Web Mockups fueron creados a partir de los Wireframes, y tomando en cuenta la arquitectura planteada en ellos. Estos utilizan las guías de estilo planteadas, así como un diseño cohesivo, para darle al usuario la imagen de la aplicación que hemos creado.
 
-**For Desktop** <br>
-![image](/resources/chapter_4/Items/Mockup-Desktop-Homepage.png)
-<br>Homepage
-<br>
-![image](/resources/chapter_4/Items/Mockup-Desktop-Login.png)
-<br>Login
-<br>
-![image](/resources/chapter_4/Items/Mockup-Desktop-Register.png)
-<br>Register
-<br>
-![image](/resources/chapter_4/Items/Mockup-Desktop-Renter.png)
-<br>Renter Default
-<br>
-![image](/resources/chapter_4/Items/Mockup-Desktop-Map.png)
-<br>Map View
-<br>
-![image](/resources/chapter_4/Items/Mockup-Desktop-Search.png)
-<br>Search Results
-<br>
-![image](/resources/chapter_4/Items/Mockup-Desktop-Community.png)
-<br>Community
-<br>
+**For Desktop**
+<img src="resources\chapter_4\Items\Mockup-Desktop-Homepage.png">
+
+**Homepage**
+<img src="resources\chapter_4\Items\Mockup-Desktop-Login.png">
+
+**Register**
+<img src="resources\chapter_4\Items\Mockup-Desktop-Register.png">
+
+**Renter Default**
+<img src="resources\chapter_4\Items\Mockup-Desktop-Renter.png">
+
+**Map View**
+<img src="resources\chapter_4\Items\Mockup-Desktop-Map.png">
+
+**Search Results**
+<img src="resources\chapter_4\Items\Mockup-Desktop-Search.png">
+
+**Community**
+<img src="resources\chapter_4\Items\Mockup-Desktop-Community.png">
 
 #### 4.4.4. Web Applications User Flow Diagrams
+
+En esta sección, se presentaran los User Flows, donde se mostrarán las rutas Happy y Unhappy que los usuarios pueden tener al momento de usar la aplicación web.
+
+**User Flow 1:**  Inicio de sesión
+
+**User Goal:** Iniciar sesión en la aplicación de manera rápida y segura.
+
+**Task Flow:** 
+<img src="./resources/chapter_4/task-flow/login.png"/>
+
+**Wireflow:**
+<img src="./resources/chapter_4/wireflow_diagrams/login.png"/>
+
+---
+
+**User Flow 2:**  Registro de usuario
+
+**User Goal:** Completar el registro en la plataforma fácilmente.
+
+**Task Flow:** 
+<img src="./resources/chapter_4/task-flow/register.png"/>
+
+**Wireflow:**
+<img src="./resources/chapter_4/wireflow_diagrams/register.png"/>
+
+---
+
+**User Flow 3:**  Añadir y mostrar vehículos
+
+**User Goal:** Publicar y visualizar los vehículos en la plataforma.
+
+**Task Flow:** 
+<img src="./resources/chapter_4/task-flow/add-car.png"/>
+
+**Wireflow:**
+<img src="./resources/chapter_4/wireflow_diagrams/anadir-vehiculos.png"/>
+
+---
+
+**User Flow 4:**  Mostrar vehículos disponibles para arrendatarios.
+
+**User Goal:** Ver vehículos disponibles para alquilar.
+
+**Task Flow:** 
+<img src="./resources/chapter_4/task-flow/show-available-car.png"/>
+
+**Wireflow:**
+<img src="./resources/chapter_4/wireflow_diagrams/lista-de-vehiculos.png"/>
+
+---
+
+**User Flow 5:**  Buscar vehículos.
+
+**User Goal:** Encontrar vehículos específicos según sus preferencias.
+
+**Task Flow:** 
+<img src="./resources/chapter_4/task-flow/search-cars.png"/>
+
+**Wireflow:**
+<img src="./resources/chapter_4/wireflow_diagrams/busqueda-de-vehiculos.png"/>
+
+---
+
+**User Flow 6:**  Mostrar la ubicación de los vehículos.
+
+**User Goal:** Ver la ubicación exacta de los vehículos disponibles para alquilar.
+
+**Task Flow:** 
+<img src="./resources/chapter_4/task-flow/see-map.png"/>
+
+**Wireflow:**
+<img src="./resources/chapter_4/wireflow_diagrams/mapa-de-vehiculos.png"/>
+
 ### 4.5. Web Applications Prototyping
+
+El prototipo hecho en figma de nuestro proyecto se encuentra ene el siguiente enlace: https://www.figma.com/proto/n859ROJNMbz1u4HhSIEVcK/DriveNow?node-id=131-4649&node-type=canvas&t=eWxpbDgQx3BHlU7k-1&scaling=min-zoom&content-scaling=fixed&page-id=131%3A3153&starting-point-node-id=131%3A4649
+
 ### 4.6. Domain-Driven Software Architecture
 #### 4.6.1. Software Architecture Context Diagram
-![structurizr-74190-SystemContext-001](https://github.com/user-attachments/assets/007e7e12-97f6-46da-9f2e-3b69f1617d16)
+<img src="resources\chapter_4\DDD\ContextDiagram.png">
 
 #### 4.6.2. Software Architecture Container Diagrams 
-![structurizr-Container-001](https://github.com/user-attachments/assets/01e3fda3-ed1a-4102-b41a-af71846d34ee)
+<img src="resources\chapter_4\DDD\ContainerDiagram.png">
 
 #### 4.6.3. Software Architecture Components Diagrams
 ![Component Diagram](https://github.com/user-attachments/assets/014a4376-9448-49ed-a1ab-f49c1e793266)
 
 ### 4.7. Software Object-Oriented Design
 #### 4.7.1. Class Diagrams
-![home-landing-page-07](https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report/blob/feature/chapter_4/resources/Items/diagram_class.png?raw=true)
+<img src="resources\chapter_4\Items\diagram_class.png">
+
 #### 4.7.2. Class Dictionary
 | **Class**       | **Attribute**         | **Type**    | **Description**                              | **Methods**                         |
 |-----------------|-----------------------|-------------|----------------------------------------------|-------------------------------------|
@@ -2489,9 +3095,8 @@ Los Web Mockups fueron creados a partir de los Wireframes, y tomando en cuenta l
 
 ### 4.8. Database Design
 #### 4.8.1. Database Diagram
+<img src="">
 ![DriveNow-2024-09-06_03-40](https://github.com/user-attachments/assets/chapter_4/132b1fe2-ae45-4d17-932c-fbef49b4b7db)
-
-
 
 ## Capítulo V: Product Implementation, Validation & Deployment <a id="cap5"></a>
 
@@ -2982,11 +3587,502 @@ Para poder realizar todos los procesos realizados en este sprint relacionados co
 Para este sprint se realizo una reunión exclusiva para el despliegue de la landing page, donde se compartio el código y se subio a través de uno de los integrantes.
 <img src= "resources/chapter_5/sprint-1-evidence.png">
 
-### 5.3. Validation Interviews
-#### 5.3.1. Diseño de Entrevistas
-#### 5.3.2. Registro de Entrevistas
-#### 5.3.3. Evaluaciones según heurísticas
-### 5.4. Video About-the-Product
+#### 5.2.2. Sprint 2
+##### 5.2.2.1. Sprint Planning 2
+<table>
+  <tr>
+    <td colspan="1"><strong>Sprint #</strong></td>
+    <td colspan="1">2</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Sprint Planning Background</strong></td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Date</strong></td>
+    <td colspan="1">2024-09-25</td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Time</strong></td>
+    <td colspan="1">12:00 PM</td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Location</strong></td>
+    <td colspan="1">Virtual google meet</td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Prepared by</strong></td>
+    <td colspan="1">Gabriel Casas</td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Attendees (to planning meeting)</strong></td>
+    <td colspan="1">Gabriel Casas, Aaron Avila, Emilia Duran, George Galvan, Jamir Marzal</td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Sprint n – 2 Review Summary</strong></td>
+    <td colspan="1">Se refactorizo la landing page para habilitar el uso de angular material, además se realizó el primer avance del web application.</td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Sprint n – 2 Retrospective Summary</strong></td>
+    <td colspan="1">Mejorar la puntualidad y comunicación entre el grupo.</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Sprint Goal & User Stories</strong></td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Sprint 2 Goal</strong></td>
+    <td colspan="1">Nuestro enfoque para este sprint es implementar los primeros avances del web application. Creemos que esto brindará una correcta proyección de como se vera nuestra aplicación a nuestros futuros clientes. Esto se confirmará cuando todas las secciones de nuestra aplicación se comuniquen entre si.</td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Sprint 2 Velocity</strong></td>
+    <td colspan="1">El equipo puede aceptar story points</td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Sum of Story Points</strong></td>
+    <td colspan="1">La suma de los Story Points de los User Stories que se atendieron son </td>
+  </tr>
+</table>
+
+##### 5.2.2.2. Sprint Backlog 1
+
+<table>
+  <tr>
+    <td colspan="1"><strong>Sprint #</strong></td>
+    <td colspan="7"><strong>Sprint 2</strong></td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>User Story</strong></td>
+    <td colspan="6"><strong>Work-Item/task</strong></td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Id</strong></td>
+    <td colspan="1"><strong>Title</strong></td>
+    <td colspan="1"><strong>Id</strong></td>
+    <td colspan="1"><strong>Title</strong></td>
+    <td colspan="1"><strong>Description</strong></td>
+    <td colspan="1"><strong>Estimation(Hours)</strong></td>
+    <td colspan="1"><strong>Assigned To</strong></td>
+    <td colspan="1"><strong>Status</strong></td>
+  </tr>
+  <tr>
+    <td colspan="1">US029</td>
+    <td colspan="1">Acceder a Recomendaciones de Seguridad y Sitios Turísticos</td>
+    <td colspan="1">T01</td>
+    <td colspan="1">Agregar la page de community</td>
+    <td colspan="1">Se debe argegar la page de community la cual muestres blogs relacionados con el bounded context sobre el que tabaja drivenow</td>
+    <td colspan="1">4</td>
+    <td colspan="1">Marzal Perez Jamir Angel</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">US030</td>
+    <td colspan="1">Modificación de información personal</td>
+    <td colspan="1">T02</td>
+    <td colspan="1">Agregar la page settings dentro de las opciones de usuario</td>
+    <td colspan="1">Se debe configurar el api de usuarios para que se capaz de acaptar operaciones put y patch.</td>
+    <td colspan="1">4</td>
+    <td colspan="1">Casas Sanchez Gabriel Alexander</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">US031</td>
+    <td colspan="1">Visualización de documentos de transito</td>
+    <td colspan="1">T03</td>
+    <td colspan="1">Agregar la sección licencia dentro de las opciones de usuario</td>
+    <td colspan="1">Se debe agregar los componentes necesarios para mostrar la licencia del usuario dentro de cartas.</td>
+    <td colspan="1">4</td>
+    <td colspan="1">Casas Sanchez Gabriel Alexander</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">US032</td>
+    <td colspan="1">Modificación de documentos de transito</td>
+    <td colspan="1">T04</td>
+    <td colspan="1">Agregar el formulario de modificación de datos de licencia</td>
+    <td colspan="1">Agregar el formulario necesario para poder ingresar los nuevos datos de la licencia de un usuario y reemplace la anitgua.</td>
+    <td colspan="1">4</td>
+    <td colspan="1">Casas Sanchez Gabriel Alexander</td>
+    <td colspan="1">To-do</td>
+  </tr>
+  <tr>
+    <td colspan="1">TS001 - TS002</td>
+    <td colspan="1">Implementar endpoint de obtención de usuarios y usuarios especificos</td>
+    <td colspan="1">T05</td>
+    <td colspan="1">Creación del endpoint base</td>
+    <td colspan="1">Implementar la función CRUD GET para la obtención de registros a tráves de una solicitud de endpoint.</td>
+    <td colspan="1">4</td>
+    <td colspan="1">Casas Sanchez Gabriel Alexander</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">TS004 - TS005</td>
+    <td colspan="1">Implementar endpoint de modificación de usuarios total y parcial</td>
+    <td colspan="1">T05</td>
+    <td colspan="1">Creación del endpoint base</td>
+    <td colspan="1">Implementar las funciones CRUD Put y PATCH para la modificación de registros a tráves de una solicitud de endpoint.</td>
+    <td colspan="1">5</td>
+    <td colspan="1">Casas Sanchez Gabriel Alexander</td>
+    <td colspan="1">Done</td>
+  </tr>
+</table>
+
+##### 5.2.2.3. Development Evidence for Sprint Review
+
+Como primeras evidencias de lo que se desarrolló durante el sprint tenemos a la implmementación del Front web application, iniciando con la creación de los pages mostrados en el sprint backlog 2.
+
+**Web application**
+<table>
+  <tr>
+    <td colspan="1">Repository</td>
+    <td colspan="1">Branch</td>
+    <td colspan="1">Commit Id</td>
+    <td colspan="1">Commit Message</td>
+    <td colspan="1">Commit Message Body</td>
+    <td colspan="1">Commited on (Date)</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend</a></td>
+    <td>feat/user-management</td>
+    <td>96474ef</td>
+    <td>feat(user-management): added user entity.</td>
+    <td>feat(user-management): added user entity.</td>
+    <td>25/09/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend</a></td>
+    <td>feat/user-management</td>
+    <td>3be8e44</td>
+    <td>feat(user-management): added user api service.</td>
+    <td>feat(user-management): added user api service.</td>
+    <td>25/09/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend</a></td>
+    <td>feat/user-management</td>
+    <td>886883c</td>
+    <td>feat(user-basic-information-display): implemented the user basic information display.</td>
+    <td>feat(user-basic-information-display): implemented the user basic information display.</td>
+    <td>25/09/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend</a></td>
+    <td>feat/user-management</td>
+    <td>4cb3396</td>
+    <td>feat(user-management): added api access functions.</td>
+    <td>feat(user-management): added api access functions.</td>
+    <td>25/09/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend</a></td>
+    <td>feat/user-management</td>
+    <td>f7490ae</td>
+    <td>feat(user-management): added user options list.</td>
+    <td>feat(user-management): added user options list.</td>
+    <td>25/09/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend</a></td>
+    <td>feat/user-management</td>
+    <td>94334cc</td>
+    <td>feat(user-management): added user options list components.</td>
+    <td>feat(user-management): added user options list components.</td>
+    <td>25/09/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend</a></td>
+    <td>feat/user-management</td>
+    <td>4b14721</td>
+    <td>feat(user-management): added user edit components.</td>
+    <td>feat(user-management): added user edit components.</td>
+    <td>25/09/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend</a></td>
+    <td>feat/user-management</td>
+    <td>3562c11</td>
+    <td>feat(user-settings): added user name edit function.</td>
+    <td>feat(user-settings): added user name edit function.</td>
+    <td>25/09/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend</a></td>
+    <td>feat/user-management</td>
+    <td>6e31984</td>
+    <td>feat(user-license): added user license card component</td>
+    <td>feat(user-license): added user license card component</td>
+    <td>25/09/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend</a></td>
+    <td>feat/user-management</td>
+    <td>a0b979b</td>
+    <td>feat(user-license): Added license entity.</td>
+    <td>feat(user-license): Added license entity.</td>
+    <td>25/09/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend</a></td>
+    <td>feat/user-management</td>
+    <td>b257a16</td>
+    <td>feat(user-license): deployed user lincense component.</td>
+    <td>feat(user-license): deployed user lincense component.</td>
+    <td>25/09/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend</a></td>
+    <td>feat/resources</td>
+    <td>c56fac3</td>
+    <td>feat(resources): Added resources section</td>
+    <td>feat(resources): Added resources section</td>
+    <td>25/09/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend</a></td>
+    <td>feat/resources</td>
+    <td>9252697</td>
+    <td>feat(resource.entity.ts): Added a new attribute.</td>
+    <td>feat(resource.entity.ts): Added a new attribute.</td>
+    <td>25/09/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend</a></td>
+    <td>feat/resources</td>
+    <td>09bdc0d</td>
+    <td>feat(resources.component.html): Added the button functionality.</td>
+    <td>feat(resources.component.html): Added the button functionality.</td>
+    <td>25/09/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend</a></td>
+    <td>feat/resources</td>
+    <td>2c2ba91</td>
+    <td>feat(db.json): Added modification to the json file.</td>
+    <td>feat(db.json): Added modification to the json file.</td>
+    <td>25/09/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend</a></td>
+    <td>feat/about</td>
+    <td>96fd252</td>
+    <td>feat(about): Add the about us section.</td>
+    <td>feat(about): Add the about us section.</td>
+    <td>25/09/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend</a></td>
+    <td>feat/offers</td>
+    <td>1466ef7</td>
+    <td>feat: added frontend offers</td>
+    <td>feat: added frontend offers</td>
+    <td>25/09/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend</a></td>
+    <td>feat/offers</td>
+    <td>94be652</td>
+    <td>feat: delete duplicate info</td>
+    <td>feat: delete duplicate info</td>
+    <td>25/09/2024</td>
+  </tr>
+</table>
+
+**Landing Page**
+
+<table>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing-Page">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing-Page</a></td>
+    <td>feat/navbar</td>
+    <td>231ba35</td>
+    <td>feat: added navbar and files</td>
+    <td>feat: added navbar and files</td>
+    <td>25/09/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing-Page">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing-Page</a></td>
+    <td>feat/navbar</td>
+    <td>5ea553f</td>
+    <td>feat: added final navbar</td>
+    <td>feat: added final navbar</td>
+    <td>25/09/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing-Page">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing-Page</a></td>
+    <td>feat/hero</td>
+    <td>4bea6f3</td>
+    <td>feat: added hero</td>
+    <td>feat: added hero</td>
+    <td>25/09/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing-Page">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing-Page</a></td>
+    <td>feat/why-choose-us</td>
+    <td>e88ddad</td>
+    <td>feat: added why-choose-us</td>
+    <td>feat: added why-choose-us</td>
+    <td>25/09/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing-Page">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing-Page</a></td>
+    <td>feat/how-it-works</td>
+    <td>7d9ee73</td>
+    <td>feat: added how it works</td>
+    <td>feat: added how it works</td>
+    <td>25/09/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing-Page">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing-Page</a></td>
+    <td>feat/testimonials</td>
+    <td>e1d7a3f</td>
+    <td>feat: added testimonials</td>
+    <td>feat: added testimonials</td>
+    <td>25/09/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing-Page">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing-Page</a></td>
+    <td>feat/safety</td>
+    <td>74f3009</td>
+    <td>feat: added safety image</td>
+    <td>feat: added safety image</td>
+    <td>25/09/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing-Page">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing-Page</a></td>
+    <td>feat/premiun-plans</td>
+    <td>3bd6208</td>
+    <td>feat: added premium-plans and image</td>
+    <td>feat: added premium-plans and image</td>
+    <td>25/09/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing-Page">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing-Page</a></td>
+    <td>feat/team</td>
+    <td>6c9e781</td>
+    <td>feat: added team members</td>
+    <td>feat: added team members</td>
+    <td>25/09/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing-Page">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing-Page</a></td>
+    <td>feat/contact</td>
+    <td>d9a4644</td>
+    <td>feat: added contact and image</td>
+    <td>feat: added contact and image</td>
+    <td>25/09/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing-Page">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing-Page</a></td>
+    <td>feat/footer</td>
+    <td>bc51885</td>
+    <td>feat: added final changes footer</td>
+    <td>feat: added final changes footer</td>
+    <td>25/09/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing-Page">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing-Page</a></td>
+    <td>feat/footer</td>
+    <td>c1b3777</td>
+    <td>feat: added new format navbar</td>
+    <td>feat: added new format navbar</td>
+    <td>25/09/2024</td>
+  </tr>
+</table>
+
+##### 5.2.2.4. Testing Suite Evidence for Sprint Review
+Para este sprint no se realizaron pruebas debido a que solo se realizaron versiones preliminares.
+
+##### 5.2.2.5. Execution Evidence for Sprint Review
+
+**Web Application**
+
+**Page about**
+
+<img src="resources\chapter_5\web-application-sprint-2-page-about-1.jpg">
+<img src="resources\chapter_5\web-application-sprint-2-page-about-2.jpg">
+<img src="resources\chapter_5\web-application-sprint-2-page-about-3.jpg">
+
+**Page Offers**
+
+<img src="resources\chapter_5\web-application-sprint-2-page-offers.jpg">
+
+**Page User**
+
+<img src="resources\chapter_5\web-application-sprint-2-page-user-1.png">
+<img src="resources\chapter_5\web-application-sprint-2-page-user-2.png">
+
+**Page User/Settings**
+
+<img src="resources\chapter_5\web-application-sprint-2-page-settings.png">
+
+**Page User/License**
+
+<img src="resources\chapter_5\web-application-sprint-2-page-license.png">
+
+**Landing Page**
+
+<img src="resources\chapter_5\landing-page-sprint-2-1.jpg">
+<img src="resources\chapter_5\landing-page-sprint-2-2.jpg">
+<img src="resources\chapter_5\landing-page-sprint-2-3.jpg">
+<img src="resources\chapter_5\landing-page-sprint-2-4.jpg">
+<img src="resources\chapter_5\landing-page-sprint-2-5.jpg">
+<img src="resources\chapter_5\landing-page-sprint-2-6.jpg">
+<img src="resources\chapter_5\landing-page-sprint-2-7.jpg">
+
+##### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+Para el sprint 2 se utilizo el servicio de My json server para desplegar el endpoint de la web application: [https://my-json-server.typicode.com/UPC-PRE-SI729-2402-SW54-X-Force/server/](https://my-json-server.typicode.com/UPC-PRE-SI729-2402-SW54-X-Force/server/)
+
+##### 5.2.2.7. Software Deployment Evidence for Sprint Review
+**Landing Page Deployment**
+<img src="resources\chapter_5\landing-page-deployment-evidence-sprint-2-1.jpg">
+Instalamos las dependencias especificas para desplegar la landing page, los comandos son ``ng add angular-cli-ghpages``   y  ``ng deploy --base-href=https://upc-pre-si729-2402-sw54-x-force.github.io/Landing-Page/``
+
+<img src="resources\chapter_5\landing-page-deployment-evidence-sprint-2-2.jpg">
+En caso no funcione al primer intento, verificamos que nos encontremos en el directorio correcto 
+
+```
+git remote -v
+```
+en nuestro caso se tendria que ver de la siguiente manera 
+
+```
+origin  https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing-Page.git (fetch)
+
+
+origin  https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing-Page.git (push)
+```
+
+```
+"deploy": {
+  "builder": "angular-cli-ghpages:deploy",
+  "options": {
+    "repo": "https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing-Page.git",
+    "branch": "gh-pages"
+  }
+}
+```
+
+Verificamos que esté correctamente instalado nuestro deploy
+
+<img src="resources\chapter_5\landing-page-deployment-evidence-sprint-2-3.jpg">
+Intentamos desplegar con la opción 
+
+``'repo'``
+
+<img src="resources\chapter_5\landing-page-deployment-evidence-sprint-2-4.jpg">
+
+Una vez terminado el proceso verificamos que nuestra landing page este operativa en la siguiente ruta
+
+```
+https://upc-pre-si729-2402-sw54-x-force.github.io/Landing-Page/
+```
+Enlace a la landing page: [https://upc-pre-si729-2402-sw54-x-force.github.io/Landing-Page/](https://upc-pre-si729-2402-sw54-x-force.github.io/Landing-Page/)
+Enlace al web application: [https://upc-pre-si729-2402-sw54-x-force.github.io/Frontend/](https://upc-pre-si729-2402-sw54-x-force.github.io/Frontend/)
+
+##### 5.2.2.8. Team Collaboration Insights during Sprint
+
+<img src="resources\chapter_5\front-end-insight-sprint-2-1.png">
+<img src="resources\chapter_5\front-end-insight-sprint-2-2.png">
+<img src="resources\chapter_5\front-end-insight-sprint-2-3.png">
+
 ## Conclusiones
 1) Resolución del Problema: DriveNow aborda eficientemente la baja utilización de vehículos particulares en Perú, aprovechando una gran cantidad de vehículos estacionados sin uso para su alquiler temporal. Esto no solo maximiza el uso de automóviles, sino que también genera ingresos adicionales para los propietarios.
 
@@ -3001,4 +4097,6 @@ Para este sprint se realizo una reunión exclusiva para el despliegue de la land
 
 ## Anexos
 
-**Enlace de exposición:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220033_upc_edu_pe/EWc-B5zlZwpHsCBKV3OJauMBiRoiR4lr_Hb2mIgzjiPpsg?e=RrLgbY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+[Exposición TB1, texto enlazado](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220033_upc_edu_pe/EWc-B5zlZwpHsCBKV3OJauMBiRoiR4lr_Hb2mIgzjiPpsg?e=RrLgbY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+**Enlace de exposición tb1:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220033_upc_edu_pe/EWc-B5zlZwpHsCBKV3OJauMBiRoiR4lr_Hb2mIgzjiPpsg?e=RrLgbY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
