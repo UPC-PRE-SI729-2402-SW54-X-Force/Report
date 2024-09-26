@@ -2516,11 +2516,10 @@ En esta sección, se presentaran los User Flows, donde se mostrarán las rutas H
 **Wireflow:**
 <img src="./resources/chapter_4/wireflow_diagrams/mapa-de-vehiculos.png"/>
 
-
-
-
-
 ### 4.5. Web Applications Prototyping
+
+El prototipo hecho en figma de nuestro proyecto se encuentra ene el siguiente enlace: https://www.figma.com/proto/n859ROJNMbz1u4HhSIEVcK/DriveNow?node-id=131-4649&node-type=canvas&t=eWxpbDgQx3BHlU7k-1&scaling=min-zoom&content-scaling=fixed&page-id=131%3A3153&starting-point-node-id=131%3A4649
+
 ### 4.6. Domain-Driven Software Architecture
 #### 4.6.1. Software Architecture Context Diagram
 <img src="resources\chapter_4\DDD\ContextDiagram.png">
