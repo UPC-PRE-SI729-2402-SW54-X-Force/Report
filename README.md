@@ -3428,9 +3428,55 @@ Para este sprint no se realizaron pruebas debido a que solo se realizaron versio
 ##### 5.2.2.6. Services Documentation Evidence for Sprint Review
 No se emplearon servicios adicionales.
 ##### 5.2.2.7. Software Deployment Evidence for Sprint Review
+**Landing Page Deployment**
+<img src="resources\chapter_5\landing-page-deployment-evidence-sprint-2-1.jpg">
+Instalamos las dependencias especificas para desplegar la landing page, los comandos son ``ng add angular-cli-ghpages``   y  ``ng deploy --base-href=https://upc-pre-si729-2402-sw54-x-force.github.io/Landing-Page/``
+
+<img src="resources\chapter_5\landing-page-deployment-evidence-sprint-2-2.jpg">
+En caso no funcione al primer intento, verificamos que nos encontremos en el directorio correcto 
+
+```
+git remote -v
+```
+en nuestro caso se tendria que ver de la siguiente manera 
+
+```
+origin  https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing-Page.git (fetch)
+
+
+origin  https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing-Page.git (push)
+```
+
+```
+"deploy": {
+  "builder": "angular-cli-ghpages:deploy",
+  "options": {
+    "repo": "https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing-Page.git",
+    "branch": "gh-pages"
+  }
+}
+```
+
+Verificamos que esté correctamente instalado nuestro deploy
+
+<img src="resources\chapter_5\landing-page-deployment-evidence-sprint-2-3.jpg">
+Intentamos desplegar con la opción 
+
+``'repo'``
+
+<img src="resources\chapter_5\landing-page-deployment-evidence-sprint-2-4.jpg">
+
+Una vez terminado el proceso verificamos que nuestra landing page este operativa en la siguiente ruta
+
+```
+https://upc-pre-si729-2402-sw54-x-force.github.io/Landing-Page/
+```
 
 ##### 5.2.2.8. Team Collaboration Insights during Sprint
 
+<img src="resources\chapter_5\front-end-insight-sprint-2-1.png">
+<img src="resources\chapter_5\front-end-insight-sprint-2-2.png">
+<img src="resources\chapter_5\front-end-insight-sprint-2-3.png">
 
 ## Conclusiones
 1) Resolución del Problema: DriveNow aborda eficientemente la baja utilización de vehículos particulares en Perú, aprovechando una gran cantidad de vehículos estacionados sin uso para su alquiler temporal. Esto no solo maximiza el uso de automóviles, sino que también genera ingresos adicionales para los propietarios.
