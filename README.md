@@ -3369,7 +3369,7 @@ Como primeras evidencias de lo que se desarrolló durante el sprint tenemos a la
   </tr>
   <tr>
     <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing-Page">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing-Page</a></td>
-    <td>feat/</td>
+    <td>feat/footer</td>
     <td>bc51885</td>
     <td>feat: added final changes footer</td>
     <td>feat: added final changes footer</td>
@@ -3377,7 +3377,7 @@ Como primeras evidencias de lo que se desarrolló durante el sprint tenemos a la
   </tr>
   <tr>
     <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing-Page">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing-Page</a></td>
-    <td>feat/</td>
+    <td>feat/footer</td>
     <td>c1b3777</td>
     <td>feat: added new format navbar</td>
     <td>feat: added new format navbar</td>
@@ -3389,6 +3389,34 @@ Como primeras evidencias de lo que se desarrolló durante el sprint tenemos a la
 Para este sprint no se realizaron pruebas debido a que solo se realizaron versiones preliminares.
 
 ##### 5.2.2.5. Execution Evidence for Sprint Review
+
+**Web Application**
+**Page about**
+<img src="resources\chapter_5\web-application-sprint-2-page-about-1.jpg">
+<img src="resources\chapter_5\web-application-sprint-2-page-about-2.jpg">
+<img src="resources\chapter_5\web-application-sprint-2-page-about-3.jpg">
+
+**Page Offers**
+<img src="resources\chapter_5\web-application-sprint-2-page-offers.jpg">
+
+**Page User**
+<img src="resources\chapter_5\web-application-sprint-2-page-user-1.png">
+<img src="resources\chapter_5\web-application-sprint-2-page-user-2.png">
+
+**Page User/Settings**
+<img src="resources\chapter_5\web-application-sprint-2-page-settings.png">
+
+**Page User/License**
+<img src="resources\chapter_5\web-application-sprint-2-page-license.png">
+
+**Landing Page**
+<img src="resources\chapter_5\landing-page-sprint-2-1.jpg">
+<img src="resources\chapter_5\landing-page-sprint-2-2.jpg">
+<img src="resources\chapter_5\landing-page-sprint-2-3.jpg">
+<img src="resources\chapter_5\landing-page-sprint-2-4.jpg">
+<img src="resources\chapter_5\landing-page-sprint-2-5.jpg">
+<img src="resources\chapter_5\landing-page-sprint-2-6.jpg">
+<img src="resources\chapter_5\landing-page-sprint-2-7.jpg">
 
 ##### 5.2.2.6. Services Documentation Evidence for Sprint Review
 No se emplearon servicios adicionales.
