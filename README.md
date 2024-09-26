@@ -36,6 +36,7 @@ A continuación, se presenta un cuadro que detalla las acciones realizadas por e
 
 
 ## Project Report Collaboration Insights
+TB1:
 Se han realizado todas las tareas asignadas para la entrega de la TB1, las cuales se encuentran registradas en el repositorio de Github de la organización del equipo bajo el enlace https://github.com/UPC-PRE-SI729-2402-SW54-X-Force. Para elaborar el informe, cada miembro ha redactado y creado gráficos en formato Markdown según los puntos asignados, realizando commits para registrar el avance en el repositorio.
 
 Vista de commits:
@@ -49,8 +50,37 @@ Vista de commits:
       <li>Duran Santander Emilia Mercedes: 2</li>
       <li>Galvan Cerron George Aldo: 10</li>
       <li>Marzal Perez Jamir Angel: 15</li>
-  </ul>
+</ul>
 
+TP1:
+Se han realizado todas las tareas asignadas para la entrega del TP1, las cuales se encuentran registradas en el repositorio de Github de la organización del equipo bajo el enlace https://github.com/UPC-PRE-SI729-2402-SW54-X-Force. Para elaborar el informe cada miembro corrigio y añadio puntos que se debian mejorar de la anterior entrega en el siguiente repositorio: https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report, de la misma manera para el desarrollo de la web application se trabajo en este repositorio: https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend
+
+Vista de commits:
+Landing page:
+<img src="resources\team-collaboration-insights-landing-tp1-1.png">
+<img src="resources\team-collaboration-insights-landing-tp1-2.png">
+<img src="resources\team-collaboration-insights-landing-tp1-3.png">
+
+<ul style="list-style: none; padding: 0;">
+      <li>Avila Palacios Aaron Alexander: 3</li>
+      <li>Casas Sanchez Gabriel Alexander: 15</li>
+      <li>Duran Santander Emilia Mercedes: 2</li>
+      <li>Galvan Cerron George Aldo: 2</li>
+      <li>Marzal Perez Jamir Angel: 4</li>
+</ul>
+
+Web Application Frontend:
+<img src="resources\team-collaboration-insights-frontend-tp1-1.png">
+<img src="resources\team-collaboration-insights-frontend-tp1-2.png">
+<img src="resources\team-collaboration-insights-frontend-tp1-3.png">
+
+<ul style="list-style: none; padding: 0;">
+      <li>Avila Palacios Aaron Alexander: 1</li>
+      <li>Casas Sanchez Gabriel Alexander: 37</li>
+      <li>Duran Santander Emilia Mercedes: 0</li>
+      <li>Galvan Cerron George Aldo: 8</li>
+      <li>Marzal Perez Jamir Angel: 4</li>
+</ul>
 
 ## Registro de Versiones del Informe
 
