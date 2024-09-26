@@ -1135,6 +1135,29 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
       </td>
 		</tr>
 		<tr>
+    <td colspan="1">EP009</td>
+    <td colspan="1">Acceso a Información de DriveNow</td>
+    <td colspan="3">
+        <strong>Como</strong> visitante, <strong>quiero</strong> obtener información clara sobre la plataforma DriveNow, <strong>para</strong> entender cómo funciona y cómo puedo usarla.
+    </td>
+</tr>
+
+<tr>
+    <td colspan="1">EP010</td>
+    <td colspan="1">Contacto con DriveNow</td>
+    <td colspan="3">
+        <strong>Como</strong> visitante, <strong>quiero</strong> poder contactar con el equipo de DriveNow, <strong>para</strong> enviarles consultas o solicitudes de información adicional.
+    </td>
+</tr>
+
+<tr>
+    <td colspan="1">EP011</td>
+    <td colspan="1">Promoción a través de redes sociales</td>
+    <td colspan="3">
+        <strong>Como</strong> visitante o potencial cliente, <strong>quiero</strong> poder seguir a DriveNow en redes sociales, <strong>para</strong> estar al tanto de sus novedades, promociones y actualizaciones.
+    </td>
+</tr>
+		<tr>
       <td colspan="1">US001</td>
       <td colspan="1">Encontrar vehículos</td>
       <td colspan="1">
@@ -1986,6 +2009,195 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
       </td>
       <td>EP008</td>
     </tr>
+    <tr>
+    <td colspan="1">US033</td>
+    <td colspan="1">Navegar por las características principales</td>
+    <td colspan="1">
+        <strong>Como</strong> visitante, <strong>quiero</strong> poder ver fácilmente las características clave de DriveNow <strong>para</strong> conocer los beneficios que ofrece.
+    </td>
+    <td colspan="1">
+        <strong>E01: Visualización de características</strong>
+        <br>
+        <strong>Dado que</strong> un visitante está interesado en los servicios de DriveNow,
+        <br>
+        <strong>Y</strong> ha accedido a la página principal,
+        <br>
+        <strong>Cuando</strong> haga clic en el apartado de "Características",
+        <br>
+        <strong>Y</strong> lea la información presentada,
+        <br>
+        <strong>Entonces</strong> debería poder entender los beneficios que ofrece DriveNow.
+        <br><br>
+        <strong>E02: Comparación de beneficios</strong>
+        <br>
+        <strong>Dado que</strong> el visitante quiere comparar los beneficios de DriveNow con otras plataformas,
+        <br>
+        <strong>Y</strong> está revisando la sección de características,
+        <br>
+        <strong>Cuando</strong> analice las opciones disponibles,
+        <br>
+        <strong>Entonces</strong> debería poder hacer una comparación rápida y clara de los beneficios clave frente a otras plataformas de alquiler.
+    </td>
+    <td colspan="1">EP009</td>
+</tr>
+
+<tr>
+    <td colspan="1">US034</td>
+    <td colspan="1">Conocer al equipo de DriveNow</td>
+    <td colspan="1">
+        <strong>Como</strong> visitante, <strong>quiero</strong> poder ver quiénes son los miembros del equipo de DriveNow <strong>para</strong> conocer quiénes están detrás de la plataforma.
+    </td>
+    <td colspan="1">
+        <strong>E01: Visualización de perfiles</strong>
+        <br>
+        <strong>Dado que</strong> un visitante está interesado en saber quiénes son los creadores de la plataforma,
+        <br>
+        <strong>Y</strong> ha ingresado a la sección de "Nuestro Equipo",
+        <br>
+        <strong>Cuando</strong> vea los perfiles de los miembros,
+        <br>
+        <strong>Entonces</strong> debería poder leer la información personal y profesional de cada integrante del equipo.
+        <br><br>
+        <strong>E02: Acceso a detalles de un miembro del equipo</strong>
+        <br>
+        <strong>Dado que</strong> un visitante está revisando la página de equipo,
+        <br>
+        <strong>Y</strong> quiere conocer más sobre un miembro en particular,
+        <br>
+        <strong>Cuando</strong> haga clic en el perfil del miembro del equipo,
+        <br>
+        <strong>Entonces</strong> debería acceder a información detallada sobre su rol y experiencia.
+    </td>
+    <td colspan="1">EP009</td>
+</tr>
+
+<tr>
+    <td colspan="1">US035</td>
+    <td colspan="1">Enviar una consulta sobre los servicios de DriveNow</td>
+    <td colspan="1">
+        <strong>Como</strong> visitante, <strong>quiero</strong> poder enviar una consulta específica sobre los servicios de DriveNow <strong>para</strong> resolver dudas antes de registrarme.
+    </td>
+    <td colspan="1">
+        <strong>E01: Envío exitoso de consulta</strong>
+        <br>
+        <strong>Dado que</strong> un visitante tiene preguntas sobre los servicios,
+        <br>
+        <strong>Y</strong> está en la sección de contacto,
+        <br>
+        <strong>Cuando</strong> llene el formulario de contacto con sus dudas,
+        <br>
+        <strong>Y</strong> lo envíe,
+        <br>
+        <strong>Entonces</strong> debería recibir una confirmación de que su consulta ha sido enviada correctamente.
+        <br><br>
+        <strong>E02: Respuesta a la consulta</strong>
+        <br>
+        <strong>Dado que</strong> el visitante ha enviado una consulta,
+        <br>
+        <strong>Y</strong> espera una respuesta del equipo de DriveNow,
+        <br>
+        <strong>Cuando</strong> la consulta sea procesada,
+        <br>
+        <strong>Entonces</strong> debería recibir una respuesta en su correo dentro de un tiempo determinado.
+    </td>
+    <td colspan="1">EP010</td>
+</tr>
+
+<tr>
+    <td colspan="1">US036</td>
+    <td colspan="1">Solicitar una demostración de la plataforma</td>
+    <td colspan="1">
+        <strong>Como</strong> visitante, <strong>quiero</strong> poder solicitar una demostración de cómo funciona DriveNow <strong>para</strong> ver cómo podría utilizar la plataforma antes de registrarme.
+    </td>
+    <td colspan="1">
+        <strong>E01: Solicitud de demostración enviada</strong>
+        <br>
+        <strong>Dado que</strong> un visitante está interesado en usar DriveNow,
+        <br>
+        <strong>Y</strong> quiere ver una demostración de la plataforma,
+        <br>
+        <strong>Cuando</strong> haga clic en el botón de "Solicitar Demostración",
+        <br>
+        <strong>Y</strong> llene el formulario de solicitud,
+        <br>
+        <strong>Entonces</strong> debería recibir una confirmación de que su solicitud fue enviada.
+        <br><br>
+        <strong>E02: Programación de la demostración</strong>
+        <br>
+        <strong>Dado que</strong> el visitante ha solicitado una demostración,
+        <br>
+        <strong>Y</strong> está esperando una respuesta del equipo,
+        <br>
+        <strong>Cuando</strong> la solicitud sea procesada,
+        <br>
+        <strong>Entonces</strong> debería recibir un enlace para agendar una cita o ver una demostración pregrabada de la plataforma.
+    </td>
+    <td colspan="1">EP010</td>
+</tr>
+
+<tr>
+    <td colspan="1">US037</td>
+    <td colspan="1">Compartir promociones de DriveNow en mis redes sociales</td>
+    <td colspan="1">
+        <strong>Como</strong> visitante, <strong>quiero</strong> poder compartir promociones de DriveNow con mis amigos y seguidores en mis redes sociales <strong>para</strong> difundir las oportunidades disponibles.
+    </td>
+    <td colspan="1">
+        <strong>E01: Compartir promociones fácilmente</strong>
+        <br>
+        <strong>Dado que</strong> un visitante ha visto una promoción interesante en la página web de DriveNow,
+        <br>
+        <strong>Y</strong> desea compartirla,
+        <br>
+        <strong>Cuando</strong> haga clic en el botón de compartir,
+        <br>
+        <strong>Y</strong> seleccione la red social preferida,
+        <br>
+        <strong>Entonces</strong> debería poder compartir la promoción fácilmente.
+        <br><br>
+        <strong>E02: Redirección correcta al compartir</strong>
+        <br>
+        <strong>Dado que</strong> el visitante ha compartido una promoción,
+        <br>
+        <strong>Y</strong> sus amigos han visto la publicación,
+        <br>
+        <strong>Cuando</strong> los amigos hagan clic en el enlace de la publicación,
+        <br>
+        <strong>Entonces</strong> deberían ser redirigidos correctamente a la promoción en el sitio web de DriveNow.
+    </td>
+    <td colspan="1">EP011</td>
+</tr>
+
+<tr>
+    <td colspan="1">US038</td>
+    <td colspan="1">Recibir notificaciones de promociones en redes sociales</td>
+    <td colspan="1">
+        <strong>Como</strong> seguidor de DriveNow en redes sociales, <strong>quiero</strong> recibir notificaciones de nuevas promociones y descuentos <strong>para</strong> aprovechar oportunidades exclusivas.
+    </td>
+    <td colspan="1">
+        <strong>E01: Recibir notificaciones de promociones</strong>
+        <br>
+        <strong>Dado que</strong> un seguidor de DriveNow ha seguido sus cuentas en redes sociales,
+        <br>
+        <strong>Y</strong> desea estar al tanto de las promociones,
+        <br>
+        <strong>Cuando</strong> DriveNow publique una nueva promoción,
+        <br>
+        <strong>Y</strong> el seguidor esté en línea,
+        <br>
+        <strong>Entonces</strong> debería recibir una notificación automática de la publicación.
+        <br><br>
+        <strong>E02: Recibir alertas de promociones</strong>
+        <br>
+        <strong>Dado que</strong> un seguidor está interesado en las promociones,
+        <br>
+        <strong>Y</strong> ha activado las notificaciones de la cuenta de DriveNow,
+        <br>
+        <strong>Cuando</strong> una nueva promoción sea publicada,
+        <br>
+        <strong>Entonces</strong> debería recibir un mensaje directo o una alerta en la aplicación de la red social.
+    </td>
+    <td colspan="1">EP011</td>
+</tr>
     <tr>
       <td>TS01</td>
       <td>Implementar endpoint de obtención de usuarios</td>
