@@ -2527,7 +2527,49 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
       <td>Consejos para Uso del Servicio</td>
       <td>Como visitante, quiero poder ver una sección de blog en la que pueda visualizar consejos para poder tener mayor comodidad al usar el servicio.</td>
       <td>3</td>
-    </tr>  
+    </tr> 
+	  <tr>
+    <td>29</td>
+    <td>US033</td>
+    <td>Navegar por las características principales</td>
+    <td>Como visitante, quiero poder ver fácilmente las características clave de DriveNow, para conocer los beneficios que ofrece.</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>30</td>
+    <td>US034</td>
+    <td>Conocer al equipo de DriveNow</td>
+    <td>Como visitante, quiero poder ver quiénes son los miembros del equipo de DriveNow, para conocer quiénes están detrás de la plataforma.</td>
+    <td>3</td>
+  </tr> 
+  <tr>
+    <td>31</td>
+    <td>US035</td>
+    <td>Enviar una consulta sobre los servicios de DriveNow</td>
+    <td>Como visitante, quiero poder enviar una consulta específica sobre los servicios de DriveNow, para resolver dudas antes de registrarme.</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>32</td>
+    <td>US036</td>
+    <td>Solicitar una demostración de la plataforma</td>
+    <td>Como visitante, quiero poder solicitar una demostración de cómo funciona DriveNow, para ver cómo podría utilizar la plataforma antes de registrarme.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>33</td>
+    <td>US037</td>
+    <td>Compartir promociones de DriveNow en mis redes sociales</td>
+    <td>Como visitante, quiero poder compartir promociones de DriveNow con mis amigos y seguidores en mis redes sociales, para difundir las oportunidades disponibles.</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>34</td>
+    <td>US038</td>
+    <td>Recibir notificaciones de promociones en redes sociales</td>
+    <td>Como seguidor de DriveNow en redes sociales, quiero recibir notificaciones de nuevas promociones y descuentos, para aprovechar oportunidades exclusivas.</td>
+    <td>2</td>
+  </tr>
      </tbody>
 </table>
 <strong>Link del Product Backlog en Trello:<a href="https://trello.com/invite/b/66d9fa46770816a161ec67a6/ATTI757f1d6ef821c1f9032190bc07796c75528B1939/product-backlog">https://trello.com/invite/b/66d9fa46770816a161ec67a6/ATTI757f1d6ef821c1f9032190bc07796c75528B1939/product-backlog</a></strong>
