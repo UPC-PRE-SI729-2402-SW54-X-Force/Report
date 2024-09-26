@@ -250,24 +250,11 @@ El lean UX process es un enfoque iterativo centrado en el usuario para el diseñ
 
 ##### 1.2.2.1. Lean UX Problem Statements
 
-**Problem statement 1: Falta de Confianza en el Proceso de Alquiler**
-Los propietarios pueden sentir inseguridad al entregar sus vehículos a extraños, mientras que los arrendatarios pueden preocuparse por el estado del vehículo y el cumplimiento del contrato. Esto puede llevar a una baja adopción de la plataforma. Es esencial establecer mecanismos de verificación de identidad y confiabilidad, así como implementar políticas claras de seguro y reembolso en caso de daños.
+El estado actual del mercado de alquiler de vehículos se ha centrado principalmente en conectar propietarios con arrendatarios a través de plataformas digitales. Sin embargo, tanto los propietarios como los arrendatarios enfrentan problemas críticos, como la falta de confianza en el proceso de alquiler, la dificultad para seleccionar el vehículo adecuado y la confusión en el proceso de pago.
 
-**Problem statement 2: Selección de Vehículos Apropiados**
-Los usuarios pueden encontrarse con una amplia variedad de vehículos en la plataforma, lo que dificulta encontrar el más adecuado para sus necesidades. Esto puede resultar en una experiencia frustrante y llevar a los usuarios a abandonar la búsqueda. Una solución sería permitir la aplicación de filtros específicos, como tipo de vehículo, capacidad, características y ubicación, para ayudar a los usuarios a encontrar rápidamente lo que necesitan.
+Lo que los productos y servicios existentes no logran abordar es la necesidad de establecer mecanismos claros de verificación de identidad y antecedentes, así como políticas transparentes sobre seguros y reembolsos, lo cual es esencial para generar confianza. Además, las plataformas actuales suelen carecer de filtros eficaces para facilitar la búsqueda de vehículos, y no siempre presentan tarifas de manera clara, lo que genera frustración en los usuarios.
 
-**Problem statement 3: Proceso de Pago y Tarifas Claras**
-Los usuarios pueden abandonar el proceso de alquiler si no comprenden completamente cómo se calculan las tarifas o si no son claras. Una solución es simplificar el proceso de pago y presentar las tarifas de manera transparente, mostrando cualquier cargo adicional de manera clara antes de que los usuarios confirmen su alquiler.
-
-**Problem statement 4: Verificación de Identidad y Antecedentes**
- 
-Aunque es necesario llevar a cabo verificaciones de antecedentes para construir confianza entre las partes, este proceso puede llevar mucho tiempo y desanimar a los usuarios. Para abordar este problema, se podría explorar la posibilidad de integrar tecnologías de verificación más rápidas y confiables, como la verificación biométrica y el uso de bases de datos públicas para antecedentes penales.
-
-**Problem statement 5: Interfaz Intuitiva y Fácil de Usar**
-Una interfaz complicada y abarrotada puede abrumar a los usuarios, especialmente aquellos que no están familiarizados con plataformas de alquiler en línea. La solución implica adoptar un diseño centrado en el usuario que guíe a los usuarios de manera clara y lógica a través de cada paso del proceso de alquiler, limitando la cantidad de información presentada en cada etapa. Una posible solución sería agregar elementos gráfico e interactivos.
-
-**Problem statement 6: Gestión de Reseñas y Calificaciones**
-Las reseñas y calificaciones son fundamentales para construir confianza, pero existe el riesgo de reseñas falsas o injustas. Para abordar este desafío, podríamos implementar sistemas de verificación de reseñas y fomentar la retroalimentación constructiva. Además, se podrían tomar medidas contra el abuso de reseñas falsas, como verificar la autenticidad de las transacciones antes de permitir reseñas.
+Nuestro servicio abordará esta brecha mediante la implementación de un sistema de verificación robusto, que incluye opciones rápidas y confiables para la verificación de identidad, un diseño centrado en el usuario que facilite la selección de vehículos mediante filtros avanzados, y un proceso de pago completamente transparente, que muestre las tarifas y cargos adicionales de manera clara desde el inicio.
 
 ##### 1.2.2.2. Lean UX Assumptions
 
