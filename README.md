@@ -1118,24 +1118,22 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
     <td colspan="3">
         <strong>Como</strong> visitante, <strong>quiero</strong> obtener información clara sobre la plataforma DriveNow, <strong>para</strong> entender cómo funciona y cómo puedo usarla.
     </td>
-</tr>
-
-<tr>
+    </tr>
+    <tr>
     <td colspan="1">EP010</td>
     <td colspan="1">Contacto con DriveNow</td>
     <td colspan="3">
         <strong>Como</strong> visitante, <strong>quiero</strong> poder contactar con el equipo de DriveNow, <strong>para</strong> enviarles consultas o solicitudes de información adicional.
     </td>
-</tr>
-
-<tr>
+    </tr>
+    <tr>
     <td colspan="1">EP011</td>
     <td colspan="1">Promoción a través de redes sociales</td>
     <td colspan="3">
         <strong>Como</strong> visitante o potencial cliente, <strong>quiero</strong> poder seguir a DriveNow en redes sociales, <strong>para</strong> estar al tanto de sus novedades, promociones y actualizaciones.
     </td>
-</tr>
-		<tr>
+    </tr>
+    <tr>
       <td colspan="1">US001</td>
       <td colspan="1">Encontrar vehículos</td>
       <td colspan="1">
@@ -1145,29 +1143,29 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
         <strong>E01: Selección de vehículo más cercano</strong>
         <br>
         <strong>Dado que</strong> un conductor se encuentra en una ubicación específica y necesita encontrar un vehículo cercano,
-		<br>
+      <br>
         <strong>Y</strong> ha ingresado su ubicación en la aplicación,
-		<br>
+      <br>
         <strong>Cuando</strong> realiza la búsqueda de vehículos cercanos,
-	    <br>
+      <br>
         <strong>Y</strong> visualiza la lista de vehículos disponibles en su área,
-	    <br>
+      <br>
         <strong>Entonces</strong> el conductor debe ser capaz de seleccionar el vehículo más cercano para reducir el tiempo de espera.
-	    <br><br>
+      <br><br>
         <strong>E02: Instrucciones claras para acceder</strong>
         <br>
         <strong>Dado que</strong> un conductor está buscando un vehículo en una ciudad que está visitando,
-	    <br>
+      <br>
         <strong>Y</strong> ha utilizado la funcionalidad de búsqueda en la aplicación,
-	    <br>
+      <br>
         <strong>Cuando</strong> el conductor visualiza los resultados de búsqueda,
-	    <br>
+      <br>
         <strong>Y</strong> selecciona un vehículo cercano,
-	    <br>
+      <br>
         <strong>Entonces</strong> debe recibir instrucciones claras sobre cómo llegar al vehículo seleccionado y la opción de iniciar la renta de inmediato.
       </td>
       <td colspan="1">EP001</td>
-		</tr>
+    </tr>
     <tr>
       <td colspan="1">US002</td>
       <td colspan="1">Renta de vehículo</td>
@@ -1988,74 +1986,72 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
       <td>EP008</td>
     </tr>
     <tr>
-    <td colspan="1">US033</td>
-    <td colspan="1">Navegar por las características principales</td>
-    <td colspan="1">
-        <strong>Como</strong> visitante, <strong>quiero</strong> poder ver fácilmente las características clave de DriveNow <strong>para</strong> conocer los beneficios que ofrece.
-    </td>
-    <td colspan="1">
-        <strong>E01: Visualización de características</strong>
-        <br>
-        <strong>Dado que</strong> un visitante está interesado en los servicios de DriveNow,
-        <br>
-        <strong>Y</strong> ha accedido a la página principal,
-        <br>
-        <strong>Cuando</strong> haga clic en el apartado de "Características",
-        <br>
-        <strong>Y</strong> lea la información presentada,
-        <br>
-        <strong>Entonces</strong> debería poder entender los beneficios que ofrece DriveNow.
-        <br><br>
-        <strong>E02: Comparación de beneficios</strong>
-        <br>
-        <strong>Dado que</strong> el visitante quiere comparar los beneficios de DriveNow con otras plataformas,
-        <br>
-        <strong>Y</strong> está revisando la sección de características,
-        <br>
-        <strong>Cuando</strong> analice las opciones disponibles,
-        <br>
-        <strong>Entonces</strong> debería poder hacer una comparación rápida y clara de los beneficios clave frente a otras plataformas de alquiler.
-    </td>
-    <td colspan="1">EP009</td>
-</tr>
-
-<tr>
-    <td colspan="1">US034</td>
-    <td colspan="1">Conocer al equipo de DriveNow</td>
-    <td colspan="1">
-        <strong>Como</strong> visitante, <strong>quiero</strong> poder ver quiénes son los miembros del equipo de DriveNow <strong>para</strong> conocer quiénes están detrás de la plataforma.
-    </td>
-    <td colspan="1">
-        <strong>E01: Visualización de perfiles</strong>
-        <br>
-        <strong>Dado que</strong> un visitante está interesado en saber quiénes son los creadores de la plataforma,
-        <br>
-        <strong>Y</strong> ha ingresado a la sección de "Nuestro Equipo",
-        <br>
-        <strong>Cuando</strong> vea los perfiles de los miembros,
-        <br>
-        <strong>Entonces</strong> debería poder leer la información personal y profesional de cada integrante del equipo.
-        <br><br>
-        <strong>E02: Acceso a detalles de un miembro del equipo</strong>
-        <br>
-        <strong>Dado que</strong> un visitante está revisando la página de equipo,
-        <br>
-        <strong>Y</strong> quiere conocer más sobre un miembro en particular,
-        <br>
-        <strong>Cuando</strong> haga clic en el perfil del miembro del equipo,
-        <br>
-        <strong>Entonces</strong> debería acceder a información detallada sobre su rol y experiencia.
-    </td>
-    <td colspan="1">EP009</td>
-</tr>
-
-<tr>
-    <td colspan="1">US035</td>
-    <td colspan="1">Enviar una consulta sobre los servicios de DriveNow</td>
-    <td colspan="1">
+      <td colspan="1">US033</td>
+      <td colspan="1">Navegar por las características principales</td>
+      <td colspan="1">
+          <strong>Como</strong> visitante, <strong>quiero</strong> poder ver fácilmente las características clave de DriveNow <strong>para</strong> conocer los beneficios que ofrece.
+      </td>
+      <td colspan="1">
+          <strong>E01: Visualización de características</strong>
+          <br>
+          <strong>Dado que</strong> un visitante está interesado en los servicios de DriveNow,
+          <br>
+          <strong>Y</strong> ha accedido a la página principal,
+          <br>
+          <strong>Cuando</strong> haga clic en el apartado de "Características",
+          <br>
+          <strong>Y</strong> lea la información presentada,
+          <br>
+          <strong>Entonces</strong> debería poder entender los beneficios que ofrece DriveNow.
+          <br><br>
+          <strong>E02: Comparación de beneficios</strong>
+          <br>
+          <strong>Dado que</strong> el visitante quiere comparar los beneficios de DriveNow con otras plataformas,
+          <br>
+          <strong>Y</strong> está revisando la sección de características,
+          <br>
+          <strong>Cuando</strong> analice las opciones disponibles,
+          <br>
+          <strong>Entonces</strong> debería poder hacer una comparación rápida y clara de los beneficios clave frente a otras plataformas de alquiler.
+      </td>
+      <td colspan="1">EP009</td>
+    </tr>
+    <tr>
+      <td colspan="1">US034</td>
+      <td colspan="1">Conocer al equipo de DriveNow</td>
+      <td colspan="1">
+          <strong>Como</strong> visitante, <strong>quiero</strong> poder ver quiénes son los miembros del equipo de DriveNow <strong>para</strong> conocer quiénes están detrás de la plataforma.
+      </td>
+      <td colspan="1">
+          <strong>E01: Visualización de perfiles</strong>
+          <br>
+          <strong>Dado que</strong> un visitante está interesado en saber quiénes son los creadores de la plataforma,
+          <br>
+          <strong>Y</strong> ha ingresado a la sección de "Nuestro Equipo",
+          <br>
+          <strong>Cuando</strong> vea los perfiles de los miembros,
+          <br>
+          <strong>Entonces</strong> debería poder leer la información personal y profesional de cada integrante del equipo.
+          <br><br>
+          <strong>E02: Acceso a detalles de un miembro del equipo</strong>
+          <br>
+          <strong>Dado que</strong> un visitante está revisando la página de equipo,
+          <br>
+          <strong>Y</strong> quiere conocer más sobre un miembro en particular,
+          <br>
+          <strong>Cuando</strong> haga clic en el perfil del miembro del equipo,
+          <br>
+          <strong>Entonces</strong> debería acceder a información detallada sobre su rol y experiencia.
+      </td>
+      <td colspan="1">EP009</td>
+    </tr>
+    <tr>
+      <td colspan="1">US035</td>
+      <td colspan="1">Enviar una consulta sobre los servicios de DriveNow</td>
+      <td colspan="1">
         <strong>Como</strong> visitante, <strong>quiero</strong> poder enviar una consulta específica sobre los servicios de DriveNow <strong>para</strong> resolver dudas antes de registrarme.
-    </td>
-    <td colspan="1">
+      </td>
+      <td colspan="1">
         <strong>E01: Envío exitoso de consulta</strong>
         <br>
         <strong>Dado que</strong> un visitante tiene preguntas sobre los servicios,
@@ -2077,105 +2073,102 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
         <strong>Cuando</strong> la consulta sea procesada,
         <br>
         <strong>Entonces</strong> debería recibir una respuesta en su correo dentro de un tiempo determinado.
-    </td>
-    <td colspan="1">EP010</td>
-</tr>
-
-<tr>
-    <td colspan="1">US036</td>
-    <td colspan="1">Solicitar una demostración de la plataforma</td>
-    <td colspan="1">
-        <strong>Como</strong> visitante, <strong>quiero</strong> poder solicitar una demostración de cómo funciona DriveNow <strong>para</strong> ver cómo podría utilizar la plataforma antes de registrarme.
-    </td>
-    <td colspan="1">
-        <strong>E01: Solicitud de demostración enviada</strong>
-        <br>
-        <strong>Dado que</strong> un visitante está interesado en usar DriveNow,
-        <br>
-        <strong>Y</strong> quiere ver una demostración de la plataforma,
-        <br>
-        <strong>Cuando</strong> haga clic en el botón de "Solicitar Demostración",
-        <br>
-        <strong>Y</strong> llene el formulario de solicitud,
-        <br>
-        <strong>Entonces</strong> debería recibir una confirmación de que su solicitud fue enviada.
-        <br><br>
-        <strong>E02: Programación de la demostración</strong>
-        <br>
-        <strong>Dado que</strong> el visitante ha solicitado una demostración,
-        <br>
-        <strong>Y</strong> está esperando una respuesta del equipo,
-        <br>
-        <strong>Cuando</strong> la solicitud sea procesada,
-        <br>
-        <strong>Entonces</strong> debería recibir un enlace para agendar una cita o ver una demostración pregrabada de la plataforma.
-    </td>
-    <td colspan="1">EP010</td>
-</tr>
-
-<tr>
-    <td colspan="1">US037</td>
-    <td colspan="1">Compartir promociones de DriveNow en mis redes sociales</td>
-    <td colspan="1">
-        <strong>Como</strong> visitante, <strong>quiero</strong> poder compartir promociones de DriveNow con mis amigos y seguidores en mis redes sociales <strong>para</strong> difundir las oportunidades disponibles.
-    </td>
-    <td colspan="1">
-        <strong>E01: Compartir promociones fácilmente</strong>
-        <br>
-        <strong>Dado que</strong> un visitante ha visto una promoción interesante en la página web de DriveNow,
-        <br>
-        <strong>Y</strong> desea compartirla,
-        <br>
-        <strong>Cuando</strong> haga clic en el botón de compartir,
-        <br>
-        <strong>Y</strong> seleccione la red social preferida,
-        <br>
-        <strong>Entonces</strong> debería poder compartir la promoción fácilmente.
-        <br><br>
-        <strong>E02: Redirección correcta al compartir</strong>
-        <br>
-        <strong>Dado que</strong> el visitante ha compartido una promoción,
-        <br>
-        <strong>Y</strong> sus amigos han visto la publicación,
-        <br>
-        <strong>Cuando</strong> los amigos hagan clic en el enlace de la publicación,
-        <br>
-        <strong>Entonces</strong> deberían ser redirigidos correctamente a la promoción en el sitio web de DriveNow.
-    </td>
-    <td colspan="1">EP011</td>
-</tr>
-
-<tr>
-    <td colspan="1">US038</td>
-    <td colspan="1">Recibir notificaciones de promociones en redes sociales</td>
-    <td colspan="1">
-        <strong>Como</strong> seguidor de DriveNow en redes sociales, <strong>quiero</strong> recibir notificaciones de nuevas promociones y descuentos <strong>para</strong> aprovechar oportunidades exclusivas.
-    </td>
-    <td colspan="1">
-        <strong>E01: Recibir notificaciones de promociones</strong>
-        <br>
-        <strong>Dado que</strong> un seguidor de DriveNow ha seguido sus cuentas en redes sociales,
-        <br>
-        <strong>Y</strong> desea estar al tanto de las promociones,
-        <br>
-        <strong>Cuando</strong> DriveNow publique una nueva promoción,
-        <br>
-        <strong>Y</strong> el seguidor esté en línea,
-        <br>
-        <strong>Entonces</strong> debería recibir una notificación automática de la publicación.
-        <br><br>
-        <strong>E02: Recibir alertas de promociones</strong>
-        <br>
-        <strong>Dado que</strong> un seguidor está interesado en las promociones,
-        <br>
-        <strong>Y</strong> ha activado las notificaciones de la cuenta de DriveNow,
-        <br>
-        <strong>Cuando</strong> una nueva promoción sea publicada,
-        <br>
-        <strong>Entonces</strong> debería recibir un mensaje directo o una alerta en la aplicación de la red social.
-    </td>
-    <td colspan="1">EP011</td>
-</tr>
+      </td>
+      <td colspan="1">EP010</td>
+    </tr>
+    <tr>
+        <td colspan="1">US036</td>
+        <td colspan="1">Solicitar una demostración de la plataforma</td>
+        <td colspan="1">
+            <strong>Como</strong> visitante, <strong>quiero</strong> poder solicitar una demostración de cómo funciona DriveNow <strong>para</strong> ver cómo podría utilizar la plataforma antes de registrarme.
+        </td>
+        <td colspan="1">
+            <strong>E01: Solicitud de demostración enviada</strong>
+            <br>
+            <strong>Dado que</strong> un visitante está interesado en usar DriveNow,
+            <br>
+            <strong>Y</strong> quiere ver una demostración de la plataforma,
+            <br>
+            <strong>Cuando</strong> haga clic en el botón de "Solicitar Demostración",
+            <br>
+            <strong>Y</strong> llene el formulario de solicitud,
+            <br>
+            <strong>Entonces</strong> debería recibir una confirmación de que su solicitud fue enviada.
+            <br><br>
+            <strong>E02: Programación de la demostración</strong>
+            <br>
+            <strong>Dado que</strong> el visitante ha solicitado una demostración,
+            <br>
+            <strong>Y</strong> está esperando una respuesta del equipo,
+            <br>
+            <strong>Cuando</strong> la solicitud sea procesada,
+            <br>
+            <strong>Entonces</strong> debería recibir un enlace para agendar una cita o ver una demostración pregrabada de la plataforma.
+        </td>
+        <td colspan="1">EP010</td>
+    </tr>
+    <tr>
+        <td colspan="1">US037</td>
+        <td colspan="1">Compartir promociones de DriveNow en mis redes sociales</td>
+        <td colspan="1">
+            <strong>Como</strong> visitante, <strong>quiero</strong> poder compartir promociones de DriveNow con mis amigos y seguidores en mis redes sociales <strong>para</strong> difundir las oportunidades disponibles.
+        </td>
+        <td colspan="1">
+            <strong>E01: Compartir promociones fácilmente</strong>
+            <br>
+            <strong>Dado que</strong> un visitante ha visto una promoción interesante en la página web de DriveNow,
+            <br>
+            <strong>Y</strong> desea compartirla,
+            <br>
+            <strong>Cuando</strong> haga clic en el botón de compartir,
+            <br>
+            <strong>Y</strong> seleccione la red social preferida,
+            <br>
+            <strong>Entonces</strong> debería poder compartir la promoción fácilmente.
+            <br><br>
+            <strong>E02: Redirección correcta al compartir</strong>
+            <br>
+            <strong>Dado que</strong> el visitante ha compartido una promoción,
+            <br>
+            <strong>Y</strong> sus amigos han visto la publicación,
+            <br>
+            <strong>Cuando</strong> los amigos hagan clic en el enlace de la publicación,
+            <br>
+            <strong>Entonces</strong> deberían ser redirigidos correctamente a la promoción en el sitio web de DriveNow.
+        </td>
+        <td colspan="1">EP011</td>
+    </tr>
+    <tr>
+        <td colspan="1">US038</td>
+        <td colspan="1">Recibir notificaciones de promociones en redes sociales</td>
+        <td colspan="1">
+            <strong>Como</strong> seguidor de DriveNow en redes sociales, <strong>quiero</strong> recibir notificaciones de nuevas promociones y descuentos <strong>para</strong> aprovechar oportunidades exclusivas.
+        </td>
+        <td colspan="1">
+            <strong>E01: Recibir notificaciones de promociones</strong>
+            <br>
+            <strong>Dado que</strong> un seguidor de DriveNow ha seguido sus cuentas en redes sociales,
+            <br>
+            <strong>Y</strong> desea estar al tanto de las promociones,
+            <br>
+            <strong>Cuando</strong> DriveNow publique una nueva promoción,
+            <br>
+            <strong>Y</strong> el seguidor esté en línea,
+            <br>
+            <strong>Entonces</strong> debería recibir una notificación automática de la publicación.
+            <br><br>
+            <strong>E02: Recibir alertas de promociones</strong>
+            <br>
+            <strong>Dado que</strong> un seguidor está interesado en las promociones,
+            <br>
+            <strong>Y</strong> ha activado las notificaciones de la cuenta de DriveNow,
+            <br>
+            <strong>Cuando</strong> una nueva promoción sea publicada,
+            <br>
+            <strong>Entonces</strong> debería recibir un mensaje directo o una alerta en la aplicación de la red social.
+        </td>
+        <td colspan="1">EP011</td>
+    </tr>
     <tr>
       <td>TS01</td>
       <td>Implementar endpoint de obtención de usuarios</td>
@@ -2737,63 +2730,88 @@ El sistema de navegación implementado en la página es intuitivo y responsivo. 
 
 **Desktop**<br>
 **Home Landing Page**
-![home-landing-page-1](/resources/chapter_4/Items/home_wireframe.png)
+<img src="resources\chapter_4\Items\home_wireframe.png">
+
 **Why DriveNow**
-![home-landing-page-2](resources/chapter_4/Items/why_drivenow_wireframe.png)
+<img src="resources\chapter_4\Items\why_drivenow_wireframe.png">
+
 **Testimonies**
-![home-landing-page-3](resources/chapter_4/Items/testimonies_wireframe.png)
+<img src="resources\chapter_4\Items\testimonies_wireframe.png">
+
 **Safety**
-![home-landing-page-4](resources/chapter_4/Items/safety_wireframe.png)
+<img src="resources\chapter_4\Items\safety_wireframe.png">
+
 **Premium Planes**
-![home-landing-page-5](resources/chapter_4/Items/premium_wireframe.png)
+<img src="resources\chapter_4\Items\premium_wireframe.png">
+
 **Contact**
-![home-landing-page-6](resources/chapter_4/Items/contact_wireframe.png)
+<img src="resources\chapter_4\Items\contact_wireframe.png">
+
 
 **Mobile**<br>
 **Mobile Landing Page**
-![mobile-landing-page-1](resources/chapter_4/Items/landing_mob_homewire.png)
+<img src="resources\chapter_4\Items\landing_mob_homewire.png">
+
 **Mobile Why DriveNow**
-![mobile-landing-page-2](resources/chapter_4/Items/landing_mob_whywire.png)
+<img src="resources\chapter_4\Items\landing_mob_whywire.png">
+
 **Mobile Testimonies**
-![mobile-landing-page-3](resources/chapter_4/Items/landing_mob_testimonieswire.png)
+<img src="resources\chapter_4\Items\landing_mob_testimonieswire.png">
+
 **Mobile Safety**
-![mobile-landing-page-4](resources/chapter_4/Items/landing_mob_safewire.png)
+<img src="resources\chapter_4\Items\landing_mob_safewire.png">
+
 **Mobile Premium Plans**
-![mobile-landing-page-5](resources/chapter_4/Items/landing_mob_planswire.png)
+<img src="resources\chapter_4\Items\landing_mob_planswire.png">
+
 **Mobile Footer**
-![mobile-landing-page-6](resources/chapter_4/Items/landing_mob_footerwire.png)
+<img src="resources\chapter_4\Items\landing_mob_footerwire.png">
+
 
 #### 4.3.2. Landing Page Mock-up
 
 **Desktop**<br>
 **Home Landing Page**
-![home-landing-page-01](/resources/chapter_4/Items/home.png)
+<img src="resources\chapter_4\Items\home.png">
+
 **Why DriveNow**
-![home-landing-page-02](resources/chapter_4/Items/ehy_drivenow.png)
+<img src="resources\chapter_4\Items\ehy_drivenow.png">
+
 **Testimonies**
-![home-landing-page-03](/resources/chapter_4/Items/testimonies.png)
+<img src="resources\chapter_4\Items\testimonies.png">
+
 **Safety**
-![home-landing-page-04](/resources/chapter_4/Items/safety.png)
+<img src="resources\chapter_4\Items\safety.png">
+
 **Premium Plans**
-![home-landing-page-05](/resources/chapter_4/Items/premium_pass.png)
+<img src="resources\chapter_4\Items\premium_pass.png">
+
 **Team**
-![home-landing-page-06](/resources/chapter_4/Items/team.png)
+<img src="resources\chapter_4\Items\team.png">
+
 **Contant**
-![home-landing-page-07](/resources/chapter_4/Items/contact.png)
+<img src="resources\chapter_4\Items\contact.png">
+
 
 **Mobile**<br>
 **Mobile Landing Page**
-![mobile-landing-page-01](resources/chapter_4/Items/landing_mobile_home.png)
+<img src="resources\chapter_4\Items/landing_mobile_home.png">
+
 **Mobile Why DriveNow**
-![mobile-landing-page-02](resources/chapter_4/Items/landing_mobile_benefits.png)
+<img src="resources\chapter_4\Items\landing_mobile_benefits.png">
+
 **Mobile Testimonies**
-![mobile-landing-page-03](resources/chapter_4/Items/landing_mobile_testimonies.png)
+<img src="resources\chapter_4\Items\landing_mobile_testimonies.png">
+
 **Mobile Safety**
-![mobile-landing-page-04](resources/chapter_4/Items/landing_mobile_safety.png)
+<img src="resources\chapter_4\Items\landing_mobile_safety.png">
+
 **Mobile Premium Plans**
-![mobile-landing-page-05](resources/chapter_4/Items/landing_mobile_plans.png)
+<img src="resources\chapter_4\Items\landing_mobile_plans.png">
+
 **Mobile Footer**
-![mobile-landing-page-06](resources/chapter_4/Items/landing_mobile_footer.png)
+<img src="resources\chapter_4\Items\landing_mobile_footer.png">
+
 
 
 ### 4.4. Web Applications UX/UI Design
@@ -2805,37 +2823,37 @@ Nuestro enfoque prioriza la facilidad de navegación, para que el usuario pueda 
 Utilizamos los wireframes como punto de partida para la planificación de la arquitectura de la aplicación. A continuación presentaremos los wireframes para la aplicación web y mobile:
 
 **Homepage**
-![Homepage desktop](/resources/chapter_4/Items/AppWires-Desktop-Homepage.png)
+<img src="resources\chapter_4\Items\AppWires-Desktop-Homepage.png">
 Los primeros wireframes realizados fueron para el Homepage, cuando el usuario aún no está registrado, o no ha iniciado sesión. Utilizamos esta página como vínculo entre el landing page y las funcionalidades de la aplicación en sí.
 
 **Registro e inicio de sesión**
 La página de inicio de sesión muestra las credenciales necesarias para ingresar a la aplicación, cuenta con validación de las mismas y redirige a la página de registro.
 
-![Register on desktop](/resources/chapter_4/Items/AppWires-Desktop-Register.png)
+<img src="resources\chapter_4\Items\AppWires-Desktop-Register.png">
 <br>
 
 <br>
 La página de registro es otro punto de entrada a la aplicación para los usuarios que acceden desde la landing page. Nuevamente se indican las credenciales necesarias para ingresar a la aplicación. 
 
 **Vista principal para Arrendatarios**
-![Default view for car renters](/resources/chapter_4/Items/AppWires-Desktop-RenterDefault.png)
+<img src="resources\chapter_4\Items\AppWires-Desktop-RenterDefault.png">
 La vista Default le permite a los usuarios ver algunas opciones disponibles cercanas a ellos, así como acceder directamente a la página de búsqueda en móvil. En Desktop, se pueden hacer búsquedas desde esta página.
 
 **Vista principal para dueños**
-![Default view for car owners](/resources/chapter_4/Items/AppWires-Desktop-OwnerDefault.png)
+<img src="resources\chapter_4\Items\AppWires-Desktop-OwnerDefault.png">
 <br>
 La vista Default para dueños de autos, permite ver el carro o carros que están alquilando actualmente. También se visualiza la misma vista principal que está disponible para los arrendatarios, a fin de que vean las ofertas actuales.
 
 **Búsquedas**
-![Search results on desktop](/resources/chapter_4/Items/AppWires-Desktop-Search.png)
+<img src="resources\chapter_4\Items\AppWires-Desktop-Search.png">
 En desktop, se pueden realizar las búsquedas desde la primera pantalla. Aquí se muestran los resultados con algunos filtros adicionales.
 
 **Página de usuario**
-![User page on desktop](/resources/chapter_4/Items/AppWires-Desktop-User.png)
+<img src="resources\chapter_4\Items\AppWires-Desktop-User.png">
 La página de usuario en desktop incluye la información de usuario, de suscripción y sus licencias o tarjetas de propiedad.  
 
 **Vista de mapa**
-![Map view on desktop](/resources/chapter_4/Items/AppWires-Desktop-Map.png)
+<img src="resources\chapter_4\Items\AppWires-Desktop-Map.png">
 En desktop existe la funcionalidad para buscar por mapa, que se visualiza en 2 pantallas para móvil, con un diálogo abierto para los carros o puntos seleccionados.
 
 #### 4.4.2. Web Applications Wireflow Diagrams
@@ -2877,28 +2895,26 @@ Mostrar ubicación de los vehículos
 #### 4.4.3. Web Applications Mock-ups
 Los Web Mockups fueron creados a partir de los Wireframes, y tomando en cuenta la arquitectura planteada en ellos. Estos utilizan las guías de estilo planteadas, así como un diseño cohesivo, para darle al usuario la imagen de la aplicación que hemos creado.
 
-**For Desktop** <br>
-![image](/resources/chapter_4/Items/Mockup-Desktop-Homepage.png)
-<br>Homepage
-<br>
-![image](/resources/chapter_4/Items/Mockup-Desktop-Login.png)
-<br>Login
-<br>
-![image](/resources/chapter_4/Items/Mockup-Desktop-Register.png)
-<br>Register
-<br>
-![image](/resources/chapter_4/Items/Mockup-Desktop-Renter.png)
-<br>Renter Default
-<br>
-![image](/resources/chapter_4/Items/Mockup-Desktop-Map.png)
-<br>Map View
-<br>
-![image](/resources/chapter_4/Items/Mockup-Desktop-Search.png)
-<br>Search Results
-<br>
-![image](/resources/chapter_4/Items/Mockup-Desktop-Community.png)
-<br>Community
-<br>
+**For Desktop**
+<img src="resources\chapter_4\Items\Mockup-Desktop-Homepage.png">
+
+**Homepage**
+<img src="resources\chapter_4\Items\Mockup-Desktop-Login.png">
+
+**Register**
+<img src="resources\chapter_4\Items\Mockup-Desktop-Register.png">
+
+**Renter Default**
+<img src="resources\chapter_4\Items\Mockup-Desktop-Renter.png">
+
+**Map View**
+<img src="resources\chapter_4\Items\Mockup-Desktop-Map.png">
+
+**Search Results**
+<img src="resources\chapter_4\Items\Mockup-Desktop-Search.png">
+
+**Community**
+<img src="resources\chapter_4\Items\Mockup-Desktop-Community.png">
 
 #### 4.4.4. Web Applications User Flow Diagrams
 
@@ -3048,9 +3064,8 @@ El prototipo hecho en figma de nuestro proyecto se encuentra ene el siguiente en
 
 ### 4.8. Database Design
 #### 4.8.1. Database Diagram
+<img src="">
 ![DriveNow-2024-09-06_03-40](https://github.com/user-attachments/assets/chapter_4/132b1fe2-ae45-4d17-932c-fbef49b4b7db)
-
-
 
 ## Capítulo V: Product Implementation, Validation & Deployment <a id="cap5"></a>
 
@@ -4047,4 +4062,6 @@ https://upc-pre-si729-2402-sw54-x-force.github.io/Landing-Page/
 
 ## Anexos
 
-**Enlace de exposición:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220033_upc_edu_pe/EWc-B5zlZwpHsCBKV3OJauMBiRoiR4lr_Hb2mIgzjiPpsg?e=RrLgbY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+[Exposición TB1, texto enlazado](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220033_upc_edu_pe/EWc-B5zlZwpHsCBKV3OJauMBiRoiR4lr_Hb2mIgzjiPpsg?e=RrLgbY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+**Enlace de exposición tb1:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220033_upc_edu_pe/EWc-B5zlZwpHsCBKV3OJauMBiRoiR4lr_Hb2mIgzjiPpsg?e=RrLgbY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
