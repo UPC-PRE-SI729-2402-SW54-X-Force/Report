@@ -1054,71 +1054,96 @@ El mapa To-Be crea una representación visual que muestra exactamente cómo debe
 <img src="./resources/chapter_3/to_be/to_be_dueño_de_vehiculo.png"/>
 
 ### 3.2. User Stories
-Para elaborar user stories estas deben pertenecer a una epic stories. A continuación, se mostrarán las epic stories:
-
-<table border="1" style="text-align: left;">
-	<tbody>
-		<tr>
-			<td colspan="1">Código</td>
-            <td colspan="1">Título</td>
-            <td colspan="1">Epic</td>
-		</tr>
-		<tr>
-            <td colspan="1">EP001</td>
-            <td colspan="1">Acceso a Vehículos 24/7</td>
-            <td colspan="1">
-            <strong>Como</strong> conductor, <strong>quiero</strong> tener acceso a un vehículo a todas horas cuando esté visitando una ciudad, <strong>para</strong> poder movilizarme fácilmente en cualquier momento.
-            </td>
-		</tr>
-        <tr>
-            <td colspan="1">EP002</td>
-            <td colspan="1">Calidad del Servicio</td>
-            <td colspan="1">
-            <strong>Como</strong> conductor, <strong>quiero</strong> tener seguridad que el servicio que me brindan sea de calidad, <strong>para</strong> asegurarme de que tendré una experiencia positiva y sin problemas.
-            </td>
-		</tr>
-        <tr>
-            <td colspan="1">EP003</td>
-            <td colspan="1">Ingresos Adicionales</td>
-            <td colspan="1">
-            <strong>Como</strong> dueño de auto, <strong>quiero</strong> ganar dinero extra cuando no estoy utilizando mi vehículo, <strong>para</strong> aprovechar mi recurso y generar ingresos adicionales.
-            </td>
-		</tr>
-        <tr>
-            <td colspan="1">EP004</td>
-            <td colspan="1">Seguridad y Fiabilidad de Conductores</td>
-            <td colspan="1">
-            <strong>Como</strong> dueño de auto, <strong>quiero</strong> tener la seguridad que los conductores serán fiables y responsables por cualquier daño que pueda ocurrir, <strong>para</strong> sentirme tranquilo al alquilar mi vehículo.
-            </td>
-		</tr>
-        <tr>
-            <td colspan="1">EP005</td>
-            <td colspan="1">Condiciones de Alquiler Claras</td>
-            <td colspan="1">
-            <strong>Como</strong> visitante que busca alquilar, <strong>quiero</strong> ver todas las condiciones de alquiler <strong>para</strong> poder confiar en el servicio brindado.
-            </td>
-		</tr>
-        <tr>
-            <td colspan="1">EP006</td>
-            <td colspan="1">Visualización de Medidas de Seguridad</td>
-            <td colspan="1">
-            <strong>Como</strong> visitante que busca poner en alquiler, <strong>quiero</strong> visualizar las medidas de seguridad que estarán implementadas <strong>para</strong> poder verificar que se me brindará un buen servicio.
-            </td>
-		</tr>
-	</tbody>
-</table>
-
 A continuacion, la realizacion de los user stories con sus criterios de aceptacion con escenarios e ID de Épica:
 
 <table  style="text-align: left;">
 	<tbody>
 		<tr>
-			<td colspan="1">ID de Historia de Usuario</td>
+			<td colspan="1">User Story ID/ Epic ID</td>
       <td colspan="1">Título</td>
       <td colspan="1">Descripción</td>
       <td colspan="1">Criterios de Aceptación con Escenarios</td>
       <td colspan="1">ID de Épica</td>
 		</tr>
+    <tr>
+      <td colspan="1">EP001</td>
+      <td colspan="1">Acceso a Vehículos 24/7</td>
+      <td colspan="3">
+      <strong>Como</strong> conductor, <strong>quiero</strong> tener acceso a un vehículo a todas horas cuando esté visitando una ciudad, <strong>para</strong> poder movilizarme fácilmente en cualquier momento.
+      </td>
+		</tr>
+    <tr>
+      <td colspan="1">EP002</td>
+      <td colspan="1">Calidad del Servicio</td>
+      <td colspan="3">
+      <strong>Como</strong> conductor, <strong>quiero</strong> tener seguridad que el servicio que me brindan sea de calidad, <strong>para</strong> asegurarme de que tendré una experiencia positiva y sin problemas.
+      </td>
+		</tr>
+    <tr>
+      <td colspan="1">EP003</td>
+      <td colspan="1">Ingresos Adicionales</td>
+      <td colspan="3">
+      <strong>Como</strong> dueño de auto, <strong>quiero</strong> ganar dinero extra cuando no estoy utilizando mi vehículo, <strong>para</strong> aprovechar mi recurso y generar ingresos adicionales.
+      </td>
+		</tr>
+    <tr>
+      <td colspan="1">EP004</td>
+      <td colspan="1">Seguridad y Fiabilidad de Conductores</td>
+      <td colspan="3">
+      <strong>Como</strong> dueño de auto, <strong>quiero</strong> tener la seguridad que los conductores serán fiables y responsables por cualquier daño que pueda ocurrir, <strong>para</strong> sentirme tranquilo al alquilar mi vehículo.
+      </td>
+		</tr>
+    <tr>
+      <td colspan="1">EP005</td>
+      <td colspan="1">Condiciones de Alquiler Claras</td>
+      <td colspan="3">
+      <strong>Como</strong> visitante que busca alquilar, <strong>quiero</strong> ver todas las condiciones de alquiler <strong>para</strong> poder confiar en el servicio brindado.
+      </td>
+		</tr>
+    <tr>
+      <td colspan="1">EP006</td>
+      <td colspan="1">Visualización de Medidas de Seguridad</td>
+      <td colspan="3">
+      <strong>Como</strong> visitante que busca poner en alquiler, <strong>quiero</strong> visualizar las medidas de seguridad que estarán implementadas <strong>para</strong> poder verificar que se me brindará un buen servicio.
+      </td>
+		</tr>
+    <tr>
+      <td colspan="1">EP007</td>
+      <td colspan="1">Recomendaciones de Seguridad y Sitios Turísticos</td>
+      <td colspan="3">
+      <strong>Como</strong> arrendatario de vehículos, <strong>quiero</strong> acceder a recomendaciones de seguridad y sitios turísticos desde la aplicación <strong>para</strong> mejorar mi experiencia de uso y mi seguridad al conducir el vehículo alquilado.
+      </td>
+		</tr>
+    <tr>
+      <td colspan="1">EP008</td>
+      <td colspan="1">Acceso y modificación de datos</td>
+      <td colspan="3">
+      <strong>Como</strong> arrendatario de vehículos, <strong>quiero</strong> acceder a mis datos personales y poder modificarlos <strong>para</strong> así asegurarme que mi información es correcta en todo momento.
+      </td>
+		</tr>
+		<tr>
+    <td colspan="1">EP009</td>
+    <td colspan="1">Acceso a Información de DriveNow</td>
+    <td colspan="3">
+        <strong>Como</strong> visitante, <strong>quiero</strong> obtener información clara sobre la plataforma DriveNow, <strong>para</strong> entender cómo funciona y cómo puedo usarla.
+    </td>
+</tr>
+
+<tr>
+    <td colspan="1">EP010</td>
+    <td colspan="1">Contacto con DriveNow</td>
+    <td colspan="3">
+        <strong>Como</strong> visitante, <strong>quiero</strong> poder contactar con el equipo de DriveNow, <strong>para</strong> enviarles consultas o solicitudes de información adicional.
+    </td>
+</tr>
+
+<tr>
+    <td colspan="1">EP011</td>
+    <td colspan="1">Promoción a través de redes sociales</td>
+    <td colspan="3">
+        <strong>Como</strong> visitante o potencial cliente, <strong>quiero</strong> poder seguir a DriveNow en redes sociales, <strong>para</strong> estar al tanto de sus novedades, promociones y actualizaciones.
+    </td>
+</tr>
 		<tr>
       <td colspan="1">US001</td>
       <td colspan="1">Encontrar vehículos</td>
@@ -1875,6 +1900,406 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
       </td>
       <td colspan="1">EP006</td>
 		</tr>
+    <tr>
+      <td colspan="1">US029</td>
+      <td colspan="1">Acceder a Recomendaciones de Seguridad y Sitios Turísticos</td>
+      <td colspan="1">
+      <strong>Como</strong> arrendatario de vehículos, <strong>quiero</strong> acceder a recomendaciones de seguridad y sitios turísticos desde la aplicación, <strong>para</strong> estar informado y disfrutar más mi viaje.	
+      </td>
+      <td colspan="1">
+        <strong>E01: Visualización de recomendaciones de seguridad:</strong>
+        <br>
+        <strong>Dado que</strong> un arrendatario está usando la aplicación,
+        Y ha seleccionado la opción de recursos,
+        <br>
+        <strong>Cuando</strong> visualiza las recomendaciones de seguridad,
+        <br>
+        <strong>Entonces</strong> debe poder hacer clic en un botón que lo redirija a una página externa con más detalles.
+        <br><br>
+        <strong>E02: Acceso a información de sitios turísticos:</strong>
+        <br>
+        <strong>Dado que</strong> un arrendatario está explorando la aplicación,
+        Y está interesado en sitios turísticos,
+        <br>
+        <strong>Cuando</strong> selecciona la sección de recursos y hace clic en “sitios turísticos”,
+        <br>
+        <strong>Entonces</strong> debe ser redirigido a una página externa con información sobre destinos turísticos recomendados.
+      </td>
+      <td colspan="1">EP007</td>
+		</tr>
+    <tr>
+      <td>US30</td>
+      <td>Modificación de información personal</td>
+      <td><strong>Como</strong> conductor <strong>quiero</strong> modificar mi información <strong>para</strong> poder mantener mis datos actualizados.</td>
+      <td>
+        <strong>E01: Modificación exitosa de la información personal</strong>
+        <br>
+        <strong>Dado que</strong> un conductor se en encuentra su perfil
+        <br>
+        <strong>Cuando</strong> accede a las configuración de datos personales
+        <br>
+        <strong>Entonces</strong> debería poder modificar y guardar los cambios exitosamente, recibiendo una notificación de confirmación.
+        <br><br>
+        <strong>E02: Error al intentar modificar información sin campos completos</strong>
+        <br>
+        <strong>Dado que</strong> se han realizados cmabios en la información personal de un conductor
+        <br>
+        <strong>Cuando</strong> se intenta enviar los datos en un formato incorrecto
+        <br>
+        <strong>Entonces</strong> el sistema notifica que a ocurridoo un error en la modificación de datos.
+        </td> 
+      <td>EP008</td>
+    </tr>
+    <tr>
+      <td>US31</td>
+      <td>Visualización de documentos de transito</td>
+      <td><strong>Como</strong> conductor <strong>quiero</strong> poder visualizar los datos de mi licencia cargados en la aplicación<strong>para</strong> poder corroborar que mis datos son correctos.</td>
+      <td>
+        <strong>E01: Visualización correcta de los datos de la licencia</strong>
+        <br>
+        <strong>Dado que</strong> el conductor ha cargado los datos de su licencia a la aplicación
+        <br>
+        <strong>Cuando</strong> accede al apartado "Licencia"
+        <br>
+        <strong>Entonces</strong> debe visualizar la imagén que subio de su licencia y los datos correspondientes a ella
+        <br><br>
+        <strong>E02: Problema en la visualización de los datos de la licencia</strong>
+        <br>
+        <strong>Dado que</strong> el usuario intenta visualizar los datos de su licencia
+        <br>
+        <strong>Cuando</strong> los datos no se han podido cargar de manera correcta
+        <br>
+        <strong>Entonces</strong></td> el sistema solicita la reinsercción de los datos.
+      </td>
+      <td>EP008</td>
+    </tr>
+    <tr>
+      <td>US32</td>
+      <td>Modificación de documentos de transito</td>
+      <td><strong>Como</strong> conductor <strong>quiero</strong> poder modificar los datos de mi licencia cargados en la aplicación <strong>para</strong> poder mantener mi información actualizada y válidada.</td>
+      <td>
+        <strong>E01: Modificación exitosa de los datos de la licencia</strong>
+        <br>
+        <strong>Dado que</strong> los datos de la licencia de un conductor han cambiado o no están correctos,
+        <br>
+        <strong>Cuando</strong> accede al formulario de actualización de datos
+        <br>
+        <strong>Entonces</strong> atualiza la información de su licencia y es cargada al sistema.
+        <br><br>
+        <strong>E02: Error en la modificación por datos o archivos inválidos</strong>
+        <br>
+        <strong>Dado que</strong> un conductor intento actualizar con datos incorrectos la información de su licencia
+        <br>
+        <strong>Cuando</strong> intenta c¿guardar los cmabios
+        <br>
+        <strong>Entonces</strong> el sistema emite un mensaje de error para notificar del fallo.
+      </td>
+      <td>EP008</td>
+    </tr>
+    <tr>
+    <td colspan="1">US033</td>
+    <td colspan="1">Navegar por las características principales</td>
+    <td colspan="1">
+        <strong>Como</strong> visitante, <strong>quiero</strong> poder ver fácilmente las características clave de DriveNow <strong>para</strong> conocer los beneficios que ofrece.
+    </td>
+    <td colspan="1">
+        <strong>E01: Visualización de características</strong>
+        <br>
+        <strong>Dado que</strong> un visitante está interesado en los servicios de DriveNow,
+        <br>
+        <strong>Y</strong> ha accedido a la página principal,
+        <br>
+        <strong>Cuando</strong> haga clic en el apartado de "Características",
+        <br>
+        <strong>Y</strong> lea la información presentada,
+        <br>
+        <strong>Entonces</strong> debería poder entender los beneficios que ofrece DriveNow.
+        <br><br>
+        <strong>E02: Comparación de beneficios</strong>
+        <br>
+        <strong>Dado que</strong> el visitante quiere comparar los beneficios de DriveNow con otras plataformas,
+        <br>
+        <strong>Y</strong> está revisando la sección de características,
+        <br>
+        <strong>Cuando</strong> analice las opciones disponibles,
+        <br>
+        <strong>Entonces</strong> debería poder hacer una comparación rápida y clara de los beneficios clave frente a otras plataformas de alquiler.
+    </td>
+    <td colspan="1">EP009</td>
+</tr>
+
+<tr>
+    <td colspan="1">US034</td>
+    <td colspan="1">Conocer al equipo de DriveNow</td>
+    <td colspan="1">
+        <strong>Como</strong> visitante, <strong>quiero</strong> poder ver quiénes son los miembros del equipo de DriveNow <strong>para</strong> conocer quiénes están detrás de la plataforma.
+    </td>
+    <td colspan="1">
+        <strong>E01: Visualización de perfiles</strong>
+        <br>
+        <strong>Dado que</strong> un visitante está interesado en saber quiénes son los creadores de la plataforma,
+        <br>
+        <strong>Y</strong> ha ingresado a la sección de "Nuestro Equipo",
+        <br>
+        <strong>Cuando</strong> vea los perfiles de los miembros,
+        <br>
+        <strong>Entonces</strong> debería poder leer la información personal y profesional de cada integrante del equipo.
+        <br><br>
+        <strong>E02: Acceso a detalles de un miembro del equipo</strong>
+        <br>
+        <strong>Dado que</strong> un visitante está revisando la página de equipo,
+        <br>
+        <strong>Y</strong> quiere conocer más sobre un miembro en particular,
+        <br>
+        <strong>Cuando</strong> haga clic en el perfil del miembro del equipo,
+        <br>
+        <strong>Entonces</strong> debería acceder a información detallada sobre su rol y experiencia.
+    </td>
+    <td colspan="1">EP009</td>
+</tr>
+
+<tr>
+    <td colspan="1">US035</td>
+    <td colspan="1">Enviar una consulta sobre los servicios de DriveNow</td>
+    <td colspan="1">
+        <strong>Como</strong> visitante, <strong>quiero</strong> poder enviar una consulta específica sobre los servicios de DriveNow <strong>para</strong> resolver dudas antes de registrarme.
+    </td>
+    <td colspan="1">
+        <strong>E01: Envío exitoso de consulta</strong>
+        <br>
+        <strong>Dado que</strong> un visitante tiene preguntas sobre los servicios,
+        <br>
+        <strong>Y</strong> está en la sección de contacto,
+        <br>
+        <strong>Cuando</strong> llene el formulario de contacto con sus dudas,
+        <br>
+        <strong>Y</strong> lo envíe,
+        <br>
+        <strong>Entonces</strong> debería recibir una confirmación de que su consulta ha sido enviada correctamente.
+        <br><br>
+        <strong>E02: Respuesta a la consulta</strong>
+        <br>
+        <strong>Dado que</strong> el visitante ha enviado una consulta,
+        <br>
+        <strong>Y</strong> espera una respuesta del equipo de DriveNow,
+        <br>
+        <strong>Cuando</strong> la consulta sea procesada,
+        <br>
+        <strong>Entonces</strong> debería recibir una respuesta en su correo dentro de un tiempo determinado.
+    </td>
+    <td colspan="1">EP010</td>
+</tr>
+
+<tr>
+    <td colspan="1">US036</td>
+    <td colspan="1">Solicitar una demostración de la plataforma</td>
+    <td colspan="1">
+        <strong>Como</strong> visitante, <strong>quiero</strong> poder solicitar una demostración de cómo funciona DriveNow <strong>para</strong> ver cómo podría utilizar la plataforma antes de registrarme.
+    </td>
+    <td colspan="1">
+        <strong>E01: Solicitud de demostración enviada</strong>
+        <br>
+        <strong>Dado que</strong> un visitante está interesado en usar DriveNow,
+        <br>
+        <strong>Y</strong> quiere ver una demostración de la plataforma,
+        <br>
+        <strong>Cuando</strong> haga clic en el botón de "Solicitar Demostración",
+        <br>
+        <strong>Y</strong> llene el formulario de solicitud,
+        <br>
+        <strong>Entonces</strong> debería recibir una confirmación de que su solicitud fue enviada.
+        <br><br>
+        <strong>E02: Programación de la demostración</strong>
+        <br>
+        <strong>Dado que</strong> el visitante ha solicitado una demostración,
+        <br>
+        <strong>Y</strong> está esperando una respuesta del equipo,
+        <br>
+        <strong>Cuando</strong> la solicitud sea procesada,
+        <br>
+        <strong>Entonces</strong> debería recibir un enlace para agendar una cita o ver una demostración pregrabada de la plataforma.
+    </td>
+    <td colspan="1">EP010</td>
+</tr>
+
+<tr>
+    <td colspan="1">US037</td>
+    <td colspan="1">Compartir promociones de DriveNow en mis redes sociales</td>
+    <td colspan="1">
+        <strong>Como</strong> visitante, <strong>quiero</strong> poder compartir promociones de DriveNow con mis amigos y seguidores en mis redes sociales <strong>para</strong> difundir las oportunidades disponibles.
+    </td>
+    <td colspan="1">
+        <strong>E01: Compartir promociones fácilmente</strong>
+        <br>
+        <strong>Dado que</strong> un visitante ha visto una promoción interesante en la página web de DriveNow,
+        <br>
+        <strong>Y</strong> desea compartirla,
+        <br>
+        <strong>Cuando</strong> haga clic en el botón de compartir,
+        <br>
+        <strong>Y</strong> seleccione la red social preferida,
+        <br>
+        <strong>Entonces</strong> debería poder compartir la promoción fácilmente.
+        <br><br>
+        <strong>E02: Redirección correcta al compartir</strong>
+        <br>
+        <strong>Dado que</strong> el visitante ha compartido una promoción,
+        <br>
+        <strong>Y</strong> sus amigos han visto la publicación,
+        <br>
+        <strong>Cuando</strong> los amigos hagan clic en el enlace de la publicación,
+        <br>
+        <strong>Entonces</strong> deberían ser redirigidos correctamente a la promoción en el sitio web de DriveNow.
+    </td>
+    <td colspan="1">EP011</td>
+</tr>
+
+<tr>
+    <td colspan="1">US038</td>
+    <td colspan="1">Recibir notificaciones de promociones en redes sociales</td>
+    <td colspan="1">
+        <strong>Como</strong> seguidor de DriveNow en redes sociales, <strong>quiero</strong> recibir notificaciones de nuevas promociones y descuentos <strong>para</strong> aprovechar oportunidades exclusivas.
+    </td>
+    <td colspan="1">
+        <strong>E01: Recibir notificaciones de promociones</strong>
+        <br>
+        <strong>Dado que</strong> un seguidor de DriveNow ha seguido sus cuentas en redes sociales,
+        <br>
+        <strong>Y</strong> desea estar al tanto de las promociones,
+        <br>
+        <strong>Cuando</strong> DriveNow publique una nueva promoción,
+        <br>
+        <strong>Y</strong> el seguidor esté en línea,
+        <br>
+        <strong>Entonces</strong> debería recibir una notificación automática de la publicación.
+        <br><br>
+        <strong>E02: Recibir alertas de promociones</strong>
+        <br>
+        <strong>Dado que</strong> un seguidor está interesado en las promociones,
+        <br>
+        <strong>Y</strong> ha activado las notificaciones de la cuenta de DriveNow,
+        <br>
+        <strong>Cuando</strong> una nueva promoción sea publicada,
+        <br>
+        <strong>Entonces</strong> debería recibir un mensaje directo o una alerta en la aplicación de la red social.
+    </td>
+    <td colspan="1">EP011</td>
+</tr>
+    <tr>
+      <td>TS01</td>
+      <td>Implementar endpoint de obtención de usuarios</td>
+      <td><strong>Como</strong> desarrollador <strong>necesito</strong> implementar un endpoint RESTful <strong>para</strong> obtener la información de todos los conductores</td>
+      <td>
+        <strong>E01: Solicitud de datos</strong>
+        <br>
+        <strong>Dado que</strong> se envía una solicitud GET para obtener todos los conductores
+        <br>
+        <strong>Cuando</strong> se recibe una solicitud
+        <br>
+        <strong>Entonces</strong> se retorn un archivo json con los deatos de los conductores.
+        <br><br>
+        <strong>E02: Fallo en la solicitud de datos</strong>
+        <br>
+        <strong>Dado que</strong> se envía una solicitud GET para obtener todos los conductores de manera incorrecta
+        <br>
+        <strong>Cuando</strong> se recibe una solicitud
+        <br>
+        <strong>Entonces</strong> la consola de desarrolador muestra un mensaje con un código relacionado al error.
+      </td>
+      <td>EP008</td>
+    </tr>
+    <tr>
+      <td>TS02</td>
+      <td>Implementar endpoint de obtención de usuarios específicos</td>
+      <td><strong>Como</strong> desarrollador <strong>necesito</strong> implementar un endpoint RESTful <strong>para</strong> obtener la infromación de un conductor específico</td>
+      <td>
+        <strong>E01: Solicitud de datos</strong>
+        <br>
+        <strong>Dado que</strong> se envía una solicitud GET para obtener los datos de un conductor
+        <br>
+        <strong>Cuando</strong> se recibe una solicitud
+        <br>
+        <strong>Entonces</strong> se retorn un archivo json con los datos del conductor.
+        <br><br>
+        <strong>E02: Fallo en la solicitud de datos</strong>
+        <br>
+        <strong>Dado que</strong> se envía una solicitud GET para obtener todos los conductores de manera incorrecta
+        <br>
+        <strong>Cuando</strong> se recibe una solicitud
+        <br>
+        <strong>Entonces</strong> la consola de desarrolador muestra un mensaje con un código relacionado al error.
+      </td>
+      <td>EP008</td>
+    </tr>
+    <tr>
+      <td>TS03</td>
+      <td>Implementar endpoint de creación de usuarios</td>
+      <td><strong>Como</strong> desarrollador <strong>necesito</strong> implementar un endpoint RESTful <strong>para</strong> crear nuevos conductores</td>
+      <td>
+        <strong>E01: Creación de registro de usuarios</strong>
+        <br>
+        <strong>Dado que</strong> se envia una solicitud POST para la creación de un conductor
+        <br>
+        <strong>Cuando</strong> se recibe la solicitud
+        <br>
+        <strong>Entonces</strong> el nuevo conductor debe poder visualizarse en el endpoint
+        <br><br>
+        <strong>E02: Creación fallida de registro de usuarios</strong>
+        <br>
+        <strong>Dado que</strong> se envia una solicitud POST para la creación de un conductor incorrecta
+        <br>
+        <strong>Cuando</strong> se recibe la solicitud
+        <br>
+        <strong>Entonces</strong> la consola de desarrollador muestra un código de error relacionado con el error ocurrido.
+      </td>
+      <td>EP008</td>
+    </tr>
+    <tr>
+      <td>TS04</td>
+      <td>Implementar endpoint de modificación de usuarios</td>
+      <td><strong>Como</strong> desarrollador <strong>necesito</strong> implementar un endpoint RESTful <strong>para</strong> para modificar los datos de un conductores</td>
+      <td>
+        <strong>E01: Modificación total de un registro exitosa</strong>
+        <br>
+        <strong>Dado que</strong> se envia una solicitud PUT para la actualización de un conductor
+        <br>
+        <strong>Cuando</strong> se recibe la solicitud
+        <br>
+        <strong>Entonces</strong> el cambio debe poder visualizarse en el endpoint.
+        <br><br>
+        <strong>E02: Modificación total de un registro fallida</strong>
+        <br>
+        <strong>Dado que</strong> se envia una solicitud PUT para la actualización de un conductor erronea
+        <br>
+        <strong>Cuando</strong> se recibe la solicitud
+        <br>
+        <strong>Entonces</strong> el cambio no debe visualizarse en el endpoint.
+      </td>
+      <td>EP008</td>
+    </tr>
+    <tr>
+      <td>TS05</td>
+      <td>Implementar endpoint de modificacion parcial de usuarios</td>
+      <td><strong>Como</strong> desarrollador <strong>necesito</strong> implementar un endpoint RESTful <strong>para</strong> para modificar de manera parcial los datos de un conductor</td>
+      <td>
+        <strong>E01: Modificación parcial de un registro exitosa</strong>
+        <br>
+        <strong>Dado que</strong> se envia una solicitud PATCH para la actualización de un conductor
+        <br>
+        <strong>Cuando</strong> se recibe la solicitud
+        <br>
+        <strong>Entonces</strong> el cambio debe poder visualizarse en el endpoint.
+        <br><br>
+        <strong>E02: Modificación parcial de un registro fallida</strong>
+        <br>
+        <strong>Dado que</strong> se envia una solicitud PUT para la actualización de un conductor erronea
+        <br>
+        <strong>Cuando</strong> se recibe la solicitud
+        <br>
+        <strong>Entonces</strong> el cambio no debe visualizarse en el endpoint.
+      </td>
+      <td>EP008</td>
+    </tr>
   </tbody>
 </table>
 
@@ -2089,7 +2514,49 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
       <td>Consejos para Uso del Servicio</td>
       <td>Como visitante, quiero poder ver una sección de blog en la que pueda visualizar consejos para poder tener mayor comodidad al usar el servicio.</td>
       <td>3</td>
-    </tr>  
+    </tr> 
+	  <tr>
+    <td>29</td>
+    <td>US033</td>
+    <td>Navegar por las características principales</td>
+    <td>Como visitante, quiero poder ver fácilmente las características clave de DriveNow, para conocer los beneficios que ofrece.</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>30</td>
+    <td>US034</td>
+    <td>Conocer al equipo de DriveNow</td>
+    <td>Como visitante, quiero poder ver quiénes son los miembros del equipo de DriveNow, para conocer quiénes están detrás de la plataforma.</td>
+    <td>3</td>
+  </tr> 
+  <tr>
+    <td>31</td>
+    <td>US035</td>
+    <td>Enviar una consulta sobre los servicios de DriveNow</td>
+    <td>Como visitante, quiero poder enviar una consulta específica sobre los servicios de DriveNow, para resolver dudas antes de registrarme.</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>32</td>
+    <td>US036</td>
+    <td>Solicitar una demostración de la plataforma</td>
+    <td>Como visitante, quiero poder solicitar una demostración de cómo funciona DriveNow, para ver cómo podría utilizar la plataforma antes de registrarme.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>33</td>
+    <td>US037</td>
+    <td>Compartir promociones de DriveNow en mis redes sociales</td>
+    <td>Como visitante, quiero poder compartir promociones de DriveNow con mis amigos y seguidores en mis redes sociales, para difundir las oportunidades disponibles.</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>34</td>
+    <td>US038</td>
+    <td>Recibir notificaciones de promociones en redes sociales</td>
+    <td>Como seguidor de DriveNow en redes sociales, quiero recibir notificaciones de nuevas promociones y descuentos, para aprovechar oportunidades exclusivas.</td>
+    <td>2</td>
+  </tr>
      </tbody>
 </table>
 <strong>Link del Product Backlog en Trello:<a href="https://trello.com/invite/b/66d9fa46770816a161ec67a6/ATTI757f1d6ef821c1f9032190bc07796c75528B1939/product-backlog">https://trello.com/invite/b/66d9fa46770816a161ec67a6/ATTI757f1d6ef821c1f9032190bc07796c75528B1939/product-backlog</a></strong>
