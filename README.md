@@ -56,7 +56,8 @@ Vista de commits:
 
 | Versión | Fecha     | Autor                            | Descripción de modificación |
 |---------|-----------|----------------------------------|-----------------------------|
-| TB1     | 18/8/2024 | Todos los Integrantes del Equipo |Desarrollo de la TB1         |
+| 1.0     | 18/8/2024 | Todos los Integrantes del Equipo |Desarrollo de la TB1         |
+| 2.0     | 25/9/2024 | Todos los Integrantes del Equipo |Desarrollo del TP1           |
 
 ## Contenido
 
@@ -163,9 +164,9 @@ Vista de commits:
 Somos X Force, una startup creada por estudiantes de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas del Perú y hemos desarrollado una aplicación llamada DriveNow.
 DriveNow es una aplicación que busca resolver el problema constante de las personas sobre la dificultad de encontrar una movilidad privada temporal, así mismo asegurar el uso de la mayor cantidad de automóviles. Creemos que estos problemas afectan en la calidad de vida de nuestros usuarios de manera negativa.
 
-**Misión:**Proporcionar una plataforma accesible y confiable que conecte a propietarios de vehículos con usuarios que necesitan movilidad temporal, mejorando la eficiencia en el uso de automóviles y ofreciendo una alternativa segura y conveniente para la movilidad en Perú.
+**Misión:** Proporcionar una plataforma accesible y confiable que conecte a propietarios de vehículos con usuarios que necesitan movilidad temporal, mejorando la eficiencia en el uso de automóviles y ofreciendo una alternativa segura y conveniente para la movilidad en Perú.
 
-**Objetivo:**Lograr que DriveNow se convierta en la opción preferida para el alquiler temporal de automóviles en las principales ciudades de Perú, maximizando el uso de vehículos subutilizados y generando ingresos adicionales para los propietarios.
+**Objetivo:** Lograr que DriveNow se convierta en la opción preferida para el alquiler temporal de automóviles en las principales ciudades de Perú, maximizando el uso de vehículos subutilizados y generando ingresos adicionales para los propietarios.
 
 #### 1.1.2. Perfiles de integrantes del equipo
 <table>
