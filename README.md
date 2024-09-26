@@ -4027,7 +4027,9 @@ Para este sprint no se realizaron pruebas debido a que solo se realizaron versio
 <img src="resources\chapter_5\landing-page-sprint-2-7.jpg">
 
 ##### 5.2.2.6. Services Documentation Evidence for Sprint Review
-No se emplearon servicios adicionales.
+
+Para el sprint 2 se utilizo el servicio de My json server para desplegar el endpoint de la web application: [https://my-json-server.typicode.com/UPC-PRE-SI729-2402-SW54-X-Force/server/](https://my-json-server.typicode.com/UPC-PRE-SI729-2402-SW54-X-Force/server/)
+
 ##### 5.2.2.7. Software Deployment Evidence for Sprint Review
 **Landing Page Deployment**
 <img src="resources\chapter_5\landing-page-deployment-evidence-sprint-2-1.jpg">
@@ -4072,6 +4074,8 @@ Una vez terminado el proceso verificamos que nuestra landing page este operativa
 ```
 https://upc-pre-si729-2402-sw54-x-force.github.io/Landing-Page/
 ```
+Enlace a la landing page: [https://upc-pre-si729-2402-sw54-x-force.github.io/Landing-Page/](https://upc-pre-si729-2402-sw54-x-force.github.io/Landing-Page/)
+Enlace al web application: [https://upc-pre-si729-2402-sw54-x-force.github.io/Frontend/](https://upc-pre-si729-2402-sw54-x-force.github.io/Frontend/)
 
 ##### 5.2.2.8. Team Collaboration Insights during Sprint
 
