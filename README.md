@@ -3391,25 +3391,32 @@ Para este sprint no se realizaron pruebas debido a que solo se realizaron versio
 ##### 5.2.2.5. Execution Evidence for Sprint Review
 
 **Web Application**
+
 **Page about**
+
 <img src="resources\chapter_5\web-application-sprint-2-page-about-1.jpg">
 <img src="resources\chapter_5\web-application-sprint-2-page-about-2.jpg">
 <img src="resources\chapter_5\web-application-sprint-2-page-about-3.jpg">
 
 **Page Offers**
+
 <img src="resources\chapter_5\web-application-sprint-2-page-offers.jpg">
 
 **Page User**
+
 <img src="resources\chapter_5\web-application-sprint-2-page-user-1.png">
 <img src="resources\chapter_5\web-application-sprint-2-page-user-2.png">
 
 **Page User/Settings**
+
 <img src="resources\chapter_5\web-application-sprint-2-page-settings.png">
 
 **Page User/License**
+
 <img src="resources\chapter_5\web-application-sprint-2-page-license.png">
 
 **Landing Page**
+
 <img src="resources\chapter_5\landing-page-sprint-2-1.jpg">
 <img src="resources\chapter_5\landing-page-sprint-2-2.jpg">
 <img src="resources\chapter_5\landing-page-sprint-2-3.jpg">
