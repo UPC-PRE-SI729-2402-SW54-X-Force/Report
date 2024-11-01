@@ -183,8 +183,8 @@ Web Application Frontend:
       - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
       - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
     - [5.2.3. Sprint 3](#523-sprint-3)
-      - [5.2.3.1. Sprint Planning 2](#5231-sprint-planning-3)
-      - [5.2.3.2. Sprint Backlog 1](#5232-sprint-backlog-3)
+      - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
+      - [5.2.3.2. Sprint Backlog 3](#5232-sprint-backlog-3)
       - [5.2.3.3. Development Evidence for Sprint Review](#5233-development-evidence-for-sprint-review)
       - [5.2.3.4. Testing Suite Evidence for Sprint Review](#5234-testing-suite-evidence-for-sprint-review)
       - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
@@ -478,7 +478,7 @@ Los competidores son las empresas productos que ofrecen soluciones similares al 
 #### 2.1.2. Estrategias y tácticas frente a competidores.
 <h3>1.Fortalecer la Propuesta de Valor:</h3>
  <p><strong>Estrategia:</strong> Enfatizar la accesibilidad y flexibilidad de nuestra plataforma.</p>
-<p><strong>Tácticas:</p>
+<p><strong>Tácticas:</strong></p>
 <ul>
 <li>Nos aseguraremos de que nuestra interfaz sea intuitiva y fácil de usar.</li>
 <li>Implementaremos características exclusivas, como opciones de filtrado avanzadas y recomendaciones personalizadas, para mejorar la experiencia del usuario.</li>
@@ -486,7 +486,7 @@ Los competidores son las empresas productos que ofrecen soluciones similares al 
 
 <h3>2.Innovar en la Experiencia del Usuario:</h3>
  <p><strong>Estrategia:</strong> Mejorar la experiencia del usuario para fomentar la lealtad y atraer nuevos clientes.</p>
-<p><strong>Tácticas:</p>
+<p><strong>Tácticas:</strong></p>
 <ul>
 <li>Incorporaremos tecnologías avanzadas de verificación y seguridad, como la verificación biométrica.</li>
 <li>Garantizamos que tengamos soporte al cliente 24/7 y un sistema de mensajería en tiempo real para resolver problemas de manera eficiente.</li>
@@ -494,7 +494,7 @@ Los competidores son las empresas productos que ofrecen soluciones similares al 
 
 <h3>3.Optimizar la Relación con Propietarios:</h3>
  <p><strong>Estrategia:</strong> Aumentar el atractivo para los propietarios de vehículos.</p>
-<p><strong>Tácticas:</p>
+<p><strong>Tácticas:</strong></p>
 <ul>
 <li>Ofreceremos incentivos y bonificaciones para los propietarios que alquilen sus vehículos con frecuencia.</li>
 <li>Simplificaremos el proceso para listar y gestionar vehículos en nuestra plataforma.</li>
@@ -502,7 +502,7 @@ Los competidores son las empresas productos que ofrecen soluciones similares al 
 
 <h3>4.Expansión y Alianzas Estratégicas:</h3>
  <p><strong>Estrategia:</strong> Crear alianzas y expandir nuestra presencia en el mercado.</p>
-<p><strong>Tácticas:</p>
+<p><strong>Tácticas:</strong></p>
 <ul>
 <li>Se formarán asociaciones con concesionarios de automóviles, hoteles y empresas locales para promover nuestra plataforma.</li>
 <li>Exploraremos oportunidades para expandirnos a nuevas ciudades y regiones con alta demanda de alquiler de vehículos.</li>
@@ -510,7 +510,7 @@ Los competidores son las empresas productos que ofrecen soluciones similares al 
 
 <h3>5.Estrategias de Marketing Localizadas:</h3>
  <p><strong>Estrategia:</strong> Adaptar nuestras campañas de marketing a los mercados locales.</p>
- <p><strong>Tácticas:</p>
+ <p><strong>Tácticas:</strong></p>
 <ul>
 <li>Se ejecutarán campañas publicitarias dirigidas en redes sociales y medios locales.</li>
 <li>Ofreceremos promociones y descuentos especiales en áreas específicas para atraer a nuevos usuarios.</li>
@@ -3361,7 +3361,7 @@ Con cada actualización e implementación del repositorio se harán pruebas que 
   </tr>
   <tr>
     <td colspan="1"><strong>Sprint 1 Goal</strong></td>
-    <td colspan="1">Nuestro enfoque para este sprint es implementar la landing page de nue stro producto. Creemos que esto brindará una correcta presentación de nuestro producto hacia los visitantes. Esto se confirmará cuando todas las secciones de nuestra página web sean visitadas por cada visitante.</td>
+    <td colspan="1">Nuestro enfoque para este sprint es implementar la landing page de nuestro producto. Creemos que esto brindará una correcta presentación de nuestro producto hacia los visitantes. Esto se confirmará cuando todas las secciones de nuestra página web sean visitadas por cada visitante.</td>
   </tr>
   <tr>
     <td colspan="1"><strong>Sprint 1 Velocity</strong></td>
@@ -4169,16 +4169,125 @@ Enlace al web application: [https://upc-pre-si729-2402-sw54-x-force.github.io/Fr
     <td colspan="1"><strong>Status</strong></td>
   </tr>
   <tr>
-    <td colspan="1">US029</td>
-    <td colspan="1">Acceder a Recomendaciones de Seguridad y Sitios Turísticos</td>
+    <td colspan="1">US001</td>
+    <td colspan="1">Encontrar vehículos</td>
     <td colspan="1">T01</td>
-    <td colspan="1">Agregar la page de community</td>
-    <td colspan="1">Se debe argegar la page de community la cual muestres blogs relacionados con el bounded context sobre el que tabaja drivenow</td>
+    <td colspan="1">Filtrado de autos</td>
+    <td colspan="1">Implementar la funcionalidad de filtrado del componente de búsqueda</td>
     <td colspan="1">4</td>
-    <td colspan="1">Marzal Perez Jamir Angel</td>
+    <td colspan="1"></td>
     <td colspan="1">Done</td>
   </tr>
-
+  <tr>
+    <td colspan="1">US013</td>
+    <td colspan="1">Publicación Fácil de Vehículo</td>
+    <td colspan="1">T01</td>
+    <td colspan="1">Publicar un nuevo vehiculo</td>
+    <td colspan="1">Se debe incorporar un botón que permita la publicación sencilla de un vehiculo</td>
+    <td colspan="1">4</td>
+    <td colspan="1"></td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">US030</td>
+    <td colspan="1">Modificación de información personal</td>
+    <td colspan="1">T01</td>
+    <td colspan="1">Actualización de datos de usuario</td>
+    <td colspan="1">Se debe incorporar un componente que brinde la capacidad de modificar información del usuario específica</td>
+    <td colspan="1">4</td>
+    <td colspan="1">Gabriel Alexander Casas Sanchez</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">US31</td>
+    <td colspan="1">Visualización de documentos de tránsito</td>
+    <td colspan="1">T01</td>
+    <td colspan="1">Visualización de licencia</td>
+    <td colspan="1">Se debe implementar una vista que permita la visualización de la licencia del usuario.</td>
+    <td colspan="1">4</td>
+    <td colspan="1">Gabriel Alexander Casas Sanchez</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">US032</td>
+    <td colspan="1">Modificación de documentos de tránsito</td>
+    <td colspan="1">T01</td>
+    <td colspan="1">Actualización de licencia</td>
+    <td colspan="1">Se debe implementar una vista que permita la actualización de los datos de la licencia</td>
+    <td colspan="1">4</td>
+    <td colspan="1">Gabriel Alexander Casas Sanchez</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">TS001</td>
+    <td colspan="1">Implementar endpoint de obtención de usuarios</td>
+    <td colspan="1">T01</td>
+    <td colspan="1">Implementación de getAll</td>
+    <td colspan="1">Se debe implementar un endpoint de método get que retorne todos los usuarios en formato json</td>
+    <td colspan="1">4</td>
+    <td colspan="1">Gabriel Alexander Casas Sanchez</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">TS02</td>
+    <td colspan="1">Implementar endpoint de obtención de usuarios específicos</td>
+    <td colspan="1">T01</td>
+    <td colspan="1">Implementación de getById</td>
+    <td colspan="1">Se debe implementar un endpoint de método get que retorne un usuario específico mediante su id</td>
+    <td colspan="1">4</td>
+    <td colspan="1">Gabriel Alexander Casas Sanchez</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">TS03</td>
+    <td colspan="1">Implementar endpoint de creación de usuarios</td>
+    <td colspan="1">T01</td>
+    <td colspan="1">Implementar de create user</td>
+    <td colspan="1">Se debe implementar un endpoint de método post que ingrese un nuevo usuario ala base de datos.</td>
+    <td colspan="1">4</td>
+    <td colspan="1">Gabriel Alexander Casas Sanchez</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">TS04</td>
+    <td colspan="1">Implementar endpoint de modificación de usuarios</td>
+    <td colspan="1">T01</td>
+    <td colspan="1">Implementar el método update user</td>
+    <td colspan="1">Se debe implementar un endpoint de método put que permita actualizar un usuario mediante el ingreso de un json.</td>
+    <td colspan="1">4</td>
+    <td colspan="1">Gabriel Alexander Casas Sanchez</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">TS06</td>
+    <td colspan="1">Implementar endpoint de obtención una licencia específica</td>
+    <td colspan="1">T01</td>
+    <td colspan="1">Implementar método getById</td>
+    <td colspan="1">Se debe implementar un endpoint de método get que retorne una licencia específica mediante su id</td>
+    <td colspan="1">4</td>
+    <td colspan="1">Gabriel Alexander Casas Sanchez</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">TS07</td>
+    <td colspan="1">Implementar endpoint de creación de licencias</td>
+    <td colspan="1">T01</td>
+    <td colspan="1">Implementar método create license</td>
+    <td colspan="1">Se debe implementar un endpoint post que actualice una licencia mediante el ingreso de un json</td>
+    <td colspan="1">4</td>
+    <td colspan="1">Gabriel Alexander Casas Sanchez</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">TS08</td>
+    <td colspan="1">Implementar endpoint de modificación de licencia</td>
+    <td colspan="1">T01</td>
+    <td colspan="1">Implementar método update license</td>
+    <td colspan="1">Se debe implementar un endpoint de método put que permita actualizar una licencia mediante el ingreso de un json.</td>
+    <td colspan="1">4</td>
+    <td colspan="1">Gabriel Alexander Casas Sanchez</td>
+    <td colspan="1">Done</td>
+  </tr>
 </table>
 
 ##### 5.2.3.3. Development Evidence for Sprint Review
