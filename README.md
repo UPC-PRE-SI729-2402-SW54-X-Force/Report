@@ -4835,7 +4835,112 @@ Como primeras evidencias de lo que se desarrolló durante el sprint tenemos a la
 </table>
 
 ##### 5.2.3.4. Testing Suite Evidence for Sprint Review
-Para este sprint no se realizaron pruebas debido a que solo se realizaron versiones preliminares.
+<table>
+  <tr>
+    <td colspan="1">Repository</td>
+    <td colspan="1">Branch</td>
+    <td colspan="1">Commit Id</td>
+    <td colspan="1">Commit Message</td>
+    <td colspan="1">Commit Message Body</td>
+    <td colspan="1">Commited on (Date)</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report</a></td>
+    <td>feat/testing</td>
+    <td>da4907af</td>
+    <td>feat(testing): added us001 bdd file.</td>
+    <td>feat(testing): added us001 bdd file.</td>
+    <td>1/11/2024</td>
+  </tr>
+    <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report</a></td>
+    <td>feat/testing</td>
+    <td>79dae1c5</td>
+    <td>feat(testing): added us013 bdd file.</td>
+    <td>feat(testing): added us013 bdd file.</td>
+    <td>1/11/2024</td>
+  </tr>
+    <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report</a></td>
+    <td>feat/testing</td>
+    <td>52f1965b</td>
+    <td>feat(testing): added us030 bdd file.</td>
+    <td>feat(testing): added us030 bdd file.</td>
+    <td>1/11/2024</td>
+  </tr>
+    <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report</a></td>
+    <td>feat/testing</td>
+    <td>b51598b3</td>
+    <td>feat(testing): added us031 bdd file.</td>
+    <td>feat(testing): added us031 bdd file.</td>
+    <td>1/11/2024</td>
+  </tr>
+    <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report</a></td>
+    <td>feat/testing</td>
+    <td>cf2e23d3</td>
+    <td>feat(testing): added us032 bdd file.</td>
+    <td>feat(testing): added us032 bdd file.</td>
+    <td>1/11/2024</td>
+  </tr>
+    <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report</a></td>
+    <td>feat/testing</td>
+    <td>3efe4604</td>
+    <td>feat(testing): added ts001 bdd file.</td>
+    <td>feat(testing): added ts001 bdd file.</td>
+    <td>1/11/2024</td>
+  </tr>
+    <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report</a></td>
+    <td>feat/testing</td>
+    <td>a7c32a5e</td>
+    <td>feat(testing): added ts002 bdd file.</td>
+    <td>feat(testing): added ts002 bdd file.</td>
+    <td>1/11/2024</td>
+  </tr>
+    <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report</a></td>
+    <td>feat/testing</td>
+    <td>3f29b73f</td>
+    <td>feat(testing): added ts003 bdd file.</td>
+    <td>feat(testing): added ts003 bdd file.</td>
+    <td>1/11/2024</td>
+  </tr>
+    <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report</a></td>
+    <td>feat/testing</td>
+    <td>9a9eaf0d</td>
+    <td>feat(testing): added ts004 bdd file.</td>
+    <td>feat(testing): added ts004 bdd file.</td>
+    <td>1/11/2024</td>
+  </tr>
+    <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report</a></td>
+    <td>feat/testing</td>
+    <td>31858147</td>
+    <td>feat(testing): added ts006 bdd file.</td>
+    <td>feat(testing): added ts006 bdd file.</td>
+    <td>1/11/2024</td>
+  </tr>
+    <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report</a></td>
+    <td>feat/testing</td>
+    <td>6a98bcfc</td>
+    <td>feat(testing): added ts007 bdd file.</td>
+    <td>feat(testing): added ts007 bdd file.</td>
+    <td>1/11/2024</td>
+  </tr>
+    <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report</a></td>
+    <td>feat/testing</td>
+    <td>578df58f</td>
+    <td>feat(testing): added ts008 bdd file.</td>
+    <td>feat(testing): added ts008 bdd file.</td>
+    <td>1/11/2024</td>
+  </tr>
+</table>
 
 ##### 5.2.3.5. Execution Evidence for Sprint Review
 
