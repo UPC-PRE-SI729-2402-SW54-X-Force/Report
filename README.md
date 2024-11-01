@@ -182,6 +182,15 @@ Web Application Frontend:
       - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
       - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
       - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+    - [5.2.3. Sprint 3](#523-sprint-3)
+      - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
+      - [5.2.3.2. Sprint Backlog 3](#5232-sprint-backlog-3)
+      - [5.2.3.3. Development Evidence for Sprint Review](#5233-development-evidence-for-sprint-review)
+      - [5.2.3.4. Testing Suite Evidence for Sprint Review](#5234-testing-suite-evidence-for-sprint-review)
+      - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+      - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+      - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+      - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
 - [Conclusiones](#conclusiones)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
@@ -469,7 +478,7 @@ Los competidores son las empresas productos que ofrecen soluciones similares al 
 #### 2.1.2. Estrategias y tácticas frente a competidores.
 <h3>1.Fortalecer la Propuesta de Valor:</h3>
  <p><strong>Estrategia:</strong> Enfatizar la accesibilidad y flexibilidad de nuestra plataforma.</p>
-<p><strong>Tácticas:</p>
+<p><strong>Tácticas:</strong></p>
 <ul>
 <li>Nos aseguraremos de que nuestra interfaz sea intuitiva y fácil de usar.</li>
 <li>Implementaremos características exclusivas, como opciones de filtrado avanzadas y recomendaciones personalizadas, para mejorar la experiencia del usuario.</li>
@@ -477,7 +486,7 @@ Los competidores son las empresas productos que ofrecen soluciones similares al 
 
 <h3>2.Innovar en la Experiencia del Usuario:</h3>
  <p><strong>Estrategia:</strong> Mejorar la experiencia del usuario para fomentar la lealtad y atraer nuevos clientes.</p>
-<p><strong>Tácticas:</p>
+<p><strong>Tácticas:</strong></p>
 <ul>
 <li>Incorporaremos tecnologías avanzadas de verificación y seguridad, como la verificación biométrica.</li>
 <li>Garantizamos que tengamos soporte al cliente 24/7 y un sistema de mensajería en tiempo real para resolver problemas de manera eficiente.</li>
@@ -485,7 +494,7 @@ Los competidores son las empresas productos que ofrecen soluciones similares al 
 
 <h3>3.Optimizar la Relación con Propietarios:</h3>
  <p><strong>Estrategia:</strong> Aumentar el atractivo para los propietarios de vehículos.</p>
-<p><strong>Tácticas:</p>
+<p><strong>Tácticas:</strong></p>
 <ul>
 <li>Ofreceremos incentivos y bonificaciones para los propietarios que alquilen sus vehículos con frecuencia.</li>
 <li>Simplificaremos el proceso para listar y gestionar vehículos en nuestra plataforma.</li>
@@ -493,7 +502,7 @@ Los competidores son las empresas productos que ofrecen soluciones similares al 
 
 <h3>4.Expansión y Alianzas Estratégicas:</h3>
  <p><strong>Estrategia:</strong> Crear alianzas y expandir nuestra presencia en el mercado.</p>
-<p><strong>Tácticas:</p>
+<p><strong>Tácticas:</strong></p>
 <ul>
 <li>Se formarán asociaciones con concesionarios de automóviles, hoteles y empresas locales para promover nuestra plataforma.</li>
 <li>Exploraremos oportunidades para expandirnos a nuevas ciudades y regiones con alta demanda de alquiler de vehículos.</li>
@@ -501,7 +510,7 @@ Los competidores son las empresas productos que ofrecen soluciones similares al 
 
 <h3>5.Estrategias de Marketing Localizadas:</h3>
  <p><strong>Estrategia:</strong> Adaptar nuestras campañas de marketing a los mercados locales.</p>
- <p><strong>Tácticas:</p>
+ <p><strong>Tácticas:</strong></p>
 <ul>
 <li>Se ejecutarán campañas publicitarias dirigidas en redes sociales y medios locales.</li>
 <li>Ofreceremos promociones y descuentos especiales en áreas específicas para atraer a nuevos usuarios.</li>
@@ -3352,7 +3361,7 @@ Con cada actualización e implementación del repositorio se harán pruebas que 
   </tr>
   <tr>
     <td colspan="1"><strong>Sprint 1 Goal</strong></td>
-    <td colspan="1">Nuestro enfoque para este sprint es implementar la landing page de nue stro producto. Creemos que esto brindará una correcta presentación de nuestro producto hacia los visitantes. Esto se confirmará cuando todas las secciones de nuestra página web sean visitadas por cada visitante.</td>
+    <td colspan="1">Nuestro enfoque para este sprint es implementar la landing page de nuestro producto. Creemos que esto brindará una correcta presentación de nuestro producto hacia los visitantes. Esto se confirmará cuando todas las secciones de nuestra página web sean visitadas por cada visitante.</td>
   </tr>
   <tr>
     <td colspan="1"><strong>Sprint 1 Velocity</strong></td>
@@ -4082,6 +4091,912 @@ Enlace al web application: [https://upc-pre-si729-2402-sw54-x-force.github.io/Fr
 <img src="resources\chapter_5\front-end-insight-sprint-2-1.png">
 <img src="resources\chapter_5\front-end-insight-sprint-2-2.png">
 <img src="resources\chapter_5\front-end-insight-sprint-2-3.png">
+
+#### 5.2.3. Sprint 3
+##### 5.2.3.1. Sprint Planning 3
+<table>
+  <tr>
+    <td colspan="1"><strong>Sprint #</strong></td>
+    <td colspan="1">3</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Sprint Planning Background</strong></td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Date</strong></td>
+    <td colspan="1">2024-10-23</td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Time</strong></td>
+    <td colspan="1">12:00 AM</td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Location</strong></td>
+    <td colspan="1">Virtual google meet</td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Prepared by</strong></td>
+    <td colspan="1">Gabriel Casas</td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Attendees (to planning meeting)</strong></td>
+    <td colspan="1">Gabriel Casas, George Galvan, Jamir Marzal</td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Sprint n – 2 Review Summary</strong></td>
+    <td colspan="1">Se refactorizo la landing page para habilitar el uso de angular material, además se realizó el primer avance del web application.</td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Sprint n – 2 Retrospective Summary</strong></td>
+    <td colspan="1">Mejorar la puntualidad y comunicación entre el grupo.</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Sprint Goal & User Stories</strong></td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Sprint 3 Goal</strong></td>
+    <td colspan="1">Nuestro enfoque para este sprint es implementar los primeros avances del web application. Creemos que esto brindará una correcta proyección de como se vera nuestra aplicación a nuestros futuros clientes. Esto se confirmará cuando todas las secciones de nuestra aplicación se comuniquen entre si.</td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Sprint 3 Velocity</strong></td>
+    <td colspan="1">El equipo puede aceptar story points</td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Sum of Story Points</strong></td>
+    <td colspan="1">La suma de los Story Points de los User Stories que se atendieron son </td>
+  </tr>
+</table>
+
+##### 5.2.3.2. Sprint Backlog 3
+
+<table>
+  <tr>
+    <td colspan="1"><strong>Sprint #</strong></td>
+    <td colspan="7"><strong>Sprint 3</strong></td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>User Story</strong></td>
+    <td colspan="6"><strong>Work-Item/task</strong></td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Id</strong></td>
+    <td colspan="1"><strong>Title</strong></td>
+    <td colspan="1"><strong>Id</strong></td>
+    <td colspan="1"><strong>Title</strong></td>
+    <td colspan="1"><strong>Description</strong></td>
+    <td colspan="1"><strong>Estimation(Hours)</strong></td>
+    <td colspan="1"><strong>Assigned To</strong></td>
+    <td colspan="1"><strong>Status</strong></td>
+  </tr>
+  <tr>
+    <td colspan="1">US001</td>
+    <td colspan="1">Encontrar vehículos</td>
+    <td colspan="1">T01</td>
+    <td colspan="1">Filtrado de autos</td>
+    <td colspan="1">Implementar la funcionalidad de filtrado del componente de búsqueda</td>
+    <td colspan="1">4</td>
+    <td colspan="1">George Aldo Galvan Cerron</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">US013</td>
+    <td colspan="1">Publicación Fácil de Vehículo</td>
+    <td colspan="1">T01</td>
+    <td colspan="1">Publicar un nuevo vehiculo</td>
+    <td colspan="1">Se debe incorporar un botón que permita la publicación sencilla de un vehiculo</td>
+    <td colspan="1">4</td>
+    <td colspan="1">Jamir Angel Marzal Perez</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">US030</td>
+    <td colspan="1">Modificación de información personal</td>
+    <td colspan="1">T01</td>
+    <td colspan="1">Actualización de datos de usuario</td>
+    <td colspan="1">Se debe incorporar un componente que brinde la capacidad de modificar información del usuario específica</td>
+    <td colspan="1">4</td>
+    <td colspan="1">Gabriel Alexander Casas Sanchez</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">US31</td>
+    <td colspan="1">Visualización de documentos de tránsito</td>
+    <td colspan="1">T01</td>
+    <td colspan="1">Visualización de licencia</td>
+    <td colspan="1">Se debe implementar una vista que permita la visualización de la licencia del usuario.</td>
+    <td colspan="1">4</td>
+    <td colspan="1">Gabriel Alexander Casas Sanchez</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">US032</td>
+    <td colspan="1">Modificación de documentos de tránsito</td>
+    <td colspan="1">T01</td>
+    <td colspan="1">Actualización de licencia</td>
+    <td colspan="1">Se debe implementar una vista que permita la actualización de los datos de la licencia</td>
+    <td colspan="1">4</td>
+    <td colspan="1">Gabriel Alexander Casas Sanchez</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">TS001</td>
+    <td colspan="1">Implementar endpoint de obtención de usuarios</td>
+    <td colspan="1">T01</td>
+    <td colspan="1">Implementación de getAll</td>
+    <td colspan="1">Se debe implementar un endpoint de método get que retorne todos los usuarios en formato json</td>
+    <td colspan="1">4</td>
+    <td colspan="1">Gabriel Alexander Casas Sanchez</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">TS02</td>
+    <td colspan="1">Implementar endpoint de obtención de usuarios específicos</td>
+    <td colspan="1">T01</td>
+    <td colspan="1">Implementación de getById</td>
+    <td colspan="1">Se debe implementar un endpoint de método get que retorne un usuario específico mediante su id</td>
+    <td colspan="1">4</td>
+    <td colspan="1">Gabriel Alexander Casas Sanchez</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">TS03</td>
+    <td colspan="1">Implementar endpoint de creación de usuarios</td>
+    <td colspan="1">T01</td>
+    <td colspan="1">Implementar de create user</td>
+    <td colspan="1">Se debe implementar un endpoint de método post que ingrese un nuevo usuario ala base de datos.</td>
+    <td colspan="1">4</td>
+    <td colspan="1">Gabriel Alexander Casas Sanchez</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">TS04</td>
+    <td colspan="1">Implementar endpoint de modificación de usuarios</td>
+    <td colspan="1">T01</td>
+    <td colspan="1">Implementar el método update user</td>
+    <td colspan="1">Se debe implementar un endpoint de método put que permita actualizar un usuario mediante el ingreso de un json.</td>
+    <td colspan="1">4</td>
+    <td colspan="1">Gabriel Alexander Casas Sanchez</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">TS06</td>
+    <td colspan="1">Implementar endpoint de obtención una licencia específica</td>
+    <td colspan="1">T01</td>
+    <td colspan="1">Implementar método getById</td>
+    <td colspan="1">Se debe implementar un endpoint de método get que retorne una licencia específica mediante su id</td>
+    <td colspan="1">4</td>
+    <td colspan="1">Gabriel Alexander Casas Sanchez</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">TS07</td>
+    <td colspan="1">Implementar endpoint de creación de licencias</td>
+    <td colspan="1">T01</td>
+    <td colspan="1">Implementar método create license</td>
+    <td colspan="1">Se debe implementar un endpoint post que actualice una licencia mediante el ingreso de un json</td>
+    <td colspan="1">4</td>
+    <td colspan="1">Gabriel Alexander Casas Sanchez</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">TS08</td>
+    <td colspan="1">Implementar endpoint de modificación de licencia</td>
+    <td colspan="1">T01</td>
+    <td colspan="1">Implementar método update license</td>
+    <td colspan="1">Se debe implementar un endpoint de método put que permita actualizar una licencia mediante el ingreso de un json.</td>
+    <td colspan="1">4</td>
+    <td colspan="1">Gabriel Alexander Casas Sanchez</td>
+    <td colspan="1">Done</td>
+  </tr>
+</table>
+
+##### 5.2.3.3. Development Evidence for Sprint Review
+
+Como primeras evidencias de lo que se desarrolló durante el sprint tenemos a la implmementación del Front web application, iniciando con la creación de los pages mostrados en el sprint backlog 2.
+
+**Landing Page**
+<table>
+  <tr>
+    <td colspan="1">Repository</td>
+    <td colspan="1">Branch</td>
+    <td colspan="1">Commit Id</td>
+    <td colspan="1">Commit Message</td>
+    <td colspan="1">Commit Message Body</td>
+    <td colspan="1">Commited on (Date)</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing-Page">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing-Page</a></td>
+    <td>feat/i18n</td>
+    <td>408ef887</td>
+    <td>feat(i18n): added internationalization feature.</td>
+    <td>feat(i18n): added internationalization feature.</td>
+    <td>30/10/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing-Page">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing-Page</a></td>
+    <td>feat/i18n</td>
+    <td>df4e2eff</td>
+    <td>feat(i18n): added internationalization feature to nav-bar.</td>
+    <td>feat(i18n): added internationalization feature to nav-bar.</td>
+    <td>30/10/20244</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing-Page">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing-Page</a></td>
+    <td>feat/i18n</td>
+    <td>27485018</td>
+    <td>feat(i18n): added translation to spanish.</td>
+    <td>feat(i18n): added translation to spanish.</td>
+    <td>30/10/20244</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing-Page">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing-Page</a></td>
+    <td>feat/i18n</td>
+    <td>2a3038e6</td>
+    <td>feat(i18n): added language switcher.</td>
+    <td>feat(i18n): added language switcher.</td>
+    <td>30/10/20244</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing-Page">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing-Page</a></td>
+    <td>feat/about-the-team</td>
+    <td>49a3ce95</td>
+    <td>feat(about-the-team): added about the team section.</td>
+    <td>feat(about-the-team): added about the team section.</td>
+    <td>30/10/20244</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing-Page">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing-Page</a></td>
+    <td>feat/about-the-product</td>
+    <td>eb7cf274</td>
+    <td>feat(about-the-product): added about the product section.</td>
+    <td>feat(about-the-product): added about the product section.</td>
+    <td>30/10/20244</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing-Page">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing-Page</a></td>
+    <td>feat/call-to-action</td>
+    <td>7c8291f9</td>
+    <td>feat(call-to-action): added call-to-action-section.</td>
+    <td>feat(call-to-action): added call-to-action-section.</td>
+    <td>30/10/20244</td>
+  </tr>
+</table>
+
+**Web Application**
+<table>
+  <tr>
+    <td colspan="1">Repository</td>
+    <td colspan="1">Branch</td>
+    <td colspan="1">Commit Id</td>
+    <td colspan="1">Commit Message</td>
+    <td colspan="1">Commit Message Body</td>
+    <td colspan="1">Commited on (Date)</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend</a></td>
+    <td>feat/user-management</td>
+    <td>8318ccfb</td>
+    <td>feat(user-management): added the email address and profile picture edit capability.</td>
+    <td>feat(user-management): added the email address and profile picture edit capability.</td>
+    <td>13/10/20244</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend</a></td>
+    <td>feat/user-management</td>
+    <td>9f4fd2ee</td>
+    <td>feat(user-management): added the user license update capability.</td>
+    <td>feat(user-management): added the user license update capability.</td>
+    <td>14/10/20244</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend</a></td>
+    <td>feat/user-management</td>
+    <td>58762500</td>
+    <td>fix: deleted unimplemented option.</td>
+    <td>fix: deleted unimplemented option.</td>
+    <td>14/10/20244</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend</a></td>
+    <td>feat/user-management</td>
+    <td>14fedd42</td>
+    <td>feat(user-management): Added register form component.</td>
+    <td>feat(user-management): Added register form component.</td>
+    <td>23/10/20244</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend</a></td>
+    <td>feat/user-management</td>
+    <td>a715a228</td>
+    <td>feat(user-management): Added register page.</td>
+    <td>feat(user-management): Added register page.</td>
+    <td>23/10/20244</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend</a></td>
+    <td>feat/user-management</td>
+    <td>5145122a</td>
+    <td>feat(user-management): Added functionality to register.</td>
+    <td>feat(user-management): Added functionality to register.</td>
+    <td>26/10/20244</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend</a></td>
+    <td>feat/user-management</td>
+    <td>22d73e52</td>
+    <td>feat(user-management): Added login functionality.</td>
+    <td>feat(user-management): Added login functionality.</td>
+    <td>26/10/20244</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend</a></td>
+    <td>feat/user-management</td>
+    <td>0977f803</td>
+    <td>feat(user-management): added frequently asked questions component.</td>
+    <td>feat(user-management): added frequently asked questions component.</td>
+    <td>26/10/20244</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend</a></td>
+    <td>feat/user-management</td>
+    <td>0977f803</td>
+    <td>feat(user-management): added frequently asked questions component.</td>
+    <td>feat(user-management): added frequently asked questions component.</td>
+    <td>26/10/20244</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend</a></td>
+    <td>feat/user-management</td>
+    <td>8190469f</td>
+    <td>feat(user-management): added contact with support component.</td>
+    <td>feat(user-management): added contact with support component.</td>
+    <td>26/10/20244</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend</a></td>
+    <td>feat/offers</td>
+    <td>c9e6e2fe</td>
+    <td>feat: update db and offers filters.</td>
+    <td>feat: update db and offers filters.</td>
+    <td>26/10/20244</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend</a></td>
+    <td>feat/offers</td>
+    <td>03c76e47</td>
+    <td>feat: added filters premium and maps.</td>
+    <td>feat: added filters premium and maps.</td>
+    <td>29/10/20244</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend</a></td>
+    <td>feat/user-management</td>
+    <td>bc3f3fa6</td>
+    <td>feat(owner): Added service owner.</td>
+    <td>feat(owner): Added service owner.</td>
+    <td>29/10/20244</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend</a></td>
+    <td>feat/user-management</td>
+    <td>7587ebaf</td>
+    <td>feat(owner-profile): Added owner-profile page.</td>
+    <td>feat(owner-profile): Added owner-profile page.</td>
+    <td>29/10/20244</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend</a></td>
+    <td>feat/car-management</td>
+    <td>ce13a803</td>
+    <td>feat(car-management): Added vehicle entity.</td>
+    <td>feat(car-management): Added vehicle entity.</td>
+    <td>30/10/20244</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend</a></td>
+    <td>feat/car-management</td>
+    <td>366ef05f</td>
+    <td>feat(car-management): Added vehicles page.</td>
+    <td>feat(car-management): Added vehicles page.</td>
+    <td>31/10/20244</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend</a></td>
+    <td>feat/car-management</td>
+    <td>fa5699c5</td>
+    <td>feat(car-management): Added tenants page.</td>
+    <td>feat(car-management): Added tenants page.</td>
+    <td>31/10/20244</td>
+  </tr>
+</table>
+
+**Backend**
+<table>
+  <tr>
+    <td colspan="1">Repository</td>
+    <td colspan="1">Branch</td>
+    <td colspan="1">Commit Id</td>
+    <td colspan="1">Commit Message</td>
+    <td colspan="1">Commit Message Body</td>
+    <td colspan="1">Commited on (Date)</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Backend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Backend</a></td>
+    <td>feat/user-management</td>
+    <td>385adab0</td>
+    <td>chore: added auditable base classes</td>
+    <td>chore: added auditable base classes</td>
+    <td>22/10/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Backend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Backend</a></td>
+    <td>feat/user-management</td>
+    <td>b32f63ca</td>
+    <td>chore: added application configuration</td>
+    <td>chore: added application configuration</td>
+    <td>22/10/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Backend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Backend</a></td>
+    <td>feat/user-management</td>
+    <td>507a1aca</td>
+    <td>feat(driver): added driver class an value objects related.</td>
+    <td>feat(driver): added driver class an value objects related.</td>
+    <td>22/10/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Backend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Backend</a></td>
+    <td>feat/user-management</td>
+    <td>c2966992</td>
+    <td>chore: add validation dependency</td>
+    <td>chore: add validation dependency</td>
+    <td>22/10/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Backend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Backend</a></td>
+    <td>feat/user-management</td>
+    <td>2c2323f2</td>
+    <td>feat(driver): added driver queries handle to aggregate</td>
+    <td>feat(driver): added driver queries handle to aggregate</td>
+    <td>22/10/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Backend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Backend</a></td>
+    <td>feat/user-management</td>
+    <td>8c8f0240</td>
+    <td>feat(drivers): added driver repository</td>
+    <td>feat(drivers): added driver repository</td>
+    <td>22/10/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Backend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Backend</a></td>
+    <td>feat/user-management</td>
+    <td>0e7923cf</td>
+    <td>feat(drivers): add parameters into driver queries</td>
+    <td>feat(drivers): add parameters into driver queries</td>
+    <td>22/10/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Backend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Backend</a></td>
+    <td>feat/user-management</td>
+    <td>aa00cf07</td>
+    <td>feat(drivers): add implements of Driver Query Services</td>
+    <td>feat(drivers): add implements of Driver Query Services</td>
+    <td>22/10/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Backend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Backend</a></td>
+    <td>feat/user-management</td>
+    <td>3fe8dfe6</td>
+    <td>feat(drivers): add implements of Driver Command Services</td>
+    <td>feat(drivers): add implements of Driver Command Services</td>
+    <td>22/10/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Backend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Backend</a></td>
+    <td>feat/user-management</td>
+    <td>c5f9e0c3</td>
+    <td>feat(drivers): add driver getters.</td>
+    <td>feat(drivers): add driver getters.</td>
+    <td>26/10/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Backend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Backend</a></td>
+    <td>feat/user-management</td>
+    <td>87a21c38</td>
+    <td>feat(drivers): add driver controller.</td>
+    <td>feat(drivers): add driver controller.</td>
+    <td>26/10/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Backend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Backend</a></td>
+    <td>feat/user-management</td>
+    <td>ba9e7f5b</td>
+    <td>feat(drivers): add driver resources.</td>
+    <td>feat(drivers): add driver resources.</td>
+    <td>26/10/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Backend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Backend</a></td>
+    <td>feat/user-management</td>
+    <td>abfe364a</td>
+    <td>feat(drivers): add license value object.</td>
+    <td>feat(drivers): add license value object.</td>
+    <td>26/10/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Backend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Backend</a></td>
+    <td>feat/user-management</td>
+    <td>51a6e0a1</td>
+    <td>chore: updated dependencies.</td>
+    <td>chore: updated dependencies.</td>
+    <td>26/10/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Backend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Backend</a></td>
+    <td>feat/user-management</td>
+    <td>2c5f2802</td>
+    <td>fix: fixed getters.</td>
+    <td>fix: fixed getters.</td>
+    <td>26/10/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Backend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Backend</a></td>
+    <td>feat/user-management</td>
+    <td>058e07b9</td>
+    <td>feat(drivers): added command assembler from resource.</td>
+    <td>feat(drivers): added command assembler from resource.</td>
+    <td>26/10/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Backend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Backend</a></td>
+    <td>feat/user-management</td>
+    <td>6e169827</td>
+    <td>feat(user-management): added user entity.</td>
+    <td>feat(user-management): added user entity.</td>
+    <td>30/10/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Backend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Backend</a></td>
+    <td>feat/user-management</td>
+    <td>2a35f58d</td>
+    <td>feat(user-management): added user related value objects.</td>
+    <td>feat(user-management): added user related value objects.</td>
+    <td>30/10/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Backend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Backend</a></td>
+    <td>feat/user-management</td>
+    <td>b1d6135b</td>
+    <td>feat(user-management): added user queries.</td>
+    <td>feat(user-management): added user queries.</td>
+    <td>30/10/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Backend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Backend</a></td>
+    <td>feat/user-management</td>
+    <td>cd79d63c</td>
+    <td>feat(user-management): added user commands.</td>
+    <td>feat(user-management): added user commands.</td>
+    <td>30/10/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Backend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Backend</a></td>
+    <td>feat/user-management</td>
+    <td>19b68b11</td>
+    <td>feat(user-management): added user queries and commands interface.</td>
+    <td>feat(user-management): added user queries and commands interface.</td>
+    <td>30/10/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Backend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Backend</a></td>
+    <td>feat/user-management</td>
+    <td>7750e6ad</td>
+    <td>feat(user-management): added user repository.</td>
+    <td>feat(user-management): added user repository.</td>
+    <td>30/10/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Backend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Backend</a></td>
+    <td>feat/user-management</td>
+    <td>498af3ec</td>
+    <td>feat(user-management): added user find by email query.</td>
+    <td>feat(user-management): added user find by email query.</td>
+    <td>31/10/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Backend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Backend</a></td>
+    <td>feat/user-management</td>
+    <td>59149e55</td>
+    <td>feat(user-management): added user commands implementation.</td>
+    <td>feat(user-management): added user commands implementation.</td>
+    <td>31/10/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Backend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Backend</a></td>
+    <td>feat/user-management</td>
+    <td>546bcb18</td>
+    <td>feat(user-management): added user queries implementation.</td>
+    <td>feat(user-management): added user queries implementation.</td>
+    <td>31/10/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Backend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Backend</a></td>
+    <td>feat/user-management</td>
+    <td>7b87a455</td>
+    <td>feat(user-management): added user commands implementation.</td>
+    <td>feat(user-management): added user commands implementation.</td>
+    <td>31/10/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Backend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Backend</a></td>
+    <td>feat/user-management</td>
+    <td>a17acf9a</td>
+    <td>feat(user-management): added user resources.</td>
+    <td>feat(user-management): added user resources.</td>
+    <td>31/10/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Backend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Backend</a></td>
+    <td>feat/user-management</td>
+    <td>ee36747c</td>
+    <td>fix(user-management): refactorized user management.</td>
+    <td>fix(user-management): refactorized user management.</td>
+    <td>31/10/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Backend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Backend</a></td>
+    <td>feat/user-management</td>
+    <td>20e2cfbc</td>
+    <td>fix(user-management): added endpoint documentation.</td>
+    <td>fix(user-management): added endpoint documentation.</td>
+    <td>31/10/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Backend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Backend</a></td>
+    <td>feat/user-management</td>
+    <td>7055b0a0</td>
+    <td>feat(user-management): added license aggregate.</td>
+    <td>feat(user-management): added license aggregate.</td>
+    <td>31/10/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Backend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Backend</a></td>
+    <td>feat/user-management</td>
+    <td>04855cfd</td>
+    <td>feat(user-management): added license commands.</td>
+    <td>feat(user-management): added license commands.</td>
+    <td>31/10/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Backend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Backend</a></td>
+    <td>feat/user-management</td>
+    <td>71ab0dd7</td>
+    <td>feat(user-management): added license query.</td>
+    <td>feat(user-management): added license query.</td>
+    <td>31/10/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Backend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Backend</a></td>
+    <td>feat/user-management</td>
+    <td>27743df6</td>
+    <td>feat(user-management): added license query and commands interfaces.</td>
+    <td>feat(user-management): added license query and commands interfaces.</td>
+    <td>31/10/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Backend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Backend</a></td>
+    <td>feat/user-management</td>
+    <td>6e8da4ca</td>
+    <td>feat(user-management): added license repository.</td>
+    <td>feat(user-management): added license repository.</td>
+    <td>31/10/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Backend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Backend</a></td>
+    <td>feat/user-management</td>
+    <td>91b8483c</td>
+    <td>feat(user-management): added license query and command service implementation.</td>
+    <td>feat(user-management): added license query and command service implementation.</td>
+    <td>31/10/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Backend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Backend</a></td>
+    <td>feat/user-management</td>
+    <td>21e89278</td>
+    <td>feat(user-management): added license resources.</td>
+    <td>feat(user-management): added license resources.</td>
+    <td>31/10/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Backend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Backend</a></td>
+    <td>feat/user-management</td>
+    <td>f8524d45</td>
+    <td>fix(user-management): added missing decorator.</td>
+    <td>fix(user-management): added missing decorator.</td>
+    <td>31/10/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Backend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Backend</a></td>
+    <td>feat/user-management</td>
+    <td>bb061b54</td>
+    <td>feat(user-management): added license assemblers.</td>
+    <td>feat(user-management): added license assemblers.</td>
+    <td>31/10/2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Backend">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Backend</a></td>
+    <td>feat/user-management</td>
+    <td>159e14a0</td>
+    <td>feat(user-management): added license controller.</td>
+    <td>feat(user-management): added license controller.</td>
+    <td>31/10/2024</td>
+  </tr>
+</table>
+
+##### 5.2.3.4. Testing Suite Evidence for Sprint Review
+
+<table>
+  <tr>
+    <td colspan="1">Repository</td>
+    <td colspan="1">Branch</td>
+    <td colspan="1">Commit Id</td>
+    <td colspan="1">Commit Message</td>
+    <td colspan="1">Commit Message Body</td>
+    <td colspan="1">Commited on (Date)</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report</a></td>
+    <td>feat/testing</td>
+    <td>da4907af</td>
+    <td>feat(testing): added us001 bdd file.</td>
+    <td>feat(testing): added us001 bdd file.</td>
+    <td>1/11/2024</td>
+  </tr>
+    <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report</a></td>
+    <td>feat/testing</td>
+    <td>79dae1c5</td>
+    <td>feat(testing): added us013 bdd file.</td>
+    <td>feat(testing): added us013 bdd file.</td>
+    <td>1/11/2024</td>
+  </tr>
+    <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report</a></td>
+    <td>feat/testing</td>
+    <td>52f1965b</td>
+    <td>feat(testing): added us030 bdd file.</td>
+    <td>feat(testing): added us030 bdd file.</td>
+    <td>1/11/2024</td>
+  </tr>
+    <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report</a></td>
+    <td>feat/testing</td>
+    <td>b51598b3</td>
+    <td>feat(testing): added us031 bdd file.</td>
+    <td>feat(testing): added us031 bdd file.</td>
+    <td>1/11/2024</td>
+  </tr>
+    <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report</a></td>
+    <td>feat/testing</td>
+    <td>cf2e23d3</td>
+    <td>feat(testing): added us032 bdd file.</td>
+    <td>feat(testing): added us032 bdd file.</td>
+    <td>1/11/2024</td>
+  </tr>
+    <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report</a></td>
+    <td>feat/testing</td>
+    <td>3efe4604</td>
+    <td>feat(testing): added ts001 bdd file.</td>
+    <td>feat(testing): added ts001 bdd file.</td>
+    <td>1/11/2024</td>
+  </tr>
+    <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report</a></td>
+    <td>feat/testing</td>
+    <td>a7c32a5e</td>
+    <td>feat(testing): added ts002 bdd file.</td>
+    <td>feat(testing): added ts002 bdd file.</td>
+    <td>1/11/2024</td>
+  </tr>
+    <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report</a></td>
+    <td>feat/testing</td>
+    <td>3f29b73f</td>
+    <td>feat(testing): added ts003 bdd file.</td>
+    <td>feat(testing): added ts003 bdd file.</td>
+    <td>1/11/2024</td>
+  </tr>
+    <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report</a></td>
+    <td>feat/testing</td>
+    <td>9a9eaf0d</td>
+    <td>feat(testing): added ts004 bdd file.</td>
+    <td>feat(testing): added ts004 bdd file.</td>
+    <td>1/11/2024</td>
+  </tr>
+    <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report</a></td>
+    <td>feat/testing</td>
+    <td>31858147</td>
+    <td>feat(testing): added ts006 bdd file.</td>
+    <td>feat(testing): added ts006 bdd file.</td>
+    <td>1/11/2024</td>
+  </tr>
+    <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report</a></td>
+    <td>feat/testing</td>
+    <td>6a98bcfc</td>
+    <td>feat(testing): added ts007 bdd file.</td>
+    <td>feat(testing): added ts007 bdd file.</td>
+    <td>1/11/2024</td>
+  </tr>
+    <tr>
+    <td><a href="https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report">https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report</a></td>
+    <td>feat/testing</td>
+    <td>578df58f</td>
+    <td>feat(testing): added ts008 bdd file.</td>
+    <td>feat(testing): added ts008 bdd file.</td>
+    <td>1/11/2024</td>
+  </tr>
+</table>
+
+##### 5.2.3.5. Execution Evidence for Sprint Review
+
+##### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+Para el sprint 3 se utilizo el servicio de My json server para desplegar el endpoint de la web application: [https://my-json-server.typicode.com/UPC-PRE-SI729-2402-SW54-X-Force/server/](https://my-json-server.typicode.com/UPC-PRE-SI729-2402-SW54-X-Force/server/)
+
+##### 5.2.3.7. Software Deployment Evidence for Sprint Review
+**Landing Page Deployment**
+<img src="resources\chapter_5\landing-page-deployment-evidence-sprint-2-1.jpg">
+Instalamos las dependencias especificas para desplegar la landing page, los comandos son ``ng add angular-cli-ghpages``   y  ``ng deploy --base-href=https://upc-pre-si729-2402-sw54-x-force.github.io/Landing-Page/``
+
+<img src="resources\chapter_5\landing-page-deployment-evidence-sprint-2-2.jpg">
+En caso no funcione al primer intento, verificamos que nos encontremos en el directorio correcto 
+
+```
+git remote -v
+```
+en nuestro caso se tendria que ver de la siguiente manera
+
+```
+origin  https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing-Page.git (fetch)
+
+
+origin  https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing-Page.git (push)
+```
+
+```
+"deploy": {
+  "builder": "angular-cli-ghpages:deploy",
+  "options": {
+    "repo": "https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Landing-Page.git",
+    "branch": "gh-pages"
+  }
+}
+```
+
+Verificamos que esté correctamente instalado nuestro deploy
+
+<img src="resources\chapter_5\landing-page-deployment-evidence-sprint-2-3.jpg">
+Intentamos desplegar con la opción 
+
+``'repo'``
+
+<img src="resources\chapter_5\landing-page-deployment-evidence-sprint-2-4.jpg">
+
+Una vez terminado el proceso verificamos que nuestra landing page este operativa en la siguiente ruta
+
+```
+https://upc-pre-si729-2402-sw54-x-force.github.io/Landing-Page/
+```
+Enlace a la landing page: [https://upc-pre-si729-2402-sw54-x-force.github.io/Landing-Page/](https://upc-pre-si729-2402-sw54-x-force.github.io/Landing-Page/)
+Enlace al web application: [https://upc-pre-si729-2402-sw54-x-force.github.io/Frontend/](https://upc-pre-si729-2402-sw54-x-force.github.io/Frontend/)
+
+##### 5.2.3.8. Team Collaboration Insights during Sprint
 
 ## Conclusiones
 1) Resolución del Problema: DriveNow aborda eficientemente la baja utilización de vehículos particulares en Perú, aprovechando una gran cantidad de vehículos estacionados sin uso para su alquiler temporal. Esto no solo maximiza el uso de automóviles, sino que también genera ingresos adicionales para los propietarios.
