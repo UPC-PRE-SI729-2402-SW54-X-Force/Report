@@ -4175,7 +4175,7 @@ Enlace al web application: [https://upc-pre-si729-2402-sw54-x-force.github.io/Fr
     <td colspan="1">Filtrado de autos</td>
     <td colspan="1">Implementar la funcionalidad de filtrado del componente de búsqueda</td>
     <td colspan="1">4</td>
-    <td colspan="1"></td>
+    <td colspan="1">George Aldo Galvan Cerron</td>
     <td colspan="1">Done</td>
   </tr>
   <tr>
@@ -4185,7 +4185,7 @@ Enlace al web application: [https://upc-pre-si729-2402-sw54-x-force.github.io/Fr
     <td colspan="1">Publicar un nuevo vehiculo</td>
     <td colspan="1">Se debe incorporar un botón que permita la publicación sencilla de un vehiculo</td>
     <td colspan="1">4</td>
-    <td colspan="1"></td>
+    <td colspan="1">Jamir Angel Marzal Perez</td>
     <td colspan="1">Done</td>
   </tr>
   <tr>
