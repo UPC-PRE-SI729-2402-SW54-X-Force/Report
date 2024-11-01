@@ -4835,7 +4835,6 @@ Como primeras evidencias de lo que se desarrolló durante el sprint tenemos a la
 </table>
 
 ##### 5.2.3.4. Testing Suite Evidence for Sprint Review
-
 <table>
   <tr>
     <td colspan="1">Repository</td>
