@@ -3104,8 +3104,7 @@ El prototipo hecho en figma de nuestro proyecto se encuentra ene el siguiente en
 
 ### 4.8. Database Design
 #### 4.8.1. Database Diagram
-<img src="">
-![DriveNow-2024-09-06_03-40](https://github.com/user-attachments/assets/chapter_4/132b1fe2-ae45-4d17-932c-fbef49b4b7db)
+<img src="resources\chapter_4\driveNowDB.png">
 
 ## Capítulo V: Product Implementation, Validation & Deployment <a id="cap5"></a>
 
