@@ -31,8 +31,8 @@ A continuación, se presenta un cuadro que detalla las acciones realizadas por e
 
 |     Criterio Específico     | Acciones Realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Conclusiones                | 
 |-----------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
-| **Comunica oralmente con efectividad a diferentes rangos de audiencia.** | Avila Palacios Aaron Alexander<br>TB1<br>Se coordino con el equipo el desarrollo del informe y la asignación de las tareas. Brinde mis ideas para la generación de las Historias de usuarios, el desarrollo del lean Ux Canvas y apoye en las entrevistas al publico objetivo.<br>TP1<br>El equipo resalto las partes que se tenían que actualizar basado en la retroalimentación del proyecto, se agregaron mas historias de usuarios referente al funcionamiento de los apartados de la pagina web.<br><br>Casas Sanchez Gabriel Alexander<br>TB1<br>Busque comunicar mis ideas de manera clara para concretar una correcta comunicación entre mis compañeros y así poder lograr un mejor trabajo.<br><br>TP1<br>Para esta entrega busque comunicar de manera clara mis ideas para poder tener un mejor desempeño como equipo. Además de esto busque que todas la expresiones que use fueran de fácil entendimiento<br><br>Duran Santander Emilia Mercedes<br>TB1<br>Galvan Cerron George Aldo<br>TB1<br><br>Coordinamos con el grupo las tareas de comunicación, asegurando que cada integrante se enfocara en un área específica. Colaboramos activamente en la preparación de las presentaciones y entrevistas, asignando a cada miembro una parte del trabajo.<br>TP1<br><br>Mi contribución incluyó la implementación del bounded context de offers y la migración de la landing page a Angular, lo cual documenté de manera detallada para que fuera comprensible tanto para el equipo técnico como para los lectores menos especializados.<br><br>Marzal Perez Jamir Angel<br>TB1<br>El trabajo me ha ayudado a comprender mejor como se desarrollan landing pages, corroborando todos mis conocimientos obtenidos en anteriores cursos. También comprendí como poder desarrollar mockups. El trabajo en equipo jugo una parte fundamental para el correcto desarrollo del proyecto.<br><br>TP1<br>En esta entrega pude corregir un problemas que hubo con los wireflows que hubo en la entrega anterior. También desarrolle el componente resources de la front en app.| El equipo ha demostrado habilidades sólidas para comunicar de manera clara y efectiva sus ideas y resultados a diferentes tipos de audiencia, garantizando una comprensión completa del proyecto. |
-| **Comunica por escrito con efectividad a diferentes rangos de audiencia** | Avila Palacios Aaron Alexander<br>TB1<br><br>Presente el desarrollo de las Estrategias y Tácticas para Enfrentar a los Competidores, Ubiquitous Language, impact mapping y Product Backlog para agregarlos al informe.<br>TP1<br><br>Me encargue de el desarrollo del apartado About Us de la aplicación web. Se corrigieron los puntos resaltados en la retroalimentación, se adicionaron historias de usuarios y se actualizo el Product Backlog con dichas historias. <br><br>Casas Sanchez Gabriel Alexander<br>TB1<br>Organice a mi grupo para la repartición de actividades, además de esto busque que todos los conceptos plazmados en el reporte sean entendibles para personas externas al mundo del desarrollo de software.<br><br>TP1<br>Busque que lo implementado en el desarrollo de mi página para el web application sea intuitivo y de fácil entendimiento. Ademá estableci los primeros lineamientos para implementar i18n.<br><br>Duran Santander Emilia Mercedes<br>TB1<br>Galvan Cerron George Aldo<br>TB1<br><br>Acordamos que yo me encargaría del desarrollo del capítulo 4, lo cual incluía la redacción técnica del contenido y su adaptación a diferentes audiencias. Además, me encargué del desarrollo de la landing page.<br>TP1<br><br>En la TP1, coordinamos como equipo para asignar y desarrollar las tareas del proyecto. Durante las reuniones, colaboramos activamente para mantener una comunicación clara y efectiva, asegurando que todos estuvieran alineados con las responsabilidades asignadas.<br><br>Marzal Perez Jamir Angel<br>TB1<br>Empaty Mapping, As-is Scenario Mapping, To-be Scenario Mapping, User Stories, Organization Systems, Web Applications Wireflow Diagrams.<br><br>TP1<br>Durante el transcurso del segundo sprint, se llevó a cabo la implementación de los componentes esenciales para el frontend del proyecto. Este proceso implicó la traducción de los diseños y especificaciones en código funcional y estéticamente atractivo para el usuario final. | Cada integrante ha logrado transmitir de manera precisa y coherente la información clave del proyecto a través de documentos escritos, adaptándose exitosamente a diversos contextos comunicativos. |
+| **Comunica oralmente con efectividad a diferentes rangos de audiencia.** | Avila Palacios Aaron Alexander<br>TB1<br>Se coordino con el equipo el desarrollo del informe y la asignación de las tareas. Brinde mis ideas para la generación de las Historias de usuarios, el desarrollo del lean Ux Canvas y apoye en las entrevistas al publico objetivo.<br>TP1<br>El equipo resalto las partes que se tenían que actualizar basado en la retroalimentación del proyecto, se agregaron mas historias de usuarios referente al funcionamiento de los apartados de la pagina web.<br><br>Casas Sanchez Gabriel Alexander<br>TB1<br>Busque comunicar mis ideas de manera clara para concretar una correcta comunicación entre mis compañeros y así poder lograr un mejor trabajo.<br><br>TP1<br>Para esta entrega busque comunicar de manera clara mis ideas para poder tener un mejor desempeño como equipo. Además de esto busque que todas la expresiones que use fueran de fácil entendimiento<br><br>TB2:<br>Para esta última entrega busque manter una comunicación simple y de fácil entendimiento, a la hora de explicar los conceptos trabajdos durante el desarrollo del proyecto.<br>Duran Santander Emilia Mercedes<br>TB1<br>Galvan Cerron George Aldo<br>TB1<br><br>Coordinamos con el grupo las tareas de comunicación, asegurando que cada integrante se enfocara en un área específica. Colaboramos activamente en la preparación de las presentaciones y entrevistas, asignando a cada miembro una parte del trabajo.<br>TP1<br><br>Mi contribución incluyó la implementación del bounded context de offers y la migración de la landing page a Angular, lo cual documenté de manera detallada para que fuera comprensible tanto para el equipo técnico como para los lectores menos especializados.<br><br>Marzal Perez Jamir Angel<br>TB1<br>El trabajo me ha ayudado a comprender mejor como se desarrollan landing pages, corroborando todos mis conocimientos obtenidos en anteriores cursos. También comprendí como poder desarrollar mockups. El trabajo en equipo jugo una parte fundamental para el correcto desarrollo del proyecto.<br><br>TP1<br>En esta entrega pude corregir un problemas que hubo con los wireflows que hubo en la entrega anterior. También desarrolle el componente resources de la front en app.| El equipo ha demostrado habilidades sólidas para comunicar de manera clara y efectiva sus ideas y resultados a diferentes tipos de audiencia, garantizando una comprensión completa del proyecto. |
+| **Comunica por escrito con efectividad a diferentes rangos de audiencia** | Avila Palacios Aaron Alexander<br>TB1<br><br>Presente el desarrollo de las Estrategias y Tácticas para Enfrentar a los Competidores, Ubiquitous Language, impact mapping y Product Backlog para agregarlos al informe.<br>TP1<br><br>Me encargue de el desarrollo del apartado About Us de la aplicación web. Se corrigieron los puntos resaltados en la retroalimentación, se adicionaron historias de usuarios y se actualizo el Product Backlog con dichas historias. <br><br>Casas Sanchez Gabriel Alexander<br>TB1<br>Organice a mi grupo para la repartición de actividades, además de esto busque que todos los conceptos plazmados en el reporte sean entendibles para personas externas al mundo del desarrollo de software.<br><br>TP1<br>Busque que lo implementado en el desarrollo de mi página para el web application sea intuitivo y de fácil entendimiento. Ademá estableci los primeros lineamientos para implementar i18n.<br><br>TB2:<br>Para esta entrega priorice que todo lo escrito fuera de fácil entendimiento dejando los principales conceptos claros para asegurar el entendimiento d emis ideas.<br><br>Galvan Cerron George Aldo<br>TB1<br><br>Acordamos que yo me encargaría del desarrollo del capítulo 4, lo cual incluía la redacción técnica del contenido y su adaptación a diferentes audiencias. Además, me encargué del desarrollo de la landing page.<br>TP1<br><br>En la TP1, coordinamos como equipo para asignar y desarrollar las tareas del proyecto. Durante las reuniones, colaboramos activamente para mantener una comunicación clara y efectiva, asegurando que todos estuvieran alineados con las responsabilidades asignadas.<br><br>Marzal Perez Jamir Angel<br>TB1<br>Empaty Mapping, As-is Scenario Mapping, To-be Scenario Mapping, User Stories, Organization Systems, Web Applications Wireflow Diagrams.<br><br>TP1<br>Durante el transcurso del segundo sprint, se llevó a cabo la implementación de los componentes esenciales para el frontend del proyecto. Este proceso implicó la traducción de los diseños y especificaciones en código funcional y estéticamente atractivo para el usuario final. | Cada integrante ha logrado transmitir de manera precisa y coherente la información clave del proyecto a través de documentos escritos, adaptándose exitosamente a diversos contextos comunicativos. |
 
 
 ## Project Report Collaboration Insights
@@ -80,6 +80,41 @@ Web Application Frontend:
       <li>Duran Santander Emilia Mercedes: 0</li>
       <li>Galvan Cerron George Aldo: 8</li>
       <li>Marzal Perez Jamir Angel: 4</li>
+</ul>
+
+TB2:
+Se han realizado las tareas asignadas para la entrega del TB2, las cuales se encuentran registradas en el repositorio de Github de la organización del equipo bajo el enlace https://github.com/UPC-PRE-SI729-2402-SW54-X-Force. Para elaborar el informe cada miembro corrigio y añadio puntos que se debian mejorar de la anterior entrega en el siguiente repositorio: https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Report, de la misma manera para el desarrollo de la web application se trabajo en este repositorio: https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Frontend, y el desarollo del backend se trabajo en el siguiente enlace: https://github.com/UPC-PRE-SI729-2402-SW54-X-Force/Backend
+
+**Landing page:**
+<img src="resources\insights-landing-sprint-3-1.png">
+
+**Commits realizados:**
+<ul style="list-style: none; padding: 0;">
+      <li>Casas Sanchez Gabriel Alexander: 7</li>
+      <li>Galvan Cerron George Aldo: 2</li>
+      <li>Marzal Perez Jamir Angel: 0</li>
+</ul>
+
+**Web Application Frontend:**
+<img src="resources\insights-front-sprint-3-1.png">
+<img src="resources\insights-front-sprint-3-2.png">
+
+**Commits realizados:**
+<ul style="list-style: none; padding: 0;">
+      <li>Casas Sanchez Gabriel Alexander: 7</li>
+      <li>Galvan Cerron George Aldo: 7</li>
+      <li>Marzal Perez Jamir Angel: 10</li>
+</ul>
+
+**Backend:**
+<img src="resources\insights-back-sprint-3-1.png">
+<img src="resources\insights-back-sprint-3-2.png">
+
+**Commits realizados:**
+<ul style="list-style: none; padding: 0;">
+      <li>Casas Sanchez Gabriel Alexander: 31</li>
+      <li>Galvan Cerron George Aldo: 18</li>
+      <li>Marzal Perez Jamir Angel: 1</li>
 </ul>
 
 ## Registro de Versiones del Informe
@@ -5034,6 +5069,38 @@ Enlace a la landing page: [https://upc-pre-si729-2402-sw54-x-force.github.io/Lan
 Enlace al web application: [https://upc-pre-si729-2402-sw54-x-force.github.io/Frontend/](https://upc-pre-si729-2402-sw54-x-force.github.io/Frontend/)
 
 ##### 5.2.3.8. Team Collaboration Insights during Sprint
+
+**Landing page:**
+<img src="resources\insights-landing-sprint-3-1.png">
+
+**Commits realizados:**
+<ul style="list-style: none; padding: 0;">
+      <li>Casas Sanchez Gabriel Alexander: 7</li>
+      <li>Galvan Cerron George Aldo: 2</li>
+      <li>Marzal Perez Jamir Angel: 0</li>
+</ul>
+
+**Web Application Frontend:**
+<img src="resources\insights-front-sprint-3-1.png">
+<img src="resources\insights-front-sprint-3-2.png">
+
+**Commits realizados:**
+<ul style="list-style: none; padding: 0;">
+      <li>Casas Sanchez Gabriel Alexander: 7</li>
+      <li>Galvan Cerron George Aldo: 7</li>
+      <li>Marzal Perez Jamir Angel: 10</li>
+</ul>
+
+**Backend:**
+<img src="resources\insights-back-sprint-3-1.png">
+<img src="resources\insights-back-sprint-3-2.png">
+
+**Commits realizados:**
+<ul style="list-style: none; padding: 0;">
+      <li>Casas Sanchez Gabriel Alexander: 31</li>
+      <li>Galvan Cerron George Aldo: 18</li>
+      <li>Marzal Perez Jamir Angel: 1</li>
+</ul>
 
 ## Conclusiones
 1) Resolución del Problema: DriveNow aborda eficientemente la baja utilización de vehículos particulares en Perú, aprovechando una gran cantidad de vehículos estacionados sin uso para su alquiler temporal. Esto no solo maximiza el uso de automóviles, sino que también genera ingresos adicionales para los propietarios.
